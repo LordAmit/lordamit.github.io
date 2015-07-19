@@ -3,7 +3,7 @@ layout: post
 title: "Technical Session 1 at EATL Prothom Alo App Contest 2015"
 date: 2014-12-21 22:39:14 +0600
 comments: true
-categories: presentation, contest, eatl
+categories: [presentation, contest, eatl]
 ---
 
 ডিসেম্বরের ২০ তারিখ, ২০১৪ সালে আমি মিরপুর ইনডোর স্টেডিয়ামে কথা বলেছিলাম Mobile Apps LifeCycle and EcoSystem নিয়ে। তার স্লাইডগুলো এখানে দিলাম। আশা করি কাজে লাগবে। :)
