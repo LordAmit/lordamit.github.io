@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</loc>
+    <lastmod>2015-11-23T19:37:22+06:00</lastmod>
+  </url>
+  <url>
     <loc>http://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/</loc>
     <lastmod>2015-11-16T14:25:11+06:00</lastmod>
   </url>
@@ -67,5 +71,17 @@
   </url>
   <url>
     <loc>http://lordamit.github.io/blog/categories/miui/</loc>
+  </url>
+  <url>
+    <loc>http://lordamit.github.io/blog/categories/blog/</loc>
+  </url>
+  <url>
+    <loc>http://lordamit.github.io/blog/categories/blogger/</loc>
+  </url>
+  <url>
+    <loc>http://lordamit.github.io/blog/categories/octopress/</loc>
+  </url>
+  <url>
+    <loc>http://lordamit.github.io/blog/categories/blogspot/</loc>
   </url>
 </urlset>
