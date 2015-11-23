@@ -1,0 +1,19 @@
+---
+layout: post
+title: "And that is why I switched to Octopress from Blogger!"
+date: 2015-11-23 19:37:22 +0600
+comments: true
+categories: [blog, blogger, octopress, blogspot]
+---
+
+I switched from Blogspot to Octopress about a year ago. Even though my blogspot site was search engine friendly, was getting about 10K views per month when I was regular, and contained details about all of my useful works - I still decided to switch to Octopress - for a fresh start.  Why?
+
+Because I found that Blogspot is incredibly slow and rusty. It is of course, useful with all the widgets and such - but it still is <i>slow</i>. That's when Salman, a young fellow I consider a brother to me, suggested me about Octopress. I loved this, and here I made this blog. After an year, I decided to analyze the response. Here is the result right from Google Webmaster.
+
+{% img  https://farm6.staticflickr.com/5634/22616887593_a9cf2518e6_b.jpg Response rate from lordamit.blogspot.com %}
+<p>Response rate from lordamit.blogspot.com</p>
+
+{% img  https://farm1.staticflickr.com/622/23244001195_f4c3e6ee33_b.jpg Response rate from lordamit.github.io %}
+<p>Response rate from lordamit.github.io</p>
+
+And that's why, I switched from Blogspot to Octopress. :) 
