@@ -23,9 +23,11 @@ Long story short, it is now possible to run Remix OS in Virtual Machine (or Virt
 
 6. Complete Installation
 
-## Tweaks for Perfection
+## Tweaks for Resolution (Experimental)
 
-In default mode, the resolution sucks. Of course, we can fix that. There are two approaches.
+In default mode, the resolution sucks. Of course, we can fix that. Unfortunately, this causes the Remix OS to crash frequently. So I disabled it in the end. You can still go for it.
+
+There are two approaches.
 
 - Change the resolution settings EVERY-SINGLE-Time you boot your Remix OS
 - Change the resolution settings using an editor in root mode, once and for all.
@@ -33,7 +35,6 @@ In default mode, the resolution sucks. Of course, we can fix that. There are two
 You will need both approaches. Because finding the perfect resolution takes some experimentation.
 
 ### Change Resolution in Runtime
-
 When your Remix OS shows boot menu, press `e`, and then `e` again. See the `VGA=791` part? That is setting your resolution. We are going to `UVESA_MODE` and `DPI` for better resolution. Modify and insert the part instead of `VGA=791`. **Keep everything else the same.** I used the following settings:
 
 ```bash
