@@ -4,7 +4,7 @@
   <title><![CDATA[LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
-  <updated>2015-11-23T19:46:48+06:00</updated>
+  <updated>2016-03-04T13:27:58+06:00</updated>
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -14,11 +14,100 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Remix OS Resident Mode in Virtual Machine]]></title>
+    <link href="http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/"/>
+    <updated>2016-03-04T11:17:11+06:00</updated>
+    <id>http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine</id>
+    <content type="html"><![CDATA[<p>Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode. How?</p>
+
+<!-- more -->
+
+
+<h2>Install</h2>
+
+<ol>
+<li>Make a virtual machine first - Recommended: 8GB Space, 1GB RAM</li>
+<li>Use Ubuntu Installer ISO or any other preferred tool to boot it</li>
+<li>Use GParted or other disk utility tool to format the entire hard disk to EXT4 format</li>
+<li>Reboot, use the RemixOS installer ISO</li>
+<li><p>During installation - choose the following options:</p>
+
+<ol>
+<li>Do not format</li>
+<li>Install GRUB</li>
+<li>Do not Install UEFI Grub Thingy</li>
+</ol>
+</li>
+<li><p>Complete Installation</p></li>
+</ol>
+
+
+<h2>Tweaks for Perfection</h2>
+
+<p>In default mode, the resolution sucks. Of course, we can fix that. There are two approaches.</p>
+
+<ul>
+<li>Change the resolution settings EVERY-SINGLE-Time you boot your Remix OS</li>
+<li>Change the resolution settings using an editor in root mode, once and for all.</li>
+</ul>
+
+
+<p>You will need both approaches. Because finding the perfect resolution takes some experimentation.</p>
+
+<h3>Change Resolution in Runtime</h3>
+
+<p>When your Remix OS shows boot menu, press <code>e</code>, and then <code>e</code> again. See the <code>VGA=791</code> part? That is setting your resolution. We are going to <code>UVESA_MODE</code> and <code>DPI</code> for better resolution. Modify and insert the part instead of <code>VGA=791</code>. <strong>Keep everything else the same.</strong> I used the following settings:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="nv">DPI</span><span class="o">=</span><span class="m">200</span> <span class="nv">UVESA_MODE</span><span class="o">=</span>1366x768
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>*This settings may not work properly for your display device. You need to change the DPI and the resolution according to your display capability. Just remember that higher DPI = bigger, less DPI = Smaller. *</p>
+
+<p>Press <code>ESC</code> to discard changes, or Press <code>Enter</code> to temporarily save changes.  and press <code>B</code> to boot using the temporary settings.</p>
+
+<p>Once you find your perfect resolution head over to next step.</p>
+
+<h3>Change Resolution Permanently</h3>
+
+<ol>
+<li>Hit up your Ubuntu once again, and mount the EXT4 partition.</li>
+<li>Open up your terminal. Probably the partition will be mounted in <code>/media/ubuntu-gnome</code>. For example, mine was mounted in <code>/media/ubuntu-gnome/</code>.</li>
+<li>Go into the mounted volume, and there you will see 3 folders.</li>
+<li>Go into the grub folder.</li>
+<li>Use your favorite editor in root mode to edit the menu.lst file.</li>
+<li>In the first entry, remove the <code>VGA=791</code> and replace it with  <code>DPI=200 UVESA_MODE=1366x768</code>.</li>
+</ol>
+
+
+<p>Save and reboot!</p>
+
+<p>That&rsquo;s all. Enjoy. :)</p>
+
+<h3>Acknowledgements</h3>
+
+<p>I took help from the following sites:</p>
+
+<ol>
+<li><a href="https://www.reddit.com/r/RemixOS/comments/406982/remix_os_20_x86x64_iso/">https://www.reddit.com/r/RemixOS/comments/406982/remix_os_20_x86x64_iso/</a></li>
+<li><a href="https://groups.google.com/forum/#!topic/remix-os-for-pc/NB6GJdAHUsA">https://groups.google.com/forum/#!topic/remix-os-for-pc/NB6GJdAHUsA</a></li>
+<li><a href="http://stackoverflow.com/questions/6202342/switch-android-x86-screen-resolution/8273560#8273560">http://stackoverflow.com/questions/6202342/switch-android-x86-screen-resolution/8273560#8273560</a></li>
+<li><a href="http://pierre.baudu.in/other/grub.vga.modes.html">http://pierre.baudu.in/other/grub.vga.modes.html</a></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[And That Is Why I Switched to Octopress From Blogger!]]></title>
     <link href="http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/"/>
     <updated>2015-11-23T19:37:22+06:00</updated>
     <id>http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger</id>
     <content type="html"><![CDATA[<p>I switched from Blogspot to Octopress about a year ago. Even though my blogspot site was search engine friendly, was getting about 10K views per month when I was regular, and contained details about all of my useful works - I still decided to switch to Octopress - for a fresh start.  Why?</p>
+
+<!-- more -->
+
 
 <p>Because I found that Blogspot is incredibly slow and rusty. It is of course, useful with all the widgets and such - but it still is <i>slow</i>. That&rsquo;s when Salman, a young fellow I consider a brother to me, suggested me about Octopress. I loved this, and here I made this blog. After an year, I decided to analyze the response. Here is the result right from Google Webmaster.</p>
 
@@ -43,7 +132,12 @@
     <id>http://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone</id>
     <content type="html"><![CDATA[<p>কিছু দিন আগে আমি <a href="http://gadgetgang7.com/">GadgetGang7</a> থেকে অনলাইনে অর্ডার দেই <a href="http://gadgetgang7.com/product/xiaomi-piston-earphone-basic-edition/">Xiaomi Piston Basic Edition Earphone</a> আর <a href="http://gadgetgang7.com/product/mi-band/">Mi Band</a> এর। বলা দরকার - অনলাইন অর্ডার প্রোসেসে কো‌থাও প্রোডাক্টের রংয়ের কথা উল্লেখ নেই।</p>
 
-<p>যাই হোক - ব্যান্ড হিসাবে এবং ইয়ারফোন হিসাবে এই দুটোই সবচাইতে কম দামী প্রোডাক্টগুলোর একটা Xiaomi এর পক্ষ থেকে। কাজেই খুব বেশি আশাবাদী ছিলাম না। ঘটনা পাল্টে গেলো হাতে পাবার পরে।  ব্যান্ডখানাতে খালি Accelerometer আর Bluetooth আছে। সাথে আছে একটা পিচ্চি, কিন্তু সাশ্রয়ী ব্যাটারি। ৫ দিন টানা চালানোর পরে এখনো চার্জ আছে ৮২% এর মতো। আবার ওয়াটারপ্রুফও। ৫দিন হাতে লাগিয়ে ঘুমানো, খাওয়া দাওয়া, সবই করলাম। প্রথম দিনেই MiFit নামের এন্ড্রয়েড অ্যাপে রিপোর্ট দেখে চমকে গেলাম। প্রায় ২০০০টাকার মতো দামের একটা ব্যান্ডে এত ভালো রেজাল্ট পাবো সেটা আশা করি নাই। যেমন,</p>
+<p>যাই হোক - ব্যান্ড হিসাবে এবং ইয়ারফোন হিসাবে এই দুটোই সবচাইতে কম দামী প্রোডাক্টগুলোর একটা Xiaomi এর পক্ষ থেকে। কাজেই খুব বেশি আশাবাদী ছিলাম না। ঘটনা পাল্টে গেলো হাতে পাবার পরে।  ব্যান্ডখানাতে খালি Accelerometer আর Bluetooth আছে। সাথে আছে একটা পিচ্চি, কিন্তু সাশ্রয়ী ব্যাটারি। ৫ দিন টানা চালানোর পরে এখনো চার্জ আছে ৮২% এর মতো। আবার ওয়াটারপ্রুফও। ৫দিন হাতে লাগিয়ে ঘুমানো, খাওয়া দাওয়া, সবই করলাম। প্রথম দিনেই MiFit নামের এন্ড্রয়েড অ্যাপে রিপোর্ট দেখে চমকে গেলাম। প্রায় ২০০০টাকার মতো দামের একটা ব্যান্ডে এত ভালো রেজাল্ট পাবো সেটা আশা করি নাই।</p>
+
+<!-- more -->
+
+
+<p>যেমন,</p>
 
 <p><img src="https://farm1.staticflickr.com/616/23032755556_6b30c15ca3_b.jpg" width="384" height="682" title="&#34;সারাদিন হাঁটাহাঁটির রিপোর্ট&#34;" alt="&#34;সারাদিন হাঁটাহাঁটির রিপোর্ট&#34;"></p>
 
@@ -71,6 +165,9 @@
     <updated>2015-07-23T22:51:07+06:00</updated>
     <id>http://lordamit.github.io/blog/2015/07/23/singapore-visit-2</id>
     <content type="html"><![CDATA[<p>সিঙ্গাপুরে প্রথমেই যেটা আপনার যেটা চোখে পড়বে, সেটা হল সিস্টেমেটিক নোটিশ। বাংলাদেশের রাস্তার বৈশিষ্ট্য যদি হয় রাজনৈতিক পোস্টার, তাহলে এখানে সেটা হবে বিভিন্ন নির্দেশনার পোস্টার। সেটা বাসে হোক, দোকানে হোক, পাতালরেলের ভিতরে বা বাইরে। এমনিতেই এশিয়ানদের খ্যাতি আছে কম কথা বলার অভ্যাস নিয়ে, সেটা সিঙ্গাপুরে আরো পাকাপোক্ত করে ফেলেছে নোটিশের ছড়াছড়ি দিয়ে। কিরকম ন‌োটিশ?</p>
+
+<!-- more -->
+
 
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/lordamit/19946608905/in/photostream/" title="IMG_20150720_201324_HDR"><img src="https://farm4.staticflickr.com/3804/19946608905_13fe753bf0_z.jpg" width="360" height="640" alt="IMG_20150720_201324_HDR"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
@@ -113,6 +210,9 @@
 
 <p>বেশ অবাক হয়েই দেখলাম - ওখানে হাজার হাজার মানুষ হলেও মানুষ মোটামুটি সুশৃঙ্খল ভাবেই খাচ্ছে, ময়লা ফেলছে না, বা ফেলার সংখ্যা হাতে গোনা। এমন না যে প্রসাদের আইটেম খুব কম, সেটা দিয়ে নিশ্চিন্তে ছোটখাটো ডিনার সেরে ফেলা যাবে। তাতে ঝাল, মিষ্টি, নোনতা, ভাজি, সবজি, পানির বোতল, দই - সবই আছে।  পরিমাণও খুব কম না!</p>
 
+<!-- more -->
+
+
 <p><a data-flickr-embed="true" href="https://www.flickr.com/photos/lordamit/19824368142/in/dateposted/" title="প্রসাদের ছবি"><img src="https://farm1.staticflickr.com/297/19824368142_9fdb243dd2_z.jpg" width="640" height="360" alt="IMG_20150719_175446_HDR"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
 <p>(প্রসাদের ছবি)</p>
@@ -143,9 +243,10 @@
     <id>http://lordamit.github.io/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015</id>
     <content type="html"><![CDATA[<p>ডিসেম্বরের ২০ তারিখ, ২০১৪ সালে আমি মিরপুর ইনডোর স্টেডিয়ামে কথা বলেছিলাম Mobile Apps LifeCycle and EcoSystem নিয়ে। তার স্লাইডগুলো এখানে দিলাম। আশা করি কাজে লাগবে। :)</p>
 
+<!-- more -->
+
+
 <script async class="speakerdeck-embed" data-id="257de20e21604db891fdbef861dd89d7" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-
-
 
 ]]></content>
   </entry>

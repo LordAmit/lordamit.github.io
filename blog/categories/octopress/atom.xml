@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
-  <updated>2015-11-23T19:46:48+06:00</updated>
+  <updated>2016-03-04T13:27:58+06:00</updated>
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -19,6 +19,9 @@
     <updated>2015-11-23T19:37:22+06:00</updated>
     <id>http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger</id>
     <content type="html"><![CDATA[<p>I switched from Blogspot to Octopress about a year ago. Even though my blogspot site was search engine friendly, was getting about 10K views per month when I was regular, and contained details about all of my useful works - I still decided to switch to Octopress - for a fresh start.  Why?</p>
+
+<!-- more -->
+
 
 <p>Because I found that Blogspot is incredibly slow and rusty. It is of course, useful with all the widgets and such - but it still is <i>slow</i>. That&rsquo;s when Salman, a young fellow I consider a brother to me, suggested me about Octopress. I loved this, and here I made this blog. After an year, I decided to analyze the response. Here is the result right from Google Webmaster.</p>
 

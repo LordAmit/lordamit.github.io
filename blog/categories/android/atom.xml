@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Android | LordAmit's Blog]]></title>
+  <link href="http://lordamit.github.io/blog/categories/android/atom.xml" rel="self"/>
+  <link href="http://lordamit.github.io/"/>
+  <updated>2016-03-04T13:27:58+06:00</updated>
+  <id>http://lordamit.github.io/</id>
+  <author>
+    <name><![CDATA[Amit Seal Ami]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Remix OS Resident Mode in Virtual Machine]]></title>
+    <link href="http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/"/>
+    <updated>2016-03-04T11:17:11+06:00</updated>
+    <id>http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine</id>
+    <content type="html"><![CDATA[<p>Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode. How?</p>
+
+<!-- more -->
+
+
+<h2>Install</h2>
+
+<ol>
+<li>Make a virtual machine first - Recommended: 8GB Space, 1GB RAM</li>
+<li>Use Ubuntu Installer ISO or any other preferred tool to boot it</li>
+<li>Use GParted or other disk utility tool to format the entire hard disk to EXT4 format</li>
+<li>Reboot, use the RemixOS installer ISO</li>
+<li><p>During installation - choose the following options:</p>
+
+<ol>
+<li>Do not format</li>
+<li>Install GRUB</li>
+<li>Do not Install UEFI Grub Thingy</li>
+</ol>
+</li>
+<li><p>Complete Installation</p></li>
+</ol>
+
+
+<h2>Tweaks for Perfection</h2>
+
+<p>In default mode, the resolution sucks. Of course, we can fix that. There are two approaches.</p>
+
+<ul>
+<li>Change the resolution settings EVERY-SINGLE-Time you boot your Remix OS</li>
+<li>Change the resolution settings using an editor in root mode, once and for all.</li>
+</ul>
+
+
+<p>You will need both approaches. Because finding the perfect resolution takes some experimentation.</p>
+
+<h3>Change Resolution in Runtime</h3>
+
+<p>When your Remix OS shows boot menu, press <code>e</code>, and then <code>e</code> again. See the <code>VGA=791</code> part? That is setting your resolution. We are going to <code>UVESA_MODE</code> and <code>DPI</code> for better resolution. Modify and insert the part instead of <code>VGA=791</code>. <strong>Keep everything else the same.</strong> I used the following settings:</p>
+
+<pre><code class="bash">DPI=200 UVESA_MODE=1366x768
+</code></pre>
+
+<p>*This settings may not work properly for your display device. You need to change the DPI and the resolution according to your display capability. Just remember that higher DPI = bigger, less DPI = Smaller. *</p>
+
+<p>Press <code>ESC</code> to discard changes, or Press <code>Enter</code> to temporarily save changes.  and press <code>B</code> to boot using the temporary settings.</p>
+
+<p>Once you find your perfect resolution head over to next step.</p>
+
+<h3>Change Resolution Permanently</h3>
+
+<ol>
+<li>Hit up your Ubuntu once again, and mount the EXT4 partition.</li>
+<li>Open up your terminal. Probably the partition will be mounted in <code>/media/ubuntu-gnome</code>. For example, mine was mounted in <code>/media/ubuntu-gnome/</code>.</li>
+<li>Go into the mounted volume, and there you will see 3 folders.</li>
+<li>Go into the grub folder.</li>
+<li>Use your favorite editor in root mode to edit the menu.lst file.</li>
+<li>In the first entry, remove the <code>VGA=791</code> and replace it with  <code>DPI=200 UVESA_MODE=1366x768</code>.</li>
+</ol>
+
+
+<p>Save and reboot!</p>
+
+<p>That&rsquo;s all. Enjoy. :)</p>
+
+<h3>Acknowledgements</h3>
+
+<p>I took help from the following sites:</p>
+
+<ol>
+<li><a href="https://www.reddit.com/r/RemixOS/comments/406982/remix_os_20_x86x64_iso/">https://www.reddit.com/r/RemixOS/comments/406982/remix_os_20_x86x64_iso/</a></li>
+<li><a href="https://groups.google.com/forum/#!topic/remix-os-for-pc/NB6GJdAHUsA">https://groups.google.com/forum/#!topic/remix-os-for-pc/NB6GJdAHUsA</a></li>
+<li><a href="http://stackoverflow.com/questions/6202342/switch-android-x86-screen-resolution/8273560#8273560">http://stackoverflow.com/questions/6202342/switch-android-x86-screen-resolution/8273560#8273560</a></li>
+<li><a href="http://pierre.baudu.in/other/grub.vga.modes.html">http://pierre.baudu.in/other/grub.vga.modes.html</a></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>
