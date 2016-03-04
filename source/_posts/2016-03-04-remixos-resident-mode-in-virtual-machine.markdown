@@ -25,7 +25,7 @@ Long story short, it is now possible to run Remix OS in Virtual Machine (or Virt
 
 ## Tweaks for Resolution (Experimental)
 
-In default mode, the resolution sucks. Of course, we can fix that. Unfortunately, this causes the Remix OS to crash frequently. So I disabled it in the end. You can still go for it.
+In default mode, the resolution sucks. Of course, we can fix that by assigning the resolution through grub. Note that incorrect DPI and resolution settings can frequently cause force reboot abruptly.
 
 There are two approaches.
 
@@ -35,10 +35,11 @@ There are two approaches.
 You will need both approaches. Because finding the perfect resolution takes some experimentation.
 
 ### Change Resolution in Runtime
-When your Remix OS shows boot menu, press `e`, and then `e` again. See the `VGA=791` part? That is setting your resolution. We are going to `UVESA_MODE` and `DPI` for better resolution. Modify and insert the part instead of `VGA=791`. **Keep everything else the same.** I used the following settings:
+When your Remix OS shows boot menu, press `e`, and then `e` again. See the `VGA=791` part? That is setting your resolution. We are going to `UVESA_MODE` and `DPI` for better resolution. Modify and insert the part instead of `VGA=791`. **Keep everything else the same.** I tested and found the following settings useful:
 
 ```bash
-DPI=200 UVESA_MODE=1366x768
+DPI=162 UVESA_MODE=1366x768
+DPI=265 UVESA_MODE=2880x1800
 ```
 
 *This settings may not work properly for your display device. You need to change the DPI and the resolution according to your display capability. Just remember that higher DPI = bigger, less DPI = Smaller. *
