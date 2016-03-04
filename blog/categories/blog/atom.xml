@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Blog | LordAmit's Blog]]></title>
+  <link href="http://lordamit.github.io/blog/categories/blog/atom.xml" rel="self"/>
+  <link href="http://lordamit.github.io/"/>
+  <updated>2016-03-04T15:25:44+06:00</updated>
+  <id>http://lordamit.github.io/</id>
+  <author>
+    <name><![CDATA[Amit Seal Ami]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[And That Is Why I Switched to Octopress From Blogger!]]></title>
+    <link href="http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/"/>
+    <updated>2015-11-23T19:37:22+06:00</updated>
+    <id>http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger</id>
+    <content type="html"><![CDATA[<p>I switched from Blogspot to Octopress about a year ago. Even though my blogspot site was search engine friendly, was getting about 10K views per month when I was regular, and contained details about all of my useful works - I still decided to switch to Octopress - for a fresh start.  Why?</p>
+
+<!-- more -->
+
+
+<p>Because I found that Blogspot is incredibly slow and rusty. It is of course, useful with all the widgets and such - but it still is <i>slow</i>. That&rsquo;s when Salman, a young fellow I consider a brother to me, suggested me about Octopress. I loved this, and here I made this blog. After an year, I decided to analyze the response. Here is the result right from Google Webmaster.</p>
+
+<p><img class="<a" src="href="https://farm6.staticflickr.com/5634/22616887593_a9cf2518e6_b.jpg">https://farm6.staticflickr.com/5634/22616887593_a9cf2518e6_b.jpg</a>" title="Response rate from lordamit.blogspot.com" ></p>
+
+<p>Response rate from lordamit.blogspot.com</p>
+
+
+<p><img class="<a" src="href="https://farm1.staticflickr.com/622/23244001195_f4c3e6ee33_b.jpg">https://farm1.staticflickr.com/622/23244001195_f4c3e6ee33_b.jpg</a>" title="Response rate from lordamit.github.io" ></p>
+
+<p>Response rate from lordamit.github.io</p>
+
+
+<p>And that&rsquo;s why, I switched from Blogspot to Octopress. :)</p>
+]]></content>
+  </entry>
+  
+</feed>
