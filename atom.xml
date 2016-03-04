@@ -4,7 +4,7 @@
   <title><![CDATA[LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
-  <updated>2016-03-04T15:25:44+06:00</updated>
+  <updated>2016-03-04T19:08:47+06:00</updated>
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -44,7 +44,7 @@
 
 <h2>Tweaks for Resolution (Experimental)</h2>
 
-<p>In default mode, the resolution sucks. Of course, we can fix that. Unfortunately, this causes the Remix OS to crash frequently. So I disabled it in the end. You can still go for it.</p>
+<p>In default mode, the resolution sucks. Of course, we can fix that by assigning the resolution through grub. Note that incorrect DPI and resolution settings can frequently cause force reboot abruptly.</p>
 
 <p>There are two approaches.</p>
 
@@ -58,10 +58,12 @@
 
 <h3>Change Resolution in Runtime</h3>
 
-<p>When your Remix OS shows boot menu, press <code>e</code>, and then <code>e</code> again. See the <code>VGA=791</code> part? That is setting your resolution. We are going to <code>UVESA_MODE</code> and <code>DPI</code> for better resolution. Modify and insert the part instead of <code>VGA=791</code>. <strong>Keep everything else the same.</strong> I used the following settings:</p>
+<p>When your Remix OS shows boot menu, press <code>e</code>, and then <code>e</code> again. See the <code>VGA=791</code> part? That is setting your resolution. We are going to <code>UVESA_MODE</code> and <code>DPI</code> for better resolution. Modify and insert the part instead of <code>VGA=791</code>. <strong>Keep everything else the same.</strong> I tested and found the following settings useful:</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="nv">DPI</span><span class="o">=</span><span class="m">200</span> <span class="nv">UVESA_MODE</span><span class="o">=</span>1366x768
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="nv">DPI</span><span class="o">=</span><span class="m">162</span> <span class="nv">UVESA_MODE</span><span class="o">=</span>1366x768
+</span><span class='line'><span class="nv">DPI</span><span class="o">=</span><span class="m">265</span> <span class="nv">UVESA_MODE</span><span class="o">=</span>2880x1800
 </span></code></pre></td></tr></table></div></figure>
 
 

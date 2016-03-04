@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tutorial | LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/blog/categories/tutorial/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
-  <updated>2016-03-04T15:25:44+06:00</updated>
+  <updated>2016-03-04T19:08:47+06:00</updated>
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -44,7 +44,7 @@
 
 <h2>Tweaks for Resolution (Experimental)</h2>
 
-<p>In default mode, the resolution sucks. Of course, we can fix that. Unfortunately, this causes the Remix OS to crash frequently. So I disabled it in the end. You can still go for it.</p>
+<p>In default mode, the resolution sucks. Of course, we can fix that by assigning the resolution through grub. Note that incorrect DPI and resolution settings can frequently cause force reboot abruptly.</p>
 
 <p>There are two approaches.</p>
 
@@ -58,9 +58,10 @@
 
 <h3>Change Resolution in Runtime</h3>
 
-<p>When your Remix OS shows boot menu, press <code>e</code>, and then <code>e</code> again. See the <code>VGA=791</code> part? That is setting your resolution. We are going to <code>UVESA_MODE</code> and <code>DPI</code> for better resolution. Modify and insert the part instead of <code>VGA=791</code>. <strong>Keep everything else the same.</strong> I used the following settings:</p>
+<p>When your Remix OS shows boot menu, press <code>e</code>, and then <code>e</code> again. See the <code>VGA=791</code> part? That is setting your resolution. We are going to <code>UVESA_MODE</code> and <code>DPI</code> for better resolution. Modify and insert the part instead of <code>VGA=791</code>. <strong>Keep everything else the same.</strong> I tested and found the following settings useful:</p>
 
-<pre><code class="bash">DPI=200 UVESA_MODE=1366x768
+<pre><code class="bash">DPI=162 UVESA_MODE=1366x768
+DPI=265 UVESA_MODE=2880x1800
 </code></pre>
 
 <p>*This settings may not work properly for your display device. You need to change the DPI and the resolution according to your display capability. Just remember that higher DPI = bigger, less DPI = Smaller. *</p>
