@@ -4,7 +4,11 @@
   <title><![CDATA[Category: Blogger | LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/blog/categories/blogger/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
+<<<<<<< HEAD
   <updated>2016-03-04T15:25:44+06:00</updated>
+=======
+  <updated>2016-03-04T13:27:58+06:00</updated>
+>>>>>>> e4f7beda993e29f4d0dbad359cded5b4260a8f42
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -25,12 +29,20 @@
 
 <p>Because I found that Blogspot is incredibly slow and rusty. It is of course, useful with all the widgets and such - but it still is <i>slow</i>. That&rsquo;s when Salman, a young fellow I consider a brother to me, suggested me about Octopress. I loved this, and here I made this blog. After an year, I decided to analyze the response. Here is the result right from Google Webmaster.</p>
 
+<<<<<<< HEAD
 <p><img class="<a" src="href="https://farm6.staticflickr.com/5634/22616887593_a9cf2518e6_b.jpg">https://farm6.staticflickr.com/5634/22616887593_a9cf2518e6_b.jpg</a>" title="Response rate from lordamit.blogspot.com" ></p>
+=======
+<p><img class="<a" src="href="https://farm6.staticflickr.com/5634/22616887593_a9cf2518e6_b.jpg">https://farm6.staticflickr.com/5634/22616887593_a9cf2518e6_b.jpg</a>&#8221; title=&#8221;Response rate from lordamit.blogspot.com&#8221; ></p>
+>>>>>>> e4f7beda993e29f4d0dbad359cded5b4260a8f42
 
 <p>Response rate from lordamit.blogspot.com</p>
 
 
+<<<<<<< HEAD
 <p><img class="<a" src="href="https://farm1.staticflickr.com/622/23244001195_f4c3e6ee33_b.jpg">https://farm1.staticflickr.com/622/23244001195_f4c3e6ee33_b.jpg</a>" title="Response rate from lordamit.github.io" ></p>
+=======
+<p><img class="<a" src="href="https://farm1.staticflickr.com/622/23244001195_f4c3e6ee33_b.jpg">https://farm1.staticflickr.com/622/23244001195_f4c3e6ee33_b.jpg</a>&#8221; title=&#8221;Response rate from lordamit.github.io&#8221; ></p>
+>>>>>>> e4f7beda993e29f4d0dbad359cded5b4260a8f42
 
 <p>Response rate from lordamit.github.io</p>
 

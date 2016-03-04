@@ -4,7 +4,11 @@
   <title><![CDATA[Category: Mi | LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/blog/categories/mi/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
+<<<<<<< HEAD
   <updated>2016-03-04T15:25:44+06:00</updated>
+=======
+  <updated>2016-03-04T13:27:58+06:00</updated>
+>>>>>>> e4f7beda993e29f4d0dbad359cded5b4260a8f42
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -27,14 +31,22 @@
 
 <p>যেমন,</p>
 
+<<<<<<< HEAD
 <p><img class="<a" src="href="https://farm1.staticflickr.com/616/23032755556_6b30c15ca3_b.jpg">https://farm1.staticflickr.com/616/23032755556_6b30c15ca3_b.jpg</a>" width="384" height="682" title="&ldquo;সারাদিন হাঁটাহাঁটির রিপোর্ট&rdquo;" ></p>
+=======
+<p><img class="<a" src="href="https://farm1.staticflickr.com/616/23032755556_6b30c15ca3_b.jpg">https://farm1.staticflickr.com/616/23032755556_6b30c15ca3_b.jpg</a>&#8221; width=&#8221;384&#8221; height=&#8221;682&#8221; title=&#8221;&ldquo;সারাদিন হাঁটাহাঁটির রিপোর্ট&rdquo;&#8221; ></p>
+>>>>>>> e4f7beda993e29f4d0dbad359cded5b4260a8f42
 
 <p>ছবি: সারাদিন হাঁটাহাঁটির রিপোর্ট</p>
 
 
 <p>এখানে বিস্তারিত দেখা যায়, কয়টা থেকে কয়টা হাঁটলাম বা দৌঁড়ালাম - কত স্টেপস বা দূরত্ব অতিক্রম করলাম সেই সময়ে।</p>
 
+<<<<<<< HEAD
 <p><img class="<a" src="href="https://farm6.staticflickr.com/5764/23032752886_ac1df94343_b.jpg">https://farm6.staticflickr.com/5764/23032752886_ac1df94343_b.jpg</a>" width="384" height="682" title="&ldquo;ঘুমানোর রিপোর্ট - দেখিয়ে দিচ্ছে কখন উঠেছিলাম একটু করে!&rdquo;" ></p>
+=======
+<p><img class="<a" src="href="https://farm6.staticflickr.com/5764/23032752886_ac1df94343_b.jpg">https://farm6.staticflickr.com/5764/23032752886_ac1df94343_b.jpg</a>&#8221; width=&#8221;384&#8221; height=&#8221;682&#8221; title=&#8221;&ldquo;ঘুমানোর রিপোর্ট - দেখিয়ে দিচ্ছে কখন উঠেছিলাম একটু করে!&rdquo;&#8221; ></p>
+>>>>>>> e4f7beda993e29f4d0dbad359cded5b4260a8f42
 
 <p>ছবি: ঘুমানোর রিপোর্ট - দেখিয়ে দিচ্ছে কখন উঠেছিলাম একটু করে!</p>
 
