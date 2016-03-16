@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Android | LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/blog/categories/android/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
-  <updated>2016-03-04T19:08:47+06:00</updated>
+  <updated>2016-03-17T02:13:07+06:00</updated>
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -60,7 +60,7 @@
 
 <p>When your Remix OS shows boot menu, press <code>e</code>, and then <code>e</code> again. See the <code>VGA=791</code> part? That is setting your resolution. We are going to <code>UVESA_MODE</code> and <code>DPI</code> for better resolution. Modify and insert the part instead of <code>VGA=791</code>. <strong>Keep everything else the same.</strong> I tested and found the following settings useful:</p>
 
-<pre><code class="bash">DPI=162 UVESA_MODE=1366x768
+<pre><code class="bash">DPI=160 UVESA_MODE=1366x768
 DPI=265 UVESA_MODE=2880x1800
 </code></pre>
 

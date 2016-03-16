@@ -4,7 +4,7 @@
   <title><![CDATA[LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
-  <updated>2016-03-04T19:08:47+06:00</updated>
+  <updated>2016-03-17T02:13:07+06:00</updated>
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -62,7 +62,7 @@
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="nv">DPI</span><span class="o">=</span><span class="m">162</span> <span class="nv">UVESA_MODE</span><span class="o">=</span>1366x768
+</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="nv">DPI</span><span class="o">=</span><span class="m">160</span> <span class="nv">UVESA_MODE</span><span class="o">=</span>1366x768
 </span><span class='line'><span class="nv">DPI</span><span class="o">=</span><span class="m">265</span> <span class="nv">UVESA_MODE</span><span class="o">=</span>2880x1800
 </span></code></pre></td></tr></table></div></figure>
 
