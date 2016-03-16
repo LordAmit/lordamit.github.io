@@ -38,7 +38,7 @@ You will need both approaches. Because finding the perfect resolution takes some
 When your Remix OS shows boot menu, press `e`, and then `e` again. See the `VGA=791` part? That is setting your resolution. We are going to `UVESA_MODE` and `DPI` for better resolution. Modify and insert the part instead of `VGA=791`. **Keep everything else the same.** I tested and found the following settings useful:
 
 ```bash
-DPI=162 UVESA_MODE=1366x768
+DPI=160 UVESA_MODE=1366x768
 DPI=265 UVESA_MODE=2880x1800
 ```
 
