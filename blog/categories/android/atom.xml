@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Android | LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/blog/categories/android/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
-  <updated>2016-03-17T02:15:07+06:00</updated>
+  <updated>2016-03-17T23:51:22+06:00</updated>
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -18,7 +18,10 @@
     <link href="http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/"/>
     <updated>2016-03-04T11:17:11+06:00</updated>
     <id>http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine</id>
-    <content type="html"><![CDATA[<p>Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode. How?</p>
+    <content type="html"><![CDATA[<p>Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.
+<img class="center <a" src="href="https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg">https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg</a>" width="1024" height="576" title="&lsquo;Remix OS in Virtual Machine&rsquo;" ></p>
+
+<p>How?</p>
 
 <!-- more -->
 
