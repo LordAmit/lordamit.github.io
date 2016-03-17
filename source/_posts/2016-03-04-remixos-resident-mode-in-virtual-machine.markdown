@@ -6,7 +6,11 @@ comments: true
 categories: [tutorial, android, Linux]
 ---
 
-Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode. How?
+Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.
+{% img center https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg 1024 576 'Remix OS in Virtual Machine' %}
+
+
+How?
 
 <!-- more -->
 
