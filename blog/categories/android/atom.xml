@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Android | LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/blog/categories/android/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
-  <updated>2016-03-18T14:13:46+06:00</updated>
+  <updated>2016-03-18T15:46:53+06:00</updated>
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -67,7 +67,7 @@
 DPI=265 UVESA_MODE=2880x1800
 </code></pre>
 
-<p>*This settings may not work properly for your display device. You need to change the DPI and the resolution according to your display capability. Just remember that higher DPI = bigger, less DPI = Smaller. *</p>
+<p><em>This settings may not work properly for your display device. You need to change the DPI and the resolution according to your display capability. Just remember that higher DPI = bigger, less DPI = Smaller.</em></p>
 
 <p>Press <code>ESC</code> to discard changes, or Press <code>Enter</code> to temporarily save changes.  and press <code>B</code> to boot using the temporary settings.</p>
 
@@ -81,7 +81,7 @@ DPI=265 UVESA_MODE=2880x1800
 <li>Go into the mounted volume, and there you will see 3 folders.</li>
 <li>Go into the grub folder.</li>
 <li>Use your favorite editor in root mode to edit the menu.lst file.</li>
-<li>In the first entry, remove the <code>VGA=791</code> and replace it with  <code>DPI=200 UVESA_MODE=1366x768</code>.</li>
+<li>In the first entry, remove the <code>VGA=791</code> and replace it with  <code>DPI=160 UVESA_MODE=1366x768</code>.</li>
 </ol>
 
 
