@@ -46,7 +46,7 @@ DPI=160 UVESA_MODE=1366x768
 DPI=265 UVESA_MODE=2880x1800
 ```
 
-*This settings may not work properly for your display device. You need to change the DPI and the resolution according to your display capability. Just remember that higher DPI = bigger, less DPI = Smaller. *
+*This settings may not work properly for your display device. You need to change the DPI and the resolution according to your display capability. Just remember that higher DPI = bigger, less DPI = Smaller.*
 
 Press `ESC` to discard changes, or Press `Enter` to temporarily save changes.  and press `B` to boot using the temporary settings.
 
@@ -59,7 +59,7 @@ Once you find your perfect resolution head over to next step.
 3. Go into the mounted volume, and there you will see 3 folders.
 4. Go into the grub folder.
 5. Use your favorite editor in root mode to edit the menu.lst file.
-6. In the first entry, remove the `VGA=791` and replace it with  `DPI=200 UVESA_MODE=1366x768`.
+6. In the first entry, remove the `VGA=791` and replace it with  `DPI=160 UVESA_MODE=1366x768`.
 
 Save and reboot!
 
