@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Iitdu | LordAmit's Blog]]></title>
+  <link href="http://lordamit.github.io/blog/categories/iitdu/atom.xml" rel="self"/>
+  <link href="http://lordamit.github.io/"/>
+  <updated>2016-03-20T17:02:00+06:00</updated>
+  <id>http://lordamit.github.io/</id>
+  <author>
+    <name><![CDATA[Amit Seal Ami]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Celebrating Intl. Women's Day at AIUB]]></title>
+    <link href="http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/"/>
+    <updated>2016-03-20T16:48:51+06:00</updated>
+    <id>http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub</id>
+    <content type="html"><![CDATA[<p>On 20th March, 2016 - I gave a speech at American International University-Bangladesh, in an event to celebrate International Women&rsquo;s Day and to encourage women in technical fields.</p>
+
+<p>I talked about the past, and the present, and shared my own experience in software industry, so that together, men and women can create a better future.</p>
+
+<p>You can view the slides here, but it is not supposed to be completely understandable without my speech. But oh well!</p>
+
+<iframe src="https://docs.google.com/presentation/d/1zrl1pWMx7dbCYX8MGeSIlDteXgruFn4AQPUa_WxOTtM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>
