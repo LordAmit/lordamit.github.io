@@ -105,4 +105,4 @@ int main(int argc, char *argv[]){
 
 ```
 
-Compile and run.  Comment below if this works for you, if you got a feedback! share your screen shot of what you built :) 
+Compile and run.  Comment below if this works for you or if you got a feedback! share your screen shot of what you built :) 
