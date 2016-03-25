@@ -74,6 +74,13 @@ sudo apt-get install glade
 
 ## Create Design Using Glade <a name="designUsingGlade"></a>[&#8593;](#tocForGtk)
 
+Open glade, drag and drop a `Window` top-level container. Add some more things if you want inside it. From the properties pane at the right side, go to `general` tab, and write `mywindow` in the ID.
+
+The key things to remember here are:
+
+1. You got to have a Window ID, and it must be used in the C code
+2. You have to save it in GtkBuilder format (`file > save as`)
+
 ## C code example <a name="cCodeExample"></a>[&#8593;](#tocForGtk)
 
 ``` c C Code that includes a testGlade.glade file for designing UI
@@ -97,3 +104,5 @@ int main(int argc, char *argv[]){
 }
 
 ```
+
+Compile and run.  Comment below if this works for you, if you got a feedback! share your screen shot of what you built :) 
