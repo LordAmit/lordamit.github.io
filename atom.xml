@@ -4,7 +4,7 @@
   <title><![CDATA[LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
-  <updated>2016-03-21T00:35:09+06:00</updated>
+  <updated>2016-03-25T13:50:28+06:00</updated>
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -12,6 +12,154 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Using GTK, Glade and Codeblocks Together in Ubuntu - Level Beginner]]></title>
+    <link href="http://lordamit.github.io/blog/2016/03/25/using-gtk/"/>
+    <updated>2016-03-25T02:41:03+06:00</updated>
+    <id>http://lordamit.github.io/blog/2016/03/25/using-gtk</id>
+    <content type="html"><![CDATA[<p>Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!</p>
+
+<p>The major steps for <strong>setting up environment</strong> are :<a name="tocForGtk"></a></p>
+
+<ol>
+<li><a href="#latestCodeBlocks">Install latest stable version of CodeBlocks (for me, 16.01)</a></li>
+<li><a href="#latestGtkLibraries">Install GTK-3.0 related libraries</a></li>
+<li><a href="#modifyScripts">Modify the Template Script in CodeBlocks</a></li>
+<li><a href="#installingGlade">Install Glade</a></li>
+</ol>
+
+
+<p>The major steps for creating an UI are:</p>
+
+<ol>
+<li><a href="#designUsingGlade">Create design using Glade</a></li>
+<li><a href="#cCodeExample">Connect it to a C code</a></li>
+</ol>
+
+
+<!-- more -->
+
+
+<h2>Latest CodeBlocks! <a name="latestCodeBlocks"></a></h2>
+
+<figure class='code'><figcaption><span>Installing CodeBlocks from PPA</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>sudo apt-add-repository ppa:damien-moore/codeblocks-stable
+</span><span class='line'>sudo apt-get update
+</span><span class='line'>sudo apt-get install codeblocks
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>GTK-3.0 Libraries! <a name="latestGtkLibraries"></a><a href="#tocForGtk">&#8593;</a></h2>
+
+<figure class='code'><figcaption><span>Installing GTK-3.0 libraries</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>sudo apt-get install libgtk3.0-dev
+</span><span class='line'>sudo apt-get install libgtk3.0-cil libgtk3.0-cil-dev
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>Modify Template Script in CodeBlocks <a name="modifyScripts"></a><a href="#tocForGtk">&#8593;</a></h2>
+
+<p>This is the tricky part. You see, the CodeBlocks still uses GTK+-2.0 libraries by default for the GTK+ projects in its template. You need to edit the template file and modify the parts where it will reference the GTK-3.0 libraries instead of the libraries from version 2.</p>
+
+<p>start with this command:</p>
+
+<figure class='code'><figcaption><span>Use pkg-config to check versions</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>pkg-config --cflags --libs gtk+-3.0
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>See the output? It is showing the necessary files you need to successfully build a gtk based app.
+For me, it is:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>-pthread -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/mirclient -I/usr/include/mircommon -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/pango-1.0 -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng12 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -lgtk-3 -lgdk-3 -lpangocairo-1.0 -lpango-1.0 -latk-1.0 -lcairo-gobject -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Now, Open CodeBlocks. Right click on <code>New &gt; Project &gt; GTK+ Project</code>, <code>edit this script</code>. It may throw an error saying it can not find the file, making it in read-only mode. Hence, go to <code>~/.local/share/codeblocks/templates/wizard/gtk</code> and open the <code>wizard.script</code>.
+Replace the version values with the values you found from the <code>pkg-config</code> part. For example,</p>
+
+<figure class='code'><figcaption><span>modifying versions from wizard.script file - before change</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">VerifyFile</span><span class="p">(</span><span class="n">dir_nomacro_inc</span> <span class="o">+</span> <span class="n">wxFILE_SEP_PATH</span> <span class="o">+</span> <span class="n">_T</span><span class="p">(</span><span class="s">&quot;gtk-2.0&quot;</span><span class="p">)</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>will become</p>
+
+<figure class='code'><figcaption><span>modifying versions from wizard.script file - after change</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">VerifyFile</span><span class="p">(</span><span class="n">dir_nomacro_inc</span> <span class="o">+</span> <span class="n">wxFILE_SEP_PATH</span> <span class="o">+</span> <span class="n">_T</span><span class="p">(</span><span class="s">&quot;gtk-3.0&quot;</span><span class="p">)</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>In case you are clueless, you can take a look at my <a href="https://gist.github.com/lordamit/fc2b608f15047d9f672e">wizard.script</a>.</p>
+
+<h2>Installing Glade <a name="installingGlade"></a> <a href="#tocForGtk">&#8593;</a></h2>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>sudo apt-get install glade
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>Create Design Using Glade <a name="designUsingGlade"></a><a href="#tocForGtk">&#8593;</a></h2>
+
+<p>Open glade, drag and drop a <code>Window</code> top-level container. Add some more things if you want inside it. From the properties pane at the right side, go to <code>general</code> tab, and write <code>mywindow</code> in the ID.</p>
+
+<p>The key things to remember here are:</p>
+
+<ol>
+<li>You got to have a Window ID, and it must be used in the C code</li>
+<li>You have to save it in GtkBuilder format (<code>file &gt; save as</code>)</li>
+</ol>
+
+
+<h2>C code example <a name="cCodeExample"></a><a href="#tocForGtk">&#8593;</a></h2>
+
+<figure class='code'><figcaption><span>C Code that includes a testGlade.glade file for designing UI</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="cp">#include&lt;gtk/gtk.h&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="o">*</span><span class="n">argv</span><span class="p">[]){</span>
+</span><span class='line'>    <span class="n">GtkBuilder</span> <span class="o">*</span><span class="n">gtkBuilder</span><span class="p">;</span>
+</span><span class='line'>    <span class="n">GtkWidget</span> <span class="o">*</span><span class="n">window</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="n">gtk_init</span><span class="p">(</span><span class="o">&amp;</span><span class="n">argc</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">argv</span><span class="p">);</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="n">gtkBuilder</span> <span class="o">=</span> <span class="n">gtk_builder_new</span><span class="p">();</span>
+</span><span class='line'>    <span class="n">gtk_builder_add_from_file</span><span class="p">(</span><span class="n">gtkBuilder</span><span class="p">,</span> <span class="s">&quot;testGlade.glade&quot;</span><span class="p">,</span> <span class="nb">NULL</span><span class="p">);</span>
+</span><span class='line'>    <span class="n">window</span> <span class="o">=</span> <span class="n">GTK_WIDGET</span><span class="p">(</span><span class="n">gtk_builder_get_object</span><span class="p">(</span><span class="n">gtkBuilder</span><span class="p">,</span> <span class="s">&quot;mywindow&quot;</span><span class="p">));</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="n">g_object_unref</span><span class="p">(</span><span class="n">G_OBJECT</span><span class="p">(</span><span class="n">gtkBuilder</span><span class="p">));</span>
+</span><span class='line'>    <span class="n">gtk_widget_show</span><span class="p">(</span><span class="n">window</span><span class="p">);</span>
+</span><span class='line'>    <span class="n">gtk_main</span><span class="p">();</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Compile and run.  Comment below if this works for you, if you got a feedback! share your screen shot of what you built :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Celebrating Intl. Women's Day at AIUB]]></title>

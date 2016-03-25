@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://lordamit.github.io/blog/2016/03/25/using-gtk/</loc>
+<lastmod>2016-03-25T02:41:03+06:00</lastmod>
+</url>
+<url>
 <loc>http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</loc>
 <lastmod>2016-03-20T16:48:51+06:00</lastmod>
 </url>
@@ -121,5 +125,20 @@
 </url>
 <url>
 <loc>http://lordamit.github.io/blog/categories/ieee/</loc>
+</url>
+<url>
+<loc>http://lordamit.github.io/blog/categories/c/</loc>
+</url>
+<url>
+<loc>http://lordamit.github.io/blog/categories/gtk/</loc>
+</url>
+<url>
+<loc>http://lordamit.github.io/blog/categories/ubuntu/</loc>
+</url>
+<url>
+<loc>http://lordamit.github.io/blog/categories/codeblocks/</loc>
+</url>
+<url>
+<loc>http://lordamit.github.io/blog/categories/beginner/</loc>
 </url>
 </urlset>
