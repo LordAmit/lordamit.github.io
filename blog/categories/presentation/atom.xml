@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Presentation | LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/blog/categories/presentation/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
-  <updated>2016-03-25T13:50:28+06:00</updated>
+  <updated>2016-04-02T04:04:59+06:00</updated>
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -29,6 +29,72 @@
 
 <script async class="speakerdeck-embed" data-id="cc6ad0dece5f46e5b19831d8dd7e10da" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
+
+<h2>References</h2>
+
+<p>I studied many articles before preparing this Presentation. However, the most notable ones are:</p>
+
+<ol>
+<li><a href="http://www.npr.org/sections/alltechconsidered/2014/10/06/345799830/the-forgotten-female-programmers-who-created-modern-tech">The Forgotten Female Programmers Who Created Modern Tech</a></li>
+<li><a href="http://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding">When Women Stopped Coding</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Grace_Hopper">Grace Hopper - The Queen of Software</a></li>
+</ol>
+
+
+<h2>Notes I made when I was preparing for it</h2>
+
+<p>I started preparing for it about a month ago, and wrote notes. I use MarkDown syntax for creating notes and planning, by the way. You should get an idea about what I wrote and what I talked about from here:</p>
+
+<pre><code># Presentation on Motivating Women in STEM
+
+## Key factors
+- Motivate
+- Do not discourage
+
+## Points to Note
+- Women in earlier computer science and coding
+    -   Figures / Idols
+- Women in present STEM
+    - Lack of women compared to earlier periods
+    - Statistics (1/4 in STEM)
+    - Less Paid
+    - Still Idols
+
+## Reasons
+
+- Stereotypical idea about women:
+    - Loves to gossip
+    - Are not analytical
+    - Weak
+
+## Problems Why Companies Do Not Want to take women
+- Does not want to stay after work hours
+- Will take maternity leave for weeks (22 in Bangladesh)!
+- Won't be able to give support from home in case of emergency
+- has to take care of husband when HUSBAND is sick!!
+
+## Facts
+- No conclusive study about lack of analytical ability in women
+- In fact, no stereotypical comments are valid!
+- Can work just as hard as men
+- Women good structured programmer example
+
+## What to do
+
+- Start from home. Teach children that women and men are different, but not superior or inferior in any way
+- Allow your children to break toys!
+- Don't be afraid to speak up about your needs in job. Chances are, men have no idea that you need those, even though they are willing to cooperate
+- The women who are leading, took a bold step, against the normal norms of society. We need to make that a habit.
+
+# Tips for Preparing Slides
+- Abnormality
+- Don't use templates
+- Flat Colors #5FA6A9 Green, #C84D64 RED, #EAAE54 Paste , #2B2937 black , #4968AB yellow
+- Use good fonts (Helvetica? )
+- Use Images
+- BIG is beautiful
+- Info-graphics
+</code></pre>
 ]]></content>
   </entry>
   

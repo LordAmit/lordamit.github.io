@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Beginner | LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/blog/categories/beginner/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
-  <updated>2016-03-25T13:50:28+06:00</updated>
+  <updated>2016-04-02T04:04:59+06:00</updated>
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -119,7 +119,7 @@ int main(int argc, char *argv[]){
 }
 </code></pre>
 
-<p>Compile and run.  Comment below if this works for you, if you got a feedback! share your screen shot of what you built :)</p>
+<p>Compile and run.  Comment below if this works for you or if you got a feedback! share your screen shot of what you built :)</p>
 ]]></content>
   </entry>
   

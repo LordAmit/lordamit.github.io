@@ -4,7 +4,7 @@
   <title><![CDATA[LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
-  <updated>2016-03-25T13:50:28+06:00</updated>
+  <updated>2016-04-02T04:04:59+06:00</updated>
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -157,7 +157,7 @@ Replace the version values with the values you found from the <code>pkg-config</
 </span></code></pre></td></tr></table></div></figure>
 
 
-<p>Compile and run.  Comment below if this works for you, if you got a feedback! share your screen shot of what you built :)</p>
+<p>Compile and run.  Comment below if this works for you or if you got a feedback! share your screen shot of what you built :)</p>
 ]]></content>
   </entry>
   
@@ -176,6 +176,121 @@ Replace the version values with the values you found from the <code>pkg-config</
 
 
 <script async class="speakerdeck-embed" data-id="cc6ad0dece5f46e5b19831d8dd7e10da" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+<h2>References</h2>
+
+<p>I studied many articles before preparing this Presentation. However, the most notable ones are:</p>
+
+<ol>
+<li><a href="http://www.npr.org/sections/alltechconsidered/2014/10/06/345799830/the-forgotten-female-programmers-who-created-modern-tech">The Forgotten Female Programmers Who Created Modern Tech</a></li>
+<li><a href="http://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding">When Women Stopped Coding</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Grace_Hopper">Grace Hopper - The Queen of Software</a></li>
+</ol>
+
+
+<h2>Notes I made when I was preparing for it</h2>
+
+<p>I started preparing for it about a month ago, and wrote notes. I use MarkDown syntax for creating notes and planning, by the way. You should get an idea about what I wrote and what I talked about from here:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'># Presentation on Motivating Women in STEM
+</span><span class='line'>
+</span><span class='line'>## Key factors
+</span><span class='line'>- Motivate
+</span><span class='line'>- Do not discourage
+</span><span class='line'>
+</span><span class='line'>## Points to Note
+</span><span class='line'>- Women in earlier computer science and coding
+</span><span class='line'>    -   Figures / Idols
+</span><span class='line'>- Women in present STEM
+</span><span class='line'>    - Lack of women compared to earlier periods
+</span><span class='line'>    - Statistics (1/4 in STEM)
+</span><span class='line'>    - Less Paid
+</span><span class='line'>    - Still Idols
+</span><span class='line'>
+</span><span class='line'>## Reasons
+</span><span class='line'>
+</span><span class='line'>- Stereotypical idea about women:
+</span><span class='line'>    - Loves to gossip
+</span><span class='line'>    - Are not analytical
+</span><span class='line'>    - Weak
+</span><span class='line'>
+</span><span class='line'>## Problems Why Companies Do Not Want to take women
+</span><span class='line'>- Does not want to stay after work hours
+</span><span class='line'>- Will take maternity leave for weeks (22 in Bangladesh)!
+</span><span class='line'>- Won't be able to give support from home in case of emergency
+</span><span class='line'>- has to take care of husband when HUSBAND is sick!!
+</span><span class='line'>
+</span><span class='line'>## Facts
+</span><span class='line'>- No conclusive study about lack of analytical ability in women
+</span><span class='line'>- In fact, no stereotypical comments are valid!
+</span><span class='line'>- Can work just as hard as men
+</span><span class='line'>- Women good structured programmer example
+</span><span class='line'>
+</span><span class='line'>## What to do
+</span><span class='line'>
+</span><span class='line'>- Start from home. Teach children that women and men are different, but not superior or inferior in any way
+</span><span class='line'>- Allow your children to break toys!
+</span><span class='line'>- Don't be afraid to speak up about your needs in job. Chances are, men have no idea that you need those, even though they are willing to cooperate
+</span><span class='line'>- The women who are leading, took a bold step, against the normal norms of society. We need to make that a habit.
+</span><span class='line'>
+</span><span class='line'># Tips for Preparing Slides
+</span><span class='line'>- Abnormality
+</span><span class='line'>- Don't use templates
+</span><span class='line'>- Flat Colors #5FA6A9 Green, #C84D64 RED, #EAAE54 Paste , #2B2937 black , #4968AB yellow
+</span><span class='line'>- Use good fonts (Helvetica? )
+</span><span class='line'>- Use Images
+</span><span class='line'>- BIG is beautiful
+</span><span class='line'>- Info-graphics</span></code></pre></td></tr></table></div></figure>
 
 ]]></content>
   </entry>
