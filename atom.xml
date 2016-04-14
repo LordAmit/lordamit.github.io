@@ -4,7 +4,7 @@
   <title><![CDATA[LordAmit's Blog]]></title>
   <link href="http://lordamit.github.io/atom.xml" rel="self"/>
   <link href="http://lordamit.github.io/"/>
-  <updated>2016-04-13T23:14:55+06:00</updated>
+  <updated>2016-04-14T18:53:34+06:00</updated>
   <id>http://lordamit.github.io/</id>
   <author>
     <name><![CDATA[Amit Seal Ami]]></name>
@@ -545,7 +545,8 @@ Replace the version values with the values you found from the <code>pkg-config</
     <link href="http://lordamit.github.io/blog/2014/11/14/hello/"/>
     <updated>2014-11-14T16:18:51+06:00</updated>
     <id>http://lordamit.github.io/blog/2014/11/14/hello</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Well, this is a test article.
+I created this as first post of this blog, and all experiments are generally applied to this post.</p>
 ]]></content>
   </entry>
   
