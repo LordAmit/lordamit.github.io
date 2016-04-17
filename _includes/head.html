@@ -46,8 +46,8 @@
 <meta property="og:image" content="{{ domain }}{{ page.imagefeature }}">{% else %}
 <meta property="og:image" content="{% if page.imagesummary %}{{ site.urlimg }}{{ page.imagesummary }}{% else %}{{ site.urlimg }}{{ site.default_bg }}{% endif %}">{% endif %}
 {% if page.videofeature %}<meta property="og:video" content="{{ page.videofeature }}">{% endif %}
-<meta property="fb:app_id" content="1003108156422006">
-<meta property="fb:admins" content="817465054">
+<meta property="fb:app_id" content="{{ site.fb_appid }}">
+<meta property="fb:admins" content="{{ site.fb_admins }}">
 
 <!-- Fonts -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400|Tangerine|Inconsolata">
@@ -56,7 +56,7 @@
 
 <!-- CSS -->
 <link rel="stylesheet" href="{{ site.baseurl }}/public/css/style.min.css">
-{% if page.category contains 'mypubs' or page.category contains 'myaoi' %} 
+{% if page.category contains 'mypubs' or page.category contains 'myaoi' %}
 <link rel="stylesheet" href="{{ site.baseurl }}/public/css/publ.css">
 <script src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
 {% endif %}
@@ -97,6 +97,8 @@
 
 <!-- RSS -->
 <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.url }}/feed.xml">
+
+{% include fb_plugins.html %}
 
 {% if page.mathjax %}
   {% include mathjax_support.html %}

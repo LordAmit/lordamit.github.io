@@ -35,13 +35,13 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 author:
   name:              Amit Seal Ami
   url:               https://twitter.com/lordamit
-  avatar:         Amit.jpg
+  avatar:            images/Amit.jpg
   #email:
 
 # Owner/author information
 owner:
   name:           Amit Seal Ami
-  avatar:         Amit.jpg
+  avatar:         images/Amit.jpg
   #email:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
@@ -75,8 +75,8 @@ links:
   - title: <i class="iconside iconm-wordpress"></i> Old Blog
     url: https://lordamit.blogspot.com
     external: true
-  #- title: <i class="iconside iconm-envelop"></i> Contact
-  #  url: /contact/
+  - title: <i class="iconside iconm-envelop"></i> Facebook
+    url: http://facebook.com/AmitPublic
   - title: <i class="iconside iconm-twitter"></i> Twitter
     url: https://twitter.com/lordamit
     external: true
@@ -95,6 +95,9 @@ disqus_shortname: lordamitgithubio
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-11383434-9
+
+fb_admins:          http://facebook.com/LordAmit
+fb_appid:           966951963422637
 
 #### For dummy website only - remove if you wish ####
 #github_repo: https://github.com/dyndna/lanyon-plus
