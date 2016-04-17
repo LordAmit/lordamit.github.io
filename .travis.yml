@@ -1,5 +1,13 @@
 language: ruby
+cache: bundler
 rvm:
-  - 2.0.0
-  - 1.9.3
-script: bundle exec rake install; bundle exec rake generate
+  - 2.1.5
+
+before_install:
+  - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+script:
+  - bundle exec jekyll build
+
+notifications:
+  email: false
