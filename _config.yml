@@ -9,16 +9,16 @@ relative_permalinks: false
 title:               Amit's Blog
 #tagline:             'foo's website
 description:
-url:
+url: http://lordamit.github.io
 baseurl: ""
-urlimg: /img/
+urlimg: http://lordamit.github.io/images/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
 excerpt_separator: <!-- more -->
 default_bg: sitelogo.png
 safe: false
-timezone:    Dhaka
+timezone:    Asia/Dhaka
 future:      true
 
 gems:
@@ -84,7 +84,7 @@ links:
     url: /feed.xml
 
 # Google Custom Search:
-google_search: 017141276808058507733:xgiucu6ob5y    
+google_search: 017141276808058507733:xgiucu6ob5y
 
 # Twitter stream widget:
 # Replace xyz123abc with your twitter widget id from https://twitter.com/settings/widgets

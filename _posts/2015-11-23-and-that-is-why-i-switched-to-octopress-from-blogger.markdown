@@ -10,10 +10,12 @@ I switched from Blogspot to Octopress about a year ago. Even though my blogspot 
 <!-- more -->
 Because I found that Blogspot is incredibly slow and rusty. It is of course, useful with all the widgets and such - but it still is <i>slow</i>. That's when Salman, a young fellow I consider a brother to me, suggested me about Octopress. I loved this, and here I made this blog. After an year, I decided to analyze the response. Here is the result right from Google Webmaster.
 
-![Response rate from lordamit.blogspot.com](https://farm6.staticflickr.com/5634/22616887593_a9cf2518e6_b.jpg
-<p>Response rate from lordamit.blogspot.com</p>
-
+{% figure caption:"Figure: Response rate from lordamit.blogspot.com" %}
+![Response rate from lordamit.blogspot.com](https://farm6.staticflickr.com/5634/22616887593_a9cf2518e6_b.jpg)
+{% endfigure %}
+^
+{% figure caption:"Figure: Response rate from lordamit.github.io" %}
 ![ Response rate from lordamit.github.io](https://farm1.staticflickr.com/622/23244001195_f4c3e6ee33_b.jpg)
-<p>Response rate from lordamit.github.io</p>
+{% endfigure %}
 
 And that's why, I switched from Blogspot to Octopress. :)

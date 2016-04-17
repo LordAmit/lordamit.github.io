@@ -6,19 +6,19 @@ permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
-title:               foo
+title:               Amit's Blog
 #tagline:             'foo's website
-description:         Foo's blog...
-url:                 http://localhost:4000
-baseurl:  ""
+description:
+url: http://localhost:4000
+baseurl: 
 urlimg: http://localhost:4000/images/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
-excerpt_separator: <!--more-->
-default_bg: sitelogo.png 
+excerpt_separator: <!-- more -->
+default_bg: sitelogo.png
 safe: false
-#timezone:    America/Chicago
+timezone:    Dhaka
 future:      true
 
 gems:
@@ -33,31 +33,31 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
-  url:               https://twitter.com/abcd
-  avatar:         foo.png
-  #email:           
+  name:              Amit Seal Ami
+  url:               https://twitter.com/lordamit
+  avatar:         Amit.jpg
+  #email:
 
 # Owner/author information
 owner:
-  name:           Foo Boo
-  avatar:         foo.png
-  #email:          
+  name:           Amit Seal Ami
+  avatar:         Amit.jpg
+  #email:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
-  facebook:       
-  github:         xyz123abc
-  stackexchange:  
-  linkedin:       https://www.linkedin.com/in/foo
-  instagram:      
+  twitter:        lordamit
+  facebook: AmitPublic
+  github:         lordamit
+  stackexchange:
+  linkedin:       https://www.linkedin.com/in/AmitSeal
+  instagram:
   flickr:
-  tumblr:  
-  google_plus:    https://plus.google.com/+foo
+  tumblr:
+  google_plus: AmitSeal
   # orcid and google scholar IDs are different than standard username.
-  orcid: xyz123abc
-  gscholar: xyz123abc
+  orcid:
+  gscholar: d4unzekAAAAJ
 
 ## sidebar links:
 # For external links add external: true
@@ -73,30 +73,30 @@ links:
   - title: <i class="fa fa-archive"></i> Archive
     url: /archive/
   - title: <i class="iconside iconm-wordpress"></i> Old Blog
-    url: https://foo.wordpress.com
+    url: https://lordamit.blogspot.com
     external: true
-  - title: <i class="iconside iconm-envelop"></i> Contact
-    url: /contact/
+  #- title: <i class="iconside iconm-envelop"></i> Contact
+  #  url: /contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
+    url: https://twitter.com/lordamit
     external: true
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
 
 # Google Custom Search:
-#google_search: xyz123abc
+google_search: 017141276808058507733:xgiucu6ob5y
 
 # Twitter stream widget:
 # Replace xyz123abc with your twitter widget id from https://twitter.com/settings/widgets
 #twitter_widget_id: xyz123abc
 
 # Add disqus username for Disqus comment board:
-disqus_shortname: foo
+disqus_shortname: lordamitgithubio
 
 # Analytics and webmaster tools stuff goes here
-#google_analytics:   xyz123abc
+google_analytics:   UA-11383434-9
 
 #### For dummy website only - remove if you wish ####
-github_repo: https://github.com/dyndna/lanyon-plus
-version: 1.1.0
+#github_repo: https://github.com/dyndna/lanyon-plus
+#version: 1.1.0
 ## END ##
