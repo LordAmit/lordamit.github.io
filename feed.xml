@@ -3,10 +3,10 @@
   <channel>
     <title>Amit&#39;s Blog</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-04-17T16:02:18+00:00</updated>
-    <id></id>
+    <link>http://lordamit.github.io/</link>
+    <atom:link href="http://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <updated>2016-04-17T16:20:28+00:00</updated>
+    <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
@@ -117,8 +117,8 @@ Replace the version values with the values you found from the &lt;code class=&qu
 </description>
         
         <pubDate>Thu, 24 Mar 2016 20:41:03 +0000</pubDate>
-        <link>/blog/2016/03/24/using-gtk/</link>
-        <guid isPermaLink="true">/blog/2016/03/24/using-gtk/</guid>
+        <link>http://lordamit.github.io/blog/2016/03/24/using-gtk/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/24/using-gtk/</guid>
       </item>
     
       <item>
@@ -199,8 +199,8 @@ Replace the version values with the values you found from the &lt;code class=&qu
 </description>
         
         <pubDate>Sun, 20 Mar 2016 10:48:51 +0000</pubDate>
-        <link>/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</link>
-        <guid isPermaLink="true">/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</guid>
+        <link>http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</guid>
       </item>
     
       <item>
@@ -284,8 +284,8 @@ Replace the version values with the values you found from the &lt;code class=&qu
 </description>
         
         <pubDate>Fri, 04 Mar 2016 05:17:11 +0000</pubDate>
-        <link>/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</link>
-        <guid isPermaLink="true">/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</guid>
+        <link>http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</guid>
       </item>
     
       <item>
@@ -305,8 +305,8 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 </description>
         
         <pubDate>Mon, 23 Nov 2015 13:37:22 +0000</pubDate>
-        <link>/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</link>
-        <guid isPermaLink="true">/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</guid>
+        <link>http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</guid>
       </item>
     
       <item>
@@ -335,8 +335,8 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 </description>
         
         <pubDate>Mon, 16 Nov 2015 08:25:11 +0000</pubDate>
-        <link>/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/</link>
-        <guid isPermaLink="true">/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/</guid>
+        <link>http://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/</guid>
       </item>
     
       <item>
@@ -372,8 +372,8 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 </description>
         
         <pubDate>Thu, 23 Jul 2015 16:51:07 +0000</pubDate>
-        <link>/blog/2015/07/23/singapore-visit-2/</link>
-        <guid isPermaLink="true">/blog/2015/07/23/singapore-visit-2/</guid>
+        <link>http://lordamit.github.io/blog/2015/07/23/singapore-visit-2/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2015/07/23/singapore-visit-2/</guid>
       </item>
     
       <item>
@@ -410,8 +410,8 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 </description>
         
         <pubDate>Sun, 19 Jul 2015 16:09:04 +0000</pubDate>
-        <link>/blog/2015/07/19/singgaapur-sphr-1/</link>
-        <guid isPermaLink="true">/blog/2015/07/19/singgaapur-sphr-1/</guid>
+        <link>http://lordamit.github.io/blog/2015/07/19/singgaapur-sphr-1/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2015/07/19/singgaapur-sphr-1/</guid>
       </item>
     
       <item>
@@ -431,8 +431,8 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 </description>
         
         <pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate>
-        <link>/blog/2015/01/31/whats-jekyll/</link>
-        <guid isPermaLink="true">/blog/2015/01/31/whats-jekyll/</guid>
+        <link>http://lordamit.github.io/blog/2015/01/31/whats-jekyll/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2015/01/31/whats-jekyll/</guid>
       </item>
     
       <item>
@@ -444,8 +444,8 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 </description>
         
         <pubDate>Sun, 21 Dec 2014 16:39:14 +0000</pubDate>
-        <link>/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015/</link>
-        <guid isPermaLink="true">/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015/</guid>
+        <link>http://lordamit.github.io/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015/</guid>
       </item>
     
       <item>
@@ -456,8 +456,8 @@ I created this as first post of this blog, and all experiments are generally app
 </description>
         
         <pubDate>Fri, 14 Nov 2014 10:18:51 +0000</pubDate>
-        <link>/blog/2014/11/14/hello/</link>
-        <guid isPermaLink="true">/blog/2014/11/14/hello/</guid>
+        <link>http://lordamit.github.io/blog/2014/11/14/hello/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2014/11/14/hello/</guid>
       </item>
     
   </channel>

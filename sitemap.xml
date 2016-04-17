@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>/blog/2016/03/24/using-gtk/</loc>
+      <loc>http://lordamit.github.io/blog/2016/03/24/using-gtk/</loc>
       
         <lastmod>2016-03-24T20:41:03+00:00</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</loc>
+      <loc>http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</loc>
       
         <lastmod>2016-03-20T10:48:51+00:00</lastmod>
       
@@ -33,7 +33,7 @@
   
     
     <url>
-      <loc>/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</loc>
+      <loc>http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</loc>
       
         <lastmod>2016-03-04T05:17:11+00:00</lastmod>
       
@@ -48,7 +48,7 @@
   
     
     <url>
-      <loc>/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</loc>
+      <loc>http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</loc>
       
         <lastmod>2015-11-23T13:37:22+00:00</lastmod>
       
@@ -63,7 +63,7 @@
   
     
     <url>
-      <loc>/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/</loc>
+      <loc>http://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/</loc>
       
         <lastmod>2015-11-16T08:25:11+00:00</lastmod>
       
@@ -78,7 +78,7 @@
   
     
     <url>
-      <loc>/blog/2015/07/23/singapore-visit-2/</loc>
+      <loc>http://lordamit.github.io/blog/2015/07/23/singapore-visit-2/</loc>
       
         <lastmod>2015-07-23T16:51:07+00:00</lastmod>
       
@@ -93,7 +93,7 @@
   
     
     <url>
-      <loc>/blog/2015/07/19/singgaapur-sphr-1/</loc>
+      <loc>http://lordamit.github.io/blog/2015/07/19/singgaapur-sphr-1/</loc>
       
         <lastmod>2015-07-19T16:09:04+00:00</lastmod>
       
@@ -108,7 +108,7 @@
   
     
     <url>
-      <loc>/blog/2015/01/31/whats-jekyll/</loc>
+      <loc>http://lordamit.github.io/blog/2015/01/31/whats-jekyll/</loc>
       
         <lastmod>2015-01-31T00:00:00+00:00</lastmod>
       
@@ -123,7 +123,7 @@
   
     
     <url>
-      <loc>/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015/</loc>
+      <loc>http://lordamit.github.io/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015/</loc>
       
         <lastmod>2014-12-21T16:39:14+00:00</lastmod>
       
@@ -138,7 +138,7 @@
   
     
     <url>
-      <loc>/blog/2014/11/14/hello/</loc>
+      <loc>http://lordamit.github.io/blog/2014/11/14/hello/</loc>
       
         <lastmod>2014-11-14T10:18:51+00:00</lastmod>
       
@@ -153,7 +153,7 @@
   
     
     <url>
-      <loc>/blog/2013/01/01/example-content/</loc>
+      <loc>http://lordamit.github.io/blog/2013/01/01/example-content/</loc>
       
         <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       
@@ -171,7 +171,7 @@
   
     
     <url>
-      <loc>/about/</loc>
+      <loc>http://lordamit.github.io/about/</loc>
       
         <lastmod>2016-02-13</lastmod>
       
@@ -186,7 +186,7 @@
   
     
     <url>
-      <loc>/about/aoi/</loc>
+      <loc>http://lordamit.github.io/about/aoi/</loc>
       
         <lastmod>2016-02-13</lastmod>
       
@@ -201,9 +201,9 @@
   
     
     <url>
-      <loc>/archive/</loc>
+      <loc>http://lordamit.github.io/archive/</loc>
       
-        <lastmod>2016-04-17T16:02:18+00:00</lastmod>
+        <lastmod>2016-04-17T16:20:28+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -216,7 +216,7 @@
   
     
     <url>
-      <loc>/contact/</loc>
+      <loc>http://lordamit.github.io/contact/</loc>
       
         <lastmod>2016-02-13</lastmod>
       
@@ -233,7 +233,7 @@
   
     
     <url>
-      <loc>/cv/</loc>
+      <loc>http://lordamit.github.io/cv/</loc>
       
         <lastmod>2016-02-13</lastmod>
       
@@ -248,86 +248,9 @@
   
     
     <url>
-      <loc>/disclosure/</loc>
+      <loc>http://lordamit.github.io/disclosure/</loc>
       
-        <lastmod>2016-04-17T16:02:18+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-  
-    
-    <url>
-      <loc>/feed.xml</loc>
-      
-        <lastmod>2016-04-17T16:02:18+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>/humans.txt</loc>
-      
-        <lastmod>2016-04-17T16:02:18+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>/blog/</loc>
-      
-        <lastmod>2016-04-17T16:02:18+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>/</loc>
-      
-        <lastmod>2016-04-17T16:02:18+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>/links.jsonp</loc>
-      
-        <lastmod>2016-04-17T16:02:18+00:00</lastmod>
+        <lastmod>2016-04-17T16:20:28+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -342,7 +265,84 @@
   
     
     <url>
-      <loc>/about/publications/</loc>
+      <loc>http://lordamit.github.io/feed.xml</loc>
+      
+        <lastmod>2016-04-17T16:20:28+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://lordamit.github.io/humans.txt</loc>
+      
+        <lastmod>2016-04-17T16:20:28+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://lordamit.github.io/blog/</loc>
+      
+        <lastmod>2016-04-17T16:20:28+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://lordamit.github.io/</loc>
+      
+        <lastmod>2016-04-17T16:20:28+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://lordamit.github.io/links.jsonp</loc>
+      
+        <lastmod>2016-04-17T16:20:28+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+    <url>
+      <loc>http://lordamit.github.io/about/publications/</loc>
       
         <lastmod>2016-02-13</lastmod>
       
@@ -359,26 +359,9 @@
   
     
     <url>
-      <loc>/readme/</loc>
+      <loc>http://lordamit.github.io/readme/</loc>
       
-        <lastmod>2016-04-17T16:02:18+00:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-  
-    
-    <url>
-      <loc>/rfeed.xml</loc>
-      
-        <lastmod>2016-04-17T16:02:18+00:00</lastmod>
+        <lastmod>2016-04-17T16:20:28+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -393,9 +376,26 @@
   
     
     <url>
-      <loc>/sitemap.xml</loc>
+      <loc>http://lordamit.github.io/rfeed.xml</loc>
       
-        <lastmod>2016-04-17T16:02:18+00:00</lastmod>
+        <lastmod>2016-04-17T16:20:28+00:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+    <url>
+      <loc>http://lordamit.github.io/sitemap.xml</loc>
+      
+        <lastmod>2016-04-17T16:20:28+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -416,9 +416,9 @@
   
     
     <url>
-      <loc>/blog/page2/</loc>
+      <loc>http://lordamit.github.io/blog/page2/</loc>
       
-        <lastmod>2016-04-17T16:02:18+00:00</lastmod>
+        <lastmod>2016-04-17T16:20:28+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -431,9 +431,9 @@
   
     
     <url>
-      <loc>/blog/page3/</loc>
+      <loc>http://lordamit.github.io/blog/page3/</loc>
       
-        <lastmod>2016-04-17T16:02:18+00:00</lastmod>
+        <lastmod>2016-04-17T16:20:28+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
