@@ -1,11 +1,6 @@
 callback([
 
   {
-    "text": "Example content",
-    "href": "http://lordamit.github.io/blog/2013/01/01/example-content/"
-  } ,
-
-  {
     "text": "Hello?",
     "href": "http://lordamit.github.io/blog/2014/11/14/hello/"
   } ,
@@ -13,11 +8,6 @@ callback([
   {
     "text": "Technical Session 1 at EATL Prothom Alo App Contest 2015",
     "href": "http://lordamit.github.io/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015/"
-  } ,
-
-  {
-    "text": "What's Jekyll?",
-    "href": "http://lordamit.github.io/blog/2015/01/31/whats-jekyll/"
   } ,
 
   {

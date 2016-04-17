@@ -5,7 +5,7 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-04-17T22:39:19+06:00</updated>
+    <updated>2016-04-17T23:57:18+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -295,11 +295,16 @@ Replace the version values with the values you found from the &lt;code class=&qu
 &lt;!-- more --&gt;
 Because I found that Blogspot is incredibly slow and rusty. It is of course, useful with all the widgets and such - but it still is &lt;i&gt;slow&lt;/i&gt;. That’s when Salman, a young fellow I consider a brother to me, suggested me about Octopress. I loved this, and here I made this blog. After an year, I decided to analyze the response. Here is the result right from Google Webmaster.&lt;/p&gt;
 
-&lt;p&gt;![Response rate from lordamit.blogspot.com](https://farm6.staticflickr.com/5634/22616887593_a9cf2518e6_b.jpg&lt;/p&gt;
-&lt;p&gt;Response rate from lordamit.blogspot.com&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://farm1.staticflickr.com/622/23244001195_f4c3e6ee33_b.jpg&quot; alt=&quot; Response rate from lordamit.github.io&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Response rate from lordamit.github.io&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://farm6.staticflickr.com/5634/22616887593_a9cf2518e6_b.jpg&quot; alt=&quot;Response rate from lordamit.blogspot.com&quot; /&gt;
+  
+  &lt;figcaption&gt;Figure: Response rate from lordamit.blogspot.com&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://farm1.staticflickr.com/622/23244001195_f4c3e6ee33_b.jpg&quot; alt=&quot; Response rate from lordamit.github.io&quot; /&gt;
+  
+  &lt;figcaption&gt;Figure: Response rate from lordamit.github.io&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;And that’s why, I switched from Blogspot to Octopress. :)&lt;/p&gt;
 </description>
@@ -412,27 +417,6 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
         <pubDate>Sun, 19 Jul 2015 22:09:04 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2015/07/19/singgaapur-sphr-1/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2015/07/19/singgaapur-sphr-1/</guid>
-      </item>
-    
-      <item>
-        <title>What&#39;s Jekyll?</title>
-        
-          <description>&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Lanyon.&lt;/p&gt;
-
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
-        
-        <pubDate>Sat, 31 Jan 2015 00:00:00 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2015/01/31/whats-jekyll/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2015/01/31/whats-jekyll/</guid>
       </item>
     
       <item>
