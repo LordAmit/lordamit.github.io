@@ -75,8 +75,9 @@ links:
   - title: <i class="iconside iconm-wordpress"></i> Old Blog
     url: https://lordamit.blogspot.com
     external: true
-  - title: <i class="iconside iconm-envelop"></i> Facebook
+  - title: <i class="iconside iconm-user-tie"></i> Facebook
     url: http://facebook.com/AmitPublic
+    external: true
   - title: <i class="iconside iconm-twitter"></i> Twitter
     url: https://twitter.com/lordamit
     external: true
