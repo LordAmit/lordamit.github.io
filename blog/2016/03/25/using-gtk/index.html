@@ -1,431 +1,612 @@
-
 <!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <meta property="fb:pages" content="283932261623796" />
-  <title>Using GTK, Glade and Codeblocks Together in Ubuntu - Level Beginner - LordAmit's Blog</title>
-  <meta name="author" content="Amit Seal Ami">
+<html lang="en-us">
+<!--
+====================================================
+Homepage: http://lordamit.github.io
+Credits: http://lordamit.github.io/disclosure
+====================================================
+-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!-- link href="http://gmpg.org/xfn/11" rel="profile" -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
+<!-- Enable responsiveness on mobile devices-->
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<title>
   
-  <meta name="description" content="Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 &hellip;">
+    Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner &middot; Amit's Blog
   
+</title>
 
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Search Engine Optimization -->
+<meta name="description" content="Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks! The major steps for setting up environment are : Install latest stable version of CodeBlocks (for...">
+<meta name="keywords" content="C, GTK, Ubuntu, Codeblocks, tutorial, beginner">
 
+
+
+
+<!-- Twitter Cards -->
   
-  <link rel="canonical" href="http://lordamit.github.io/blog/2016/03/25/using-gtk/">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="LordAmit's Blog" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@lordamit">
+<meta name="twitter:image" content="http://lordamit.github.io/images/sitelogo.png">
 
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-11383434-9']);
-    _gaq.push(['_trackPageview']);
 
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
+<meta name="twitter:title" content="Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner">
+<meta name="twitter:description" content="Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks! The major steps for setting up environment are : Install latest stable version of CodeBlocks (for...">
+<meta name="twitter:creator" content="@lordamit">
+<!-- End Twitter Cards -->
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner">
+<meta property="og:description" content="Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks! The major steps for setting up environment are : Install latest stable version of CodeBlocks (for...">
+<meta property="og:url" content="http://lordamit.github.io/blog/2016/03/25/using-gtk/">
+<meta property="og:site_name" content="Amit's Blog">
+
+<meta property="og:image" content="http://lordamit.github.io/images/sitelogo.png">
+
+<meta property="fb:app_id" content="1003108156422006">
+<meta property="fb:admins" content="817465054">
+
+<!-- Fonts -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400|Tangerine|Inconsolata">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/public/css/iconmoon.css">
+
+<!-- CSS -->
+<link rel="stylesheet" href="/public/css/style.min.css">
+
+<!-- Add-on CSS to override system-wide defaults -->
+<link rel="stylesheet" href="/public/css/addon.css">
+
+<!-- CSS override per page -->
+
+
+<!-- Java scripts -->
+<!-- <script src="/public/js/jquery.min.js"></script> -->
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://lordamit.github.io/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://lordamit.github.io/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://lordamit.github.io/images/icons/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://lordamit.github.io/images/icons/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://lordamit.github.io/images/icons/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://lordamit.github.io/images/icons/apple-touch-icon-144x144-precomposed.png">
+<!-- 180x180 (precomposed) for iPhone 6 -->
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://lordamit.github.io/images/icons/apple-touch-icon-180x180.png">
+<!-- 192x192 (precomposed) for Android -->
+<link rel="icon" type="image/png" sizes="192x192"  href="http://lordamit.github.io/images/icons/android-icon-192x192.png">
+
+
+<link rel="canonical" href="http://lordamit.github.io/blog/2016/03/25/using-gtk/">
+<link rel="author" href="AmitSeal?rel=author">
+
+<!-- RSS -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://lordamit.github.io/feed.xml">
+
 
 
 </head>
 
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">LordAmit's Blog</a></h1>
-  
-    <h2>Strategically Progressing through the Field of Knowledge</h2>
-  
-</hgroup>
 
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="sitesearch" value="lordamit.github.io">
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/useful-links">Useful Links</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-  <li><a href="/about">About</a></li>
-</ul>
+<body>
 
-</nav>
-  <div id="main">
-    <div id="content">
-      <div>
-<article class="hentry" role="article">
-  
-  <header>
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+<!--   <div class="sidebar-item">
+    <p></p>
+  </div> -->
+
+  <nav class="sidebar-nav">
+    <!-- a class="sidebar-nav-item" href="/">Home</a-->
+
     
-      <h1 class="entry-title">Using GTK, Glade and Codeblocks Together in Ubuntu - Level Beginner</h1>
+
     
+
     
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2016-03-25T02:41:03+06:00'><span class='date'><span class='date-month'>Mar</span> <span class='date-day'>25</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>2:41 am</span></time>
-        
-           | <a href="#disqus_thread"
-             data-disqus-identifier="http://lordamit.github.io">Comments</a>
-        
-      </p>
+            
+                    <a class="sidebar-nav-item" href="http://lordamit.github.io/"><i class="iconside iconm-home"></i> Home</a>
+                
     
-  </header>
+            
+                    <a class="sidebar-nav-item" href="http://lordamit.github.io/about/"><i class="iconside iconm-user"></i> About</a>
+                
+    
+            
+                    <a class="sidebar-nav-item" href="http://lordamit.github.io/blog/"><i class="iconside iconm-quill"></i> Blog</a>
+                
+    
+            
+                    <a class="sidebar-nav-item" href="http://lordamit.github.io/tags/"><i class="fa fa-tags"></i> Tags</a>
+                
+    
+            
+                    <a class="sidebar-nav-item" href="http://lordamit.github.io/archive/"><i class="fa fa-archive"></i> Archive</a>
+                
+    
+            
+                    <a class="sidebar-nav-item" href="https://lordamit.blogspot.com" target="_blank"><i class="iconside iconm-wordpress"></i> Old Blog</a>
+                
+    
+            
+                    <a class="sidebar-nav-item" href="https://twitter.com/lordamit" target="_blank"><i class="iconside iconm-twitter"></i> Twitter</a>
+                
+    
+            
+                    <a class="sidebar-nav-item" href="http://lordamit.github.io/feed.xml"><i class="iconside iconm-feed2"></i> Feed</a>
+                
+         
+
+    
+  </nav>
+
+<hr class="gh">
 
 
-<div class="entry-content"><p>Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!</p>
+<div id="searchbox2" style="margin:0 auto; display: table;">
+<div class="searchcont2">
+    <!-- span class="searchicon2"><i class="fa fa-search fa-2x"></i></span -->
+    <form role="search" method="get" action="http://lordamit.github.io/cse/">
+        <input id="searchString2" name="searchString2"
+               placeholder=" Search" type="text">
+    </form>
+</div>
+</div>
+
+
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Amit's Blog</a>
+            <!-- <small></small> -->
+            <div class="headicons">
+              <small><a href="http://lordamit.github.io/about" rel="me" title="About"><i class="iconm iconm-user"></i></a></small>
+             <!-- <small><a href="http://lordamit.github.io/blog" rel="me" title="Blog"><i class="iconm iconm-quill"></i></a></small> -->
+             <!-- <small><a href="http://lordamit.github.io/contact" rel="me" title="Contact"><i class="iconm iconm-envelop"></i></a></small> -->
+            </div>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <div class="post">
+  <h1 itemprop="name" class="post-title">Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</h1>
+  <span class="post-date" itemprop="datePublished" content="2016-03-25"><i class="fa fa-calendar" title="Date published"> <a class="permalink" href="http://lordamit.github.io/blog/2016/03/25/using-gtk/" itemprop="url" title="Permanent link to this post">25 Mar 2016</a> </i></span>
+  
+  <span class="post-tags" itemprop="keywords" content="C, GTK, Ubuntu, Codeblocks, tutorial, and beginner"><i class="fa fa-tags" title="page tags"></i> <a href="http://lordamit.github.io/tags/#C" title="Pages tagged C" rel="tag">C</a> &bull;  <a href="http://lordamit.github.io/tags/#GTK" title="Pages tagged GTK" rel="tag">GTK</a> &bull;  <a href="http://lordamit.github.io/tags/#Ubuntu" title="Pages tagged Ubuntu" rel="tag">Ubuntu</a> &bull;  <a href="http://lordamit.github.io/tags/#Codeblocks" title="Pages tagged Codeblocks" rel="tag">Codeblocks</a> &bull;  <a href="http://lordamit.github.io/tags/#tutorial" title="Pages tagged tutorial" rel="tag">tutorial</a> &bull;  <a href="http://lordamit.github.io/tags/#beginner" title="Pages tagged beginner" rel="tag">beginner</a></span>
+    
+      <span class="social-icons"><a href="https://twitter.com/share?text=Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner&amp;url=http://lordamit.github.io/blog/2016/03/25/using-gtk/&amp;via=lordamit"  class="social-icons" target="_blank" title="Share on twitter"> <i class="fa fa-twitter meta"></i></a>
+<a href="https://plus.google.com/share?url=http://lordamit.github.io/blog/2016/03/25/using-gtk/"  class="social-icons" target="_blank" title="Share on Google+"> <i class="fa fa-google-plus"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://lordamit.github.io/blog/2016/03/25/using-gtk/"  class="social-icons" target="_blank" title="Share on LinkedIn"> <i class="fa fa-linkedin"></i></a>
+<a href="http://lordamit.github.io/blog/2016/03/25/using-gtk/#disqus_thread" class="social-icons" title="Comments"><i class="fa fa-comments"></i></a>
+
+<a href="javascript:window.print()" class="social-icons" title="Printer friendly format"><i class="fa fa-print"></i></a>
+</span>
+
+    
+  <p>Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!</p>
 
 <p>The major steps for <strong>setting up environment</strong> are :<a name="tocForGtk"></a></p>
 
 <ol>
-<li><a href="#latestCodeBlocks">Install latest stable version of CodeBlocks (for me, 16.01)</a></li>
-<li><a href="#latestGtkLibraries">Install GTK-3.0 related libraries</a></li>
-<li><a href="#modifyScripts">Modify the Template Script in CodeBlocks</a></li>
-<li><a href="#installingGlade">Install Glade</a></li>
+  <li><a href="#latestCodeBlocks">Install latest stable version of CodeBlocks (for me, 16.01)</a></li>
+  <li><a href="#latestGtkLibraries">Install GTK-3.0 related libraries</a></li>
+  <li><a href="#modifyScripts">Modify the Template Script in CodeBlocks</a></li>
+  <li><a href="#installingGlade">Install Glade</a></li>
 </ol>
-
 
 <p>The major steps for creating an UI are:</p>
 
 <ol>
-<li><a href="#designUsingGlade">Create design using Glade</a></li>
-<li><a href="#cCodeExample">Connect it to a C code</a></li>
+  <li><a href="#designUsingGlade">Create design using Glade</a></li>
+  <li><a href="#cCodeExample">Connect it to a C code</a></li>
 </ol>
 
-
 <!-- more -->
+<h2 id="latest-codeblocks-a-namelatestcodeblocksa">Latest CodeBlocks! <a name="latestCodeBlocks"></a></h2>
+<p>Installing CodeBlocks from PPA</p>
 
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">sudo apt-add-repository ppa:damien-moore/codeblocks-stable
+sudo apt-get update
+sudo apt-get install codeblocks</code></pre></figure>
 
-<h2>Latest CodeBlocks! <a name="latestCodeBlocks"></a></h2>
+<h2 id="gtk-30-libraries-a-namelatestgtklibrariesa8593tocforgtk">GTK-3.0 Libraries! <a name="latestGtkLibraries"></a><a href="#tocForGtk">↑</a></h2>
+<p>bash Installing GTK-3.0 libraries</p>
 
-<figure class='code'><figcaption><span>Installing CodeBlocks from PPA</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class='bash'><span class='line'>sudo apt-add-repository ppa:damien-moore/codeblocks-stable
-</span><span class='line'>sudo apt-get update
-</span><span class='line'>sudo apt-get install codeblocks
-</span></code></pre></td></tr></table></div></figure>
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">sudo apt-get install libgtk3.0-dev
+sudo apt-get install libgtk3.0-cil libgtk3.0-cil-dev</code></pre></figure>
 
-
-<h2>GTK-3.0 Libraries! <a name="latestGtkLibraries"></a><a href="#tocForGtk">&#8593;</a></h2>
-
-<figure class='code'><figcaption><span>Installing GTK-3.0 libraries</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class='bash'><span class='line'>sudo apt-get install libgtk3.0-dev
-</span><span class='line'>sudo apt-get install libgtk3.0-cil libgtk3.0-cil-dev
-</span></code></pre></td></tr></table></div></figure>
-
-
-<h2>Modify Template Script in CodeBlocks <a name="modifyScripts"></a><a href="#tocForGtk">&#8593;</a></h2>
+<h2 id="modify-template-script-in-codeblocks-a-namemodifyscriptsa8593tocforgtk">Modify Template Script in CodeBlocks <a name="modifyScripts"></a><a href="#tocForGtk">↑</a></h2>
 
 <p>This is the tricky part. You see, the CodeBlocks still uses GTK+-2.0 libraries by default for the GTK+ projects in its template. You need to edit the template file and modify the parts where it will reference the GTK-3.0 libraries instead of the libraries from version 2.</p>
 
-<p>start with this command:</p>
+<p>start with this command:
+Use pkg-config to check versions</p>
 
-<figure class='code'><figcaption><span>Use pkg-config to check versions</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='bash'><span class='line'>pkg-config --cflags --libs gtk+-3.0
-</span></code></pre></td></tr></table></div></figure>
-
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">pkg-config --cflags --libs gtk+-3.0</code></pre></figure>
 
 <p>See the output? It is showing the necessary files you need to successfully build a gtk based app.
 For me, it is:</p>
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='bash'><span class='line'>-pthread -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/mirclient -I/usr/include/mircommon -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/pango-1.0 -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng12 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -lgtk-3 -lgdk-3 -lpangocairo-1.0 -lpango-1.0 -latk-1.0 -lcairo-gobject -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0
-</span></code></pre></td></tr></table></div></figure>
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">-pthread -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/mirclient -I/usr/include/mircommon -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/pango-1.0 -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng12 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -lgtk-3 -lgdk-3 -lpangocairo-1.0 -lpango-1.0 -latk-1.0 -lcairo-gobject -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0</code></pre></figure>
 
+<p>Now, Open CodeBlocks. Right click on <code class="highlighter-rouge">New &gt; Project &gt; GTK+ Project</code>, <code class="highlighter-rouge">edit this script</code>. It may throw an error saying it can not find the file, making it in read-only mode. Hence, go to <code class="highlighter-rouge">~/.local/share/codeblocks/templates/wizard/gtk</code> and open the <code class="highlighter-rouge">wizard.script</code>.
+Replace the version values with the values you found from the <code class="highlighter-rouge">pkg-config</code> part. For example,</p>
 
-<p>Now, Open CodeBlocks. Right click on <code>New &gt; Project &gt; GTK+ Project</code>, <code>edit this script</code>. It may throw an error saying it can not find the file, making it in read-only mode. Hence, go to <code>~/.local/share/codeblocks/templates/wizard/gtk</code> and open the <code>wizard.script</code>.
-Replace the version values with the values you found from the <code>pkg-config</code> part. For example,</p>
-
-<figure class='code'><figcaption><span>modifying versions from wizard.script file - before change</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">VerifyFile</span><span class="p">(</span><span class="n">dir_nomacro_inc</span> <span class="o">+</span> <span class="n">wxFILE_SEP_PATH</span> <span class="o">+</span> <span class="n">_T</span><span class="p">(</span><span class="s">&quot;gtk-2.0&quot;</span><span class="p">)</span>
-</span></code></pre></td></tr></table></div></figure>
-
+<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="cp"># modifying versions from wizard.script file - before change
+</span>
+<span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">VerifyFile</span><span class="p">(</span><span class="n">dir_nomacro_inc</span> <span class="o">+</span> <span class="n">wxFILE_SEP_PATH</span> <span class="o">+</span> <span class="n">_T</span><span class="p">(</span><span class="s">"gtk-2.0"</span><span class="p">)))</span></code></pre></figure>
 
 <p>will become</p>
 
-<figure class='code'><figcaption><span>modifying versions from wizard.script file - after change</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">VerifyFile</span><span class="p">(</span><span class="n">dir_nomacro_inc</span> <span class="o">+</span> <span class="n">wxFILE_SEP_PATH</span> <span class="o">+</span> <span class="n">_T</span><span class="p">(</span><span class="s">&quot;gtk-3.0&quot;</span><span class="p">)</span>
-</span></code></pre></td></tr></table></div></figure>
-
+<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="cp"># c modifying versions from wizard.script file - after change
+</span>
+<span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">VerifyFile</span><span class="p">(</span><span class="n">dir_nomacro_inc</span> <span class="o">+</span> <span class="n">wxFILE_SEP_PATH</span> <span class="o">+</span> <span class="n">_T</span><span class="p">(</span><span class="s">"gtk-3.0"</span><span class="p">)))</span></code></pre></figure>
 
 <p>In case you are clueless, you can take a look at my <a href="https://gist.github.com/lordamit/fc2b608f15047d9f672e">wizard.script</a>.</p>
 
-<h2>Installing Glade <a name="installingGlade"></a> <a href="#tocForGtk">&#8593;</a></h2>
+<h2 id="installing-glade-a-nameinstallinggladea-8593tocforgtk">Installing Glade <a name="installingGlade"></a> <a href="#tocForGtk">↑</a></h2>
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='bash'><span class='line'>sudo apt-get install glade
-</span></code></pre></td></tr></table></div></figure>
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell">sudo apt-get install glade</code></pre></figure>
 
+<h2 id="create-design-using-glade-a-namedesignusinggladea8593tocforgtk">Create Design Using Glade <a name="designUsingGlade"></a><a href="#tocForGtk">↑</a></h2>
 
-<h2>Create Design Using Glade <a name="designUsingGlade"></a><a href="#tocForGtk">&#8593;</a></h2>
-
-<p>Open glade, drag and drop a <code>Window</code> top-level container. Add some more things if you want inside it. From the properties pane at the right side, go to <code>general</code> tab, and write <code>mywindow</code> in the ID.</p>
+<p>Open glade, drag and drop a <code class="highlighter-rouge">Window</code> top-level container. Add some more things if you want inside it. From the properties pane at the right side, go to <code class="highlighter-rouge">general</code> tab, and write <code class="highlighter-rouge">mywindow</code> in the ID.</p>
 
 <p>The key things to remember here are:</p>
 
 <ol>
-<li>You got to have a Window ID, and it must be used in the C code</li>
-<li>You have to save it in GtkBuilder format (<code>file &gt; save as</code>)</li>
+  <li>You got to have a Window ID, and it must be used in the C code</li>
+  <li>You have to save it in GtkBuilder format (<code class="highlighter-rouge">file &gt; save as</code>)</li>
 </ol>
 
+<h2 id="c-code-example-a-nameccodeexamplea8593tocforgtk">C code example <a name="cCodeExample"></a><a href="#tocForGtk">↑</a></h2>
 
-<h2>C code example <a name="cCodeExample"></a><a href="#tocForGtk">&#8593;</a></h2>
+<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="cp"># C Code that includes a testGlade.glade file
+# for designing UI
+#include&lt;gtk/gtk.h&gt;
+</span>
+<span class="kt">int</span> <span class="n">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="o">*</span><span class="n">argv</span><span class="p">[]){</span>
+    <span class="n">GtkBuilder</span> <span class="o">*</span><span class="n">gtkBuilder</span><span class="p">;</span>
+    <span class="n">GtkWidget</span> <span class="o">*</span><span class="n">window</span><span class="p">;</span>
 
-<figure class='code'><figcaption><span>C Code that includes a testGlade.glade file for designing UI</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="cp">#include&lt;gtk/gtk.h&gt;</span>
-</span><span class='line'>
-</span><span class='line'><span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="o">*</span><span class="n">argv</span><span class="p">[]){</span>
-</span><span class='line'>    <span class="n">GtkBuilder</span> <span class="o">*</span><span class="n">gtkBuilder</span><span class="p">;</span>
-</span><span class='line'>    <span class="n">GtkWidget</span> <span class="o">*</span><span class="n">window</span><span class="p">;</span>
-</span><span class='line'>
-</span><span class='line'>    <span class="n">gtk_init</span><span class="p">(</span><span class="o">&amp;</span><span class="n">argc</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">argv</span><span class="p">);</span>
-</span><span class='line'>
-</span><span class='line'>    <span class="n">gtkBuilder</span> <span class="o">=</span> <span class="n">gtk_builder_new</span><span class="p">();</span>
-</span><span class='line'>    <span class="n">gtk_builder_add_from_file</span><span class="p">(</span><span class="n">gtkBuilder</span><span class="p">,</span> <span class="s">&quot;testGlade.glade&quot;</span><span class="p">,</span> <span class="nb">NULL</span><span class="p">);</span>
-</span><span class='line'>    <span class="n">window</span> <span class="o">=</span> <span class="n">GTK_WIDGET</span><span class="p">(</span><span class="n">gtk_builder_get_object</span><span class="p">(</span><span class="n">gtkBuilder</span><span class="p">,</span> <span class="s">&quot;mywindow&quot;</span><span class="p">));</span>
-</span><span class='line'>
-</span><span class='line'>    <span class="n">g_object_unref</span><span class="p">(</span><span class="n">G_OBJECT</span><span class="p">(</span><span class="n">gtkBuilder</span><span class="p">));</span>
-</span><span class='line'>    <span class="n">gtk_widget_show</span><span class="p">(</span><span class="n">window</span><span class="p">);</span>
-</span><span class='line'>    <span class="n">gtk_main</span><span class="p">();</span>
-</span><span class='line'>
-</span><span class='line'>    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-</span><span class='line'><span class="p">}</span>
-</span></code></pre></td></tr></table></div></figure>
+    <span class="n">gtk_init</span><span class="p">(</span><span class="o">&amp;</span><span class="n">argc</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">argv</span><span class="p">);</span>
 
+    <span class="n">gtkBuilder</span> <span class="o">=</span> <span class="n">gtk_builder_new</span><span class="p">();</span>
+    <span class="n">gtk_builder_add_from_file</span><span class="p">(</span><span class="n">gtkBuilder</span><span class="p">,</span> <span class="s">"testGlade.glade"</span><span class="p">,</span> <span class="nb">NULL</span><span class="p">);</span>
+    <span class="n">window</span> <span class="o">=</span> <span class="n">GTK_WIDGET</span><span class="p">(</span><span class="n">gtk_builder_get_object</span><span class="p">(</span><span class="n">gtkBuilder</span><span class="p">,</span> <span class="s">"mywindow"</span><span class="p">));</span>
+
+    <span class="n">g_object_unref</span><span class="p">(</span><span class="n">G_OBJECT</span><span class="p">(</span><span class="n">gtkBuilder</span><span class="p">));</span>
+    <span class="n">gtk_widget_show</span><span class="p">(</span><span class="n">window</span><span class="p">);</span>
+    <span class="n">gtk_main</span><span class="p">();</span>
+
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span></code></pre></figure>
 
 <p>Compile and run.  Comment below if this works for you or if you got a feedback! share your screen shot of what you built :)</p>
-</div>
 
-
-  <footer>
-    <p class="meta">
-      
+  <hr>
   
-
-<span class="byline author vcard">Posted by <span class="fn">Amit Seal Ami</span></span>
-
-      
-
-
-
-
-<time class='entry-date' datetime='2016-03-25T02:41:03+06:00'><span class='date'><span class='date-month'>Mar</span> <span class='date-day'>25</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>2:41 am</span></time>
-      
-
-<span class="categories">
+  <span class="post-date metafoot" itemprop="datePublished" content="2016-03-25"><i class="fa fa-calendar" title="Date published"> <a class="permalink" href="http://lordamit.github.io/blog/2016/03/25/using-gtk/" itemprop="url" title="Permanent link to this post">25 Mar 2016</a> </i></span>
   
-    <a class='category' href='/blog/categories/beginner/'>beginner</a>, <a class='category' href='/blog/categories/c/'>c</a>, <a class='category' href='/blog/categories/codeblocks/'>codeblocks</a>, <a class='category' href='/blog/categories/gtk/'>gtk</a>, <a class='category' href='/blog/categories/tutorial/'>tutorial</a>, <a class='category' href='/blog/categories/ubuntu/'>ubuntu</a>
-  
+  <span class="post-tags" itemprop="keywords" content="C, GTK, Ubuntu, Codeblocks, tutorial, and beginner"><i class="fa fa-tags" title="page tags"></i> <a href="http://lordamit.github.io/tags/#C" title="Pages tagged C" rel="tag">C</a> &bull;  <a href="http://lordamit.github.io/tags/#GTK" title="Pages tagged GTK" rel="tag">GTK</a> &bull;  <a href="http://lordamit.github.io/tags/#Ubuntu" title="Pages tagged Ubuntu" rel="tag">Ubuntu</a> &bull;  <a href="http://lordamit.github.io/tags/#Codeblocks" title="Pages tagged Codeblocks" rel="tag">Codeblocks</a> &bull;  <a href="http://lordamit.github.io/tags/#tutorial" title="Pages tagged tutorial" rel="tag">tutorial</a> &bull;  <a href="http://lordamit.github.io/tags/#beginner" title="Pages tagged beginner" rel="tag">beginner</a></span>
+    
+      <span class="social-icons"><a href="https://twitter.com/share?text=Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner&amp;url=http://lordamit.github.io/blog/2016/03/25/using-gtk/&amp;via=lordamit"  class="social-icons" target="_blank" title="Share on twitter"> <i class="fa fa-twitter meta"></i></a>
+<a href="https://plus.google.com/share?url=http://lordamit.github.io/blog/2016/03/25/using-gtk/"  class="social-icons" target="_blank" title="Share on Google+"> <i class="fa fa-google-plus"></i></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://lordamit.github.io/blog/2016/03/25/using-gtk/"  class="social-icons" target="_blank" title="Share on LinkedIn"> <i class="fa fa-linkedin"></i></a>
+<a href="http://lordamit.github.io/blog/2016/03/25/using-gtk/#disqus_thread" class="social-icons" title="Comments"><i class="fa fa-comments"></i></a>
+
+<a href="javascript:window.print()" class="social-icons" title="Printer friendly format"><i class="fa fa-print"></i></a>
 </span>
 
-
-    </p>
     
-      <div class="sharing">
-  
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://lordamit.github.io/blog/2016/03/25/using-gtk/" data-via="lordamit" data-counturl="http://lordamit.github.io/blog/2016/03/25/using-gtk/" >Tweet</a>
-  
-  
-  <div class="g-plusone" data-size="medium"></div>
-  
-  
-    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
-  
 </div>
 
-    
-    <p class="meta">
-      
-        <a class="basic-alignment left" href="/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/" title="Previous Post: Celebrating Intl. Women's day at AIUB">&laquo; Celebrating Intl. Women's day at AIUB</a>
-      
-      
-    </p>
-  </footer>
-</article>
 
-  <section>
-    <h1>Comments</h1>
-    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <div class="printMsg">
+<table>
+  <thead>
+    <tr>
+      <th><i class="fa fa-twitter">@lordamit</i></th>
+      <th>QR code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><i class="fa fa-anchor"> http://lordamit.github.io/blog/2016/03/25/using-gtk/</i><br /><i class="fa fa-calendar"> 25-Mar-16</i><br /><i class="fa fa-creative-commons"> BY-NC-SA 4.0 http://lordamit.github.io/disclosure</i></td>
+      <td><img src="https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=http://lordamit.github.io/blog/2016/03/25/using-gtk/&choe=UTF-8" alt="http://lordamit.github.io/blog/2016/03/25/using-gtk/" /></td>
+    </tr>
+  </tbody>
+</table>
 </div>
-  </section>
 
-</div>
 
-<aside class="sidebar">
+
+<div class="page-break"></div>
+<div class="related">
+  <h2>Related Posts</h2>
+<ul>
   
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
     
-      <li class="post">
-        <a href="/blog/2016/03/25/using-gtk/">Using GTK, Glade and Codeblocks Together in Ubuntu - Level Beginner</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/">Celebrating Intl. Women's Day at AIUB</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/">Remix OS Resident Mode in Virtual Machine</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/">And That Is Why I Switched to Octopress From Blogger!</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/">Review: Mi Band and Xiaomi Piston Basic Edition Headphone</a>
-      </li>
-    
-  </ul>
-</section>
-
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating...</li>
-  </ul>
   
-  <a href="https://github.com/lordamit">@lordamit</a> on GitHub
-  
-  <script type="text/javascript">
-    $(document).ready(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
-
-        github.showRepos({
-            user: 'lordamit',
-            count: 3,
-            skip_forks: true,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/javascripts/github.js" type="text/javascript"> </script>
-</section>
-
-
-
-
-
-  
-</aside>
-
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2016 - Amit Seal Ami -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-<script type="text/javascript">
-      var disqus_shortname = 'lordamitgithubio';
-      
+     
+       
         
-        // var disqus_developer = 1;
-        var disqus_identifier = 'http://lordamit.github.io/blog/2016/03/25/using-gtk/';
-        var disqus_url = 'http://lordamit.github.io/blog/2016/03/25/using-gtk/';
-        var disqus_script = 'embed.js';
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
       
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
+    
+  
+     
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+          <li><a href="http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/">Remix OS Resident Mode in Virtual Machine</a><br /></li>
+          
+    
+  
+     
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+      
+    
+  
+     
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+      
+    
+  
+     
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+      
+    
+  
+     
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+      
+    
+  
+     
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+      
+    
+  
+     
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+      
+    
+  
+     
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+      
+    
+  
+     
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+       
+        
+      
+    
+  
+</ul>
+</div>
+
+<div class="prevnext">
+  
+    <a class="prevnext-item older" href="http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/" title="Celebrating Intl. Women's day at AIUB">Older</a>
+  
+  
+    <span class="prevnext-item older">Newer</span>
+  
+</div>
+
+<div class="page-break"></div>
+
+<div id="disqus_thread"></div><!-- /#disqus_thread -->
+
+                    <div class="custom-footer" style="display: block;">
+            <div class="footer-social-icons">
+            <ul class="social-icons">
+            
+              
+            <li><a href="https://twitter.com/lordamit" rel="me"  target="_blank"  class="social-icons" title="Follow me @lordamit"> <i class="fa fa-twitter-square fa-2x"></i></a></li>
+            
+              
+            <li><a href="https://plus.google.com/+AmitSeal" rel="me"  target="_blank"  class="social-icons" title="Follow me +AmitSeal"> <i class="fa fa-google-plus-square fa-2x"></i></a></li>
+            
+              
+            <li><a href="https://github.com/lordamit" rel="me"  target="_blank"  class="social-icons" title="Code repository"> <i class="fa fa-github-square fa-2x"></i></a></li>
+            
+              
+            <li><a href="http://lordamit.github.io/contact/" rel="me"  class="social-icons" title="Reach Us"> <i class="fa fa-envelope-square fa-2x"></i></a></li>
+            
+              
+            <li><a href="http://lordamit.github.io/feed.xml" rel="me"  class="social-icons" title="Subscribe to RSS"> <i class="fa fa-rss-square fa-2x"></i></a></li>
+            
+            </ul>
+            </div>
+            <h6 class="text-footer"><a rel="license" href="http://lordamit.github.io/disclosure/" title="CC BY-NC-SA 4.0 License, link to site disclosure" class="social-icon"><i class="fa fa-creative-commons"></i></a> <a rel="license" href="http://lordamit.github.io/disclosure/" title="CC BY-NC-SA 4.0 License, link to site disclosure">2016-2016</a>: <a href="http://lordamit.github.io" title="Home">http://lordamit.github.io</a> | <a href="http://lordamit.github.io/about/" rel="me">About</a></h6>
+            </div>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+    
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-11383434-9']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 
 
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id; js.async = true;
-  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+<!-- gist embed -->
 
 
+<!-- disqus comments -->
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'lordamitgithubio'; 
+    var disqus_identifier = 'http://lordamit.github.io/blog/2016/03/25/using-gtk/';
 
-  <script type="text/javascript">
+    /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
-      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
-      script.src = 'https://apis.google.com/js/plusone.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
-  </script>
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 
 </body>
