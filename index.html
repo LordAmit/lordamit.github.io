@@ -1,577 +1,401 @@
-
 <!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <meta property="fb:pages" content="283932261623796" />
-  <title>LordAmit's Blog</title>
-  <meta name="author" content="Amit Seal Ami">
+<html lang="en-us">
+<!--
+====================================================
+Homepage: 
+Credits: /disclosure
+====================================================
+-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!-- link href="http://gmpg.org/xfn/11" rel="profile" -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
+<!-- Enable responsiveness on mobile devices-->
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<title>
   
-  <meta name="description" content="Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 &hellip;">
+    Personal Homepage of Amit &middot; Amit's Blog
   
+</title>
 
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Search Engine Optimization -->
+<meta name="description" content="">
 
+
+
+
+
+<!-- Twitter Cards -->
   
-  <link rel="canonical" href="http://lordamit.github.io/">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="LordAmit's Blog" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@lordamit">
+<meta name="twitter:image" content="/img/sitelogo.png">
 
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-11383434-9']);
-    _gaq.push(['_trackPageview']);
 
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
+<meta name="twitter:title" content="Personal Homepage of Amit">
+<meta name="twitter:description" content="">
+<meta name="twitter:creator" content="@lordamit">
+<!-- End Twitter Cards -->
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Personal Homepage of Amit">
+<meta property="og:description" content="">
+<meta property="og:url" content="/index.html">
+<meta property="og:site_name" content="Amit's Blog">
+
+<meta property="og:image" content="/img/sitelogo.png">
+
+<meta property="fb:app_id" content="1003108156422006">
+<meta property="fb:admins" content="817465054">
+
+<!-- Fonts -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400|Tangerine|Inconsolata">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/public/css/iconmoon.css">
+
+<!-- CSS -->
+<link rel="stylesheet" href="/public/css/style.min.css">
+
+<!-- Add-on CSS to override system-wide defaults -->
+<link rel="stylesheet" href="/public/css/addon.css">
+
+<!-- CSS override per page -->
+
+
+<!-- Java scripts -->
+<!-- <script src="/public/js/jquery.min.js"></script> -->
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="/images/icons/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/icons/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/icons/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/icons/apple-touch-icon-144x144-precomposed.png">
+<!-- 180x180 (precomposed) for iPhone 6 -->
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/images/icons/apple-touch-icon-180x180.png">
+<!-- 192x192 (precomposed) for Android -->
+<link rel="icon" type="image/png" sizes="192x192"  href="/images/icons/android-icon-192x192.png">
+
+
+<link rel="canonical" href="/">
+<link rel="author" href="AmitSeal?rel=author">
+
+<!-- RSS -->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+
 
 
 </head>
 
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">LordAmit's Blog</a></h1>
-  
-    <h2>Strategically Progressing through the Field of Knowledge</h2>
-  
-</hgroup>
 
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="sitesearch" value="lordamit.github.io">
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/useful-links">Useful Links</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-  <li><a href="/about">About</a></li>
-</ul>
+<body>
 
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+<!--   <div class="sidebar-item">
+    <p></p>
+  </div> -->
+
+  <nav class="sidebar-nav">
+    <!-- a class="sidebar-nav-item" href="/">Home</a-->
+
     
-      <h1 class="entry-title"><a href="/blog/2016/03/25/using-gtk/">Using GTK, Glade and Codeblocks Together in Ubuntu - Level Beginner</a></h1>
+
     
+
     
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2016-03-25T02:41:03+06:00'><span class='date'><span class='date-month'>Mar</span> <span class='date-day'>25</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>2:41 am</span></time>
-        
-           | <a href="/blog/2016/03/25/using-gtk/#disqus_thread"
-             data-disqus-identifier="http://lordamit.github.io/blog/2016/03/25/using-gtk/">Comments</a>
-        
-      </p>
+            
+                    <a class="sidebar-nav-item" href="/"><i class="iconside iconm-home"></i> Home</a>
+                
     
-  </header>
+            
+                    <a class="sidebar-nav-item" href="/about/"><i class="iconside iconm-user"></i> About</a>
+                
+    
+            
+                    <a class="sidebar-nav-item" href="/blog/"><i class="iconside iconm-quill"></i> Blog</a>
+                
+    
+            
+                    <a class="sidebar-nav-item" href="/tags/"><i class="fa fa-tags"></i> Tags</a>
+                
+    
+            
+                    <a class="sidebar-nav-item" href="/archive/"><i class="fa fa-archive"></i> Archive</a>
+                
+    
+            
+                    <a class="sidebar-nav-item" href="https://lordamit.blogspot.com" target="_blank"><i class="iconside iconm-wordpress"></i> Old Blog</a>
+                
+    
+            
+                    <a class="sidebar-nav-item" href="https://twitter.com/lordamit" target="_blank"><i class="iconside iconm-twitter"></i> Twitter</a>
+                
+    
+            
+                    <a class="sidebar-nav-item" href="/feed.xml"><i class="iconside iconm-feed2"></i> Feed</a>
+                
+         
+
+    
+  </nav>
+
+<hr class="gh">
 
 
-  <div class="entry-content"><p>Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!</p>
+<div id="searchbox2" style="margin:0 auto; display: table;">
+<div class="searchcont2">
+    <!-- span class="searchicon2"><i class="fa fa-search fa-2x"></i></span -->
+    <form role="search" method="get" action="/cse/">
+        <input id="searchString2" name="searchString2"
+               placeholder=" Search" type="text">
+    </form>
+</div>
+</div>
 
-<p>The major steps for <strong>setting up environment</strong> are :<a name="tocForGtk"></a></p>
+
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Amit's Blog</a>
+            <!-- <small></small> -->
+            <div class="headicons">
+              <small><a href="/about" rel="me" title="About"><i class="iconm iconm-user"></i></a></small>
+             <!-- <small><a href="/blog" rel="me" title="Blog"><i class="iconm iconm-quill"></i></a></small> -->
+             <!-- <small><a href="/contact" rel="me" title="Contact"><i class="iconm iconm-envelop"></i></a></small> -->
+            </div>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <!--## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
+
+Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
+
+* add-ons by [Samir Amin](http://sbamin.com)
+* [Site features](/disclosure#i-classfa-fa-thumbs-o-up-credits-for-site-featuresi)
+* License: Open sourced under the [MIT license](http://sbamin.com/disclosure/#theme-major-credit--license).
+
+Maximum four posts on front page where first two posts are featured, and remaining are date sorted.
+-->
+
+<!-- Twitter stream will show up here if `twitter_widget_id` is present is `_config.yml`. [Demo](http://sbamin.com) -->
+
+<div class="posts">
+  
+</div>
+
+<div class="posts">
+  
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/blog/2016/03/24/using-gtk/">
+        Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner
+      </a>
+    </h1>
+
+  <span class="post-date indexpg" itemprop="datePublished" content="2016-03-24"><i class="fa fa-calendar" title="Date published"> 24 Mar 2016</i></span>
+
+ Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!
+
+The major steps for <strong>setting up environment</strong> are :<a name="tocForGtk"></a>
 
 <ol>
-<li><a href="#latestCodeBlocks">Install latest stable version of CodeBlocks (for me, 16.01)</a></li>
-<li><a href="#latestGtkLibraries">Install GTK-3.0 related libraries</a></li>
-<li><a href="#modifyScripts">Modify the Template Script in CodeBlocks</a></li>
-<li><a href="#installingGlade">Install Glade</a></li>
+  <li><a href="#latestCodeBlocks">Install latest stable version of CodeBlocks (for me, 16.01)</a></li>
+  <li><a href="#latestGtkLibraries">Install GTK-3.0 related libraries</a></li>
+  <li><a href="#modifyScripts">Modify the Template Script in CodeBlocks</a></li>
+  <li><a href="#installingGlade">Install Glade</a></li>
 </ol>
 
-
-<p>The major steps for creating an UI are:</p>
+The major steps for creating an UI are:
 
 <ol>
-<li><a href="#designUsingGlade">Create design using Glade</a></li>
-<li><a href="#cCodeExample">Connect it to a C code</a></li>
+  <li><a href="#designUsingGlade">Create design using Glade</a></li>
+  <li><a href="#cCodeExample">Connect it to a C code</a></li>
 </ol>
 
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2016/03/25/using-gtk/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/">Celebrating Intl. Women's Day at AIUB</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2016-03-20T16:48:51+06:00'><span class='date'><span class='date-month'>Mar</span> <span class='date-day'>20</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>4:48 pm</span></time>
-        
-           | <a href="/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/#disqus_thread"
-             data-disqus-identifier="http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>On 20th March, 2016 - I gave a speech at American International University-Bangladesh, in an event to celebrate International Women&rsquo;s Day and to encourage women in technical fields. This event was organized by IEEE AIUB Student Branch and Google Women TechMakers Bangladesh group.</p>
-
-<p>I talked about the past, and the present, and shared my own experience in software industry, so that together, men and women can create a better future.</p>
-
-<p>You can view the slides here, but it is not supposed to be completely understandable without my speech. But oh well!</p>
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/">Remix OS Resident Mode in Virtual Machine</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2016-03-04T11:17:11+06:00'><span class='date'><span class='date-month'>Mar</span> <span class='date-day'>4</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>11:17 am</span></time>
-        
-           | <a href="/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/#disqus_thread"
-             data-disqus-identifier="http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.
-<img class="center" src="https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg" width="1024" height="576" title="'Remix OS in Virtual Machine'" ></p>
-
-<p>How?</p>
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/">And That Is Why I Switched to Octopress From Blogger!</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2015-11-23T19:37:22+06:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>23</span><span class='date-suffix'>rd</span>, <span class='date-year'>2015</span></span> <span class='time'>7:37 pm</span></time>
-        
-           | <a href="/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/#disqus_thread"
-             data-disqus-identifier="http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>I switched from Blogspot to Octopress about a year ago. Even though my blogspot site was search engine friendly, was getting about 10K views per month when I was regular, and contained details about all of my useful works - I still decided to switch to Octopress - for a fresh start.  Why?</p>
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/">Review: Mi Band and Xiaomi Piston Basic Edition Headphone</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2015-11-16T14:25:11+06:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>16</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>2:25 pm</span></time>
-        
-           | <a href="/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/#disqus_thread"
-             data-disqus-identifier="http://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>কিছু দিন আগে আমি <a href="http://gadgetgang7.com/">GadgetGang7</a> থেকে অনলাইনে অর্ডার দেই <a href="http://gadgetgang7.com/product/xiaomi-piston-earphone-basic-edition/">Xiaomi Piston Basic Edition Earphone</a> আর <a href="http://gadgetgang7.com/product/mi-band/">Mi Band</a> এর। বলা দরকার - অনলাইন অর্ডার প্রোসেসে কো‌থাও প্রোডাক্টের রংয়ের কথা উল্লেখ নেই।</p>
-
-<p>যাই হোক - ব্যান্ড হিসাবে এবং ইয়ারফোন হিসাবে এই দুটোই সবচাইতে কম দামী প্রোডাক্টগুলোর একটা Xiaomi এর পক্ষ থেকে। কাজেই খুব বেশি আশাবাদী ছিলাম না। ঘটনা পাল্টে গেলো হাতে পাবার পরে।  ব্যান্ডখানাতে খালি Accelerometer আর Bluetooth আছে। সাথে আছে একটা পিচ্চি, কিন্তু সাশ্রয়ী ব্যাটারি। ৫ দিন টানা চালানোর পরে এখনো চার্জ আছে ৮২% এর মতো। আবার ওয়াটারপ্রুফও। ৫দিন হাতে লাগিয়ে ঘুমানো, খাওয়া দাওয়া, সবই করলাম। প্রথম দিনেই MiFit নামের এন্ড্রয়েড অ্যাপে রিপোর্ট দেখে চমকে গেলাম। প্রায় ২০০০টাকার মতো দামের একটা ব্যান্ডে এত ভালো রেজাল্ট পাবো সেটা আশা করি নাই।</p>
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2015/07/23/singapore-visit-2/">সিঙ্গাপুর সফর – একগাদা নোটিশের ভিড়ে যাতায়াত ব্যবস্থা</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2015-07-23T22:51:07+06:00'><span class='date'><span class='date-month'>Jul</span> <span class='date-day'>23</span><span class='date-suffix'>rd</span>, <span class='date-year'>2015</span></span> <span class='time'>10:51 pm</span></time>
-        
-           | <a href="/blog/2015/07/23/singapore-visit-2/#disqus_thread"
-             data-disqus-identifier="http://lordamit.github.io/blog/2015/07/23/singapore-visit-2/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>সিঙ্গাপুরে প্রথমেই যেটা আপনার যেটা চোখে পড়বে, সেটা হল সিস্টেমেটিক নোটিশ। বাংলাদেশের রাস্তার বৈশিষ্ট্য যদি হয় রাজনৈতিক পোস্টার, তাহলে এখানে সেটা হবে বিভিন্ন নির্দেশনার পোস্টার। সেটা বাসে হোক, দোকানে হোক, পাতালরেলের ভিতরে বা বাইরে। এমনিতেই এশিয়ানদের খ্যাতি আছে কম কথা বলার অভ্যাস নিয়ে, সেটা সিঙ্গাপুরে আরো পাকাপোক্ত করে ফেলেছে নোটিশের ছড়াছড়ি দিয়ে। কিরকম ন‌োটিশ?</p>
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2015/07/23/singapore-visit-2/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2015/07/19/singgaapur-sphr-1/">সিঙ্গাপুর সফর - ১</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2015-07-19T22:09:04+06:00'><span class='date'><span class='date-month'>Jul</span> <span class='date-day'>19</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>10:09 pm</span></time>
-        
-           | <a href="/blog/2015/07/19/singgaapur-sphr-1/#disqus_thread"
-             data-disqus-identifier="http://lordamit.github.io/blog/2015/07/19/singgaapur-sphr-1/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>২০১৫ সালে সিঙ্গাপুরে  যাবার সুযোগটা হঠাৎ করেই আসে। তো ওখানের কি কি দেখলাম, কি কি খেয়াল করলাম, কি শিখলাম, তা সবার মাঝে ছড়িয়ে দিতেই এখানে কিছু লেখা লিখবো।</p>
-
-<p>মাঝে মধ্যে বাংলাদেশের সাথে তুুলনাটাও চলে আসবে - কি করলে আরো ভালো করা যায়, কি মাথায় রাখা যায় - তা নিয়েই।</p>
-
-<p>প্রথমেই যা চোখে পড়লো, তা রথযাত্রাতে গিয়ে। হৌগাং ইউনাইটেড ফুটবল ক্লাবে, বেশ ঐতিহ্যবাহি ক্লাব যতটুকু শুনলাম, রথযাত্রার আয়োজন করা হয়েছে। কৌতুহলি হয়েই সেখানে গেলাম। উদ্দেশ্য দেখা - সেখানে ভারতীয়রা, বাংলাদেশিরা এবং অন্যান্যরা যারা আসবে - তারা কি করে দেখা। কয়দিন আগেই টিএসসিতে ইফতার পার্টিতে দেখলাম দেশের সর্বোচ্চ বিদ্যাপীঠের ছেলেপেলেরা মাঠ জুড়ে ময়লা ফেলে রাখে- আর সেখানে সিঙ্গাপুরের শিক্ষিত অর্ধশিক্ষিত অথবা বেশিক্ষিত - যাই হোক না কেন, তারা কি করে সেটা দেখারও ইচ্ছা ছিলো।</p>
-
-<p>বেশ অবাক হয়েই দেখলাম - ওখানে হাজার হাজার মানুষ হলেও মানুষ মোটামুটি সুশৃঙ্খল ভাবেই খাচ্ছে, ময়লা ফেলছে না, বা ফেলার সংখ্যা হাতে গোনা। এমন না যে প্রসাদের আইটেম খুব কম, সেটা দিয়ে নিশ্চিন্তে ছোটখাটো ডিনার সেরে ফেলা যাবে। তাতে ঝাল, মিষ্টি, নোনতা, ভাজি, সবজি, পানির বোতল, দই - সবই আছে।  পরিমাণও খুব কম না!</p>
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2015/07/19/singgaapur-sphr-1/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015/">Technical Session 1 at EATL Prothom Alo App Contest 2015</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2014-12-21T22:39:14+06:00'><span class='date'><span class='date-month'>Dec</span> <span class='date-day'>21</span><span class='date-suffix'>st</span>, <span class='date-year'>2014</span></span> <span class='time'>10:39 pm</span></time>
-        
-           | <a href="/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015/#disqus_thread"
-             data-disqus-identifier="http://lordamit.github.io/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>ডিসেম্বরের ২০ তারিখ, ২০১৪ সালে আমি মিরপুর ইনডোর স্টেডিয়ামে কথা বলেছিলাম Mobile Apps LifeCycle and EcoSystem নিয়ে। তার স্লাইডগুলো এখানে দিলাম। আশা করি কাজে লাগবে। :)</p>
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/11/14/hello/">Hello?</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2014-11-14T16:18:51+06:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>14</span><span class='date-suffix'>th</span>, <span class='date-year'>2014</span></span> <span class='time'>4:18 pm</span></time>
-        
-           | <a href="/blog/2014/11/14/hello/#disqus_thread"
-             data-disqus-identifier="http://lordamit.github.io/blog/2014/11/14/hello/">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Well, this is a test article.
-I created this as first post of this blog, and all experiments are generally applied to this post.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
+ <a href="/blog/2016/03/24/using-gtk/" title="Read more"><strong>Read more...</strong></a>
   </div>
+  <hr class="transp" />
+  
+  
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/">
+        Celebrating Intl. Women's day at AIUB
+      </a>
+    </h1>
+
+  <span class="post-date indexpg" itemprop="datePublished" content="2016-03-20"><i class="fa fa-calendar" title="Date published"> 20 Mar 2016</i></span>
+
+ On 20th March, 2016 - I gave a speech at American International University-Bangladesh, in an event to celebrate International Women’s Day and to encourage women in technical fields. This event was organized by IEEE AIUB Student Branch and Google Women TechMakers Bangladesh group.
+
+I talked about the past, and the present, and shared my own experience in software industry, so that together, men and women can create a better future.
+
+You can view the slides here, but it is not supposed to be completely understandable without my speech. But oh well!
+
+ <a href="/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/" title="Read more"><strong>Read more...</strong></a>
+  </div>
+  <hr class="transp" />
+  
+  
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/">
+        Remix OS Resident Mode in Virtual Machine
+      </a>
+    </h1>
+
+  <span class="post-date indexpg" itemprop="datePublished" content="2016-03-04"><i class="fa fa-calendar" title="Date published"> 04 Mar 2016</i></span>
+
+ Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.
+<img src="https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg" alt="Remix OS in Virtual Machine" />
+
+How?
+
+ <a href="/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/" title="Read more"><strong>Read more...</strong></a>
+  </div>
+  <hr class="transp" />
+  
+  
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/">
+        And that is why I switched to Octopress from Blogger!
+      </a>
+    </h1>
+
+  <span class="post-date indexpg" itemprop="datePublished" content="2015-11-23"><i class="fa fa-calendar" title="Date published"> 23 Nov 2015</i></span>
+
+ I switched from Blogspot to Octopress about a year ago. Even though my blogspot site was search engine friendly, was getting about 10K views per month when I was regular, and contained details about all of my useful works - I still decided to switch to Octopress - for a fresh start.  Why?
+
+ <a href="/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/" title="Read more"><strong>Read more...</strong></a>
+  </div>
+  <hr class="transp" />
+  
+  
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/">
+        Review: Mi Band and Xiaomi Piston Basic Edition Headphone
+      </a>
+    </h1>
+
+  <span class="post-date indexpg" itemprop="datePublished" content="2015-11-16"><i class="fa fa-calendar" title="Date published"> 16 Nov 2015</i></span>
+
+ কিছু দিন আগে আমি <a href="http://gadgetgang7.com/">GadgetGang7</a> থেকে অনলাইনে অর্ডার দেই <a href="http://gadgetgang7.com/product/xiaomi-piston-earphone-basic-edition/">Xiaomi Piston Basic Edition Earphone</a> আর <a href="http://gadgetgang7.com/product/mi-band/">Mi Band</a> এর। বলা দরকার - অনলাইন অর্ডার প্রোসেসে কো‌থাও প্রোডাক্টের রংয়ের কথা উল্লেখ নেই।
+
+যাই হোক - ব্যান্ড হিসাবে এবং ইয়ারফোন হিসাবে এই দুটোই সবচাইতে কম দামী প্রোডাক্টগুলোর একটা Xiaomi এর পক্ষ থেকে। কাজেই খুব বেশি আশাবাদী ছিলাম না। ঘটনা পাল্টে গেলো হাতে পাবার পরে।  ব্যান্ডখানাতে খালি Accelerometer আর Bluetooth আছে। সাথে আছে একটা পিচ্চি, কিন্তু সাশ্রয়ী ব্যাটারি। ৫ দিন টানা চালানোর পরে এখনো চার্জ আছে ৮২% এর মতো। আবার ওয়াটারপ্রুফও। ৫দিন হাতে লাগিয়ে ঘুমানো, খাওয়া দাওয়া, সবই করলাম। প্রথম দিনেই MiFit নামের এন্ড্রয়েড অ্যাপে রিপোর্ট দেখে চমকে গেলাম। প্রায় ২০০০টাকার মতো দামের একটা ব্যান্ডে এত ভালো রেজাল্ট পাবো সেটা আশা করি নাই।
+
+ <a href="/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/" title="Read more"><strong>Read more...</strong></a>
+  </div>
+  
+  
+  
 </div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2016/03/25/using-gtk/">Using GTK, Glade and Codeblocks Together in Ubuntu - Level Beginner</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/">Celebrating Intl. Women's Day at AIUB</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/">Remix OS Resident Mode in Virtual Machine</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/">And That Is Why I Switched to Octopress From Blogger!</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/">Review: Mi Band and Xiaomi Piston Basic Edition Headphone</a>
-      </li>
-    
-  </ul>
-</section>
+<h3 class="post-title">
+<div class="pagination" style="margin: 0.5rem;">
+    <a class="pagination-item older" href="/blog"><i class="fa fa-edit">View All</i></a>
+    <a class="pagination-item newer" href="/tags"><i class="fa fa-tags"> Tags</i></a>
+</div>
+</h3>
 
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating...</li>
-  </ul>
-  
-  <a href="https://github.com/lordamit">@lordamit</a> on GitHub
-  
-  <script type="text/javascript">
-    $(document).ready(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
+                    <div class="custom-footer" style="display: block;">
+            <div class="footer-social-icons">
+            <ul class="social-icons">
+            
+              
+            <li><a href="https://twitter.com/lordamit" rel="me"  target="_blank"  class="social-icons" title="Follow me @lordamit"> <i class="fa fa-twitter-square fa-2x"></i></a></li>
+            
+              
+            <li><a href="https://plus.google.com/+AmitSeal" rel="me"  target="_blank"  class="social-icons" title="Follow me +AmitSeal"> <i class="fa fa-google-plus-square fa-2x"></i></a></li>
+            
+              
+            <li><a href="https://github.com/lordamit" rel="me"  target="_blank"  class="social-icons" title="Code repository"> <i class="fa fa-github-square fa-2x"></i></a></li>
+            
+              
+            <li><a href="/contact/" rel="me"  class="social-icons" title="Reach Us"> <i class="fa fa-envelope-square fa-2x"></i></a></li>
+            
+              
+            <li><a href="/feed.xml" rel="me"  class="social-icons" title="Subscribe to RSS"> <i class="fa fa-rss-square fa-2x"></i></a></li>
+            
+            </ul>
+            </div>
+            <h6 class="text-footer"><a rel="license" href="/disclosure/" title="CC BY-NC-SA 4.0 License, link to site disclosure" class="social-icon"><i class="fa fa-creative-commons"></i></a> <a rel="license" href="/disclosure/" title="CC BY-NC-SA 4.0 License, link to site disclosure">2016-2016</a>: <a href="" title="Home">http://lordamit.github.io</a> | <a href="/about/" rel="me">About</a></h6>
+            </div>
 
-        github.showRepos({
-            user: 'lordamit',
-            count: 3,
-            skip_forks: true,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/javascripts/github.js" type="text/javascript"> </script>
-</section>
-
-
-
-
-
-  
-</aside>
-
+      </div>
     </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2016 - Amit Seal Ami -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
 
-</footer>
-  
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-<script type="text/javascript">
-      var disqus_shortname = 'lordamitgithubio';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+    
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-11383434-9']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 
 
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id; js.async = true;
-  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+<!-- gist embed -->
 
 
-
-  <script type="text/javascript">
-    (function() {
-      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
-      script.src = 'https://apis.google.com/js/plusone.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
-    })();
-  </script>
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
+<!-- disqus comments -->
 
 
 </body>
