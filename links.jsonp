@@ -43,6 +43,11 @@ callback([
   {
     "text": "Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner",
     "href": "http://lordamit.github.io/blog/2016/03/25/using-gtk/"
+  } ,
+
+  {
+    "text": "ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে",
+    "href": "http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/"
   } 
 
 ])

@@ -5,11 +5,24 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-04-17T23:57:18+06:00</updated>
+    <updated>2016-04-18T03:14:20+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
+    
+      <item>
+        <title>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</title>
+        
+          <description>&lt;p&gt;২০০১ সালে Unicef এর আর্থিক সহযোগিতায় বাংলাদেশ দুর্যোগ ব্যবস্থাপনা ব্যুরো (&lt;a href=&quot;http://www.ddm.gov.bd/&quot;&gt;&lt;abbr title=&quot;Department of Disaster Management&quot;&gt;DDM&lt;/abbr&gt;&lt;/a&gt;) থেকে প্রকাশিত হয় ভূমিকম্প বিষয়ে গণসচেতনতা নামের একটি বুকলেট। সেই বুকলেটটি পুরনো &lt;a href=&quot;http://old.ddm.gov.bd/&quot;&gt;&lt;abbr title=&quot;Department of Disaster Management&quot;&gt;DDM&lt;/abbr&gt;&lt;/a&gt; এর সাইট থেকে উদ্ধার করা গেলেও, বর্তমান ওয়েবসাইটে পাওয়া যায়না সহজে। সকলের উপকারের জন্যই, এটিকে আলাদা করে আবার এখানে রাখা।
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;7843578431dc427db6ea217ee869fead&quot; data-ratio=&quot;0.617611580217129&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 18 Apr 2016 00:00:00 +0600</pubDate>
+        <link>http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</guid>
+      </item>
     
       <item>
         <title>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</title>
