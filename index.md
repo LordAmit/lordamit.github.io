@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of Amit
+title: Personal Blog of Amit
 description: ""
 ---
 
