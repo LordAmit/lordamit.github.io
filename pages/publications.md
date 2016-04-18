@@ -2,9 +2,9 @@
 layout: publ
 category:
 permalink: /about/publications/
-title: "Publications"
+title: "Publications of Amit"
 published: true
-description: ""
+description: "Welcome! You you will be able to find my publications in different journals and conferences in Bibliography format."
 tags:
   - papers
   - articles
