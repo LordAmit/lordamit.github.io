@@ -4,13 +4,13 @@ permalink: /cv/
 title: Curriculum Vitae
 category: base
 published: true
-description: "Curriculum Vitae / Resume"
+description: "Curriculum Vitae / Resume of Amit"
 tags:
   - cv
   - resume
   - "foo boo"
 comments: false
-imagesummary: cv.png
+imagesummary: images/cv.png
 modified: "2016-04-18"
 sitemap:
     priority: 0.7
