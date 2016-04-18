@@ -11,7 +11,7 @@ title:               Amit's Blog
 description:
 url: http://lordamit.github.io
 baseurl: ""
-urlimg: http://lordamit.github.io/images/
+urlimg: http://lordamit.github.io/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
