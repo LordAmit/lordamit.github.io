@@ -31,6 +31,8 @@ tags:
 </span>
 </div>
 
-Coming Soon!
+Hello There! I am Amit, a faculty member of University of Dhaka (DU), and I teach Software Engineering at Institute of Information Technology, DU. I have a keen interest in new technologies, experimental software engineering and practical possibilities of novel ideas. I also work as judge and mentor at national level competitions, and tech technical sessions on various topics at other universities. Depending on my schedule, I have also given time as adjunct faculty member in other universities.
+
+Please check my CV (<a href="{{ site.url }}/cv" title="Curriculum Vitae" class="social-icons"><i class="iconm iconm-profile" style="vertical-align: top;"></i></a>) for further details.
 
 *[volutpat]: Tooltip for abbreviation.

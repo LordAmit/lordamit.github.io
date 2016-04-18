@@ -10,16 +10,16 @@ tags:
   - resume
   - "foo boo"
 comments: false
-imagesummary: foo.png
-modified: "2016-02-13"
+imagesummary: cv.png
+modified: "2016-04-18"
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
-    lastmod: 2016-02-13
+    lastmod: 2016-04-18
 style: |
   .container {
         max-width: 48rem;
-    } 
+    }
 ---
 
 <span class="social-icons">
@@ -30,7 +30,7 @@ style: |
 </span>
 
 {:.text-center}
-[Publications]({{ site.url }}/about/publications/) \| [ORCID profile](https://orcid.org/{{ site.owner.orcid }}) \| [Google Scholar profile](https://scholar.google.com/citations?user={{ site.owner.gscholar }}&hl=en) 
+[Publications]({{ site.url }}/about/publications/) \| [ORCID profile](https://orcid.org/{{ site.owner.orcid }}) \| [Google Scholar profile](https://scholar.google.com/citations?user={{ site.owner.gscholar }}&hl=en)
 
 <!-- Alternaetly, user html5 embed tag -->
 <iframe src="{{ site.url }}/files/cv.pdf" width="100%" style="height: 100vh;"></iframe>
