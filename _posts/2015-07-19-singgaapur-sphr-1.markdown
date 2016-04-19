@@ -4,6 +4,7 @@ title: "সিঙ্গাপুর সফর - ১"
 date: 2015-07-19 22:09:04 +0600
 comments: true
 tags: [ভ্রমন, travel, singapore, সিঙ্গাপুর]
+modified: "2016-04-19 13:17:00"
 ---
 
 ২০১৫ সালে সিঙ্গাপুরে  যাবার সুযোগটা হঠাৎ করেই আসে। তো ওখানের কি কি দেখলাম, কি কি খেয়াল করলাম, কি শিখলাম, তা সবার মাঝে ছড়িয়ে দিতেই এখানে কিছু লেখা লিখবো।
@@ -14,23 +15,19 @@ tags: [ভ্রমন, travel, singapore, সিঙ্গাপুর]
 
 বেশ অবাক হয়েই দেখলাম - ওখানে হাজার হাজার মানুষ হলেও মানুষ মোটামুটি সুশৃঙ্খল ভাবেই খাচ্ছে, ময়লা ফেলছে না, বা ফেলার সংখ্যা হাতে গোনা। এমন না যে প্রসাদের আইটেম খুব কম, সেটা দিয়ে নিশ্চিন্তে ছোটখাটো ডিনার সেরে ফেলা যাবে। তাতে ঝাল, মিষ্টি, নোনতা, ভাজি, সবজি, পানির বোতল, দই - সবই আছে।  পরিমাণও খুব কম না!
 <!-- more -->
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/lordamit/19824368142/in/dateposted/" title="প্রসাদের ছবি"><img src="https://farm1.staticflickr.com/297/19824368142_9fdb243dd2_z.jpg" width="640" height="360" alt="IMG_20150719_175446_HDR"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-(প্রসাদের ছবি)
-
+{% figure caption:"(প্রসাদের ছবি)" %}
+![(প্রসাদের ছবি)
+](https://farm1.staticflickr.com/297/19824368142_9fdb243dd2_z.jpg)
+{% endfigure %}
 তা এত খাবারগুলা খাচ্ছে, প্লাস্টিকের থালা, পানির বোতল - সব কিছু ছড়িয়ে ছিটিয়ে রাখার কথা আমাদের। না ছড়িয়ে রাখাই বরং বাংলাদেশে মোটামুটি অভাবনীয়। কারণটা কি?
-
-
 আরেকটু খেয়াল করতেই দেখলাম, যারা ভলান্টিয়ার - তারা খালি প্রসাদ দিচ্ছে রথযাত্রার তা না, সাথে ময়লার ব্যাগও পুরো মাঠ জুড়ে দিয়ে রাখছে - সেটা ভর্তি হতেই সরিয়ে আরেকটা এনে রাখছে।
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/lordamit/19836592621/in/photostream/" title="ময়লার ব্যাগ"><img src="https://farm4.staticflickr.com/3808/19836592621_1a2a85ef33_z.jpg" width="640" height="360" alt="IMG_20150719_181229_HDR"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{% figure caption:"ময়লার ব্যাগ" %}
+![ময়লার ব্যাগ](https://farm4.staticflickr.com/3808/19836592621_1a2a85ef33_z.jpg)
+{% endfigure %}
 
-(ময়লার ব্যাগ)
-
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/lordamit/19210816823/in/photostream/" title="ব্যাগ সব একসাথে রাখা হচ্ছে"><img src="https://farm1.staticflickr.com/338/19210816823_96ba414306_z.jpg" width="640" height="360" alt="IMG_20150719_181340_HDR"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-(ব্যাগ সব একসাথে রাখা হচ্ছে)
-
+{% figure caption:"ব্যাগ সব একসাথে রাখা হচ্ছে" %}
+![ব্যাগ সব একসাথে রাখা হচ্ছে](https://farm1.staticflickr.com/338/19210816823_96ba414306_z.jpg)
+{% endfigure %}
 ভাবলাম, ভালো তো! ময়লা ফেলার যায়গাই পাই না আমরা - তখন তো আশেপাশে ছড়ানোই আমাদের কর্তব্যের ভিতরে পড়বে।  তার চেয়ে বরং এরা ডাস্টবিন তো রেখেছেই, সাথে ময়লা রাখার ব্যাগও এনেছে এতগুলা - যেনো কারো সমস্যা না হয়, যেন পরিবেশ নোংরাও না হয়।
 
 এসব ছোটখাটো কাজ করলেই কিন্তু সেগুলা বেশ বড় প্রভাব রাখে সবার জীবনে। :)
