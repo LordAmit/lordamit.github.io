@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en-us" prefix="op: http://media.facebook.com/op#">
 <!--
 ====================================================
 Homepage: http://localhost:4000
@@ -10,7 +10,7 @@ Credits: http://localhost:4000/disclosure
 <!-- link href="http://gmpg.org/xfn/11" rel="profile" -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-
+<meta property="op:markup_version" content="v1.0">
 <!-- Enable responsiveness on mobile devices-->
 <meta name="HandheldFriendly" content="True">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -206,6 +206,7 @@ Credits: http://localhost:4000/disclosure
 
       <div class="container content">
         <div class="post">
+  <header>
   <h1 itemprop="name" class="post-title">Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</h1>
   <span class="post-date" itemprop="datePublished" content="2016-03-24"><i class="fa fa-calendar" title="Date published"> <a class="permalink" href="http://localhost:4000/blog/2016/03/24/using-gtk/" itemprop="url" title="Permanent link to this post">24 Mar 2016</a> </i></span>
   
@@ -222,6 +223,7 @@ Credits: http://localhost:4000/disclosure
 </span>
 
     
+</header>
   <p>Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!</p>
 
 <p>The major steps for <strong>setting up environment</strong> are :<a name="tocForGtk"></a></p>
@@ -367,147 +369,147 @@ Replace the version values with the values you found from the <code class="highl
   <h2>Related Posts</h2>
 <ul>
   
-     
-       
+    
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
       
     
   
     
   
-     
-       
+    
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
       
     
   
-     
-       
+    
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
           <li><a href="http://localhost:4000/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/">Remix OS Resident Mode in Virtual Machine</a><br /></li>
           
     
   
-     
-       
+    
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
       
     
   
-     
-       
+    
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
       
     
   
-     
-       
+    
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
       
     
   
-     
-       
+    
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
       
     
   
-     
-       
+    
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
       
     
   
-     
-       
+    
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
-       
+      
         
       
     
@@ -576,20 +578,24 @@ Replace the version values with the values you found from the <code class="highl
     </script>
     
 <!-- Asynchronous Google Analytics snippet -->
-<script>
-  var _gaq = _gaq || [];
-  var pluginUrl =
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-11383434-9']);
-  _gaq.push(['_trackPageview']);
+<figure class="op-tracker" style="display: none;">
+    <iframe>
+        <script>
+          var _gaq = _gaq || [];
+          var pluginUrl =
+         '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+          _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+          _gaq.push(['_setAccount', 'UA-11383434-9']);
+          _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+    </iframe>
+</figure>
 
 <!-- gist embed -->
 
