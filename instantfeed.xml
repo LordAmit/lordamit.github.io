@@ -5,7 +5,7 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-04-19T13:23:38+06:00</updated>
+    <updated>2016-04-19T23:27:26+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -400,36 +400,38 @@ Replace the version values with the values you found from the &lt;code class=&qu
       <item>
         <title>Remix OS Resident Mode in Virtual Machine</title>
         
-          <description>&lt;p&gt;Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.
-&lt;img src=&quot;https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg&quot; alt=&quot;Remix OS in Virtual Machine&quot; /&gt;&lt;/p&gt;
+          <description>&lt;p&gt;Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg&quot; alt=&quot;Remix OS in Virtual Machine&quot; /&gt;
+  
+  &lt;figcaption&gt;Remix OS in Virtual Machine&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;How?
+&lt;!-- more --&gt;&lt;/p&gt;
 
-&lt;p&gt;How?&lt;/p&gt;
+&lt;h3 id=&quot;install&quot;&gt;Install&lt;/h3&gt;
+&lt;p&gt;To prepare the installation environment properly, you need to:&lt;/p&gt;
 
-&lt;!-- more --&gt;
-
-&lt;h2 id=&quot;install&quot;&gt;Install&lt;/h2&gt;
 &lt;ol&gt;
   &lt;li&gt;Make a virtual machine first - Recommended: 8GB Space, 1GB RAM&lt;/li&gt;
   &lt;li&gt;Use Ubuntu Installer ISO or any other preferred tool to boot it&lt;/li&gt;
   &lt;li&gt;Use GParted or other disk utility tool to format the entire hard disk to EXT4 format&lt;/li&gt;
   &lt;li&gt;Reboot, use the RemixOS installer ISO&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;During installation - choose the following options:&lt;/p&gt;
+&lt;/ol&gt;
 
-    &lt;ol&gt;
-      &lt;li&gt;Do not format&lt;/li&gt;
-      &lt;li&gt;Install GRUB&lt;/li&gt;
-      &lt;li&gt;Do not Install UEFI Grub Thingy&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
+&lt;p&gt;During installation - choose the following options:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Do not format&lt;/li&gt;
+  &lt;li&gt;Install GRUB&lt;/li&gt;
+  &lt;li&gt;Do not Install UEFI Grub Thingy&lt;/li&gt;
   &lt;li&gt;Complete Installation&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;tweaks-for-resolution-experimental&quot;&gt;Tweaks for Resolution (Experimental)&lt;/h2&gt;
-
+&lt;h3 id=&quot;tweaks-for-resolution-experimental&quot;&gt;Tweaks for Resolution (Experimental)&lt;/h3&gt;
 &lt;p&gt;In default mode, the resolution sucks. Of course, we can fix that by assigning the resolution through grub. Note that incorrect DPI and resolution settings can frequently cause force reboot abruptly.&lt;/p&gt;
 
-&lt;p&gt;There are two approaches.&lt;/p&gt;
+&lt;p&gt;There are two approaches:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Change the resolution settings EVERY-SINGLE-Time you boot your Remix OS&lt;/li&gt;
@@ -451,7 +453,6 @@ Replace the version values with the values you found from the &lt;code class=&qu
 &lt;p&gt;Once you find your perfect resolution head over to next step.&lt;/p&gt;
 
 &lt;h3 id=&quot;change-resolution-permanently&quot;&gt;Change Resolution Permanently&lt;/h3&gt;
-
 &lt;ol&gt;
   &lt;li&gt;Hit up your Ubuntu once again, and mount the EXT4 partition.&lt;/li&gt;
   &lt;li&gt;Open up your terminal. Probably the partition will be mounted in &lt;code class=&quot;highlighter-rouge&quot;&gt;/media/ubuntu-gnome&lt;/code&gt;. For example, mine was mounted in &lt;code class=&quot;highlighter-rouge&quot;&gt;/media/ubuntu-gnome/&lt;/code&gt;.&lt;/li&gt;
@@ -461,52 +462,52 @@ Replace the version values with the values you found from the &lt;code class=&qu
   &lt;li&gt;In the first entry, remove the &lt;code class=&quot;highlighter-rouge&quot;&gt;VGA=791&lt;/code&gt; and replace it with  &lt;code class=&quot;highlighter-rouge&quot;&gt;DPI=160 UVESA_MODE=1366x768&lt;/code&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Save and reboot!&lt;/p&gt;
-
-&lt;p&gt;That’s all. Enjoy. :)&lt;/p&gt;
+&lt;p&gt;Save and reboot!
+That’s all. Enjoy. :)&lt;/p&gt;
 
 &lt;h3 id=&quot;acknowledgements&quot;&gt;Acknowledgements&lt;/h3&gt;
-
 &lt;p&gt;I took help from the following sites:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;https://www.reddit.com/r/RemixOS/comments/406982/remix_os_20_x86x64_iso/&lt;/li&gt;
-  &lt;li&gt;https://groups.google.com/forum/#!topic/remix-os-for-pc/NB6GJdAHUsA&lt;/li&gt;
-  &lt;li&gt;http://stackoverflow.com/questions/6202342/switch-android-x86-screen-resolution/8273560#8273560&lt;/li&gt;
-  &lt;li&gt;http://pierre.baudu.in/other/grub.vga.modes.html&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/RemixOS/comments/406982/remix_os_20_x86x64_iso/&quot;&gt;Remix OS 2.0 x86/x64 iso : RemixOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!topic/remix-os-for-pc/NB6GJdAHUsA&quot;&gt;Google Groups&lt;/a&gt;_&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/6202342/switch-android-x86-screen-resolution/8273560#8273560&quot;&gt;virtualbox - Switch android x86 screen resolution - Stack Overflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pierre.baudu.in/other/grub.vga.modes.html&quot;&gt;GRUB VGA Modes&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         
-        <content:encoded>&lt;p&gt;Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.
-&lt;img src=&quot;https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg&quot; alt=&quot;Remix OS in Virtual Machine&quot; /&gt;&lt;/p&gt;
+        <content:encoded>&lt;p&gt;Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg&quot; alt=&quot;Remix OS in Virtual Machine&quot; /&gt;
+  
+  &lt;figcaption&gt;Remix OS in Virtual Machine&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;How?
+&lt;!-- more --&gt;&lt;/p&gt;
 
-&lt;p&gt;How?&lt;/p&gt;
+&lt;h3 id=&quot;install&quot;&gt;Install&lt;/h3&gt;
+&lt;p&gt;To prepare the installation environment properly, you need to:&lt;/p&gt;
 
-&lt;!-- more --&gt;
-
-&lt;h2 id=&quot;install&quot;&gt;Install&lt;/h2&gt;
 &lt;ol&gt;
   &lt;li&gt;Make a virtual machine first - Recommended: 8GB Space, 1GB RAM&lt;/li&gt;
   &lt;li&gt;Use Ubuntu Installer ISO or any other preferred tool to boot it&lt;/li&gt;
   &lt;li&gt;Use GParted or other disk utility tool to format the entire hard disk to EXT4 format&lt;/li&gt;
   &lt;li&gt;Reboot, use the RemixOS installer ISO&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;During installation - choose the following options:&lt;/p&gt;
+&lt;/ol&gt;
 
-    &lt;ol&gt;
-      &lt;li&gt;Do not format&lt;/li&gt;
-      &lt;li&gt;Install GRUB&lt;/li&gt;
-      &lt;li&gt;Do not Install UEFI Grub Thingy&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
+&lt;p&gt;During installation - choose the following options:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Do not format&lt;/li&gt;
+  &lt;li&gt;Install GRUB&lt;/li&gt;
+  &lt;li&gt;Do not Install UEFI Grub Thingy&lt;/li&gt;
   &lt;li&gt;Complete Installation&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;tweaks-for-resolution-experimental&quot;&gt;Tweaks for Resolution (Experimental)&lt;/h2&gt;
-
+&lt;h3 id=&quot;tweaks-for-resolution-experimental&quot;&gt;Tweaks for Resolution (Experimental)&lt;/h3&gt;
 &lt;p&gt;In default mode, the resolution sucks. Of course, we can fix that by assigning the resolution through grub. Note that incorrect DPI and resolution settings can frequently cause force reboot abruptly.&lt;/p&gt;
 
-&lt;p&gt;There are two approaches.&lt;/p&gt;
+&lt;p&gt;There are two approaches:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Change the resolution settings EVERY-SINGLE-Time you boot your Remix OS&lt;/li&gt;
@@ -528,7 +529,6 @@ Replace the version values with the values you found from the &lt;code class=&qu
 &lt;p&gt;Once you find your perfect resolution head over to next step.&lt;/p&gt;
 
 &lt;h3 id=&quot;change-resolution-permanently&quot;&gt;Change Resolution Permanently&lt;/h3&gt;
-
 &lt;ol&gt;
   &lt;li&gt;Hit up your Ubuntu once again, and mount the EXT4 partition.&lt;/li&gt;
   &lt;li&gt;Open up your terminal. Probably the partition will be mounted in &lt;code class=&quot;highlighter-rouge&quot;&gt;/media/ubuntu-gnome&lt;/code&gt;. For example, mine was mounted in &lt;code class=&quot;highlighter-rouge&quot;&gt;/media/ubuntu-gnome/&lt;/code&gt;.&lt;/li&gt;
@@ -538,19 +538,17 @@ Replace the version values with the values you found from the &lt;code class=&qu
   &lt;li&gt;In the first entry, remove the &lt;code class=&quot;highlighter-rouge&quot;&gt;VGA=791&lt;/code&gt; and replace it with  &lt;code class=&quot;highlighter-rouge&quot;&gt;DPI=160 UVESA_MODE=1366x768&lt;/code&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Save and reboot!&lt;/p&gt;
-
-&lt;p&gt;That’s all. Enjoy. :)&lt;/p&gt;
+&lt;p&gt;Save and reboot!
+That’s all. Enjoy. :)&lt;/p&gt;
 
 &lt;h3 id=&quot;acknowledgements&quot;&gt;Acknowledgements&lt;/h3&gt;
-
 &lt;p&gt;I took help from the following sites:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;https://www.reddit.com/r/RemixOS/comments/406982/remix_os_20_x86x64_iso/&lt;/li&gt;
-  &lt;li&gt;https://groups.google.com/forum/#!topic/remix-os-for-pc/NB6GJdAHUsA&lt;/li&gt;
-  &lt;li&gt;http://stackoverflow.com/questions/6202342/switch-android-x86-screen-resolution/8273560#8273560&lt;/li&gt;
-  &lt;li&gt;http://pierre.baudu.in/other/grub.vga.modes.html&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/RemixOS/comments/406982/remix_os_20_x86x64_iso/&quot;&gt;Remix OS 2.0 x86/x64 iso : RemixOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!topic/remix-os-for-pc/NB6GJdAHUsA&quot;&gt;Google Groups&lt;/a&gt;_&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/6202342/switch-android-x86-screen-resolution/8273560#8273560&quot;&gt;virtualbox - Switch android x86 screen resolution - Stack Overflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pierre.baudu.in/other/grub.vga.modes.html&quot;&gt;GRUB VGA Modes&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </content:encoded>
         <pubDate>Fri, 04 Mar 2016 11:17:11 +0600</pubDate>

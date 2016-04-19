@@ -22,7 +22,7 @@ Credits: http://lordamit.github.io/disclosure
 </title>
 
 <!-- Search Engine Optimization -->
-<meta name="description" content="Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode. How? Install Make a virtual machine first - Recommended: 8GB Space, 1GB RAM Use Ubuntu Installer ISO or any other preferred tool to boot it Use GParted or other disk...">
+<meta name="description" content="It is now possible to setup Remix OS in virtual Machine. Yes, in resident mode, which was not possible earlier. And this article will guide you step by step to achieve just that.">
 <meta name="keywords" content="tutorial, android, Linux">
 
 
@@ -36,7 +36,7 @@ Credits: http://lordamit.github.io/disclosure
 
 
 <meta name="twitter:title" content="Remix OS Resident Mode in Virtual Machine">
-<meta name="twitter:description" content="Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode. How? Install Make a virtual machine first - Recommended: 8GB Space, 1GB RAM Use Ubuntu Installer ISO or any other preferred tool to boot it Use GParted or other disk...">
+<meta name="twitter:description" content="It is now possible to setup Remix OS in virtual Machine. Yes, in resident mode, which was not possible earlier. And this article will guide you step by step to achieve just that.">
 <meta name="twitter:creator" content="@lordamit">
 <!-- End Twitter Cards -->
 
@@ -44,7 +44,7 @@ Credits: http://lordamit.github.io/disclosure
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Remix OS Resident Mode in Virtual Machine">
-<meta property="og:description" content="Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode. How? Install Make a virtual machine first - Recommended: 8GB Space, 1GB RAM Use Ubuntu Installer ISO or any other preferred tool to boot it Use GParted or other disk...">
+<meta property="og:description" content="It is now possible to setup Remix OS in virtual Machine. Yes, in resident mode, which was not possible earlier. And this article will guide you step by step to achieve just that.">
 <meta property="og:url" content="http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/">
 <meta property="og:site_name" content="Amit's Blog">
 
@@ -209,7 +209,7 @@ Credits: http://lordamit.github.io/disclosure
   <header>
   <h1 itemprop="name" class="post-title">Remix OS Resident Mode in Virtual Machine</h1>
   <span class="post-date" itemprop="datePublished" content="2016-03-04"><i class="fa fa-calendar" title="Date published"> <a class="permalink" href="http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/" itemprop="url" title="Permanent link to this post">04 Mar 2016</a> </i></span>
-  
+  <span class="post-date" itemprop="dateModified" content="2016-04-19"><i class="fa fa-edit" title="Last updated"> 19 Apr 2016</i></span>
   <span class="post-tags" itemprop="keywords" content="tutorial, android, and Linux"><i class="fa fa-tags" title="page tags"></i> <a href="http://lordamit.github.io/tags/#tutorial" title="Pages tagged tutorial" rel="tag">tutorial</a> &bull;  <a href="http://lordamit.github.io/tags/#android" title="Pages tagged android" rel="tag">android</a> &bull;  <a href="http://lordamit.github.io/tags/#Linux" title="Pages tagged Linux" rel="tag">Linux</a></span>
     
       <span class="social-icons">
@@ -224,36 +224,38 @@ Credits: http://lordamit.github.io/disclosure
 
     
 </header>
-  <p>Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.
-<img src="https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg" alt="Remix OS in Virtual Machine" /></p>
+  <p>Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.</p>
+<figure>
+  <img src="https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg" alt="Remix OS in Virtual Machine" />
+  
+  <figcaption>Remix OS in Virtual Machine</figcaption>
+</figure>
+<p>How?
+<!-- more --></p>
 
-<p>How?</p>
+<h3 id="install">Install</h3>
+<p>To prepare the installation environment properly, you need to:</p>
 
-<!-- more -->
-
-<h2 id="install">Install</h2>
 <ol>
   <li>Make a virtual machine first - Recommended: 8GB Space, 1GB RAM</li>
   <li>Use Ubuntu Installer ISO or any other preferred tool to boot it</li>
   <li>Use GParted or other disk utility tool to format the entire hard disk to EXT4 format</li>
   <li>Reboot, use the RemixOS installer ISO</li>
-  <li>
-    <p>During installation - choose the following options:</p>
+</ol>
 
-    <ol>
-      <li>Do not format</li>
-      <li>Install GRUB</li>
-      <li>Do not Install UEFI Grub Thingy</li>
-    </ol>
-  </li>
+<p>During installation - choose the following options:</p>
+
+<ol>
+  <li>Do not format</li>
+  <li>Install GRUB</li>
+  <li>Do not Install UEFI Grub Thingy</li>
   <li>Complete Installation</li>
 </ol>
 
-<h2 id="tweaks-for-resolution-experimental">Tweaks for Resolution (Experimental)</h2>
-
+<h3 id="tweaks-for-resolution-experimental">Tweaks for Resolution (Experimental)</h3>
 <p>In default mode, the resolution sucks. Of course, we can fix that by assigning the resolution through grub. Note that incorrect DPI and resolution settings can frequently cause force reboot abruptly.</p>
 
-<p>There are two approaches.</p>
+<p>There are two approaches:</p>
 
 <ul>
   <li>Change the resolution settings EVERY-SINGLE-Time you boot your Remix OS</li>
@@ -275,7 +277,6 @@ Credits: http://lordamit.github.io/disclosure
 <p>Once you find your perfect resolution head over to next step.</p>
 
 <h3 id="change-resolution-permanently">Change Resolution Permanently</h3>
-
 <ol>
   <li>Hit up your Ubuntu once again, and mount the EXT4 partition.</li>
   <li>Open up your terminal. Probably the partition will be mounted in <code class="highlighter-rouge">/media/ubuntu-gnome</code>. For example, mine was mounted in <code class="highlighter-rouge">/media/ubuntu-gnome/</code>.</li>
@@ -285,25 +286,23 @@ Credits: http://lordamit.github.io/disclosure
   <li>In the first entry, remove the <code class="highlighter-rouge">VGA=791</code> and replace it with  <code class="highlighter-rouge">DPI=160 UVESA_MODE=1366x768</code>.</li>
 </ol>
 
-<p>Save and reboot!</p>
-
-<p>That’s all. Enjoy. :)</p>
+<p>Save and reboot!
+That’s all. Enjoy. :)</p>
 
 <h3 id="acknowledgements">Acknowledgements</h3>
-
 <p>I took help from the following sites:</p>
 
 <ol>
-  <li>https://www.reddit.com/r/RemixOS/comments/406982/remix_os_20_x86x64_iso/</li>
-  <li>https://groups.google.com/forum/#!topic/remix-os-for-pc/NB6GJdAHUsA</li>
-  <li>http://stackoverflow.com/questions/6202342/switch-android-x86-screen-resolution/8273560#8273560</li>
-  <li>http://pierre.baudu.in/other/grub.vga.modes.html</li>
+  <li><a href="https://www.reddit.com/r/RemixOS/comments/406982/remix_os_20_x86x64_iso/">Remix OS 2.0 x86/x64 iso : RemixOS</a></li>
+  <li><a href="https://groups.google.com/forum/#!topic/remix-os-for-pc/NB6GJdAHUsA">Google Groups</a>_</li>
+  <li><a href="http://stackoverflow.com/questions/6202342/switch-android-x86-screen-resolution/8273560#8273560">virtualbox - Switch android x86 screen resolution - Stack Overflow</a></li>
+  <li><a href="http://pierre.baudu.in/other/grub.vga.modes.html">GRUB VGA Modes</a></li>
 </ol>
 
   <hr>
   
   <span class="post-date metafoot" itemprop="datePublished" content="2016-03-04"><i class="fa fa-calendar" title="Date published"> <a class="permalink" href="http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/" itemprop="url" title="Permanent link to this post">04 Mar 2016</a> </i></span>
-  
+  <span class="post-date metafoot" itemprop="dateModified" content="2016-04-19"><i class="fa fa-edit" title="Last updated"> 19 Apr 2016</i></span>
   <span class="post-tags" itemprop="keywords" content="tutorial, android, and Linux"><i class="fa fa-tags" title="page tags"></i> <a href="http://lordamit.github.io/tags/#tutorial" title="Pages tagged tutorial" rel="tag">tutorial</a> &bull;  <a href="http://lordamit.github.io/tags/#android" title="Pages tagged android" rel="tag">android</a> &bull;  <a href="http://lordamit.github.io/tags/#Linux" title="Pages tagged Linux" rel="tag">Linux</a></span>
     
       <span class="social-icons">
@@ -330,7 +329,7 @@ Credits: http://lordamit.github.io/disclosure
   </thead>
   <tbody>
     <tr>
-      <td><i class="fa fa-anchor"> http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</i><br /><i class="fa fa-calendar"> 04-Mar-16</i><br /><i class="fa fa-creative-commons"> BY-NC-SA 4.0 http://lordamit.github.io/disclosure</i></td>
+      <td><i class="fa fa-anchor"> http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</i><br /><i class="fa fa-calendar"> 2016-04-19 22:37:00 +0600</i><br /><i class="fa fa-creative-commons"> BY-NC-SA 4.0 http://lordamit.github.io/disclosure</i></td>
       <td><img src="https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/&choe=UTF-8" alt="http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/" /></td>
     </tr>
   </tbody>
