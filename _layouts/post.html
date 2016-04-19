@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="post">
+  <header>
   <h1 itemprop="name" class="post-title">{{ page.title }}</h1>
   <span class="post-date" itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}"><i class="fa fa-calendar" title="Date published"> <a class="permalink" href="{{ site.url }}{{ page.url }}" itemprop="url" title="Permanent link to this post">{{ page.date | date_to_string }}</a> </i></span>
   {% if page.modified.size > 2 %}{% assign moddate = page.modified | date_to_string %}{% assign pgdate = page.date | date_to_string %}{% unless moddate == pgdate | date_to_string %}<span class="post-date" itemprop="dateModified" content="{{ page.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Last updated"> {{ page.modified | date_to_string }}</i></span>{% endunless %}{% endif %}
@@ -10,6 +11,7 @@ layout: default
     {% unless page.show_meta == false %}
       {% include meta_info.html %}
     {% endunless %}
+</header>
   {{ content }}
   <hr>
   {% if page.tags contains 'R' %}
@@ -32,8 +34,8 @@ layout: default
   <h2>Related Posts</h2>
 <ul>
   {% for post in site.posts %}
-    {% if post.url != page.url %} 
-      {% for tag in page.tags %} 
+    {% if post.url != page.url %}
+      {% for tag in page.tags %}
         {% if post.tags contains tag %}
           <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br /></li>
           {% break %}
