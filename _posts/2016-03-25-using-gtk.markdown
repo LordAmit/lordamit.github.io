@@ -3,25 +3,26 @@ layout: post
 title: "Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner"
 date: 2016-03-25 02:41:03 +0600
 comments: true
+modified: "2016-04-20 01:33:00 +0600"
 tags: [C, GTK, Ubuntu, Codeblocks, tutorial, beginner]
 ---
 Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!
 
-The major steps for **setting up environment** are :<a name="tocForGtk"></a>
+The major steps for **setting up environment** are:
 
-1. [Install latest stable version of CodeBlocks (for me, 16.01)](#latestCodeBlocks)
-2. [Install GTK-3.0 related libraries](#latestGtkLibraries)
-3. [Modify the Template Script in CodeBlocks](#modifyScripts)
-4. [Install Glade](#installingGlade)
+1. Install latest stable version of CodeBlocks (for me, 16.01)
+2. Install GTK-3.0 related libraries
+3. Modify the Template Script in CodeBlocks
+4. Install Glade
 
 The major steps for creating an UI are:
 
-1. [Create design using Glade](#designUsingGlade)
-2. [Connect it to a C code](#cCodeExample)
+1. Create design using Glade
+2. Connect it to a C code
 
 <!-- more -->
 ^
-## Latest CodeBlocks! <a name="latestCodeBlocks"></a>
+## Latest CodeBlocks!
 Installing CodeBlocks from PPA
 {% highlight shell %}
 sudo apt-add-repository ppa:damien-moore/codeblocks-stable
@@ -29,19 +30,17 @@ sudo apt-get update
 sudo apt-get install codeblocks
 {% endhighlight %}
 
-## GTK-3.0 Libraries! <a name="latestGtkLibraries"></a>[&#8593;](#tocForGtk)
-bash Installing GTK-3.0 libraries
+## GTK-3.0 Libraries!
+Installing GTK-3.0 libraries:
 {% highlight shell %}
 sudo apt-get install libgtk3.0-dev
 sudo apt-get install libgtk3.0-cil libgtk3.0-cil-dev
 {% endhighlight %}
 
-## Modify Template Script in CodeBlocks <a name="modifyScripts"></a>[&#8593;](#tocForGtk)
-
+## Modify Template Script in CodeBlocks
 This is the tricky part. You see, the CodeBlocks still uses GTK+-2.0 libraries by default for the GTK+ projects in its template. You need to edit the template file and modify the parts where it will reference the GTK-3.0 libraries instead of the libraries from version 2.
 
 start with this command:
-Use pkg-config to check versions
 
 {% highlight shell %}
 pkg-config --cflags --libs gtk+-3.0
@@ -62,11 +61,8 @@ Replace the version values with the values you found from the `pkg-config` part.
 
 {% highlight C %}
 # modifying versions from wizard.script file - before change
-
 if (!VerifyFile(dir_nomacro_inc + wxFILE_SEP_PATH + _T("gtk-2.0")))
-
 {% endhighlight %}
-
 will become
 {% highlight C %}
 # c modifying versions from wizard.script file - after change
@@ -76,14 +72,12 @@ if (!VerifyFile(dir_nomacro_inc + wxFILE_SEP_PATH + _T("gtk-3.0")))
 
 In case you are clueless, you can take a look at my [wizard.script](https://gist.github.com/lordamit/fc2b608f15047d9f672e).
 
-## Installing Glade <a name="installingGlade"></a> [&#8593;](#tocForGtk)
-
+## Installing Glade
 {% highlight shell %}
 sudo apt-get install glade
 {% endhighlight %}
 
-## Create Design Using Glade <a name="designUsingGlade"></a>[&#8593;](#tocForGtk)
-
+## Create Design Using Glade
 Open glade, drag and drop a `Window` top-level container. Add some more things if you want inside it. From the properties pane at the right side, go to `general` tab, and write `mywindow` in the ID.
 
 The key things to remember here are:
@@ -91,10 +85,9 @@ The key things to remember here are:
 1. You got to have a Window ID, and it must be used in the C code
 2. You have to save it in GtkBuilder format (`file > save as`)
 
-## C code example <a name="cCodeExample"></a>[&#8593;](#tocForGtk)
+## C code example
 
 {% highlight C %}
-
 # C Code that includes a testGlade.glade file
 # for designing UI
 #include<gtk/gtk.h>
