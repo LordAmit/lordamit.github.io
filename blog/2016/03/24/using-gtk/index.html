@@ -22,7 +22,7 @@ Credits: http://localhost:4000/disclosure
 </title>
 
 <!-- Search Engine Optimization -->
-<meta name="description" content="Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks! The major steps for setting up environment are : Install latest stable version of CodeBlocks (for...">
+<meta name="description" content="Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks! The major steps for setting up environment are: Install latest stable version of CodeBlocks (for me,...">
 <meta name="keywords" content="C, GTK, Ubuntu, Codeblocks, tutorial, beginner">
 
 
@@ -36,7 +36,7 @@ Credits: http://localhost:4000/disclosure
 
 
 <meta name="twitter:title" content="Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner">
-<meta name="twitter:description" content="Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks! The major steps for setting up environment are : Install latest stable version of CodeBlocks (for...">
+<meta name="twitter:description" content="Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks! The major steps for setting up environment are: Install latest stable version of CodeBlocks (for me,...">
 <meta name="twitter:creator" content="@lordamit">
 <!-- End Twitter Cards -->
 
@@ -44,7 +44,7 @@ Credits: http://localhost:4000/disclosure
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner">
-<meta property="og:description" content="Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks! The major steps for setting up environment are : Install latest stable version of CodeBlocks (for...">
+<meta property="og:description" content="Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks! The major steps for setting up environment are: Install latest stable version of CodeBlocks (for me,...">
 <meta property="og:url" content="http://localhost:4000/blog/2016/03/24/using-gtk/">
 <meta property="og:site_name" content="Amit's Blog">
 
@@ -209,7 +209,7 @@ Credits: http://localhost:4000/disclosure
   <header>
   <h1 itemprop="name" class="post-title">Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</h1>
   <span class="post-date" itemprop="datePublished" content="2016-03-24"><i class="fa fa-calendar" title="Date published"> <a class="permalink" href="http://localhost:4000/blog/2016/03/24/using-gtk/" itemprop="url" title="Permanent link to this post">24 Mar 2016</a> </i></span>
-  
+  <span class="post-date" itemprop="dateModified" content="2016-04-19"><i class="fa fa-edit" title="Last updated"> 19 Apr 2016</i></span>
   <span class="post-tags" itemprop="keywords" content="C, GTK, Ubuntu, Codeblocks, tutorial, and beginner"><i class="fa fa-tags" title="page tags"></i> <a href="http://localhost:4000/tags/#C" title="Pages tagged C" rel="tag">C</a> &bull;  <a href="http://localhost:4000/tags/#GTK" title="Pages tagged GTK" rel="tag">GTK</a> &bull;  <a href="http://localhost:4000/tags/#Ubuntu" title="Pages tagged Ubuntu" rel="tag">Ubuntu</a> &bull;  <a href="http://localhost:4000/tags/#Codeblocks" title="Pages tagged Codeblocks" rel="tag">Codeblocks</a> &bull;  <a href="http://localhost:4000/tags/#tutorial" title="Pages tagged tutorial" rel="tag">tutorial</a> &bull;  <a href="http://localhost:4000/tags/#beginner" title="Pages tagged beginner" rel="tag">beginner</a></span>
     
       <span class="social-icons">
@@ -226,42 +226,40 @@ Credits: http://localhost:4000/disclosure
 </header>
   <p>Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!</p>
 
-<p>The major steps for <strong>setting up environment</strong> are :<a name="tocForGtk"></a></p>
+<p>The major steps for <strong>setting up environment</strong> are:</p>
 
 <ol>
-  <li><a href="#latestCodeBlocks">Install latest stable version of CodeBlocks (for me, 16.01)</a></li>
-  <li><a href="#latestGtkLibraries">Install GTK-3.0 related libraries</a></li>
-  <li><a href="#modifyScripts">Modify the Template Script in CodeBlocks</a></li>
-  <li><a href="#installingGlade">Install Glade</a></li>
+  <li>Install latest stable version of CodeBlocks (for me, 16.01)</li>
+  <li>Install GTK-3.0 related libraries</li>
+  <li>Modify the Template Script in CodeBlocks</li>
+  <li>Install Glade</li>
 </ol>
 
 <p>The major steps for creating an UI are:</p>
 
 <ol>
-  <li><a href="#designUsingGlade">Create design using Glade</a></li>
-  <li><a href="#cCodeExample">Connect it to a C code</a></li>
+  <li>Create design using Glade</li>
+  <li>Connect it to a C code</li>
 </ol>
 
 <!-- more -->
-<h2 id="latest-codeblocks-a-namelatestcodeblocksa">Latest CodeBlocks! <a name="latestCodeBlocks"></a></h2>
+<h2 id="latest-codeblocks">Latest CodeBlocks!</h2>
 <p>Installing CodeBlocks from PPA</p>
 
 <figure class="highlight"><pre><code class="language-shell" data-lang="shell">sudo apt-add-repository ppa:damien-moore/codeblocks-stable
 sudo apt-get update
 sudo apt-get install codeblocks</code></pre></figure>
 
-<h2 id="gtk-30-libraries-a-namelatestgtklibrariesa8593tocforgtk">GTK-3.0 Libraries! <a name="latestGtkLibraries"></a><a href="#tocForGtk">↑</a></h2>
-<p>bash Installing GTK-3.0 libraries</p>
+<h2 id="gtk-30-libraries">GTK-3.0 Libraries!</h2>
+<p>Installing GTK-3.0 libraries:</p>
 
 <figure class="highlight"><pre><code class="language-shell" data-lang="shell">sudo apt-get install libgtk3.0-dev
 sudo apt-get install libgtk3.0-cil libgtk3.0-cil-dev</code></pre></figure>
 
-<h2 id="modify-template-script-in-codeblocks-a-namemodifyscriptsa8593tocforgtk">Modify Template Script in CodeBlocks <a name="modifyScripts"></a><a href="#tocForGtk">↑</a></h2>
-
+<h2 id="modify-template-script-in-codeblocks">Modify Template Script in CodeBlocks</h2>
 <p>This is the tricky part. You see, the CodeBlocks still uses GTK+-2.0 libraries by default for the GTK+ projects in its template. You need to edit the template file and modify the parts where it will reference the GTK-3.0 libraries instead of the libraries from version 2.</p>
 
-<p>start with this command:
-Use pkg-config to check versions</p>
+<p>start with this command:</p>
 
 <figure class="highlight"><pre><code class="language-shell" data-lang="shell">pkg-config --cflags --libs gtk+-3.0</code></pre></figure>
 
@@ -274,8 +272,7 @@ For me, it is:</p>
 Replace the version values with the values you found from the <code class="highlighter-rouge">pkg-config</code> part. For example,</p>
 
 <figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="cp"># modifying versions from wizard.script file - before change
-</span>
-<span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">VerifyFile</span><span class="p">(</span><span class="n">dir_nomacro_inc</span> <span class="o">+</span> <span class="n">wxFILE_SEP_PATH</span> <span class="o">+</span> <span class="n">_T</span><span class="p">(</span><span class="s">"gtk-2.0"</span><span class="p">)))</span></code></pre></figure>
+</span><span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">VerifyFile</span><span class="p">(</span><span class="n">dir_nomacro_inc</span> <span class="o">+</span> <span class="n">wxFILE_SEP_PATH</span> <span class="o">+</span> <span class="n">_T</span><span class="p">(</span><span class="s">"gtk-2.0"</span><span class="p">)))</span></code></pre></figure>
 
 <p>will become</p>
 
@@ -285,12 +282,11 @@ Replace the version values with the values you found from the <code class="highl
 
 <p>In case you are clueless, you can take a look at my <a href="https://gist.github.com/lordamit/fc2b608f15047d9f672e">wizard.script</a>.</p>
 
-<h2 id="installing-glade-a-nameinstallinggladea-8593tocforgtk">Installing Glade <a name="installingGlade"></a> <a href="#tocForGtk">↑</a></h2>
+<h2 id="installing-glade">Installing Glade</h2>
 
 <figure class="highlight"><pre><code class="language-shell" data-lang="shell">sudo apt-get install glade</code></pre></figure>
 
-<h2 id="create-design-using-glade-a-namedesignusinggladea8593tocforgtk">Create Design Using Glade <a name="designUsingGlade"></a><a href="#tocForGtk">↑</a></h2>
-
+<h2 id="create-design-using-glade">Create Design Using Glade</h2>
 <p>Open glade, drag and drop a <code class="highlighter-rouge">Window</code> top-level container. Add some more things if you want inside it. From the properties pane at the right side, go to <code class="highlighter-rouge">general</code> tab, and write <code class="highlighter-rouge">mywindow</code> in the ID.</p>
 
 <p>The key things to remember here are:</p>
@@ -300,7 +296,7 @@ Replace the version values with the values you found from the <code class="highl
   <li>You have to save it in GtkBuilder format (<code class="highlighter-rouge">file &gt; save as</code>)</li>
 </ol>
 
-<h2 id="c-code-example-a-nameccodeexamplea8593tocforgtk">C code example <a name="cCodeExample"></a><a href="#tocForGtk">↑</a></h2>
+<h2 id="c-code-example">C code example</h2>
 
 <figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="cp"># C Code that includes a testGlade.glade file
 # for designing UI
@@ -328,7 +324,7 @@ Replace the version values with the values you found from the <code class="highl
   <hr>
   
   <span class="post-date metafoot" itemprop="datePublished" content="2016-03-24"><i class="fa fa-calendar" title="Date published"> <a class="permalink" href="http://localhost:4000/blog/2016/03/24/using-gtk/" itemprop="url" title="Permanent link to this post">24 Mar 2016</a> </i></span>
-  
+  <span class="post-date metafoot" itemprop="dateModified" content="2016-04-19"><i class="fa fa-edit" title="Last updated"> 19 Apr 2016</i></span>
   <span class="post-tags" itemprop="keywords" content="C, GTK, Ubuntu, Codeblocks, tutorial, and beginner"><i class="fa fa-tags" title="page tags"></i> <a href="http://localhost:4000/tags/#C" title="Pages tagged C" rel="tag">C</a> &bull;  <a href="http://localhost:4000/tags/#GTK" title="Pages tagged GTK" rel="tag">GTK</a> &bull;  <a href="http://localhost:4000/tags/#Ubuntu" title="Pages tagged Ubuntu" rel="tag">Ubuntu</a> &bull;  <a href="http://localhost:4000/tags/#Codeblocks" title="Pages tagged Codeblocks" rel="tag">Codeblocks</a> &bull;  <a href="http://localhost:4000/tags/#tutorial" title="Pages tagged tutorial" rel="tag">tutorial</a> &bull;  <a href="http://localhost:4000/tags/#beginner" title="Pages tagged beginner" rel="tag">beginner</a></span>
     
       <span class="social-icons">
@@ -355,7 +351,7 @@ Replace the version values with the values you found from the <code class="highl
   </thead>
   <tbody>
     <tr>
-      <td><i class="fa fa-anchor"> http://localhost:4000/blog/2016/03/24/using-gtk/</i><br /><i class="fa fa-calendar"> 24-Mar-16</i><br /><i class="fa fa-creative-commons"> BY-NC-SA 4.0 http://localhost:4000/disclosure</i></td>
+      <td><i class="fa fa-anchor"> http://localhost:4000/blog/2016/03/24/using-gtk/</i><br /><i class="fa fa-calendar"> 2016-04-19 11:40:00 +0600</i><br /><i class="fa fa-creative-commons"> BY-NC-SA 4.0 http://localhost:4000/disclosure</i></td>
       <td><img src="https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=http://localhost:4000/blog/2016/03/24/using-gtk/&choe=UTF-8" alt="http://localhost:4000/blog/2016/03/24/using-gtk/" /></td>
     </tr>
   </tbody>

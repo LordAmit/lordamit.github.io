@@ -5,7 +5,7 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-04-19T23:27:26+06:00</updated>
+    <updated>2016-04-20T01:34:35+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -29,42 +29,40 @@
         
           <description>&lt;p&gt;Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!&lt;/p&gt;
 
-&lt;p&gt;The major steps for &lt;strong&gt;setting up environment&lt;/strong&gt; are :&lt;a name=&quot;tocForGtk&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The major steps for &lt;strong&gt;setting up environment&lt;/strong&gt; are:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;#latestCodeBlocks&quot;&gt;Install latest stable version of CodeBlocks (for me, 16.01)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#latestGtkLibraries&quot;&gt;Install GTK-3.0 related libraries&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#modifyScripts&quot;&gt;Modify the Template Script in CodeBlocks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#installingGlade&quot;&gt;Install Glade&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Install latest stable version of CodeBlocks (for me, 16.01)&lt;/li&gt;
+  &lt;li&gt;Install GTK-3.0 related libraries&lt;/li&gt;
+  &lt;li&gt;Modify the Template Script in CodeBlocks&lt;/li&gt;
+  &lt;li&gt;Install Glade&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;The major steps for creating an UI are:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;#designUsingGlade&quot;&gt;Create design using Glade&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#cCodeExample&quot;&gt;Connect it to a C code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Create design using Glade&lt;/li&gt;
+  &lt;li&gt;Connect it to a C code&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;!-- more --&gt;
-&lt;h2 id=&quot;latest-codeblocks-a-namelatestcodeblocksa&quot;&gt;Latest CodeBlocks! &lt;a name=&quot;latestCodeBlocks&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;latest-codeblocks&quot;&gt;Latest CodeBlocks!&lt;/h2&gt;
 &lt;p&gt;Installing CodeBlocks from PPA&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;sudo apt-add-repository ppa:damien-moore/codeblocks-stable
 sudo apt-get update
 sudo apt-get install codeblocks&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;h2 id=&quot;gtk-30-libraries-a-namelatestgtklibrariesa8593tocforgtk&quot;&gt;GTK-3.0 Libraries! &lt;a name=&quot;latestGtkLibraries&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#tocForGtk&quot;&gt;↑&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;bash Installing GTK-3.0 libraries&lt;/p&gt;
+&lt;h2 id=&quot;gtk-30-libraries&quot;&gt;GTK-3.0 Libraries!&lt;/h2&gt;
+&lt;p&gt;Installing GTK-3.0 libraries:&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;sudo apt-get install libgtk3.0-dev
 sudo apt-get install libgtk3.0-cil libgtk3.0-cil-dev&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;h2 id=&quot;modify-template-script-in-codeblocks-a-namemodifyscriptsa8593tocforgtk&quot;&gt;Modify Template Script in CodeBlocks &lt;a name=&quot;modifyScripts&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#tocForGtk&quot;&gt;↑&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&quot;modify-template-script-in-codeblocks&quot;&gt;Modify Template Script in CodeBlocks&lt;/h2&gt;
 &lt;p&gt;This is the tricky part. You see, the CodeBlocks still uses GTK+-2.0 libraries by default for the GTK+ projects in its template. You need to edit the template file and modify the parts where it will reference the GTK-3.0 libraries instead of the libraries from version 2.&lt;/p&gt;
 
-&lt;p&gt;start with this command:
-Use pkg-config to check versions&lt;/p&gt;
+&lt;p&gt;start with this command:&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;pkg-config --cflags --libs gtk+-3.0&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
@@ -77,8 +75,7 @@ For me, it is:&lt;/p&gt;
 Replace the version values with the values you found from the &lt;code class=&quot;highlighter-rouge&quot;&gt;pkg-config&lt;/code&gt; part. For example,&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;# modifying versions from wizard.script file - before change
-&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;VerifyFile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dir_nomacro_inc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;wxFILE_SEP_PATH&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;_T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gtk-2.0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;VerifyFile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dir_nomacro_inc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;wxFILE_SEP_PATH&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;_T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gtk-2.0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;will become&lt;/p&gt;
 
@@ -88,12 +85,11 @@ Replace the version values with the values you found from the &lt;code class=&qu
 
 &lt;p&gt;In case you are clueless, you can take a look at my &lt;a href=&quot;https://gist.github.com/lordamit/fc2b608f15047d9f672e&quot;&gt;wizard.script&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;installing-glade-a-nameinstallinggladea-8593tocforgtk&quot;&gt;Installing Glade &lt;a name=&quot;installingGlade&quot;&gt;&lt;/a&gt; &lt;a href=&quot;#tocForGtk&quot;&gt;↑&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;installing-glade&quot;&gt;Installing Glade&lt;/h2&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;sudo apt-get install glade&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;h2 id=&quot;create-design-using-glade-a-namedesignusinggladea8593tocforgtk&quot;&gt;Create Design Using Glade &lt;a name=&quot;designUsingGlade&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#tocForGtk&quot;&gt;↑&lt;/a&gt;&lt;/h2&gt;
-
+&lt;h2 id=&quot;create-design-using-glade&quot;&gt;Create Design Using Glade&lt;/h2&gt;
 &lt;p&gt;Open glade, drag and drop a &lt;code class=&quot;highlighter-rouge&quot;&gt;Window&lt;/code&gt; top-level container. Add some more things if you want inside it. From the properties pane at the right side, go to &lt;code class=&quot;highlighter-rouge&quot;&gt;general&lt;/code&gt; tab, and write &lt;code class=&quot;highlighter-rouge&quot;&gt;mywindow&lt;/code&gt; in the ID.&lt;/p&gt;
 
 &lt;p&gt;The key things to remember here are:&lt;/p&gt;
@@ -103,7 +99,7 @@ Replace the version values with the values you found from the &lt;code class=&qu
   &lt;li&gt;You have to save it in GtkBuilder format (&lt;code class=&quot;highlighter-rouge&quot;&gt;file &amp;gt; save as&lt;/code&gt;)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;c-code-example-a-nameccodeexamplea8593tocforgtk&quot;&gt;C code example &lt;a name=&quot;cCodeExample&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#tocForGtk&quot;&gt;↑&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;c-code-example&quot;&gt;C code example&lt;/h2&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;# C Code that includes a testGlade.glade file
 # for designing UI
