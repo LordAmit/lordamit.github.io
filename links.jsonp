@@ -58,6 +58,11 @@ callback([
   {
     "text": "বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা",
     "href": "http://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/"
+  } ,
+
+  {
+    "text": "সহজ সরল কম্পিউটার নিরাপত্তা",
+    "href": "http://lordamit.github.io/blog/2016/04/24/norton-security-contest/"
   } 
 
 ])
