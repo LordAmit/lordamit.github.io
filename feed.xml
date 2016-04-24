@@ -5,7 +5,7 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-04-24T23:13:00+06:00</updated>
+    <updated>2016-04-25T00:22:09+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -16,7 +16,7 @@
         
           <description>&lt;p&gt;ফেসবুক নিয়মিত ভাবে তাদের &lt;a href=&quot;https://www.fbf8.com/&quot; target=&quot;_blank&quot;&gt;F8 ডেভেলপার কনফারেন্স&lt;/a&gt; আয়োজন করে, যেখানে তারা ভবিষ্যতে ফেসবুকের লক্ষ্য কি, তারা কিভাবে আগাচ্ছে, ডেভেলপার এবং ব্যবহারকারীদের জন্য নতুন কি কি আসছে সে বিষয়ে জানায়। যেহেতু গোটা পৃথিবী জুড়ে অনেক আগ্রহী ব্যক্তি থাকলেও সবাইকে নিমন্ত্রন করা সম্ভব হয় না, তাই তারা বিভিন্ন দেশে সেই সময়ে &lt;a href=&quot;https://developers.facebook.com/blog/post/2016/03/01/f8-2016-meetups/&quot; target=&quot;_blank&quot;&gt;Facebook F8Meetup&lt;/a&gt; আয়োজন করে, যেখানে F8 Developer Conference লাইভ স্ট্রিমিং করার পাশাপাশি লোকাল ডেভেলপার কমিউনিটিও ফেসবুকের বিভিন্ন প্রযুক, সেগুলোর প্রায়োগিক ব্যবহার এবং লোকালিটির সাপেক্ষে কি করা যায় সে বিষয়ে আলোচনা করে। এ বছরের ১৩ এপ্রিল বাংলাদেশে প্রথম বারের মতো অনুষ্ঠিত হয় Facebook F8Meetup। আয়োজন করেছিলো SD Asia, GPHouse এ। প্যানেল স্পিকার হিসাবে সেখানে নিমন্ত্রিত হয়ে যাই আমি। আলোচনার বিষয় ছিলো “How to Make Better Apps in the Context of Bangladesh”।&lt;/p&gt;
 &lt;figure class=&quot;op-social&quot;&gt;
-  &lt;iframe src=&quot;https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D10209292169161570%26set%3Dp.10209292169161570%26type%3D3&amp;amp;width=500&quot; width=&quot;500&quot; height=&quot;486&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+  &lt;div class=&quot;fb-post&quot; data-href=&quot;https://www.facebook.com/photo.php?fbid=10209292169161570&quot; data-width=&quot;500&quot; data-show-text=&quot;true&quot;&gt;&lt;div class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;blockquote cite=&quot;https://www.facebook.com/photo.php?fbid=10209292169161570&amp;amp;set=p.10209292169161570&amp;amp;type=3&quot;&gt;&lt;p&gt;Facebook F8Meetup &amp;#x98f; &amp;#x9aa;&amp;#x9cd;&amp;#x9af;&amp;#x9be;&amp;#x9a8;&amp;#x9c7;&amp;#x9b2; &amp;#x986;&amp;#x9b2;&amp;#x9cb;&amp;#x99a;&amp;#x9a8;&amp;#x9be; &amp;#x99a;&amp;#x9b2;&amp;#x9be;&amp;#x9b0; &amp;#x98f;&amp;#x995;&amp;#x99f;&amp;#x9bf; &amp;#x9ae;&amp;#x9c1;&amp;#x9b9;&amp;#x9c2;&amp;#x9b0;&amp;#x9cd;&amp;#x9a4;&amp;#x9c7;&lt;/p&gt;Posted by &lt;a href=&quot;https://www.facebook.com/lordamit&quot;&gt;Amit Seal Ami&lt;/a&gt; on&amp;nbsp;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=10209292169161570&amp;amp;set=p.10209292169161570&amp;amp;type=3&quot;&gt;Wednesday, April 13, 2016&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/div&gt;
   
 &lt;/figure&gt;
 &lt;p&gt;সেখানে যা মূল আলাপ ছিলো, তা হচ্ছে বাংলাদেশে এই মুহূর্তে বেশিরভাগ অ্যাপ তৈরী হচ্ছে খুচরা হিসেবে। কিরকম খুচরা, তা আসলে গুগল প্লে স্টোরে বাংলাদেশের সর্বাধিক ব্যবহৃত অ্যাপ (ক্লু: NSFW) দেখলেই বুঝা যায়। এটার মূল কারণ ডেভেলপার হিসাবে বা ব্যবহারকারী হিসেবে আমাদের এখনো মানসিক পরিপক্কতা আসেনি বললেই চলে। এ ধরণের অ্যাপগুলোও চলে বিজ্ঞাপনের উপরে ভিত্তি করে, তেমন কোন সার্ভিস দেয় না বলেই। কিন্তু পক্ষান্তরে এর মানে এই না যে সার্ভিস অ্যাপ বাংলাদেশে চলে না। চলে, খুব ভালো মতোই যে চলে - তার একটা খুব ভালো উদাহরণ GObd Traffic App. এখন সেটা থেকে উত্তরণের উপায় কি?&lt;/p&gt;
@@ -277,7 +277,7 @@ Replace the version values with the values you found from the &lt;code class=&qu
 &lt;p&gt;How?
 &lt;!-- more --&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;install&quot;&gt;Install&lt;/h3&gt;
+&lt;h2 id=&quot;install&quot;&gt;Install&lt;/h2&gt;
 &lt;p&gt;To prepare the installation environment properly, you need to:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -296,7 +296,7 @@ Replace the version values with the values you found from the &lt;code class=&qu
   &lt;li&gt;Complete Installation&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;tweaks-for-resolution-experimental&quot;&gt;Tweaks for Resolution (Experimental)&lt;/h3&gt;
+&lt;h2 id=&quot;tweaks-for-resolution-experimental&quot;&gt;Tweaks for Resolution (Experimental)&lt;/h2&gt;
 &lt;p&gt;In default mode, the resolution sucks. Of course, we can fix that by assigning the resolution through grub. Note that incorrect DPI and resolution settings can frequently cause force reboot abruptly.&lt;/p&gt;
 
 &lt;p&gt;There are two approaches:&lt;/p&gt;
@@ -308,7 +308,7 @@ Replace the version values with the values you found from the &lt;code class=&qu
 
 &lt;p&gt;You will need both approaches. Because finding the perfect resolution takes some experimentation.&lt;/p&gt;
 
-&lt;h3 id=&quot;change-resolution-in-runtime&quot;&gt;Change Resolution in Runtime&lt;/h3&gt;
+&lt;h2 id=&quot;change-resolution-in-runtime&quot;&gt;Change Resolution in Runtime&lt;/h2&gt;
 &lt;p&gt;When your Remix OS shows boot menu, press &lt;code class=&quot;highlighter-rouge&quot;&gt;e&lt;/code&gt;, and then &lt;code class=&quot;highlighter-rouge&quot;&gt;e&lt;/code&gt; again. See the &lt;code class=&quot;highlighter-rouge&quot;&gt;VGA=791&lt;/code&gt; part? That is setting your resolution. We are going to &lt;code class=&quot;highlighter-rouge&quot;&gt;UVESA_MODE&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DPI&lt;/code&gt; for better resolution. Modify and insert the part instead of &lt;code class=&quot;highlighter-rouge&quot;&gt;VGA=791&lt;/code&gt;. &lt;strong&gt;Keep everything else the same.&lt;/strong&gt; I tested and found the following settings useful:&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;&lt;span class=&quot;nv&quot;&gt;DPI&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;160 &lt;span class=&quot;nv&quot;&gt;UVESA_MODE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;1366x768
@@ -320,7 +320,7 @@ Replace the version values with the values you found from the &lt;code class=&qu
 
 &lt;p&gt;Once you find your perfect resolution head over to next step.&lt;/p&gt;
 
-&lt;h3 id=&quot;change-resolution-permanently&quot;&gt;Change Resolution Permanently&lt;/h3&gt;
+&lt;h2 id=&quot;change-resolution-permanently&quot;&gt;Change Resolution Permanently&lt;/h2&gt;
 &lt;ol&gt;
   &lt;li&gt;Hit up your Ubuntu once again, and mount the EXT4 partition.&lt;/li&gt;
   &lt;li&gt;Open up your terminal. Probably the partition will be mounted in &lt;code class=&quot;highlighter-rouge&quot;&gt;/media/ubuntu-gnome&lt;/code&gt;. For example, mine was mounted in &lt;code class=&quot;highlighter-rouge&quot;&gt;/media/ubuntu-gnome/&lt;/code&gt;.&lt;/li&gt;

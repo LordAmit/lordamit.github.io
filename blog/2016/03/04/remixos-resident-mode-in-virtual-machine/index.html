@@ -209,7 +209,7 @@ Credits: http://lordamit.github.io/disclosure
   <header>
   <h1 itemprop="name" class="post-title">Remix OS Resident Mode in Virtual Machine</h1>
   <span class="post-date" itemprop="datePublished" content="2016-03-04"><i class="fa fa-calendar" title="Date published"> <a class="permalink" href="http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/" itemprop="url" title="Permanent link to this post">04 Mar 2016</a> </i></span>
-  <span class="post-date" itemprop="dateModified" content="2016-04-19"><i class="fa fa-edit" title="Last updated"> 19 Apr 2016</i></span>
+  <span class="post-date" itemprop="dateModified" content="2016-04-25"><i class="fa fa-edit" title="Last updated"> 25 Apr 2016</i></span>
   <span class="post-tags" itemprop="keywords" content="tutorial, android, and Linux"><i class="fa fa-tags" title="page tags"></i> <a href="http://lordamit.github.io/tags/#tutorial" title="Pages tagged tutorial" rel="tag">tutorial</a> &bull;  <a href="http://lordamit.github.io/tags/#android" title="Pages tagged android" rel="tag">android</a> &bull;  <a href="http://lordamit.github.io/tags/#Linux" title="Pages tagged Linux" rel="tag">Linux</a></span>
     
       <span class="social-icons">
@@ -233,7 +233,7 @@ Credits: http://lordamit.github.io/disclosure
 <p>How?
 <!-- more --></p>
 
-<h3 id="install">Install</h3>
+<h2 id="install">Install</h2>
 <p>To prepare the installation environment properly, you need to:</p>
 
 <ol>
@@ -252,7 +252,7 @@ Credits: http://lordamit.github.io/disclosure
   <li>Complete Installation</li>
 </ol>
 
-<h3 id="tweaks-for-resolution-experimental">Tweaks for Resolution (Experimental)</h3>
+<h2 id="tweaks-for-resolution-experimental">Tweaks for Resolution (Experimental)</h2>
 <p>In default mode, the resolution sucks. Of course, we can fix that by assigning the resolution through grub. Note that incorrect DPI and resolution settings can frequently cause force reboot abruptly.</p>
 
 <p>There are two approaches:</p>
@@ -264,7 +264,7 @@ Credits: http://lordamit.github.io/disclosure
 
 <p>You will need both approaches. Because finding the perfect resolution takes some experimentation.</p>
 
-<h3 id="change-resolution-in-runtime">Change Resolution in Runtime</h3>
+<h2 id="change-resolution-in-runtime">Change Resolution in Runtime</h2>
 <p>When your Remix OS shows boot menu, press <code class="highlighter-rouge">e</code>, and then <code class="highlighter-rouge">e</code> again. See the <code class="highlighter-rouge">VGA=791</code> part? That is setting your resolution. We are going to <code class="highlighter-rouge">UVESA_MODE</code> and <code class="highlighter-rouge">DPI</code> for better resolution. Modify and insert the part instead of <code class="highlighter-rouge">VGA=791</code>. <strong>Keep everything else the same.</strong> I tested and found the following settings useful:</p>
 
 <figure class="highlight"><pre><code class="language-shell" data-lang="shell"><span class="nv">DPI</span><span class="o">=</span>160 <span class="nv">UVESA_MODE</span><span class="o">=</span>1366x768
@@ -276,7 +276,7 @@ Credits: http://lordamit.github.io/disclosure
 
 <p>Once you find your perfect resolution head over to next step.</p>
 
-<h3 id="change-resolution-permanently">Change Resolution Permanently</h3>
+<h2 id="change-resolution-permanently">Change Resolution Permanently</h2>
 <ol>
   <li>Hit up your Ubuntu once again, and mount the EXT4 partition.</li>
   <li>Open up your terminal. Probably the partition will be mounted in <code class="highlighter-rouge">/media/ubuntu-gnome</code>. For example, mine was mounted in <code class="highlighter-rouge">/media/ubuntu-gnome/</code>.</li>
@@ -302,7 +302,7 @@ That’s all. Enjoy. :)</p>
   <hr>
   
   <span class="post-date metafoot" itemprop="datePublished" content="2016-03-04"><i class="fa fa-calendar" title="Date published"> <a class="permalink" href="http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/" itemprop="url" title="Permanent link to this post">04 Mar 2016</a> </i></span>
-  <span class="post-date metafoot" itemprop="dateModified" content="2016-04-19"><i class="fa fa-edit" title="Last updated"> 19 Apr 2016</i></span>
+  <span class="post-date metafoot" itemprop="dateModified" content="2016-04-25"><i class="fa fa-edit" title="Last updated"> 25 Apr 2016</i></span>
   <span class="post-tags" itemprop="keywords" content="tutorial, android, and Linux"><i class="fa fa-tags" title="page tags"></i> <a href="http://lordamit.github.io/tags/#tutorial" title="Pages tagged tutorial" rel="tag">tutorial</a> &bull;  <a href="http://lordamit.github.io/tags/#android" title="Pages tagged android" rel="tag">android</a> &bull;  <a href="http://lordamit.github.io/tags/#Linux" title="Pages tagged Linux" rel="tag">Linux</a></span>
     
       <span class="social-icons">
@@ -329,7 +329,7 @@ That’s all. Enjoy. :)</p>
   </thead>
   <tbody>
     <tr>
-      <td><i class="fa fa-anchor"> http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</i><br /><i class="fa fa-calendar"> 2016-04-19 22:37:00 +0600</i><br /><i class="fa fa-creative-commons"> BY-NC-SA 4.0 http://lordamit.github.io/disclosure</i></td>
+      <td><i class="fa fa-anchor"> http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</i><br /><i class="fa fa-calendar"> 2016-04-25 00:01:00 +0600</i><br /><i class="fa fa-creative-commons"> BY-NC-SA 4.0 http://lordamit.github.io/disclosure</i></td>
       <td><img src="https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/&choe=UTF-8" alt="http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/" /></td>
     </tr>
   </tbody>
