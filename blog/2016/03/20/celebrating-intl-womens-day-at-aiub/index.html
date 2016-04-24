@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us" prefix="op: http://media.facebook.com/op#">
+<html lang="en-us">
 <!--
 ====================================================
 Homepage: http://lordamit.github.io
@@ -10,7 +10,6 @@ Credits: http://lordamit.github.io/disclosure
 <!-- link href="http://gmpg.org/xfn/11" rel="profile" -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta property="op:markup_version" content="v1.0">
 <!-- Enable responsiveness on mobile devices-->
 <meta name="HandheldFriendly" content="True">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -627,24 +626,21 @@ Credits: http://lordamit.github.io/disclosure
     </script>
     
 <!-- Asynchronous Google Analytics snippet -->
-<figure class="op-tracker" style="display: none;">
-    <iframe>
-        <script>
-          var _gaq = _gaq || [];
-          var pluginUrl =
-         '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-          _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-          _gaq.push(['_setAccount', 'UA-11383434-9']);
-          _gaq.push(['_trackPageview']);
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl =
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-11383434-9']);
+  _gaq.push(['_trackPageview']);
 
-          (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-          })();
-        </script>
-    </iframe>
-</figure>
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
 
 <!-- gist embed -->
 

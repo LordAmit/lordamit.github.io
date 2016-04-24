@@ -5,7 +5,7 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-04-25T00:58:24+06:00</updated>
+    <updated>2016-04-25T02:02:55+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -28,7 +28,23 @@
 &lt;p&gt;ব্যক্তিগতভাবে আমার কাছে সবচাইতে বেশি ভালো লেগেছে GObd এর COO - Farhan Rahman এর সেশনটা। ওখানে তিনি GObd কিভাবে ফেসবুকের Authentication kit ব্যবহার করবে, তাতে কি সুবিধা হবে সে বিষয়ে আলাপ করেন। GObd কে মূল &lt;a href=&quot;http://www.clickittefaq.com/gobd-becomes-bangladeshi-tech-startup-featured-facebook-f8-conference/&quot; target=&quot;_blank&quot;&gt;ডেভেলপার কনফারেন্সেও&lt;/a&gt; ফিচার করা হয়েছে এবছরে।&lt;/p&gt;
 </description>
         
-        <content:encoded><p>ফেসবুক নিয়মিত ভাবে <a href="https://www.fbf8.com/" target="_blank">F8 ডেভেলপার কনফারেন্স</a> আয়োজন করে, যেখানে তারা ভবিষ্যতে ফেসবুকের লক্ষ্য কি, তারা কিভাবে আগাচ্ছে, ডেভেলপার এবং ব্যবহারকারীদের জন্য নতুন কি কি আসছে সে বিষয়ে জানায়। যেহেতু গোটা পৃথিবী জুড়ে অনেক আগ্রহী ব্যক্তি থাকলেও সবাইকে নিমন্ত্রন করা সম্ভব হয় না, তাই তারা বিভিন্ন দেশে সেই সময়ে <a href="https://developers.facebook.com/blog/post/2016/03/01/f8-2016-meetups/" target="_blank">Facebook F8Meetup</a> আয়োজন করে, যেখানে F8 Developer Conference লাইভ স্ট্রিমিং করার পাশাপাশি লোকাল ডেভেলপার কমিউনিটিও ফেসবুকের বিভিন্ন প্রযুক, সেগুলোর প্রায়োগিক ব্যবহার এবং লোকালিটির সাপেক্ষে কি করা যায় সে বিষয়ে আলোচনা করে। এ বছরের ১৩ এপ্রিল বাংলাদেশে প্রথম বারের মতো অনুষ্ঠিত হয় Facebook F8Meetup। আয়োজন করেছিলো SD Asia, GPHouse এ। প্যানেল স্পিকার হিসাবে সেখানে নিমন্ত্রিত হয়ে যাই আমি। আলোচনার বিষয় ছিলো “How to Make Better Apps in the Context of Bangladesh”।</p>
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা</h1>
+                      <time class="op-published" dateTime="2016-04-24 22:10:43 BDT">Sun, 24 Apr 2016 22:10:43 +0600</time>
+                      <time class="op-modified" dateTime="2016-04-25 00:44:00 BDT">2016-04-25 00:44:00 +0600</time>
+                  </header>
+                  <p>ফেসবুক নিয়মিত ভাবে <a href="https://www.fbf8.com/" target="_blank">F8 ডেভেলপার কনফারেন্স</a> আয়োজন করে, যেখানে তারা ভবিষ্যতে ফেসবুকের লক্ষ্য কি, তারা কিভাবে আগাচ্ছে, ডেভেলপার এবং ব্যবহারকারীদের জন্য নতুন কি কি আসছে সে বিষয়ে জানায়। যেহেতু গোটা পৃথিবী জুড়ে অনেক আগ্রহী ব্যক্তি থাকলেও সবাইকে নিমন্ত্রন করা সম্ভব হয় না, তাই তারা বিভিন্ন দেশে সেই সময়ে <a href="https://developers.facebook.com/blog/post/2016/03/01/f8-2016-meetups/" target="_blank">Facebook F8Meetup</a> আয়োজন করে, যেখানে F8 Developer Conference লাইভ স্ট্রিমিং করার পাশাপাশি লোকাল ডেভেলপার কমিউনিটিও ফেসবুকের বিভিন্ন প্রযুক, সেগুলোর প্রায়োগিক ব্যবহার এবং লোকালিটির সাপেক্ষে কি করা যায় সে বিষয়ে আলোচনা করে। এ বছরের ১৩ এপ্রিল বাংলাদেশে প্রথম বারের মতো অনুষ্ঠিত হয় Facebook F8Meetup। আয়োজন করেছিলো SD Asia, GPHouse এ। প্যানেল স্পিকার হিসাবে সেখানে নিমন্ত্রিত হয়ে যাই আমি। আলোচনার বিষয় ছিলো “How to Make Better Apps in the Context of Bangladesh”।</p>
 <figure class="op-social">
   <div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=10209292169161570" data-width="500" data-show-text="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/photo.php?fbid=10209292169161570&amp;set=p.10209292169161570&amp;type=3"><p>Facebook F8Meetup &#x98f; &#x9aa;&#x9cd;&#x9af;&#x9be;&#x9a8;&#x9c7;&#x9b2; &#x986;&#x9b2;&#x9cb;&#x99a;&#x9a8;&#x9be; &#x99a;&#x9b2;&#x9be;&#x9b0; &#x98f;&#x995;&#x99f;&#x9bf; &#x9ae;&#x9c1;&#x9b9;&#x9c2;&#x9b0;&#x9cd;&#x9a4;&#x9c7;</p>Posted by <a href="https://www.facebook.com/lordamit">Amit Seal Ami</a> on&nbsp;<a href="https://www.facebook.com/photo.php?fbid=10209292169161570&amp;set=p.10209292169161570&amp;type=3">Wednesday, April 13, 2016</a></blockquote></div></div>
   
@@ -40,7 +56,15 @@
 <p>এছাড়াও F8 Meetup এ গ্রামীণফোন কিভাবে সোশ্যাল মিডিয়া ব্যবহার করে তাদের পণ্যের বিজ্ঞাপন করছে, সেগুলোর সাথে কিভাবে বাঙ্গালী জাতীয়তাবাদ, সংষ্কৃতি, ক্রিকেট আর মুক্তিযুদ্ধকে সম্পৃক্ত করছে সে বিষয়ে কেস স্টাডি ভিত্তিক আলাপ হয়। রিলেট করে কথা বললে যে সেটা মানুষের কাছে বেশি পৌঁছায় - সেটাই স্বাভাবিক। সেটাই হবার কথা। যদিও ভাইরাল হবার রেসিপি যে কি, সেটা এখনো তারা বুঝার চেষ্টা করছেন। যেমন হুট করেই জুনায়েদের ভিডিওটা কিভাবে ভাইরাল হলো - সেটা কি বাই চান্স না কোন ফর্মুলা আছে - সেটাও চিন্তার বিষয়।</p>
 
 <p>ব্যক্তিগতভাবে আমার কাছে সবচাইতে বেশি ভালো লেগেছে GObd এর COO - Farhan Rahman এর সেশনটা। ওখানে তিনি GObd কিভাবে ফেসবুকের Authentication kit ব্যবহার করবে, তাতে কি সুবিধা হবে সে বিষয়ে আলাপ করেন। GObd কে মূল <a href="http://www.clickittefaq.com/gobd-becomes-bangladeshi-tech-startup-featured-facebook-f8-conference/" target="_blank">ডেভেলপার কনফারেন্সেও</a> ফিচার করা হয়েছে এবছরে।</p>
-</content:encoded>
+
+                  <footer>
+                    <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
         <pubDate>Sun, 24 Apr 2016 22:10:43 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/</guid>
@@ -73,7 +97,23 @@
 &lt;p&gt;সব মিলিয়ে আমার কাছে খুবই ভালো লেগেছে। পয়সা উসুল!&lt;/p&gt;
 </description>
         
-        <content:encoded><p>কিছুদিন আগে প্ল্যান করেছিলাম গুগলের কার্ডবোর্ড কিনবো। কিনতে গিয়ে টের পেলাম, আমার ৬ ইঞ্চি স্ক্রিনের শাওমি রেডমি নোটের জন্য আসলে সেটা অনেক ছোট হয়ে যায়। কিছু আলাপ আলোচনা করে কিনলাম RIEM এর ভার্চুয়াল রিয়েলিটি হেডসেট ভার্সন ২। দোকানে চেক করে দেখলাম খুবই ভালো কাজ করে। কিনেও ফেললাম।
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>Virtual Reality Headset Review - RIEM 3D v2</h1>
+                      <time class="op-published" dateTime="2016-04-24 21:10:43 BDT">Sun, 24 Apr 2016 21:10:43 +0600</time>
+                      <time class="op-modified" dateTime=""></time>
+                  </header>
+                  <p>কিছুদিন আগে প্ল্যান করেছিলাম গুগলের কার্ডবোর্ড কিনবো। কিনতে গিয়ে টের পেলাম, আমার ৬ ইঞ্চি স্ক্রিনের শাওমি রেডমি নোটের জন্য আসলে সেটা অনেক ছোট হয়ে যায়। কিছু আলাপ আলোচনা করে কিনলাম RIEM এর ভার্চুয়াল রিয়েলিটি হেডসেট ভার্সন ২। দোকানে চেক করে দেখলাম খুবই ভালো কাজ করে। কিনেও ফেললাম।
 <!-- more --></p>
 <figure>
   <img src="https://farm2.staticflickr.com/1508/26588228446_ee6a582ca3_z.jpg" alt="RIEM VR HeadSet right after Unpacking" />
@@ -94,7 +134,15 @@
 </ul>
 
 <p>সব মিলিয়ে আমার কাছে খুবই ভালো লেগেছে। পয়সা উসুল!</p>
-</content:encoded>
+
+                  <footer>
+                    <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
         <pubDate>Sun, 24 Apr 2016 21:10:43 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</guid>
@@ -109,10 +157,34 @@
 
 </description>
         
-        <content:encoded><p>২০০১ সালে Unicef এর আর্থিক সহযোগিতায় বাংলাদেশ দুর্যোগ ব্যবস্থাপনা ব্যুরো (<a href="http://www.ddm.gov.bd/"><abbr title="Department of Disaster Management">DDM</abbr></a>) থেকে প্রকাশিত হয় ভূমিকম্প বিষয়ে গণসচেতনতা নামের একটি বুকলেট। সেই বুকলেটটি পুরনো <a href="http://old.ddm.gov.bd/"><abbr title="Department of Disaster Management">DDM</abbr></a> এর সাইট থেকে উদ্ধার করা গেলেও, বর্তমান ওয়েবসাইটে পাওয়া যায়না সহজে। সকলের উপকারের জন্যই, এটিকে আলাদা করে আবার এখানে রাখা।
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</h1>
+                      <time class="op-published" dateTime="2016-04-18 00:00:00 BDT">Mon, 18 Apr 2016 00:00:00 +0600</time>
+                      <time class="op-modified" dateTime=""></time>
+                  </header>
+                  <p>২০০১ সালে Unicef এর আর্থিক সহযোগিতায় বাংলাদেশ দুর্যোগ ব্যবস্থাপনা ব্যুরো (<a href="http://www.ddm.gov.bd/"><abbr title="Department of Disaster Management">DDM</abbr></a>) থেকে প্রকাশিত হয় ভূমিকম্প বিষয়ে গণসচেতনতা নামের একটি বুকলেট। সেই বুকলেটটি পুরনো <a href="http://old.ddm.gov.bd/"><abbr title="Department of Disaster Management">DDM</abbr></a> এর সাইট থেকে উদ্ধার করা গেলেও, বর্তমান ওয়েবসাইটে পাওয়া যায়না সহজে। সকলের উপকারের জন্যই, এটিকে আলাদা করে আবার এখানে রাখা।
 <script async="" class="speakerdeck-embed" data-id="7843578431dc427db6ea217ee869fead" data-ratio="0.617611580217129" src="//speakerdeck.com/assets/embed.js"></script></p>
 
-</content:encoded>
+
+                  <footer>
+                    <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
         <pubDate>Mon, 18 Apr 2016 00:00:00 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</guid>
@@ -220,7 +292,23 @@ Replace the version values with the values you found from the &lt;code class=&qu
 &lt;p&gt;Compile and run.  Comment below if this works for you or if you got a feedback! share your screen shot of what you built :)&lt;/p&gt;
 </description>
         
-        <content:encoded><p>Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!</p>
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://lordamit.github.io/blog/2016/03/25/using-gtk/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</h1>
+                      <time class="op-published" dateTime="2016-03-25 02:41:03 BDT">Fri, 25 Mar 2016 02:41:03 +0600</time>
+                      <time class="op-modified" dateTime="2016-04-20 01:33:00 BDT">2016-04-20 01:33:00 +0600</time>
+                  </header>
+                  <p>Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!</p>
 
 <p>The major steps for <strong>setting up environment</strong> are:</p>
 
@@ -316,7 +404,15 @@ Replace the version values with the values you found from the <code class="highl
 <span class="p">}</span></code></pre></figure>
 
 <p>Compile and run.  Comment below if this works for you or if you got a feedback! share your screen shot of what you built :)</p>
-</content:encoded>
+
+                  <footer>
+                    <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
         <pubDate>Fri, 25 Mar 2016 02:41:03 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2016/03/25/using-gtk/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/25/using-gtk/</guid>
@@ -400,7 +496,23 @@ Replace the version values with the values you found from the <code class="highl
 
 </description>
         
-        <content:encoded><p>On 20th March, 2016 - I gave a speech at American International University-Bangladesh, in an event to celebrate International Women’s Day and to encourage women in technical fields. This event was organized by IEEE AIUB Student Branch and Google Women TechMakers Bangladesh group.</p>
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>Celebrating Intl. Women&#39;s day at AIUB</h1>
+                      <time class="op-published" dateTime="2016-03-20 16:48:51 BDT">Sun, 20 Mar 2016 16:48:51 +0600</time>
+                      <time class="op-modified" dateTime=""></time>
+                  </header>
+                  <p>On 20th March, 2016 - I gave a speech at American International University-Bangladesh, in an event to celebrate International Women’s Day and to encourage women in technical fields. This event was organized by IEEE AIUB Student Branch and Google Women TechMakers Bangladesh group.</p>
 
 <p>I talked about the past, and the present, and shared my own experience in software industry, so that together, men and women can create a better future.</p>
 
@@ -472,7 +584,15 @@ Replace the version values with the values you found from the <code class="highl
 <span class="p">-</span> BIG is beautiful
 <span class="p">-</span> Info-graphics</code></pre></figure>
 
-</content:encoded>
+
+                  <footer>
+                    <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
         <pubDate>Sun, 20 Mar 2016 16:48:51 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</guid>
@@ -558,7 +678,23 @@ That’s all. Enjoy. :)&lt;/p&gt;
 &lt;/ol&gt;
 </description>
         
-        <content:encoded><p>Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.</p>
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>Remix OS Resident Mode in Virtual Machine</h1>
+                      <time class="op-published" dateTime="2016-03-04 11:17:11 BDT">Fri, 04 Mar 2016 11:17:11 +0600</time>
+                      <time class="op-modified" dateTime="2016-04-25 00:01:00 BDT">2016-04-25 00:01:00 +0600</time>
+                  </header>
+                  <p>Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.</p>
 <figure>
   <img src="https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg" alt="Remix OS in Virtual Machine" />
   
@@ -632,7 +768,15 @@ That’s all. Enjoy. :)</p>
   <li><a href="http://stackoverflow.com/questions/6202342/switch-android-x86-screen-resolution/8273560#8273560">virtualbox - Switch android x86 screen resolution - Stack Overflow</a></li>
   <li><a href="http://pierre.baudu.in/other/grub.vga.modes.html">GRUB VGA Modes</a></li>
 </ol>
-</content:encoded>
+
+                  <footer>
+                    <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
         <pubDate>Fri, 04 Mar 2016 11:17:11 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</guid>
@@ -660,7 +804,23 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 &lt;p&gt;And that’s why, I switched from Blogspot to Octopress. :)&lt;/p&gt;
 </description>
         
-        <content:encoded><p>I switched from Blogspot to Octopress about a year ago. Even though my blogspot site was search engine friendly, was getting about 10K views per month when I was regular, and contained details about all of my useful works - I still decided to switch to Octopress - for a fresh start.  Why?
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>And that is why I switched to Octopress from Blogger!</h1>
+                      <time class="op-published" dateTime="2015-11-23 19:37:22 BDT">Mon, 23 Nov 2015 19:37:22 +0600</time>
+                      <time class="op-modified" dateTime=""></time>
+                  </header>
+                  <p>I switched from Blogspot to Octopress about a year ago. Even though my blogspot site was search engine friendly, was getting about 10K views per month when I was regular, and contained details about all of my useful works - I still decided to switch to Octopress - for a fresh start.  Why?
 <!-- more -->
 Because I found that Blogspot is incredibly slow and rusty. It is of course, useful with all the widgets and such - but it still is <i>slow</i>. That’s when Salman, a young fellow I consider a brother to me, suggested me about Octopress. I loved this, and here I made this blog. After an year, I decided to analyze the response. Here is the result right from Google Webmaster.</p>
 
@@ -676,7 +836,15 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 </figure>
 
 <p>And that’s why, I switched from Blogspot to Octopress. :)</p>
-</content:encoded>
+
+                  <footer>
+                    <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
         <pubDate>Mon, 23 Nov 2015 19:37:22 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</guid>
@@ -712,7 +880,23 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 &lt;p&gt;আর ইয়ারফোনটার কথা কি বলবো। লো থেকে হাই - সব রেঞ্জের শব্দের জন্যই এটা ভালো কাজ করছে। হয়তো দুর্দান্ত না - কিন্তু তাই বলে একেবারে ফেলনাও না!&lt;/p&gt;
 </description>
         
-        <content:encoded><p>কিছু দিন আগে আমি <a href="http://gadgetgang7.com/">GadgetGang7</a> থেকে অনলাইনে অর্ডার দেই <a href="http://gadgetgang7.com/product/xiaomi-piston-earphone-basic-edition/">Xiaomi Piston Basic Edition Earphone</a> আর <a href="http://gadgetgang7.com/product/mi-band/">Mi Band</a> এর। বলা দরকার - অনলাইন অর্ডার প্রোসেসে কো‌থাও প্রোডাক্টের রংয়ের কথা উল্লেখ নেই।</p>
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>Review: Mi Band and Xiaomi Piston Basic Edition Headphone</h1>
+                      <time class="op-published" dateTime="2015-11-16 14:25:11 BDT">Mon, 16 Nov 2015 14:25:11 +0600</time>
+                      <time class="op-modified" dateTime="2016-04-19 13:20:00 BDT">2016-04-19 13:20:00</time>
+                  </header>
+                  <p>কিছু দিন আগে আমি <a href="http://gadgetgang7.com/">GadgetGang7</a> থেকে অনলাইনে অর্ডার দেই <a href="http://gadgetgang7.com/product/xiaomi-piston-earphone-basic-edition/">Xiaomi Piston Basic Edition Earphone</a> আর <a href="http://gadgetgang7.com/product/mi-band/">Mi Band</a> এর। বলা দরকার - অনলাইন অর্ডার প্রোসেসে কো‌থাও প্রোডাক্টের রংয়ের কথা উল্লেখ নেই।</p>
 
 <p>যাই হোক - ব্যান্ড হিসাবে এবং ইয়ারফোন হিসাবে এই দুটোই সবচাইতে কম দামী প্রোডাক্টগুলোর একটা Xiaomi এর পক্ষ থেকে। কাজেই খুব বেশি আশাবাদী ছিলাম না। ঘটনা পাল্টে গেলো হাতে পাবার পরে।  ব্যান্ডখানাতে খালি Accelerometer আর Bluetooth আছে। সাথে আছে একটা পিচ্চি, কিন্তু সাশ্রয়ী ব্যাটারি। ৫ দিন টানা চালানোর পরে এখনো চার্জ আছে ৮২% এর মতো। আবার ওয়াটারপ্রুফও। ৫দিন হাতে লাগিয়ে ঘুমানো, খাওয়া দাওয়া, সবই করলাম। প্রথম দিনেই MiFit নামের এন্ড্রয়েড অ্যাপে রিপোর্ট দেখে চমকে গেলাম। প্রায় ২০০০টাকার মতো দামের একটা ব্যান্ডে এত ভালো রেজাল্ট পাবো সেটা আশা করি নাই।
 <!-- more -->
@@ -736,7 +920,15 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 <p>মজার বিষয় হলোম ঐদিন আমার আসলেই দুই বা এক মিনিটের জন্য ঘুম ভেঙ্গেছিলো। ব্যান্ডটা কিভাবে সেটা ধরতে পেরেছে জানি না, কিন্তু পেরেছে।তার সাথে আবার দেখিয়েও দিয়েছে - কখন ঘুম পাতলা হয়েছে আর কখন গভীর - সেটা ঘুমের ভিতর নাড়াচাড়া লক্ষ্য করেই।  আরো কিছু মজার বিষয় হলো, এটা দিয়ে ফোন টা আনলক করা যায়। হাতটা খুব কাছে আনলেই শুধুমাত্র আনলক হয়, নাহলে হয় না - কাজেই খালি হাতে নিয়ে পড়ে ঘুরলেই ফোন আনলক হয়ে বসে থাকে না। আর আরেকটা সুবিধা হচ্ছে ব্যান্ড এলার্ম। এটা ঘুম ভাঙ্গার কিছু আগে থেকে আস্তে আস্তে ভাইব্রেট করা শুরু করে - এবং সেটা ভাইব্রেশের পরিমাণ বাড়াতে থাকে। বিশেষত্ব হলো - ভাইব্রেশনটা শুরু করবে যখন ঘুম পাতলা স্টেটে থাকে - তখন। গভীর ঘুমের সময় ঘুম ভাঙ্গলে সেটা মাথা ব্যথা বা অন্য সমস্যা করতে পারে তো, তাই!</p>
 
 <p>আর ইয়ারফোনটার কথা কি বলবো। লো থেকে হাই - সব রেঞ্জের শব্দের জন্যই এটা ভালো কাজ করছে। হয়তো দুর্দান্ত না - কিন্তু তাই বলে একেবারে ফেলনাও না!</p>
-</content:encoded>
+
+                  <footer>
+                    <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
         <pubDate>Mon, 16 Nov 2015 14:25:11 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/</guid>
@@ -779,7 +971,23 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 &lt;p&gt;এত সব ছোট ছোট জিনিষ এরা করেছে যেগুলা সহজে কারো মাথায় হয়তো আসে না। কিন্তু এরা একটা জিনিষ শিখে ফেলেছে, সেটা হল যদি নিজে একটু কষ্ট করে সমাজের নিয়ম গুলা মেনে চলি তাহলে আখেরে নিজের অনেক বেশি লাভ হয়। আমরা এটা শিখেছি নাকি সেটা রাস্তায় উল্টা দিকে যাওয়া বা বাম দিক থেকে ডান দিকে যাওয়া গাড়ি বা রিকশা দেখলেই বুঝা যায়। আশা করি শিখলে তখন যাতায়াত ব্যবস্থা হোক বা দেশপ্রেম – আমাদের নিজেদের সিস্টেম আরো বেশি সিস্টেমেটিক হবে। :)&lt;/p&gt;
 </description>
         
-        <content:encoded><p>সিঙ্গাপুরে প্রথমেই যেটা আপনার যেটা চোখে পড়বে, সেটা হল সিস্টেমেটিক নোটিশ। বাংলাদেশের রাস্তার বৈশিষ্ট্য যদি হয় রাজনৈতিক পোস্টার, তাহলে এখানে সেটা হবে বিভিন্ন নির্দেশনার পোস্টার। সেটা বাসে হোক, দোকানে হোক, পাতালরেলের ভিতরে বা বাইরে। এমনিতেই এশিয়ানদের খ্যাতি আছে কম কথা বলার অভ্যাস নিয়ে, সেটা সিঙ্গাপুরে আরো পাকাপোক্ত করে ফেলেছে নোটিশের ছড়াছড়ি দিয়ে। কিরকম ন‌োটিশ?
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://lordamit.github.io/blog/2015/07/23/singapore-visit-2/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>সিঙ্গাপুর সফর – একগাদা নোটিশের ভিড়ে যাতায়াত ব্যবস্থা</h1>
+                      <time class="op-published" dateTime="2015-07-23 22:51:07 BDT">Thu, 23 Jul 2015 22:51:07 +0600</time>
+                      <time class="op-modified" dateTime="2016-04-19 00:00:00 BDT">2016-04-19</time>
+                  </header>
+                  <p>সিঙ্গাপুরে প্রথমেই যেটা আপনার যেটা চোখে পড়বে, সেটা হল সিস্টেমেটিক নোটিশ। বাংলাদেশের রাস্তার বৈশিষ্ট্য যদি হয় রাজনৈতিক পোস্টার, তাহলে এখানে সেটা হবে বিভিন্ন নির্দেশনার পোস্টার। সেটা বাসে হোক, দোকানে হোক, পাতালরেলের ভিতরে বা বাইরে। এমনিতেই এশিয়ানদের খ্যাতি আছে কম কথা বলার অভ্যাস নিয়ে, সেটা সিঙ্গাপুরে আরো পাকাপোক্ত করে ফেলেছে নোটিশের ছড়াছড়ি দিয়ে। কিরকম ন‌োটিশ?
 <!-- more --></p>
 <figure>
   <img src="https://farm4.staticflickr.com/3804/19946608905_13fe753bf0_z.jpg" alt="পানিতে ভেজা ছাতা আছে? এখানের ব্যাগ ব্যবহার করে ভিতরে নিয়ে যান, পানি পড়বে না।" />
@@ -810,7 +1018,15 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 <p>তবে এদের যাতায়াতের ব্যবস্থাতে (বাস বা মেট্রো ট্রেন) আমার একটা জিনিষ অসম্ভব ভালো লেগেছে। পরিষ্কার ভাবে বলা আছে, সিটগুলোতে যেন সন্তানসম্ভাবা মা, শারীরিক ভাবে সমস্যা কারো থাকলে, বাচ্চা সহ কেউ থাকলে বা বয়ষ্ক কেউ থাকলে তাকে অগ্রাধিকার দিতে। বাংলাদেশে তো বাসের সিটগুলোতে ব্যাপক বিনোদন হয় - নারীবাদীরা মারামারি লাগায় সিট কেন তাদের আলাদা ভাবে দেয়া হবে তা নিয়ে, অনেক বেকুবচান পুরুষ(?) সামনের তিন সিটে গ্যাট মেরে বীরদর্পে বসেই থাকে - মেয়েরা আসার পরেও। অনেক সময় আবার ফেসবুকে অনেক আবেগী পোস্টও দেখি, মেয়েদের উচিত বয়ষ্ক পুরুষদের জন্য জায়গা ছেড়ে দেয়া, তারা দেয় না কেন – সে বিষয়ে। এরা সেসব সমস্যা হবার জায়গা থাকতে দেয়নি।</p>
 
 <p>এত সব ছোট ছোট জিনিষ এরা করেছে যেগুলা সহজে কারো মাথায় হয়তো আসে না। কিন্তু এরা একটা জিনিষ শিখে ফেলেছে, সেটা হল যদি নিজে একটু কষ্ট করে সমাজের নিয়ম গুলা মেনে চলি তাহলে আখেরে নিজের অনেক বেশি লাভ হয়। আমরা এটা শিখেছি নাকি সেটা রাস্তায় উল্টা দিকে যাওয়া বা বাম দিক থেকে ডান দিকে যাওয়া গাড়ি বা রিকশা দেখলেই বুঝা যায়। আশা করি শিখলে তখন যাতায়াত ব্যবস্থা হোক বা দেশপ্রেম – আমাদের নিজেদের সিস্টেম আরো বেশি সিস্টেমেটিক হবে। :)</p>
-</content:encoded>
+
+                  <footer>
+                    <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
         <pubDate>Thu, 23 Jul 2015 22:51:07 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2015/07/23/singapore-visit-2/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2015/07/23/singapore-visit-2/</guid>
@@ -854,7 +1070,23 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 &lt;p&gt;পরবর্তী পর্ব পড়তে ক্লিক করুন &lt;a href=&quot;http://lordamit.github.io/blog/2015/07/23/singapore-visit-2/&quot;&gt;এখানে&lt;/a&gt;।&lt;/p&gt;
 </description>
         
-        <content:encoded><p>২০১৫ সালে সিঙ্গাপুরে  যাবার সুযোগটা হঠাৎ করেই আসে। তো ওখানের কি কি দেখলাম, কি কি খেয়াল করলাম, কি শিখলাম, তা সবার মাঝে ছড়িয়ে দিতেই এখানে কিছু লেখা লিখবো।</p>
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://lordamit.github.io/blog/2015/07/19/singgaapur-sphr-1/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>সিঙ্গাপুর সফর - ১</h1>
+                      <time class="op-published" dateTime="2015-07-19 22:09:04 BDT">Sun, 19 Jul 2015 22:09:04 +0600</time>
+                      <time class="op-modified" dateTime="2016-04-19 13:17:00 BDT">2016-04-19 13:17:00</time>
+                  </header>
+                  <p>২০১৫ সালে সিঙ্গাপুরে  যাবার সুযোগটা হঠাৎ করেই আসে। তো ওখানের কি কি দেখলাম, কি কি খেয়াল করলাম, কি শিখলাম, তা সবার মাঝে ছড়িয়ে দিতেই এখানে কিছু লেখা লিখবো।</p>
 
 <p>মাঝে মধ্যে বাংলাদেশের সাথে তুুলনাটাও চলে আসবে - কি করলে আরো ভালো করা যায়, কি মাথায় রাখা যায় - তা নিয়েই।</p>
 
@@ -886,7 +1118,15 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 <p>এসব ছোটখাটো কাজ করলেই কিন্তু সেগুলা বেশ বড় প্রভাব রাখে সবার জীবনে। :)</p>
 
 <p>পরবর্তী পর্ব পড়তে ক্লিক করুন <a href="http://lordamit.github.io/blog/2015/07/23/singapore-visit-2/">এখানে</a>।</p>
-</content:encoded>
+
+                  <footer>
+                    <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
         <pubDate>Sun, 19 Jul 2015 22:09:04 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2015/07/19/singgaapur-sphr-1/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2015/07/19/singgaapur-sphr-1/</guid>
