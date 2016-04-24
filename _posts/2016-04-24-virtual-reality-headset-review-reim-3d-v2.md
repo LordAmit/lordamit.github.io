@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Virtual Reality Headset Review - RIEM 3D v2
-date: "2016-04-24"
+date: "2016-04-24 21:10:43 +0600"
 comments: true
 show_meta: true
 imagefeature: "https://farm2.staticflickr.com/1508/26588228446_ee6a582ca3_z.jpg"
