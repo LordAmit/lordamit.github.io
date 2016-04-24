@@ -32,6 +32,7 @@
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
+<meta property="og:locale:alternate" content="bn_BD" />
 <meta property="og:type" content="article">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif page.content %}{{ page.content | strip_html | truncatewords: 50 }}{% else %}{{ site.description }}{% endif %}">
