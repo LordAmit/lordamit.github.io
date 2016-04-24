@@ -4,7 +4,7 @@ title: Remix OS Resident Mode in Virtual Machine
 date: '2016-03-04 11:17:11 +0600'
 description: "It is now possible to setup Remix OS in virtual Machine. Yes, in resident mode, which was not possible earlier. And this article will guide you step by step to achieve just that."
 comments: true
-modified: '2016-04-19 22:37:00 +0600'
+modified: '2016-04-25 00:01:00 +0600'
 tags: [tutorial, android, Linux]
 ---
 Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.
@@ -14,7 +14,7 @@ Long story short, it is now possible to run Remix OS in Virtual Machine (or Virt
 How?
 <!-- more -->
 
-### Install
+## Install
 To prepare the installation environment properly, you need to:
 
 3. Make a virtual machine first - Recommended: 8GB Space, 1GB RAM
@@ -29,7 +29,7 @@ During installation - choose the following options:
 1. Do not Install UEFI Grub Thingy
 6. Complete Installation
 
-### Tweaks for Resolution (Experimental)
+## Tweaks for Resolution (Experimental)
 In default mode, the resolution sucks. Of course, we can fix that by assigning the resolution through grub. Note that incorrect DPI and resolution settings can frequently cause force reboot abruptly.
 
 There are two approaches:
@@ -39,7 +39,7 @@ There are two approaches:
 
 You will need both approaches. Because finding the perfect resolution takes some experimentation.
 
-### Change Resolution in Runtime
+## Change Resolution in Runtime
 When your Remix OS shows boot menu, press `e`, and then `e` again. See the `VGA=791` part? That is setting your resolution. We are going to `UVESA_MODE` and `DPI` for better resolution. Modify and insert the part instead of `VGA=791`. **Keep everything else the same.** I tested and found the following settings useful:
 
 {% highlight shell %}
@@ -53,7 +53,7 @@ Press `ESC` to discard changes, or Press `Enter` to temporarily save changes.  a
 
 Once you find your perfect resolution head over to next step.
 
-### Change Resolution Permanently
+## Change Resolution Permanently
 1. Hit up your Ubuntu once again, and mount the EXT4 partition.
 2. Open up your terminal. Probably the partition will be mounted in `/media/ubuntu-gnome`. For example, mine was mounted in `/media/ubuntu-gnome/`.
 3. Go into the mounted volume, and there you will see 3 folders.

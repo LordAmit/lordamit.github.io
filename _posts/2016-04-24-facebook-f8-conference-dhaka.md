@@ -5,10 +5,13 @@ date: "2016-04-24 22:10:43 +0600"
 comments: true
 show_meta: true
 description: "এপ্রিলের ১৩ তারিখে বাংলাদেশে প্রথম বারের মতো অনুষ্ঠিত হয় Facebook F8Meetup। প্যানেল স্পিকার হিসাবে সেখানে নিমন্ত্রিত হয়ে যাই আমি। সেই অভিজ্ঞতা নিয়েই এই লেখাটি।"
+modified: "2016-04-25 00:20:00 +0600"
 ---
 ফেসবুক নিয়মিত ভাবে তাদের [F8 ডেভেলপার কনফারেন্স](https://www.fbf8.com/){:target="_blank"} আয়োজন করে, যেখানে তারা ভবিষ্যতে ফেসবুকের লক্ষ্য কি, তারা কিভাবে আগাচ্ছে, ডেভেলপার এবং ব্যবহারকারীদের জন্য নতুন কি কি আসছে সে বিষয়ে জানায়। যেহেতু গোটা পৃথিবী জুড়ে অনেক আগ্রহী ব্যক্তি থাকলেও সবাইকে নিমন্ত্রন করা সম্ভব হয় না, তাই তারা বিভিন্ন দেশে সেই সময়ে [Facebook F8Meetup](https://developers.facebook.com/blog/post/2016/03/01/f8-2016-meetups/){:target="_blank"} আয়োজন করে, যেখানে F8 Developer Conference লাইভ স্ট্রিমিং করার পাশাপাশি লোকাল ডেভেলপার কমিউনিটিও ফেসবুকের বিভিন্ন প্রযুক, সেগুলোর প্রায়োগিক ব্যবহার এবং লোকালিটির সাপেক্ষে কি করা যায় সে বিষয়ে আলোচনা করে। এ বছরের ১৩ এপ্রিল বাংলাদেশে প্রথম বারের মতো অনুষ্ঠিত হয় Facebook F8Meetup। আয়োজন করেছিলো SD Asia, GPHouse এ। প্যানেল স্পিকার হিসাবে সেখানে নিমন্ত্রিত হয়ে যাই আমি। আলোচনার বিষয় ছিলো "How to Make Better Apps in the Context of Bangladesh"।
 {% figure %}
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D10209292169161570%26set%3Dp.10209292169161570%26type%3D3&width=500" width="500" height="486" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+<div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=10209292169161570" data-width="500" data-show-text="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/photo.php?fbid=10209292169161570&amp;set=p.10209292169161570&amp;type=3"><p>Facebook F8Meetup &#x98f; &#x9aa;&#x9cd;&#x9af;&#x9be;&#x9a8;&#x9c7;&#x9b2; &#x986;&#x9b2;&#x9cb;&#x99a;&#x9a8;&#x9be; &#x99a;&#x9b2;&#x9be;&#x9b0; &#x98f;&#x995;&#x99f;&#x9bf; &#x9ae;&#x9c1;&#x9b9;&#x9c2;&#x9b0;&#x9cd;&#x9a4;&#x9c7;</p>Posted by <a href="https://www.facebook.com/lordamit">Amit Seal Ami</a> on&nbsp;<a href="https://www.facebook.com/photo.php?fbid=10209292169161570&amp;set=p.10209292169161570&amp;type=3">Wednesday, April 13, 2016</a></blockquote></div></div>
+
 {% endfigure %}{:.op-social}
 সেখানে যা মূল আলাপ ছিলো, তা হচ্ছে বাংলাদেশে এই মুহূর্তে বেশিরভাগ অ্যাপ তৈরী হচ্ছে খুচরা হিসেবে। কিরকম খুচরা, তা আসলে গুগল প্লে স্টোরে বাংলাদেশের সর্বাধিক ব্যবহৃত অ্যাপ (ক্লু: NSFW) দেখলেই বুঝা যায়। এটার মূল কারণ ডেভেলপার হিসাবে বা ব্যবহারকারী হিসেবে আমাদের এখনো মানসিক পরিপক্কতা আসেনি বললেই চলে। এ ধরণের অ্যাপগুলোও চলে বিজ্ঞাপনের উপরে ভিত্তি করে, তেমন কোন সার্ভিস দেয় না বলেই। কিন্তু পক্ষান্তরে এর মানে এই না যে সার্ভিস অ্যাপ বাংলাদেশে চলে না। চলে, খুব ভালো মতোই যে চলে - তার একটা খুব ভালো উদাহরণ GObd Traffic App. এখন সেটা থেকে উত্তরণের উপায় কি?
 
