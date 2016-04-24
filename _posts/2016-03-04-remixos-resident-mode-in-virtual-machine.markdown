@@ -64,7 +64,7 @@ Once you find your perfect resolution head over to next step.
 Save and reboot!
 That's all. Enjoy. :)
 
-### Acknowledgements
+## Acknowledgements
 I took help from the following sites:
 
 1. [Remix OS 2.0 x86/x64 iso : RemixOS](https://www.reddit.com/r/RemixOS/comments/406982/remix_os_20_x86x64_iso/)
