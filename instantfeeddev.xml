@@ -39,8 +39,10 @@ layout: null
                       <time class="op-modified" dateTime="{{ post.modified | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.modified }}</time>
                   </header>
                   {{ post.content }}
-                  <footer>
-                    <small>Copyright - Amit Seal Ami</small>
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+
+                        <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
               </body>
