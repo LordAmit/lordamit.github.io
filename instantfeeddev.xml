@@ -5,7 +5,7 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-04-25T10:39:26+06:00</updated>
+    <updated>2016-04-25T10:52:13+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -13,6 +13,10 @@
     
       <item>
         <title>প্রোগ্রামিং শিখতে হলে</title>
+        <link>http://lordamit.github.io/blog/2016/04/25/programming-shekha/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/25/programming-shekha/</guid>
+        <pubDate>Mon, 25 Apr 2016 04:26:00 +0600</pubDate>
+        <author>Amit Seal Ami</author>
         
           <description>&lt;p&gt;আমি অনেক দিন ধরেই লক্ষ্য করেছি – আমার আশে পাশে অনেকেই আছে যারা খুব তাড়াতাড়ি প্রোগ্রামিং রপ্ত করে ফেলতে পারে, নতুন জিনিষ শিখতে পারে। আমার ধারণা ব্যাপারটা বুদ্ধিমত্তার কিছু না। অনেক সময়ই দেখেছি, অনেক ছোট ভাই এসে বলে – ভাই – শিখতে পারছি না প্রোগ্রামিং। কি করলে শিখতে পারবো? তখন কিছু জিনিষ বলেছিলাম।
 কয়দিন আগে Learn Python the Hard way বইয়েও দেখি আমার কথাগুলো, সাথে আরো অনেক কিছু বলা হয়েছে যেগুলো আমি ঐসব ভালো প্রোগ্রামারের ভেতরে লক্ষ্য করেছি। আমার ধারণা প্রোগ্রামিং শিখতে না পারা, বা খুব ধীর গতিতে শেখাটা মোটামুটি সাধারণ আমাদের মাঝে। সেজন্যই ঐ বই আর আমার চিন্তা মিলিয়ে এই লেখাটা। নিজেদের ভেতরে কিছু ছোট্ট ছোট্ট পরিবর্তন আনলেই প্রোগ্রামিং শেখা ডাল ভাত।
@@ -101,7 +105,6 @@
 
                     <footer>
                         <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
-
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -109,14 +112,15 @@
             </html>
         ]]>
         </content:encoded>
-        <pubDate>Mon, 25 Apr 2016 04:26:00 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2016/04/25/programming-shekha/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/25/programming-shekha/</guid>
-        <author><name>Amit Seal Ami</name></author>
+
       </item>
     
       <item>
         <title>সহজ সরল কম্পিউটার নিরাপত্তা</title>
+        <link>http://lordamit.github.io/blog/2016/04/24/norton-security-contest/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/24/norton-security-contest/</guid>
+        <pubDate>Sun, 24 Apr 2016 22:10:43 +0600</pubDate>
+        <author>Amit Seal Ami</author>
         
           <description>&lt;p&gt;আমার কম্পিউটার ব্যবহার করার জীবন প্রায় এক যুগের মতোই হবে। খুবই সহজ সরল ব্যবহার। গান শোনা, গেম খেলা, ইন্টারনেট ফোরামে যাওয়া, একটু আধটু প্রোগ্রামিং শেখার চেষ্টা, ক্লিক করে আয় করার চেষ্টা (না না, ডুল্যান্সার না :D) ইত্যাদি। এর মাঝে অসংখ্য রকমের অভিজ্ঞতার সম্মুখীন হয়েছি। খারাপ, ভালো সবরকম মিলিয়ে বলতে পারি এসব অভিজ্ঞতা নিঃসন্দেহে আমার কম্পিউটার চালানোর ব্যাপারটাকে আরো নিরাপদ করেছে। &lt;strong&gt;দ্রুত শেখা ভালো, তার চাইতেও বেশি ভালো ভুল থেকে শেখা; যেন ভুল একবারই হয়।&lt;/strong&gt;
 &lt;!-- more --&gt;&lt;/p&gt;
@@ -199,7 +203,6 @@
 
                     <footer>
                         <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
-
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -207,14 +210,15 @@
             </html>
         ]]>
         </content:encoded>
-        <pubDate>Sun, 24 Apr 2016 22:10:43 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2016/04/24/norton-security-contest/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/24/norton-security-contest/</guid>
-        <author><name>Amit Seal Ami</name></author>
+
       </item>
     
       <item>
         <title>বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা</title>
+        <link>http://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/</guid>
+        <pubDate>Sun, 24 Apr 2016 22:10:43 +0600</pubDate>
+        <author>Amit Seal Ami</author>
         
           <description>&lt;p&gt;ফেসবুক নিয়মিত ভাবে &lt;a href=&quot;https://www.fbf8.com/&quot; target=&quot;_blank&quot;&gt;F8 ডেভেলপার কনফারেন্স&lt;/a&gt; আয়োজন করে, যেখানে তারা ভবিষ্যতে ফেসবুকের লক্ষ্য কি, তারা কিভাবে আগাচ্ছে, ডেভেলপার এবং ব্যবহারকারীদের জন্য নতুন কি কি আসছে সে বিষয়ে জানায়। যেহেতু গোটা পৃথিবী জুড়ে অনেক আগ্রহী ব্যক্তি থাকলেও সবাইকে নিমন্ত্রন করা সম্ভব হয় না, তাই তারা বিভিন্ন দেশে সেই সময়ে &lt;a href=&quot;https://developers.facebook.com/blog/post/2016/03/01/f8-2016-meetups/&quot; target=&quot;_blank&quot;&gt;Facebook F8Meetup&lt;/a&gt; আয়োজন করে, যেখানে F8 Developer Conference লাইভ স্ট্রিমিং করার পাশাপাশি লোকাল ডেভেলপার কমিউনিটিও ফেসবুকের বিভিন্ন প্রযুক, সেগুলোর প্রায়োগিক ব্যবহার এবং লোকালিটির সাপেক্ষে কি করা যায় সে বিষয়ে আলোচনা করে। এ বছরের ১৩ এপ্রিল বাংলাদেশে প্রথম বারের মতো অনুষ্ঠিত হয় Facebook F8Meetup। আয়োজন করেছিলো SD Asia, GPHouse এ। প্যানেল স্পিকার হিসাবে সেখানে নিমন্ত্রিত হয়ে যাই আমি। আলোচনার বিষয় ছিলো “How to Make Better Apps in the Context of Bangladesh”।&lt;/p&gt;
 &lt;figure class=&quot;op-social&quot;&gt;
@@ -261,7 +265,6 @@
 
                     <footer>
                         <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
-
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -269,14 +272,15 @@
             </html>
         ]]>
         </content:encoded>
-        <pubDate>Sun, 24 Apr 2016 22:10:43 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/</guid>
-        <author><name>Amit Seal Ami</name></author>
+
       </item>
     
       <item>
         <title>Virtual Reality Headset Review - RIEM 3D v2</title>
+        <link>http://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</guid>
+        <pubDate>Sun, 24 Apr 2016 21:10:43 +0600</pubDate>
+        <author>Amit Seal Ami</author>
         
           <description>&lt;p&gt;কিছুদিন আগে প্ল্যান করেছিলাম গুগলের কার্ডবোর্ড কিনবো। কিনতে গিয়ে টের পেলাম, আমার ৬ ইঞ্চি স্ক্রিনের শাওমি রেডমি নোটের জন্য আসলে সেটা অনেক ছোট হয়ে যায়। কিছু আলাপ আলোচনা করে কিনলাম RIEM এর ভার্চুয়াল রিয়েলিটি হেডসেট ভার্সন ২। দোকানে চেক করে দেখলাম খুবই ভালো কাজ করে। কিনেও ফেললাম।
 &lt;!-- more --&gt;&lt;/p&gt;
@@ -341,7 +345,6 @@
 
                     <footer>
                         <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
-
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -349,14 +352,15 @@
             </html>
         ]]>
         </content:encoded>
-        <pubDate>Sun, 24 Apr 2016 21:10:43 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</guid>
-        <author><name>Amit Seal Ami</name></author>
+
       </item>
     
       <item>
         <title>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</title>
+        <link>http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</guid>
+        <pubDate>Mon, 18 Apr 2016 00:00:00 +0600</pubDate>
+        <author>Amit Seal Ami</author>
         
           <description>&lt;p&gt;২০০১ সালে Unicef এর আর্থিক সহযোগিতায় বাংলাদেশ দুর্যোগ ব্যবস্থাপনা ব্যুরো (&lt;a href=&quot;http://www.ddm.gov.bd/&quot;&gt;&lt;abbr title=&quot;Department of Disaster Management&quot;&gt;DDM&lt;/abbr&gt;&lt;/a&gt;) থেকে প্রকাশিত হয় ভূমিকম্প বিষয়ে গণসচেতনতা নামের একটি বুকলেট। সেই বুকলেটটি পুরনো &lt;a href=&quot;http://old.ddm.gov.bd/&quot;&gt;&lt;abbr title=&quot;Department of Disaster Management&quot;&gt;DDM&lt;/abbr&gt;&lt;/a&gt; এর সাইট থেকে উদ্ধার করা গেলেও, বর্তমান ওয়েবসাইটে পাওয়া যায়না সহজে। সকলের উপকারের জন্যই, এটিকে আলাদা করে আবার এখানে রাখা।
 &lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;7843578431dc427db6ea217ee869fead&quot; data-ratio=&quot;0.617611580217129&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
@@ -385,7 +389,6 @@
 
                     <footer>
                         <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
-
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -393,14 +396,15 @@
             </html>
         ]]>
         </content:encoded>
-        <pubDate>Mon, 18 Apr 2016 00:00:00 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</guid>
-        <author><name>Amit Seal Ami</name></author>
+
       </item>
     
       <item>
         <title>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</title>
+        <link>http://lordamit.github.io/blog/2016/03/25/using-gtk/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/25/using-gtk/</guid>
+        <pubDate>Fri, 25 Mar 2016 02:41:03 +0600</pubDate>
+        <author>Amit Seal Ami</author>
         
           <description>&lt;p&gt;Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!&lt;/p&gt;
 
@@ -615,7 +619,6 @@ Replace the version values with the values you found from the <code class="highl
 
                     <footer>
                         <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
-
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -623,14 +626,15 @@ Replace the version values with the values you found from the <code class="highl
             </html>
         ]]>
         </content:encoded>
-        <pubDate>Fri, 25 Mar 2016 02:41:03 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2016/03/25/using-gtk/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/25/using-gtk/</guid>
-        <author><name>Amit Seal Ami</name></author>
+
       </item>
     
       <item>
         <title>Celebrating Intl. Women&#39;s day at AIUB</title>
+        <link>http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</guid>
+        <pubDate>Sun, 20 Mar 2016 16:48:51 +0600</pubDate>
+        <author>Amit Seal Ami</author>
         
           <description>&lt;p&gt;On 20th March, 2016 - I gave a speech at American International University-Bangladesh, in an event to celebrate International Women’s Day and to encourage women in technical fields. This event was organized by IEEE AIUB Student Branch and Google Women TechMakers Bangladesh group.&lt;/p&gt;
 
@@ -797,7 +801,6 @@ Replace the version values with the values you found from the <code class="highl
 
                     <footer>
                         <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
-
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -805,14 +808,15 @@ Replace the version values with the values you found from the <code class="highl
             </html>
         ]]>
         </content:encoded>
-        <pubDate>Sun, 20 Mar 2016 16:48:51 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</guid>
-        <author><name>Amit Seal Ami</name></author>
+
       </item>
     
       <item>
         <title>Remix OS Resident Mode in Virtual Machine</title>
+        <link>http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</guid>
+        <pubDate>Fri, 04 Mar 2016 11:17:11 +0600</pubDate>
+        <author>Amit Seal Ami</author>
         
           <description>&lt;p&gt;Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.&lt;/p&gt;
 &lt;figure&gt;
@@ -983,7 +987,6 @@ That’s all. Enjoy. :)</p>
 
                     <footer>
                         <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
-
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -991,14 +994,15 @@ That’s all. Enjoy. :)</p>
             </html>
         ]]>
         </content:encoded>
-        <pubDate>Fri, 04 Mar 2016 11:17:11 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</guid>
-        <author><name>Amit Seal Ami</name></author>
+
       </item>
     
       <item>
         <title>And that is why I switched to Octopress from Blogger!</title>
+        <link>http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</guid>
+        <pubDate>Mon, 23 Nov 2015 19:37:22 +0600</pubDate>
+        <author>Amit Seal Ami</author>
         
           <description>&lt;p&gt;I switched from Blogspot to Octopress about a year ago. Even though my blogspot site was search engine friendly, was getting about 10K views per month when I was regular, and contained details about all of my useful works - I still decided to switch to Octopress - for a fresh start.  Why?
 &lt;!-- more --&gt;
@@ -1053,7 +1057,6 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 
                     <footer>
                         <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
-
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -1061,14 +1064,15 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
             </html>
         ]]>
         </content:encoded>
-        <pubDate>Mon, 23 Nov 2015 19:37:22 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</guid>
-        <author><name>Amit Seal Ami</name></author>
+
       </item>
     
       <item>
         <title>Review: Mi Band and Xiaomi Piston Basic Edition Headphone</title>
+        <link>http://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/</guid>
+        <pubDate>Mon, 16 Nov 2015 14:25:11 +0600</pubDate>
+        <author>Amit Seal Ami</author>
         
           <description>&lt;p&gt;কিছু দিন আগে আমি &lt;a href=&quot;http://gadgetgang7.com/&quot;&gt;GadgetGang7&lt;/a&gt; থেকে অনলাইনে অর্ডার দেই &lt;a href=&quot;http://gadgetgang7.com/product/xiaomi-piston-earphone-basic-edition/&quot;&gt;Xiaomi Piston Basic Edition Earphone&lt;/a&gt; আর &lt;a href=&quot;http://gadgetgang7.com/product/mi-band/&quot;&gt;Mi Band&lt;/a&gt; এর। বলা দরকার - অনলাইন অর্ডার প্রোসেসে কো‌থাও প্রোডাক্টের রংয়ের কথা উল্লেখ নেই।&lt;/p&gt;
 
@@ -1139,7 +1143,6 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 
                     <footer>
                         <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
-
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -1147,10 +1150,7 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
             </html>
         ]]>
         </content:encoded>
-        <pubDate>Mon, 16 Nov 2015 14:25:11 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/</guid>
-        <author><name>Amit Seal Ami</name></author>
+
       </item>
     
   </channel>
