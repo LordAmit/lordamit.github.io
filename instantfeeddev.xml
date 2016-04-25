@@ -5,7 +5,7 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-04-25T10:28:03+06:00</updated>
+    <updated>2016-04-25T10:39:26+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -99,8 +99,10 @@
 
 <p><em>প্রথম প্রকাশিত হয়েছিলো আগের ব্লগে, ২০১২ সালে। তার পরে ইষৎ পরিমার্জিত করে আবারো লেখা।</em></p>
 
-                  <footer>
-                    <small>Copyright - Amit Seal Ami</small>
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+
+                        <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
               </body>
@@ -195,8 +197,10 @@
 
 <p><em>প্রকাশিত হয়েছিলো <a href="http://tech.priyo.com/blog/2012/07/10/4414.html">প্রিয়টেকে</a>, ২০১২ সালে নরটন এন্টিভাইরাস স্পন্সরড কম্পিউটার নিরাপত্তা বিষয়ক প্রতিযোগিতা - আমার কম্পিউটার জীবনের নিরাপত্তা তে।</em></p>
 
-                  <footer>
-                    <small>Copyright - Amit Seal Ami</small>
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+
+                        <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
               </body>
@@ -255,8 +259,10 @@
 
 <p>ব্যক্তিগতভাবে আমার কাছে সবচাইতে বেশি ভালো লেগেছে GObd এর COO - Farhan Rahman এর সেশনটা। ওখানে তিনি GObd কিভাবে ফেসবুকের Authentication kit ব্যবহার করবে, তাতে কি সুবিধা হবে সে বিষয়ে আলাপ করেন। GObd কে মূল <a href="http://www.clickittefaq.com/gobd-becomes-bangladeshi-tech-startup-featured-facebook-f8-conference/" target="_blank">ডেভেলপার কনফারেন্সেও</a> ফিচার করা হয়েছে এবছরে।</p>
 
-                  <footer>
-                    <small>Copyright - Amit Seal Ami</small>
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+
+                        <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
               </body>
@@ -333,8 +339,10 @@
 
 <p>সব মিলিয়ে আমার কাছে খুবই ভালো লেগেছে। পয়সা উসুল!</p>
 
-                  <footer>
-                    <small>Copyright - Amit Seal Ami</small>
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+
+                        <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
               </body>
@@ -375,8 +383,10 @@
 <script async="" class="speakerdeck-embed" data-id="7843578431dc427db6ea217ee869fead" data-ratio="0.617611580217129" src="//speakerdeck.com/assets/embed.js"></script></p>
 
 
-                  <footer>
-                    <small>Copyright - Amit Seal Ami</small>
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+
+                        <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
               </body>
@@ -603,8 +613,10 @@ Replace the version values with the values you found from the <code class="highl
 
 <p>Compile and run.  Comment below if this works for you or if you got a feedback! share your screen shot of what you built :)</p>
 
-                  <footer>
-                    <small>Copyright - Amit Seal Ami</small>
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+
+                        <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
               </body>
@@ -783,8 +795,10 @@ Replace the version values with the values you found from the <code class="highl
 <span class="p">-</span> Info-graphics</code></pre></figure>
 
 
-                  <footer>
-                    <small>Copyright - Amit Seal Ami</small>
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+
+                        <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
               </body>
@@ -967,8 +981,10 @@ That’s all. Enjoy. :)</p>
   <li><a href="http://pierre.baudu.in/other/grub.vga.modes.html">GRUB VGA Modes</a></li>
 </ol>
 
-                  <footer>
-                    <small>Copyright - Amit Seal Ami</small>
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+
+                        <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
               </body>
@@ -1035,8 +1051,10 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 
 <p>And that’s why, I switched from Blogspot to Octopress. :)</p>
 
-                  <footer>
-                    <small>Copyright - Amit Seal Ami</small>
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+
+                        <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
               </body>
@@ -1119,8 +1137,10 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 
 <p>আর ইয়ারফোনটার কথা কি বলবো। লো থেকে হাই - সব রেঞ্জের শব্দের জন্যই এটা ভালো কাজ করছে। হয়তো দুর্দান্ত না - কিন্তু তাই বলে একেবারে ফেলনাও না!</p>
 
-                  <footer>
-                    <small>Copyright - Amit Seal Ami</small>
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+
+                        <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
               </body>
