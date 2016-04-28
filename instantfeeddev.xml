@@ -17,6 +17,10 @@ layout: null
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <author>{{ site.owner.name }}</author>
         {% if post.summaryfeed and post.excerpt %}
           <description>{{ post.excerpt | xml_escape }}</description>
         {% else %}
@@ -41,7 +45,6 @@ layout: null
                   {{ post.content }}
                     <footer>
                         <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
-
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -49,10 +52,7 @@ layout: null
             </html>
         ]]>
         </content:encoded>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        <author><name>{{ site.owner.name }}</name></author>
+
       </item>
     {% endfor %}
   </channel>
