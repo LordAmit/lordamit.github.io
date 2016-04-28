@@ -17,16 +17,42 @@ layout: null
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <author>{{ site.owner.name }}</author>
         {% if post.summaryfeed and post.excerpt %}
           <description>{{ post.excerpt | xml_escape }}</description>
         {% else %}
           <description>{{ post.content | xml_escape }}</description>
         {% endif %}
-        <content:encoded>{{ post.content | xml_escape }}</content:encoded>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        <author><name>{{ site.owner.name }}</name></author>
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>{{ post.title | xml_escape }}</h1>
+                      <time class="op-published" dateTime="{{ post.date | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
+                      <time class="op-modified" dateTime="{{ post.modified | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.modified }}</time>
+                  </header>
+                  {{ post.content }}
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
+
       </item>
     {% endfor %}
   </channel>
