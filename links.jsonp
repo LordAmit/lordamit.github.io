@@ -73,6 +73,11 @@ callback([
   {
     "text": "কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা",
     "href": "http://lordamit.github.io/blog/2016/04/28/cmu-industry-and-academia/"
+  } ,
+
+  {
+    "text": "উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট",
+    "href": "http://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/"
   } 
 
 ])
