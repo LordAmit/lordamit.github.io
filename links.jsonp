@@ -68,6 +68,11 @@ callback([
   {
     "text": "প্রোগ্রামিং শিখতে হলে",
     "href": "http://lordamit.github.io/blog/2016/04/25/programming-shekha/"
+  } ,
+
+  {
+    "text": "কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা",
+    "href": "http://lordamit.github.io/blog/2016/04/28/cmu-industry-and-academia/"
   } 
 
 ])
