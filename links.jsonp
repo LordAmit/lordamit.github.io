@@ -78,6 +78,11 @@ callback([
   {
     "text": "উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট",
     "href": "http://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/"
+  } ,
+
+  {
+    "text": "Showing Bangla properly in Atom Editor",
+    "href": "http://lordamit.github.io/blog/2016/05/03/showing-bangla-properly-in-atom-editor/"
   } 
 
 ])

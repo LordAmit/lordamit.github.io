@@ -5,24 +5,72 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-04-29T01:19:34+06:00</updated>
+    <updated>2016-05-03T22:59:26+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
     
       <item>
-        <title>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</title>
+        <title>Showing Bangla properly in Atom Editor</title>
         
-          <description>&lt;p&gt;আমি মোটামুটি বিশদ পরিমাণে ঘাটাঘাটি করেছি গত কয়দিন ধরে একটা ভালো টাস্ক ম্যানেজারের জন্য লিনাক্সে। অনেক কিছুই তো আছে, কিন্তু কোনটাই মনের মতো মিলছিলো না। দরকার ছিলো এমন একটা কিছু, যেটা&lt;/p&gt;
+          <description>&lt;p&gt;Atom editor could not display Bangla font properly in Markdown file. If I changed the font from settings, it was being applied to all characters, and it was messing up the display. However, there is a CSS based style file that can be used to modify the UI of Atom. I just had to edit it to:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;ফ্রি&lt;/li&gt;
-  &lt;li&gt;প্রোজেক্ট অনুসারে টাইমার চালাতে দিবে&lt;/li&gt;
-  &lt;li&gt;ওয়েবসাইটে স্ট্যাটিসটিকস দিবে&lt;/li&gt;
-  &lt;li&gt;মোবাইলে সাপোর্ট দিবে এবং সবচেয়ে বেশি যেটা দরকার,&lt;/li&gt;
-  &lt;li&gt;অটোমেটিকালি স্ক্রিনশট নিয়ে আমার নিজের কাজ মনিটর করতে সাহায্য করবে&lt;/li&gt;
+  &lt;li&gt;Specify a Bengali font for Bengali Characters only&lt;/li&gt;
+  &lt;li&gt;Specify a font for All Characters&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Only for markdown format, mind you.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://i.giphy.com/WlXFkMCUe84Za.gif&quot; alt=&quot;Before and After effect of modifying style sheet&quot; /&gt;
+  
+  &lt;figcaption&gt;Before and After effect of modifying style sheet&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I modified the style sheet to specify a font just for Bangla / Bengali characters. This is certainly a workaround, and it does not render completely properly yet - but it is a start.&lt;/p&gt;
+
+&lt;p&gt;Here is what I did - pressed &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl+shift+p&lt;/code&gt; to get access to the &lt;em&gt;console thingy&lt;/em&gt; (Not quite sure what it is called).&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://farm8.staticflickr.com/7452/26728665931_255157ded4_z.jpg&quot; alt=&quot;The thing where I accessed the application style&quot; /&gt;
+  Then, I added the following style:
+  
+  &lt;figcaption&gt;The thing where I accessed the application style&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here is what I did:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;k&quot;&gt;@font-face&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&#39;bengali&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;local&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&#39;Ekushey Durga&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;py&quot;&gt;unicode-range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;U&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0980-09&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;FF&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nc&quot;&gt;.markdown-preview.markdown-preview&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;atom-text-editor&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;::shadow&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.source.gfm&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;err&quot;&gt;//&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;use&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;bengali&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;at&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;first&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;specified,&lt;/span&gt;
+    &lt;span class=&quot;err&quot;&gt;//if&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;specified,&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;use&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;inconsolata&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bengali&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&#39;inconsolata&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Of course, you will have to install &lt;code class=&quot;highlighter-rouge&quot;&gt;inconsolata&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Ekushey Durga&lt;/code&gt; font in advance to make it work. Enjoy!&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 03 May 2016 15:22:00 +0600</pubDate>
+        <link>http://lordamit.github.io/blog/2016/05/03/showing-bangla-properly-in-atom-editor/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/05/03/showing-bangla-properly-in-atom-editor/</guid>
+      </item>
+    
+      <item>
+        <title>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</title>
+        
+          <description>&lt;p&gt;আমি মোটামুটি বিশদ পরিমাণে ঘাটাঘাটি করেছি গত কয়দিন ধরে একটা ভালো টাস্ক ম্যানেজারের জন্য লিনাক্সে। অনেক কিছুই তো আছে, কিন্তু কোনটাই মনের মতো মিলছিলো না। দরকার ছিলো এমন একটা কিছু, যেটা
+- ফ্রি
+- প্রোজেক্ট অনুসারে টাইমার চালাতে দিবে
+- ওয়েবসাইটে স্ট্যাটিসটিকস দিবে
+- মোবাইলে সাপোর্ট দিবে এবং সবচেয়ে বেশি যেটা দরকার,
+- অটোমেটিকালি স্ক্রিনশট নিয়ে আমার নিজের কাজ মনিটর করতে সাহায্য করবে&lt;/p&gt;
 
 &lt;p&gt;ঝামেলা হলো, অসংখ্যা টাস্ক ম্যানেজার আছে উবুন্টুর জন্য। যেমন:&lt;/p&gt;
 
@@ -409,90 +457,6 @@ Replace the version values with the values you found from the &lt;code class=&qu
         <pubDate>Sun, 20 Mar 2016 16:48:51 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/</guid>
-      </item>
-    
-      <item>
-        <title>Remix OS Resident Mode in Virtual Machine</title>
-        
-          <description>&lt;p&gt;Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg&quot; alt=&quot;Remix OS in Virtual Machine&quot; /&gt;
-  
-  &lt;figcaption&gt;Remix OS in Virtual Machine&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;How?
-&lt;!-- more --&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;install&quot;&gt;Install&lt;/h2&gt;
-&lt;p&gt;To prepare the installation environment properly, you need to:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Make a virtual machine first - Recommended: 8GB Space, 1GB RAM&lt;/li&gt;
-  &lt;li&gt;Use Ubuntu Installer ISO or any other preferred tool to boot it&lt;/li&gt;
-  &lt;li&gt;Use GParted or other disk utility tool to format the entire hard disk to EXT4 format&lt;/li&gt;
-  &lt;li&gt;Reboot, use the RemixOS installer ISO&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;During installation - choose the following options:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Do not format&lt;/li&gt;
-  &lt;li&gt;Install GRUB&lt;/li&gt;
-  &lt;li&gt;Do not Install UEFI Grub Thingy&lt;/li&gt;
-  &lt;li&gt;Complete Installation&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;tweaks-for-resolution-experimental&quot;&gt;Tweaks for Resolution (Experimental)&lt;/h2&gt;
-&lt;p&gt;In default mode, the resolution sucks. Of course, we can fix that by assigning the resolution through grub. Note that incorrect DPI and resolution settings can frequently cause force reboot abruptly.&lt;/p&gt;
-
-&lt;p&gt;There are two approaches:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Change the resolution settings EVERY-SINGLE-Time you boot your Remix OS&lt;/li&gt;
-  &lt;li&gt;Change the resolution settings using an editor in root mode, once and for all.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You will need both approaches. Because finding the perfect resolution takes some experimentation.&lt;/p&gt;
-
-&lt;h2 id=&quot;change-resolution-in-runtime&quot;&gt;Change Resolution in Runtime&lt;/h2&gt;
-&lt;p&gt;When your Remix OS shows boot menu, press &lt;code class=&quot;highlighter-rouge&quot;&gt;e&lt;/code&gt;, and then &lt;code class=&quot;highlighter-rouge&quot;&gt;e&lt;/code&gt; again. See the &lt;code class=&quot;highlighter-rouge&quot;&gt;VGA=791&lt;/code&gt; part? That is setting your resolution. We are going to &lt;code class=&quot;highlighter-rouge&quot;&gt;UVESA_MODE&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DPI&lt;/code&gt; for better resolution. Modify and insert the part instead of &lt;code class=&quot;highlighter-rouge&quot;&gt;VGA=791&lt;/code&gt;. &lt;strong&gt;Keep everything else the same.&lt;/strong&gt; I tested and found the following settings useful:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;&lt;span class=&quot;nv&quot;&gt;DPI&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;160 &lt;span class=&quot;nv&quot;&gt;UVESA_MODE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;1366x768
-&lt;span class=&quot;nv&quot;&gt;DPI&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;265 &lt;span class=&quot;nv&quot;&gt;UVESA_MODE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;2880x1800&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;em&gt;This settings may not work properly for your display device. You need to change the DPI and the resolution according to your display capability. Just remember that higher DPI = bigger, less DPI = Smaller.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Press &lt;code class=&quot;highlighter-rouge&quot;&gt;ESC&lt;/code&gt; to discard changes, or Press &lt;code class=&quot;highlighter-rouge&quot;&gt;Enter&lt;/code&gt; to temporarily save changes.  and press &lt;code class=&quot;highlighter-rouge&quot;&gt;B&lt;/code&gt; to boot using the temporary settings.&lt;/p&gt;
-
-&lt;p&gt;Once you find your perfect resolution head over to next step.&lt;/p&gt;
-
-&lt;h2 id=&quot;change-resolution-permanently&quot;&gt;Change Resolution Permanently&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Hit up your Ubuntu once again, and mount the EXT4 partition.&lt;/li&gt;
-  &lt;li&gt;Open up your terminal. Probably the partition will be mounted in &lt;code class=&quot;highlighter-rouge&quot;&gt;/media/ubuntu-gnome&lt;/code&gt;. For example, mine was mounted in &lt;code class=&quot;highlighter-rouge&quot;&gt;/media/ubuntu-gnome/&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Go into the mounted volume, and there you will see 3 folders.&lt;/li&gt;
-  &lt;li&gt;Go into the grub folder.&lt;/li&gt;
-  &lt;li&gt;Use your favorite editor in root mode to edit the menu.lst file.&lt;/li&gt;
-  &lt;li&gt;In the first entry, remove the &lt;code class=&quot;highlighter-rouge&quot;&gt;VGA=791&lt;/code&gt; and replace it with  &lt;code class=&quot;highlighter-rouge&quot;&gt;DPI=160 UVESA_MODE=1366x768&lt;/code&gt;.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Save and reboot!
-That’s all. Enjoy. :)&lt;/p&gt;
-
-&lt;h2 id=&quot;acknowledgements&quot;&gt;Acknowledgements&lt;/h2&gt;
-&lt;p&gt;I took help from the following sites:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/RemixOS/comments/406982/remix_os_20_x86x64_iso/&quot;&gt;Remix OS 2.0 x86/x64 iso : RemixOS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!topic/remix-os-for-pc/NB6GJdAHUsA&quot;&gt;Google Groups&lt;/a&gt;_&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/6202342/switch-android-x86-screen-resolution/8273560#8273560&quot;&gt;virtualbox - Switch android x86 screen resolution - Stack Overflow&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://pierre.baudu.in/other/grub.vga.modes.html&quot;&gt;GRUB VGA Modes&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        
-        <pubDate>Fri, 04 Mar 2016 11:17:11 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/</guid>
       </item>
     
   </channel>
