@@ -5,7 +5,7 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-05-03T22:59:26+06:00</updated>
+    <updated>2016-05-03T23:05:56+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -38,12 +38,11 @@
 &lt;p&gt;Here is what I did - pressed &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl+shift+p&lt;/code&gt; to get access to the &lt;em&gt;console thingy&lt;/em&gt; (Not quite sure what it is called).&lt;/p&gt;
 &lt;figure&gt;
   &lt;img src=&quot;https://farm8.staticflickr.com/7452/26728665931_255157ded4_z.jpg&quot; alt=&quot;The thing where I accessed the application style&quot; /&gt;
-  Then, I added the following style:
   
   &lt;figcaption&gt;The thing where I accessed the application style&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Here is what I did:&lt;/p&gt;
+&lt;p&gt;Then, I added the following style:&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;k&quot;&gt;@font-face&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
     &lt;span class=&quot;nl&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&#39;bengali&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
@@ -97,12 +96,11 @@
 <p>Here is what I did - pressed <code class="highlighter-rouge">ctrl+shift+p</code> to get access to the <em>console thingy</em> (Not quite sure what it is called).</p>
 <figure>
   <img src="https://farm8.staticflickr.com/7452/26728665931_255157ded4_z.jpg" alt="The thing where I accessed the application style" />
-  Then, I added the following style:
   
   <figcaption>The thing where I accessed the application style</figcaption>
 </figure>
 
-<p>Here is what I did:</p>
+<p>Then, I added the following style:</p>
 
 <figure class="highlight"><pre><code class="language-css" data-lang="css"><span class="k">@font-face</span> <span class="p">{</span>
     <span class="nl">font-family</span><span class="p">:</span> <span class="s2">'bengali'</span><span class="p">;</span>
