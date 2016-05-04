@@ -32,10 +32,10 @@ I modified the style sheet to specify a font just for Bangla / Bengali character
 Here is what I did - pressed `ctrl+shift+p` to get access to the *console thingy* (Not quite sure what it is called).
 {% figure caption:"The thing where I accessed the application style" %}
 ![The thing where I accessed the application style](https://farm8.staticflickr.com/7452/26728665931_255157ded4_z.jpg)
-Then, I added the following style:
+
 {% endfigure %}
 
-Here is what I did:
+Then, I added the following style:
 
 {% highlight css %}
 @font-face {
