@@ -83,6 +83,11 @@ callback([
   {
     "text": "Showing Bangla properly in Atom Editor",
     "href": "http://lordamit.github.io/blog/2016/05/03/showing-bangla-properly-in-atom-editor/"
+  } ,
+
+  {
+    "text": "ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর",
+    "href": "http://lordamit.github.io/blog/2016/05/04/nera-beltola/"
   } 
 
 ])
