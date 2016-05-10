@@ -5,7 +5,7 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/instantfeeddev.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-05-10T17:53:12+06:00</updated>
+    <updated>2016-05-10T18:17:00+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -56,6 +56,8 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
 &lt;/ul&gt;
 
 &lt;p&gt;The RSS should be enough for most of your articles, if not all. Just make sure that you follow the Facebook Instant Articles Design Policies, and you are good to go.&lt;/p&gt;
+
+&lt;p&gt;Also, head over to David Chua’s [blog]{http://dchua.com/2016/04/24/hooking-up-jekyll-to-facebook-instant-articles/} if you want another perspective of achieving the same thing.&lt;/p&gt;
 </description>
         
         <content:encoded>
@@ -112,6 +114,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 </ul>
 
 <p>The RSS should be enough for most of your articles, if not all. Just make sure that you follow the Facebook Instant Articles Design Policies, and you are good to go.</p>
+
+<p>Also, head over to David Chua’s [blog]{http://dchua.com/2016/04/24/hooking-up-jekyll-to-facebook-instant-articles/} if you want another perspective of achieving the same thing.</p>
 
                     <footer>
                         <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
