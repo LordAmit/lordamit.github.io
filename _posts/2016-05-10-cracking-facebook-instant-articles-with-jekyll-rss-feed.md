@@ -45,3 +45,5 @@ Now, your of course need to
 - build your jekyll site and push it
 
 The RSS should be enough for most of your articles, if not all. Just make sure that you follow the Facebook Instant Articles Design Policies, and you are good to go.
+
+Also, head over to David Chua's [blog](http://dchua.com/2016/04/24/hooking-up-jekyll-to-facebook-instant-articles/) if you want another perspective of achieving the same thing.
