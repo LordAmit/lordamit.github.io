@@ -5,11 +5,99 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-05-10T18:18:08+06:00</updated>
+    <updated>2016-05-10T19:27:33+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
+    
+      <item>
+        <title>Polarr - Awesome Image Editor for Linux</title>
+        <link>http://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/</guid>
+        <pubDate>Tue, 10 May 2016 13:23:00 +0600</pubDate>
+        <author>Amit Seal Ami</author>
+        
+          <description>&lt;p&gt;I am a fan of offline, native applications. Even though there are web apps out there to modify image / apply filters - I was looking for one native to Ubuntu. I found one called &lt;a href=&quot;https://www.polarr.co/linux-electron?platform=polarr&amp;amp;label=homepage_website&quot;&gt;Polarr&lt;/a&gt; and I am blown away by it!
+Right after starting, it gave me a guided tour - and Look what I made!&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://farm8.staticflickr.com/7682/26328025243_b0e91b29b2_b.jpg&quot; alt=&quot;Before and After shots after editing the same Image&quot; /&gt;
+  
+  &lt;figcaption&gt;Before and After shots after editing the same Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;What sets it apart are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Extremely Friendly User Interface&lt;/li&gt;
+  &lt;li&gt;Good performance&lt;/li&gt;
+  &lt;li&gt;Detailed options like clarity, Feather, Exposure Grain&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;http://i.giphy.com/yp4NqnYUYkwN2.gif&quot; alt=&quot;Just take a look at the settings!&quot; /&gt;
+  
+  &lt;figcaption&gt;Just take a look at the settings!&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;What do you use for applying Filter, or editing Images in Linux?&lt;/p&gt;
+
+&lt;p&gt;Let me know in comments below :)&lt;/p&gt;
+</description>
+        
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>Polarr - Awesome Image Editor for Linux</h1>
+                      <time class="op-published" dateTime="2016-05-10 13:23:00 BDT">Tue, 10 May 2016 13:23:00 +0600</time>
+                      <time class="op-modified" dateTime=""></time>
+                  </header>
+                  <p>I am a fan of offline, native applications. Even though there are web apps out there to modify image / apply filters - I was looking for one native to Ubuntu. I found one called <a href="https://www.polarr.co/linux-electron?platform=polarr&amp;label=homepage_website">Polarr</a> and I am blown away by it!
+Right after starting, it gave me a guided tour - and Look what I made!</p>
+<figure>
+  <img src="https://farm8.staticflickr.com/7682/26328025243_b0e91b29b2_b.jpg" alt="Before and After shots after editing the same Image" />
+  
+  <figcaption>Before and After shots after editing the same Image</figcaption>
+</figure>
+<!-- more -->
+<p>What sets it apart are:</p>
+
+<ul>
+  <li>Extremely Friendly User Interface</li>
+  <li>Good performance</li>
+  <li>Detailed options like clarity, Feather, Exposure Grain</li>
+</ul>
+
+<figure>
+  <img src="http://i.giphy.com/yp4NqnYUYkwN2.gif" alt="Just take a look at the settings!" />
+  
+  <figcaption>Just take a look at the settings!</figcaption>
+</figure>
+
+<p>What do you use for applying Filter, or editing Images in Linux?</p>
+
+<p>Let me know in comments below :)</p>
+
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
+
+      </item>
     
       <item>
         <title>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</title>
@@ -874,50 +962,6 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 </ul>
 
 <p>সব মিলিয়ে আমার কাছে খুবই ভালো লেগেছে। পয়সা উসুল!</p>
-
-                    <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
-                        <small>Copyright - Amit Seal Ami</small>
-                  </footer>
-                </article>
-              </body>
-            </html>
-        ]]>
-        </content:encoded>
-
-      </item>
-    
-      <item>
-        <title>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</title>
-        <link>http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</guid>
-        <pubDate>Mon, 18 Apr 2016 00:00:00 +0600</pubDate>
-        <author>Amit Seal Ami</author>
-        
-          <description>&lt;p&gt;২০০১ সালে Unicef এর আর্থিক সহযোগিতায় বাংলাদেশ দুর্যোগ ব্যবস্থাপনা ব্যুরো (&lt;a href=&quot;http://www.ddm.gov.bd/&quot;&gt;&lt;abbr title=&quot;Department of Disaster Management&quot;&gt;DDM&lt;/abbr&gt;&lt;/a&gt;) থেকে প্রকাশিত হয় ভূমিকম্প বিষয়ে গণসচেতনতা নামের একটি বুকলেট। সেই বুকলেটটি পুরনো &lt;a href=&quot;http://old.ddm.gov.bd/&quot;&gt;&lt;abbr title=&quot;Department of Disaster Management&quot;&gt;DDM&lt;/abbr&gt;&lt;/a&gt; এর সাইট থেকে উদ্ধার করা গেলেও, বর্তমান ওয়েবসাইটে পাওয়া যায়না সহজে। সকলের উপকারের জন্যই, এটিকে আলাদা করে আবার এখানে রাখা।
-&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;7843578431dc427db6ea217ee869fead&quot; data-ratio=&quot;0.617611580217129&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-</description>
-        
-        <content:encoded>
-            <![CDATA[
-                <!doctype html>
-                <html lang="en" prefix="op: http://media.facebook.com/op#">
-              <head>
-                <meta charset="utf-8">
-                <link rel="canonical" href="http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/">
-                <meta property="op:markup_version" content="v1.0">
-              </head>
-              <body>
-                <article>
-                  <header>
-                      <h1>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</h1>
-                      <time class="op-published" dateTime="2016-04-18 00:00:00 BDT">Mon, 18 Apr 2016 00:00:00 +0600</time>
-                      <time class="op-modified" dateTime=""></time>
-                  </header>
-                  <p>২০০১ সালে Unicef এর আর্থিক সহযোগিতায় বাংলাদেশ দুর্যোগ ব্যবস্থাপনা ব্যুরো (<a href="http://www.ddm.gov.bd/"><abbr title="Department of Disaster Management">DDM</abbr></a>) থেকে প্রকাশিত হয় ভূমিকম্প বিষয়ে গণসচেতনতা নামের একটি বুকলেট। সেই বুকলেটটি পুরনো <a href="http://old.ddm.gov.bd/"><abbr title="Department of Disaster Management">DDM</abbr></a> এর সাইট থেকে উদ্ধার করা গেলেও, বর্তমান ওয়েবসাইটে পাওয়া যায়না সহজে। সকলের উপকারের জন্যই, এটিকে আলাদা করে আবার এখানে রাখা।
-<script async="" class="speakerdeck-embed" data-id="7843578431dc427db6ea217ee869fead" data-ratio="0.617611580217129" src="//speakerdeck.com/assets/embed.js"></script></p>
-
 
                     <footer>
                         <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>

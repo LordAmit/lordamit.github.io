@@ -93,6 +93,11 @@ callback([
   {
     "text": "Cracking FaceBook Instant Articles With Jekyll - RSS Feed",
     "href": "http://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/"
+  } ,
+
+  {
+    "text": "Polarr - Awesome Image Editor for Linux",
+    "href": "http://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/"
   } 
 
 ])
