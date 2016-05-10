@@ -5,11 +5,59 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-05-05T00:30:30+06:00</updated>
+    <updated>2016-05-10T17:53:12+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
+    
+      <item>
+        <title>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</title>
+        
+          <description>&lt;p&gt;Hello All,
+Recently I got access to Instant Articles from Facebook for my Jekyll based blog. The interesting part is that as far as I know, Instant Articles RSS Feed are not supported by Jekyll - yet! But no worries, I have done this and I am going to share how :)&lt;/p&gt;
+
+&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &quot;//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.6&amp;appId=394590333892568&quot;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));&lt;/script&gt;
+
+&lt;div class=&quot;fb-post&quot; data-href=&quot;https://www.facebook.com/AmitPublic/photos/a.498726470144373.132061.283932261623796/1323428384340840/?type=3&amp;amp;theater&quot; data-width=&quot;500&quot; data-show-text=&quot;true&quot;&gt;&lt;div class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;blockquote cite=&quot;https://www.facebook.com/AmitPublic/posts/1323428384340840:0&quot;&gt;&lt;p&gt;Ladies and gentlemen, Instant Articles approval from Facebook :) That means you can get access to my contents even...&lt;/p&gt;Posted by &lt;a href=&quot;https://www.facebook.com/AmitPublic/&quot;&gt;Amit Seal Ami&lt;/a&gt; on&amp;nbsp;&lt;a href=&quot;https://www.facebook.com/AmitPublic/posts/1323428384340840:0&quot;&gt;Tuesday, May 3, 2016&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;!-- more --&gt;
+To do this, you need to submit 10 articles which uses Facebook specified Markup tags in your post. An easy way to achieve this is to format your &lt;a href=&quot;https://developers.facebook.com/docs/instant-articles/publishing/setup-rss-feed/&quot;&gt;RSS feed&lt;/a&gt;, and then ingest it.&lt;/p&gt;
+
+&lt;p&gt;Problem was, noone did this for Jekyll. At least not as far as I was concerned. And I was just starting with Jekyll as well with zero knowledge about Ruby! Therefore, I had to get my hands dirty. I had to ensure the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The images are surrounded by Figure tags&lt;/li&gt;
+  &lt;li&gt;The rss items are configured to contain the necessary tags Facebook is looking for&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For the first one, I used liquid Figure tags. You can get those in jekyll-figure gem.
+For the second one, I created a new file called &lt;code class=&quot;highlighter-rouge&quot;&gt;instantfeed.xml&lt;/code&gt; and then I included the following:&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/lordamit/4bbde7c11e1daafa8e081643787db4a2.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Now, your of course need to&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Modify the parts that were specifically written for my blog&lt;/li&gt;
+  &lt;li&gt;insert yoursite.com/instantfeed.xml to the facebook instant article RSS ingestion section&lt;/li&gt;
+  &lt;li&gt;build your jekyll site and push it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The RSS should be enough for most of your articles, if not all. Just make sure that you follow the Facebook Instant Articles Design Policies, and you are good to go.&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 10 May 2016 10:00:00 +0600</pubDate>
+        <link>http://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</guid>
+      </item>
     
       <item>
         <title>ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর</title>
@@ -329,112 +377,6 @@
         <pubDate>Mon, 18 Apr 2016 00:00:00 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</guid>
-      </item>
-    
-      <item>
-        <title>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</title>
-        
-          <description>&lt;p&gt;Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!&lt;/p&gt;
-
-&lt;p&gt;The major steps for &lt;strong&gt;setting up environment&lt;/strong&gt; are:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Install latest stable version of CodeBlocks (for me, 16.01)&lt;/li&gt;
-  &lt;li&gt;Install GTK-3.0 related libraries&lt;/li&gt;
-  &lt;li&gt;Modify the Template Script in CodeBlocks&lt;/li&gt;
-  &lt;li&gt;Install Glade&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The major steps for creating an UI are:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Create design using Glade&lt;/li&gt;
-  &lt;li&gt;Connect it to a C code&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;!-- more --&gt;
-&lt;h2 id=&quot;latest-codeblocks&quot;&gt;Latest CodeBlocks!&lt;/h2&gt;
-&lt;p&gt;Installing CodeBlocks from PPA&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;sudo apt-add-repository ppa:damien-moore/codeblocks-stable
-sudo apt-get update
-sudo apt-get install codeblocks&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;gtk-30-libraries&quot;&gt;GTK-3.0 Libraries!&lt;/h2&gt;
-&lt;p&gt;Installing GTK-3.0 libraries:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;sudo apt-get install libgtk3.0-dev
-sudo apt-get install libgtk3.0-cil libgtk3.0-cil-dev&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;modify-template-script-in-codeblocks&quot;&gt;Modify Template Script in CodeBlocks&lt;/h2&gt;
-&lt;p&gt;This is the tricky part. You see, the CodeBlocks still uses GTK+-2.0 libraries by default for the GTK+ projects in its template. You need to edit the template file and modify the parts where it will reference the GTK-3.0 libraries instead of the libraries from version 2.&lt;/p&gt;
-
-&lt;p&gt;start with this command:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;pkg-config --cflags --libs gtk+-3.0&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;See the output? It is showing the necessary files you need to successfully build a gtk based app.
-For me, it is:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;-pthread -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/mirclient -I/usr/include/mircommon -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/pango-1.0 -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng12 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -lgtk-3 -lgdk-3 -lpangocairo-1.0 -lpango-1.0 -latk-1.0 -lcairo-gobject -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Now, Open CodeBlocks. Right click on &lt;code class=&quot;highlighter-rouge&quot;&gt;New &amp;gt; Project &amp;gt; GTK+ Project&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;edit this script&lt;/code&gt;. It may throw an error saying it can not find the file, making it in read-only mode. Hence, go to &lt;code class=&quot;highlighter-rouge&quot;&gt;~/.local/share/codeblocks/templates/wizard/gtk&lt;/code&gt; and open the &lt;code class=&quot;highlighter-rouge&quot;&gt;wizard.script&lt;/code&gt;.
-Replace the version values with the values you found from the &lt;code class=&quot;highlighter-rouge&quot;&gt;pkg-config&lt;/code&gt; part. For example,&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;# modifying versions from wizard.script file - before change
-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;VerifyFile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dir_nomacro_inc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;wxFILE_SEP_PATH&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;_T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gtk-2.0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;will become&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;# c modifying versions from wizard.script file - after change
-&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;VerifyFile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dir_nomacro_inc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;wxFILE_SEP_PATH&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;_T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gtk-3.0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;In case you are clueless, you can take a look at my &lt;a href=&quot;https://gist.github.com/lordamit/fc2b608f15047d9f672e&quot;&gt;wizard.script&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;installing-glade&quot;&gt;Installing Glade&lt;/h2&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;sudo apt-get install glade&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;create-design-using-glade&quot;&gt;Create Design Using Glade&lt;/h2&gt;
-&lt;p&gt;Open glade, drag and drop a &lt;code class=&quot;highlighter-rouge&quot;&gt;Window&lt;/code&gt; top-level container. Add some more things if you want inside it. From the properties pane at the right side, go to &lt;code class=&quot;highlighter-rouge&quot;&gt;general&lt;/code&gt; tab, and write &lt;code class=&quot;highlighter-rouge&quot;&gt;mywindow&lt;/code&gt; in the ID.&lt;/p&gt;
-
-&lt;p&gt;The key things to remember here are:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;You got to have a Window ID, and it must be used in the C code&lt;/li&gt;
-  &lt;li&gt;You have to save it in GtkBuilder format (&lt;code class=&quot;highlighter-rouge&quot;&gt;file &amp;gt; save as&lt;/code&gt;)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;c-code-example&quot;&gt;C code example&lt;/h2&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;# C Code that includes a testGlade.glade file
-# for designing UI
-#include&amp;lt;gtk/gtk.h&amp;gt;
-&lt;/span&gt;
-&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;argc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]){&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;GtkBuilder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;GtkWidget&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-    &lt;span class=&quot;n&quot;&gt;gtk_init&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-    &lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gtk_builder_new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;gtk_builder_add_from_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;testGlade.glade&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;window&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;GTK_WIDGET&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtk_builder_get_object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;mywindow&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-
-    &lt;span class=&quot;n&quot;&gt;g_object_unref&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;G_OBJECT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;gtk_widget_show&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;gtk_main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Compile and run.  Comment below if this works for you or if you got a feedback! share your screen shot of what you built :)&lt;/p&gt;
-</description>
-        
-        <pubDate>Fri, 25 Mar 2016 02:41:03 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2016/03/25/using-gtk/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/03/25/using-gtk/</guid>
       </item>
     
   </channel>
