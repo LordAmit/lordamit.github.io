@@ -5,11 +5,41 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-05-10T19:27:33+06:00</updated>
+    <updated>2016-05-13T16:30:19+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
+    
+      <item>
+        <title>Making a Text Based Progress Bar in Python</title>
+        
+          <description>&lt;p&gt;ছোটবেলায় যখন কনসোলে কিছু একট কাজ করতে দিতাম - দেখা যেত একটা প্রোগ্রেস বারও আছে। সেটা আবার এক যায়গায় আস্তে আস্তে বাড়তে থাকে।
+মনে হতো,  আরে!কনসোলে এই যে প্রোগ্রেসবারটা দেখি, সেটা কিভাবে কাজ করে? এনিমেশনটা হয় কিভাবে?!
+ভাবলাম এখন যখন জানি, সবাইকে দেখাই কেমন করে কাজ করে!
+কোডটা দিলাম, কিন্তু ছবি আকারে - করতে চাইলে কোডটা নিজেই লিখে করো :D&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://farm8.staticflickr.com/7711/26891460872_717938f69b_b.jpg&quot; alt=&quot;পাইথন কোড - কনসোলে প্রোগ্রেস বার&quot; /&gt;
+  
+  &lt;figcaption&gt;পাইথন কোড - কনসোলে প্রোগ্রেস বার&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;কোডের আউটপুটটা দেখতে এমন হবে:&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;http://i.giphy.com/11yAKrEjBhxoTC.gif&quot; alt=&quot;টেক্সট প্রোগ্রস বার&quot; /&gt;
+  
+  &lt;figcaption&gt;টেক্সট প্রোগ্রস বার&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;লক্ষ্য করার যে অংশটা, সেটা হলো \r. এটার কারণেই একযায়গায় বার বার লেখা হচ্ছে। ‌\r মানে হচ্ছে ক্যারিজ রিটার্ন।
+আর ফ্লাশিংয়ের অংশটা &lt;a href=&quot;http://stackoverflow.com/questions/10019456/usage-of-sys-stdout-flush-method&quot; target=&quot;_blank&quot;&gt;এখান&lt;/a&gt; থেকে বুঝতে পারো।&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 13 May 2016 10:03:00 +0600</pubDate>
+        <link>http://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</guid>
+      </item>
     
       <item>
         <title>Polarr - Awesome Image Editor for Linux</title>
@@ -370,37 +400,6 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
         <pubDate>Sun, 24 Apr 2016 22:10:43 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/</guid>
-      </item>
-    
-      <item>
-        <title>Virtual Reality Headset Review - RIEM 3D v2</title>
-        
-          <description>&lt;p&gt;কিছুদিন আগে প্ল্যান করেছিলাম গুগলের কার্ডবোর্ড কিনবো। কিনতে গিয়ে টের পেলাম, আমার ৬ ইঞ্চি স্ক্রিনের শাওমি রেডমি নোটের জন্য আসলে সেটা অনেক ছোট হয়ে যায়। কিছু আলাপ আলোচনা করে কিনলাম RIEM এর ভার্চুয়াল রিয়েলিটি হেডসেট ভার্সন ২। দোকানে চেক করে দেখলাম খুবই ভালো কাজ করে। কিনেও ফেললাম।
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;https://farm2.staticflickr.com/1508/26588228446_ee6a582ca3_z.jpg&quot; alt=&quot;RIEM VR HeadSet right after Unpacking&quot; /&gt;
-  
-  &lt;figcaption&gt;আনপ্যাক করার পরে&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;তবে একটা ঝামেলা হলো, এটার সাথে কোন QR Code প্রোফাইলের জন্য দেয়া নেই। উল্লেখ্য - QR Code স্ক্যান করে হেডসেট প্রোফাইল সেটআপ করা লাগে এন্ড্রয়েড ফোনে। তার চাইতেও বড় ঝামেলা, ওদের ম্যানুয়ালে দেয়া URL QR Code এর বেশিরভাগই কাজ করে না। কাজেই খেটেখুটে &lt;a href=&quot;https://www.reddit.com/r/GoogleCardboard/comments/383e12/finally_a_near_perfect_cardboard_profile_qr_code/&quot; target=&quot;_blank&quot;&gt;অন্য যায়গা&lt;/a&gt; থেকে QR Code নিতে হয়েছে।
-এটার সবচাইতে ভালো দিকগুলো হলো:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;এক্সিস দূরত্ব বাড়ানো কমানো যায় - সোজা কথায় 3.5 inch থেকে শুরু করে 6inch পর্যন্ত ফোনের জন্য এটার লেন্সগুলো এডজাস্ট করা সম্ভব উপরের ক্নবের মাধ্যমে&lt;/li&gt;
-  &lt;li&gt;বেশ শক্ত পোক্ত প্লাস্টিকের তৈরী&lt;/li&gt;
-  &lt;li&gt;ফোন বেশ ভালো ভাবেই লাগিয়ে রাখা যায়, রাবারের তৈরী সাকার আছে ভিতরে&lt;/li&gt;
-  &lt;li&gt;সাধারণত কার্ডবোর্ড গুলো ধরে রাখা লাগে, কিন্তু এটার সাথে আলাদা মাথায় লাগানোর জন্য বেল্ট আছে, বেশ আরামদায়ক। অনেকক্ষন পড়ে থাকা যায়&lt;/li&gt;
-  &lt;li&gt;ম্যাগনেটিক সুইচ&lt;/li&gt;
-  &lt;li&gt;লেন্সগুলো দুর্দান্ত। খুবই স্পষ্ট দেখা যায়, চোখে আমার এখন পর্যন্ত কোন ধরণের প্রেশার বা অসস্তি লাগেনি।&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;সব মিলিয়ে আমার কাছে খুবই ভালো লেগেছে। পয়সা উসুল!&lt;/p&gt;
-</description>
-        
-        <pubDate>Sun, 24 Apr 2016 21:10:43 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</guid>
       </item>
     
   </channel>

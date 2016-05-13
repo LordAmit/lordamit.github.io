@@ -98,6 +98,11 @@ callback([
   {
     "text": "Polarr - Awesome Image Editor for Linux",
     "href": "http://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/"
+  } ,
+
+  {
+    "text": "Making a Text Based Progress Bar in Python",
+    "href": "http://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/"
   } 
 
 ])
