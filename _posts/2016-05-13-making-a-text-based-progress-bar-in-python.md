@@ -14,7 +14,7 @@ tag:
     - কোড
     - কনসোল
     - console
-modified: "2016-05-13 10:34:00 +0600"
+modified: "2016-05-13 10:53:00 +0600"
 published: true
 imagefeature: "https://farm8.staticflickr.com/7711/26891460872_717938f69b_b.jpg"
 ---
@@ -29,7 +29,7 @@ imagefeature: "https://farm8.staticflickr.com/7711/26891460872_717938f69b_b.jpg"
 
 কোডের আউটপুটটা দেখতে এমন হবে:
 {% figure caption:"টেক্সট প্রোগ্রস বার"%}
-![টেক্সট প্রোগ্রস বার](http://i.giphy.com/11yAKrEjBhxoTC.gif)
+![টেক্সট প্রোগ্রস বার](http://i.giphy.com/DLZMuaADXQdUc.gif)
 {% endfigure %}
 
 লক্ষ্য করার যে অংশটা, সেটা হলো \r. এটার কারণেই একযায়গায় বার বার লেখা হচ্ছে। ‌\r মানে হচ্ছে ক্যারিজ রিটার্ন।
