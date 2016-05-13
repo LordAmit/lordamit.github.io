@@ -5,7 +5,7 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-05-13T16:30:19+06:00</updated>
+    <updated>2016-05-13T16:34:37+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -54,7 +54,7 @@
                   <header>
                       <h1>Making a Text Based Progress Bar in Python</h1>
                       <time class="op-published" dateTime="2016-05-13 10:03:00 BDT">Fri, 13 May 2016 10:03:00 +0600</time>
-                      <time class="op-modified" dateTime="2016-00-20 00:00:00 +0600">2016-00-20 00:00:00 +0600</time>
+                      <time class="op-modified" dateTime="2016-05-13 10:34:00 BDT">2016-05-13 10:34:00 +0600</time>
                   </header>
                   <p>ছোটবেলায় যখন কনসোলে কিছু একট কাজ করতে দিতাম - দেখা যেত একটা প্রোগ্রেস বারও আছে। সেটা আবার এক যায়গায় আস্তে আস্তে বাড়তে থাকে।
 মনে হতো,  আরে!কনসোলে এই যে প্রোগ্রেসবারটা দেখি, সেটা কিভাবে কাজ করে? এনিমেশনটা হয় কিভাবে?!
