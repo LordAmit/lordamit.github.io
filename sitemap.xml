@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/</loc>
+      
+        <lastmod>2016-06-05T09:22:00+06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</loc>
       
         <lastmod>2016-05-13T10:03:00+06:00</lastmod>
@@ -353,7 +368,7 @@
     <url>
       <loc>http://lordamit.github.io/archive/</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -400,7 +415,7 @@
     <url>
       <loc>http://lordamit.github.io/disclosure/</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -417,7 +432,7 @@
     <url>
       <loc>http://lordamit.github.io/feed.xml</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -432,7 +447,7 @@
     <url>
       <loc>http://lordamit.github.io/humans.txt</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -447,7 +462,7 @@
     <url>
       <loc>http://lordamit.github.io/blog/</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -462,7 +477,7 @@
     <url>
       <loc>http://lordamit.github.io/</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -477,7 +492,7 @@
     <url>
       <loc>http://lordamit.github.io/instantfeed.xml</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -492,7 +507,7 @@
     <url>
       <loc>http://lordamit.github.io/instantfeeddev.xml</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -507,7 +522,7 @@
     <url>
       <loc>http://lordamit.github.io/links.jsonp</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -541,7 +556,7 @@
     <url>
       <loc>http://lordamit.github.io/readme/</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -558,7 +573,7 @@
     <url>
       <loc>http://lordamit.github.io/rfeed.xml</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -575,7 +590,7 @@
     <url>
       <loc>http://lordamit.github.io/sitemap.xml</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -598,7 +613,7 @@
     <url>
       <loc>http://lordamit.github.io/blog/page2/</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -613,7 +628,7 @@
     <url>
       <loc>http://lordamit.github.io/blog/page3/</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -628,7 +643,7 @@
     <url>
       <loc>http://lordamit.github.io/blog/page4/</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -643,7 +658,7 @@
     <url>
       <loc>http://lordamit.github.io/blog/page5/</loc>
       
-        <lastmod>2016-05-14T19:16:53+06:00</lastmod>
+        <lastmod>2016-06-05T15:35:12+06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

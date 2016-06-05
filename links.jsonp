@@ -103,6 +103,11 @@ callback([
   {
     "text": "Making a Text Based Progress Bar in Python",
     "href": "http://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/"
+  } ,
+
+  {
+    "text": "বাস্তব কল্পকাহিনী - সুপার সোলজার",
+    "href": "http://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/"
   } 
 
 ])
