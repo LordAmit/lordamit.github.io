@@ -4,8 +4,8 @@
     <title>Amit&#39;s Blog</title>
     <description></description>
     <link>http://lordamit.github.io/</link>
-    <atom:link href="http://lordamit.github.io/instantfeeddev.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-06-05T15:35:12+06:00</updated>
+    <atom:link href="http://lordamit.github.io /instantfeeddev.xml" rel="self" type="application/rss+xml"/>
+    <updated>2016-06-08T04:36:49+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -52,7 +52,7 @@
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -64,6 +64,12 @@
                 <article>
                   <header>
                       <h1>বাস্তব কল্পকাহিনী - সুপার সোলজার</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" বাস্তব কল্পকাহিনী - সুপার সোলজার ">
+                          <figcaption>বাস্তব কল্পকাহিনী - সুপার সোলজার</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-06-05 09:22:00 BDT">Sun, 05 Jun 2016 09:22:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
@@ -141,7 +147,7 @@
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -153,6 +159,12 @@
                 <article>
                   <header>
                       <h1>Making a Text Based Progress Bar in Python</h1>
+                      
+                      <figure>
+                          <img src="https://farm8.staticflickr.com/7711/26891460872_717938f69b_b.jpg" alt=" Making a Text Based Progress Bar in Python ">
+                          <figcaption>Making a Text Based Progress Bar in Python</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-05-13 10:03:00 BDT">Fri, 13 May 2016 10:03:00 +0600</time>
                       <time class="op-modified" dateTime="2016-05-13 10:53:00 BDT">2016-05-13 10:53:00 +0600</time>
                   </header>
@@ -224,7 +236,7 @@ Right after starting, it gave me a guided tour - and Look what I made!&lt;/p&gt;
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -236,6 +248,12 @@ Right after starting, it gave me a guided tour - and Look what I made!&lt;/p&gt;
                 <article>
                   <header>
                       <h1>Polarr - Awesome Image Editor for Linux</h1>
+                      
+                      <figure>
+                          <img src="https://farm8.staticflickr.com/7682/26328025243_b0e91b29b2_b.jpg" alt=" Polarr - Awesome Image Editor for Linux ">
+                          <figcaption>Polarr - Awesome Image Editor for Linux</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-05-10 13:23:00 BDT">Tue, 10 May 2016 13:23:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
@@ -327,7 +345,7 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -339,6 +357,12 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
                 <article>
                   <header>
                       <h1>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" Cracking FaceBook Instant Articles With Jekyll - RSS Feed ">
+                          <figcaption>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-05-10 10:00:00 BDT">Tue, 10 May 2016 10:00:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
@@ -456,7 +480,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -468,6 +492,12 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর ">
+                          <figcaption>ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-05-04 15:30:00 BDT">Wed, 04 May 2016 15:30:00 +0600</time>
                       <time class="op-modified" dateTime="2016-05-05 00:00:00 BDT">2016-05-05</time>
                   </header>
@@ -585,7 +615,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -597,6 +627,12 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>Showing Bangla properly in Atom Editor</h1>
+                      
+                      <figure>
+                          <img src="http://i.giphy.com/WlXFkMCUe84Za.gif" alt=" Showing Bangla properly in Atom Editor ">
+                          <figcaption>Showing Bangla properly in Atom Editor</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-05-03 15:22:00 BDT">Tue, 03 May 2016 15:22:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
@@ -683,7 +719,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -695,6 +731,12 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট ">
+                          <figcaption>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-04-28 19:47:00 BDT">Thu, 28 Apr 2016 19:47:00 +0600</time>
                       <time class="op-modified" dateTime="2016-04-28 19:47:00 BDT">2016-04-28 19:47:00 +0600</time>
                   </header>
@@ -761,7 +803,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -773,6 +815,12 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা ">
+                          <figcaption>কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-04-28 16:24:00 BDT">Thu, 28 Apr 2016 16:24:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
@@ -854,7 +902,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -866,6 +914,12 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>প্রোগ্রামিং শিখতে হলে</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" প্রোগ্রামিং শিখতে হলে ">
+                          <figcaption>প্রোগ্রামিং শিখতে হলে</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-04-25 04:26:00 BDT">Mon, 25 Apr 2016 04:26:00 +0600</time>
                       <time class="op-modified" dateTime="2016-05-14 13:16:00 BDT">14-05-2016 13:16:00 +0600</time>
                   </header>
@@ -957,7 +1011,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -969,6 +1023,12 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>সহজ সরল কম্পিউটার নিরাপত্তা</h1>
+                      
+                      <figure>
+                          <img src="https://farm4.staticflickr.com/3951/15558028879_96463380af_z.jpg" alt=" সহজ সরল কম্পিউটার নিরাপত্তা ">
+                          <figcaption>সহজ সরল কম্পিউটার নিরাপত্তা</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-04-24 22:10:43 BDT">Sun, 24 Apr 2016 22:10:43 +0600</time>
                       <time class="op-modified" dateTime="2016-04-25 02:44:00 BDT">2016-04-25 02:44:00 +0600</time>
                   </header>
@@ -1037,7 +1097,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -1049,6 +1109,12 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা ">
+                          <figcaption>বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-04-24 22:10:43 BDT">Sun, 24 Apr 2016 22:10:43 +0600</time>
                       <time class="op-modified" dateTime="2016-05-04 05:15:00 BDT">2016-05-04 05:15:00 +0600</time>
                   </header>
@@ -1108,7 +1174,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -1120,6 +1186,12 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>Virtual Reality Headset Review - RIEM 3D v2</h1>
+                      
+                      <figure>
+                          <img src="https://farm2.staticflickr.com/1508/26588228446_ee6a582ca3_z.jpg" alt=" Virtual Reality Headset Review - RIEM 3D v2 ">
+                          <figcaption>Virtual Reality Headset Review - RIEM 3D v2</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-04-24 21:10:43 BDT">Sun, 24 Apr 2016 21:10:43 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
@@ -1170,7 +1242,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -1182,6 +1254,12 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে ">
+                          <figcaption>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-04-18 00:00:00 BDT">Mon, 18 Apr 2016 00:00:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
@@ -1307,7 +1385,7 @@ Replace the version values with the values you found from the &lt;code class=&qu
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -1319,6 +1397,12 @@ Replace the version values with the values you found from the &lt;code class=&qu
                 <article>
                   <header>
                       <h1>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner ">
+                          <figcaption>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-03-25 02:41:03 BDT">Fri, 25 Mar 2016 02:41:03 +0600</time>
                       <time class="op-modified" dateTime="2016-04-20 01:33:00 BDT">2016-04-20 01:33:00 +0600</time>
                   </header>
@@ -1513,7 +1597,7 @@ Replace the version values with the values you found from the <code class="highl
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -1525,6 +1609,12 @@ Replace the version values with the values you found from the <code class="highl
                 <article>
                   <header>
                       <h1>Celebrating Intl. Women&#39;s day at AIUB</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" Celebrating Intl. Women's day at AIUB ">
+                          <figcaption>Celebrating Intl. Women's day at AIUB</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-03-20 16:48:51 BDT">Sun, 20 Mar 2016 16:48:51 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
@@ -1697,7 +1787,7 @@ That’s all. Enjoy. :)&lt;/p&gt;
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -1709,6 +1799,12 @@ That’s all. Enjoy. :)&lt;/p&gt;
                 <article>
                   <header>
                       <h1>Remix OS Resident Mode in Virtual Machine</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" Remix OS Resident Mode in Virtual Machine ">
+                          <figcaption>Remix OS Resident Mode in Virtual Machine</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-03-04 11:17:11 BDT">Fri, 04 Mar 2016 11:17:11 +0600</time>
                       <time class="op-modified" dateTime="2016-04-25 00:01:00 BDT">2016-04-25 00:01:00 +0600</time>
                   </header>
@@ -1825,7 +1921,7 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -1837,6 +1933,12 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
                 <article>
                   <header>
                       <h1>And that is why I switched to Octopress from Blogger!</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" And that is why I switched to Octopress from Blogger! ">
+                          <figcaption>And that is why I switched to Octopress from Blogger!</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2015-11-23 19:37:22 BDT">Mon, 23 Nov 2015 19:37:22 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
@@ -1903,7 +2005,7 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -1915,6 +2017,12 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
                 <article>
                   <header>
                       <h1>Review: Mi Band and Xiaomi Piston Basic Edition Headphone</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" Review: Mi Band and Xiaomi Piston Basic Edition Headphone ">
+                          <figcaption>Review: Mi Band and Xiaomi Piston Basic Edition Headphone</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2015-11-16 14:25:11 BDT">Mon, 16 Nov 2015 14:25:11 +0600</time>
                       <time class="op-modified" dateTime="2016-04-19 13:20:00 BDT">2016-04-19 13:20:00</time>
                   </header>
@@ -1996,7 +2104,7 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -2008,6 +2116,12 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
                 <article>
                   <header>
                       <h1>সিঙ্গাপুর সফর – একগাদা নোটিশের ভিড়ে যাতায়াত ব্যবস্থা</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" সিঙ্গাপুর সফর – একগাদা নোটিশের ভিড়ে যাতায়াত ব্যবস্থা ">
+                          <figcaption>সিঙ্গাপুর সফর – একগাদা নোটিশের ভিড়ে যাতায়াত ব্যবস্থা</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2015-07-23 22:51:07 BDT">Thu, 23 Jul 2015 22:51:07 +0600</time>
                       <time class="op-modified" dateTime="2016-04-19 00:00:00 BDT">2016-04-19</time>
                   </header>
@@ -2097,7 +2211,7 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 </description>
         
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -2109,6 +2223,12 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
                 <article>
                   <header>
                       <h1>সিঙ্গাপুর সফর - ১</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" সিঙ্গাপুর সফর - ১ ">
+                          <figcaption>সিঙ্গাপুর সফর - ১</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2015-07-19 22:09:04 BDT">Sun, 19 Jul 2015 22:09:04 +0600</time>
                       <time class="op-modified" dateTime="2016-04-19 13:17:00 BDT">2016-04-19 13:17:00</time>
                   </header>
