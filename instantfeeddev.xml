@@ -1,20 +1,19 @@
 ---
 layout: null
 ---
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/instantfeeddev.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
+    <atom:link href="{{ " /instantfeeddev.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
     <id>{{ site.url }}</id>
     <author>
       <name>{{ site.owner.name }}</name>
     </author>
-    {% for post in site.posts limit:20 %}
+    {% for post in site.posts limit : 20 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
@@ -27,7 +26,7 @@ layout: null
           <description>{{ post.content | xml_escape }}</description>
         {% endif %}
         <content:encoded>
-            <![CDATA[
+          <![CDATA[
                 <!doctype html>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
@@ -39,6 +38,17 @@ layout: null
                 <article>
                   <header>
                       <h1>{{ post.title | xml_escape }}</h1>
+                      {% if post.imagefeature %}
+                      <figure>
+                          <img src="{{ post.imagefeature }}" alt=" {{ post.title }} ">
+                          <figcaption>{{ post.title }}</figcaption>
+                      </figure>
+                      {% else %}
+                      <figure>
+                          <img src="{{ site.baseurl | prepend: site.url }}/images/sitelogo_1248x960.png" alt=" {{ post.title }} ">
+                          <figcaption>{{ post.title }}</figcaption>
+                      </figure>
+                      {% endif %}
                       <time class="op-published" dateTime="{{ post.date | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
                       <time class="op-modified" dateTime="{{ post.modified | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.modified }}</time>
                   </header>
