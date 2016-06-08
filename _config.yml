@@ -8,7 +8,7 @@ relative_permalinks: false
 # Setup
 title:               Amit's Blog (অমিতের লেখালেখি)
 #tagline:             'foo's website
-description:
+description: "অমিতের ব্লগ, অমিতের লেখালেখি, Amit's Blog, LordAmit, LordAmit's Blog, IIT, DU, ঢাকা বিশ্ববিদ্যালয়"
 url: http://lordamit.github.io
 baseurl: ""
 urlimg: http://lordamit.github.io/
@@ -44,7 +44,7 @@ owner:
   avatar:         images/Amit.jpg
   #email:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:
+  description: "অমিতের ব্লগ, অমিতের লেখালেখি, Amit's Blog, LordAmit, LordAmit's Blog, IIT, DU, ঢাকা বিশ্ববিদ্যালয়"
   # Social networking links used in footer. Update and remove as you like.
   twitter:        lordamit
   facebook: AmitPublic

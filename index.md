@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Blog of Amit
-description: ""
+title:
+description: "অমিতের ব্লগ, অমিতের লেখালেখি, Amit's Blog, LordAmit, LordAmit's Blog, IIT, DU, ঢাকা বিশ্ববিদ্যালয়"
 ---
 
 <!--## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
