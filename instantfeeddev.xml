@@ -3,6 +3,7 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <!-- Designed by Amit Seal Ami. If you like what I did, visit me http://lordamit.github.io/contact -->
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
@@ -45,16 +46,16 @@ layout: null
                       </figure>
                       {% else %}
                       <figure>
-                          <img src="{{ site.baseurl | prepend: site.url }}/images/sitelogo_1248x960.png" alt=" {{ post.title }} ">
+                          <img src="{{ site.baseurl | prepend: site.url }}/images/sitelogo_640x492.png" alt=" {{ post.title }} ">
                           <figcaption>{{ post.title }}</figcaption>
                       </figure>
                       {% endif %}
                       <time class="op-published" dateTime="{{ post.date | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
                       <time class="op-modified" dateTime="{{ post.modified | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.modified }}</time>
                   </header>
-                  {{ post.content }}
+                  {{ post.content | replace: '<figure>', '<figure data-feedback="fb:likes">' }}
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -67,3 +68,5 @@ layout: null
     {% endfor %}
   </channel>
 </rss>
+
+<!-- Designed by Amit Seal Ami. If you like what I did, visit me http://lordamit.github.io/contact -->
