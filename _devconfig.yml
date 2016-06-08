@@ -6,7 +6,7 @@ permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
-title:               Amit's Blog
+title:               Amit's Blog (অমিতের লেখালেখি)
 #tagline:             'foo's website
 description:
 url: http://localhost:4000
