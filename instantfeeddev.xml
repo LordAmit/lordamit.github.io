@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <!-- Designed by Amit Seal Ami. If you like what I did, visit me http://lordamit.github.io/contact -->
   <channel>
-    <title>Amit&#39;s Blog</title>
+    <title>Amit&#39;s Blog (অমিতের লেখালেখি)</title>
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io /instantfeeddev.xml" rel="self" type="application/rss+xml"/>
-    <updated>2016-06-08T15:12:03+06:00</updated>
+    <updated>2016-06-08T21:01:31+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
