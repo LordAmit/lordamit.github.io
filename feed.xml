@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amit&#39;s Blog (অমিতের লেখালেখি)</title>
-    <description></description>
+    <description>অমিতের ব্লগ, অমিতের লেখালেখি, Amit&#39;s Blog, LordAmit, LordAmit&#39;s Blog, IIT, DU, ঢাকা বিশ্ববিদ্যালয়</description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-06-08T21:01:31+06:00</updated>
+    <updated>2016-06-08T21:41:31+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
