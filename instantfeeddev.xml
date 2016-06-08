@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <!-- Designed by Amit Seal Ami. If you like what I did, visit me http://lordamit.github.io/contact -->
   <channel>
     <title>Amit&#39;s Blog</title>
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io /instantfeeddev.xml" rel="self" type="application/rss+xml"/>
-    <updated>2016-06-08T04:36:49+06:00</updated>
+    <updated>2016-06-08T14:41:20+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -66,14 +67,16 @@
                       <h1>বাস্তব কল্পকাহিনী - সুপার সোলজার</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" বাস্তব কল্পকাহিনী - সুপার সোলজার ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" বাস্তব কল্পকাহিনী - সুপার সোলজার ">
                           <figcaption>বাস্তব কল্পকাহিনী - সুপার সোলজার</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2016-06-05 09:22:00 BDT">Sun, 05 Jun 2016 09:22:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
-                  <p>বার বার তিনবার।</p>
+
+                  
+                    <p>বার বার তিনবার।</p>
 
 <p>এই নিয়ে ৩য়বারের মতো আক্রমণে আমরা ছত্রভঙ্গ হয়ে গেলাম। কি হচ্ছে, কিভাবে হচ্ছে কিচ্ছু বুঝছি না। সকাল বিকাল রাতে নিয়মিতভাবে নতুন সৈন্য কই থেকে যেন উদয় হচ্ছে। নতুন প্রযুক্তি, নতুন চেহারা - না এদের ব্যাপারে আমাদের নেটওয়ার্কে কোন ডাটা আছে, না আছে কোন সূত্র।</p>
 
@@ -105,8 +108,9 @@
 
 <p>থামানোর মতো কেউ থাকবে না। কেউ না।</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -168,7 +172,9 @@
                       <time class="op-published" dateTime="2016-05-13 10:03:00 BDT">Fri, 13 May 2016 10:03:00 +0600</time>
                       <time class="op-modified" dateTime="2016-05-13 10:53:00 BDT">2016-05-13 10:53:00 +0600</time>
                   </header>
-                  <p>ছোটবেলায় যখন কনসোলে কিছু একট কাজ করতে দিতাম - দেখা যেত একটা প্রোগ্রেস বারও আছে। সেটা আবার এক যায়গায় আস্তে আস্তে বাড়তে থাকে।
+
+                  
+                    <p>ছোটবেলায় যখন কনসোলে কিছু একট কাজ করতে দিতাম - দেখা যেত একটা প্রোগ্রেস বারও আছে। সেটা আবার এক যায়গায় আস্তে আস্তে বাড়তে থাকে।
 মনে হতো,  আরে!কনসোলে এই যে প্রোগ্রেসবারটা দেখি, সেটা কিভাবে কাজ করে? এনিমেশনটা হয় কিভাবে?!
 ভাবলাম এখন যখন জানি, সবাইকে দেখাই কেমন করে কাজ করে!
 কোডটা দিলাম, কিন্তু ছবি আকারে - করতে চাইলে কোডটা নিজেই লিখে করো :D</p>
@@ -189,8 +195,9 @@
 <p>লক্ষ্য করার যে অংশটা, সেটা হলো \r. এটার কারণেই একযায়গায় বার বার লেখা হচ্ছে। ‌\r মানে হচ্ছে ক্যারিজ রিটার্ন।
 আর ফ্লাশিংয়ের অংশটা <a href="http://stackoverflow.com/questions/10019456/usage-of-sys-stdout-flush-method" target="_blank">এখান</a> থেকে বুঝতে পারো।</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -208,15 +215,10 @@
         <pubDate>Tue, 10 May 2016 13:23:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
-          <description>&lt;p&gt;I am a fan of offline, native applications. Even though there are web apps out there to modify image / apply filters - I was looking for one native to Ubuntu. I found one called &lt;a href=&quot;https://www.polarr.co/linux-electron?platform=polarr&amp;amp;label=homepage_website&quot;&gt;Polarr&lt;/a&gt; and I am blown away by it!
-Right after starting, it gave me a guided tour - and Look what I made!&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;https://farm8.staticflickr.com/7682/26328025243_b0e91b29b2_b.jpg&quot; alt=&quot;Before and After shots after editing the same Image&quot; /&gt;
-  
-  &lt;figcaption&gt;Before and After shots after editing the same Image&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;!-- more --&gt;
-&lt;p&gt;What sets it apart are:&lt;/p&gt;
+          <description>&lt;p&gt;I am a fan of offline, native applications. Even though there are web apps out there to modify image / apply filters - I was looking for one native to Ubuntu. I found one called &lt;a href=&quot;https://www.polarr.co/linux-electron?platform=polarr&amp;amp;label=homepage_website&quot;&gt;Polarr&lt;/a&gt; and I am blown away by it! Right after starting, it gave me a guided tour - and Look what I made! &lt;figure&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7682/26328025243_b0e91b29b2_b.jpg&quot; alt=&quot;Before and After shots after editing the same Image&quot; /&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;figcaption&gt;Before and After shots after editing the same Image&lt;/figcaption&gt;
+&lt;p&gt;&amp;lt;/figure&amp;gt; &lt;!-- more --&gt; What sets it apart are:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Extremely Friendly User Interface&lt;/li&gt;
@@ -224,8 +226,7 @@ Right after starting, it gave me a guided tour - and Look what I made!&lt;/p&gt;
   &lt;li&gt;Detailed options like clarity, Feather, Exposure Grain&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;figure&gt;
-  &lt;img src=&quot;http://i.giphy.com/yp4NqnYUYkwN2.gif&quot; alt=&quot;Just take a look at the settings!&quot; /&gt;
+&lt;figure&gt;&lt;img src=&quot;http://i.giphy.com/yp4NqnYUYkwN2.gif&quot; alt=&quot;Just take a look at the settings!&quot; /&gt;
   
   &lt;figcaption&gt;Just take a look at the settings!&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -255,17 +256,14 @@ Right after starting, it gave me a guided tour - and Look what I made!&lt;/p&gt;
                       </figure>
                       
                       <time class="op-published" dateTime="2016-05-10 13:23:00 BDT">Tue, 10 May 2016 13:23:00 +0600</time>
-                      <time class="op-modified" dateTime=""></time>
+                      <time class="op-modified" dateTime="2016-06-08 02:40:00 BDT">2016-06-08 2:40:00 +0600</time>
                   </header>
-                  <p>I am a fan of offline, native applications. Even though there are web apps out there to modify image / apply filters - I was looking for one native to Ubuntu. I found one called <a href="https://www.polarr.co/linux-electron?platform=polarr&amp;label=homepage_website">Polarr</a> and I am blown away by it!
-Right after starting, it gave me a guided tour - and Look what I made!</p>
-<figure>
-  <img src="https://farm8.staticflickr.com/7682/26328025243_b0e91b29b2_b.jpg" alt="Before and After shots after editing the same Image" />
-  
-  <figcaption>Before and After shots after editing the same Image</figcaption>
-</figure>
-<!-- more -->
-<p>What sets it apart are:</p>
+
+                  
+                    <p>I am a fan of offline, native applications. Even though there are web apps out there to modify image / apply filters - I was looking for one native to Ubuntu. I found one called <a href="https://www.polarr.co/linux-electron?platform=polarr&amp;label=homepage_website">Polarr</a> and I am blown away by it! Right after starting, it gave me a guided tour - and Look what I made! <figure data-feedback="fb:likes"><img src="https://farm8.staticflickr.com/7682/26328025243_b0e91b29b2_b.jpg" alt="Before and After shots after editing the same Image" /></figure></p>
+
+<figcaption>Before and After shots after editing the same Image</figcaption>
+<p>&lt;/figure&gt; <!-- more --> What sets it apart are:</p>
 
 <ul>
   <li>Extremely Friendly User Interface</li>
@@ -273,8 +271,7 @@ Right after starting, it gave me a guided tour - and Look what I made!</p>
   <li>Detailed options like clarity, Feather, Exposure Grain</li>
 </ul>
 
-<figure>
-  <img src="http://i.giphy.com/yp4NqnYUYkwN2.gif" alt="Just take a look at the settings!" />
+<figure data-feedback="fb:likes"><img src="http://i.giphy.com/yp4NqnYUYkwN2.gif" alt="Just take a look at the settings!" />
   
   <figcaption>Just take a look at the settings!</figcaption>
 </figure>
@@ -283,8 +280,9 @@ Right after starting, it gave me a guided tour - and Look what I made!</p>
 
 <p>Let me know in comments below :)</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -359,14 +357,16 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
                       <h1>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" Cracking FaceBook Instant Articles With Jekyll - RSS Feed ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" Cracking FaceBook Instant Articles With Jekyll - RSS Feed ">
                           <figcaption>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2016-05-10 10:00:00 BDT">Tue, 10 May 2016 10:00:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
-                  <p>Hello All,
+
+                  
+                    <p>Hello All,
 Recently I got access to Instant Articles from Facebook for my Jekyll based blog. The interesting part is that as far as I know, Instant Articles RSS Feed are not supported by Jekyll - yet! But no worries, I have done this and I am going to share how :)</p>
 
 <div id="fb-root"></div>
@@ -407,8 +407,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p>Also, head over to David Chua’s <a href="http://dchua.com/2016/04/24/hooking-up-jekyll-to-facebook-instant-articles/">blog</a> if you want another perspective of achieving the same thing.</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -494,14 +495,16 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর ">
                           <figcaption>ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2016-05-04 15:30:00 BDT">Wed, 04 May 2016 15:30:00 +0600</time>
                       <time class="op-modified" dateTime="2016-05-05 00:00:00 BDT">2016-05-05</time>
                   </header>
-                  <p>কয়েকদিন আগেই ভার্সিটিতে হয়ে গেল Software Project Lab Final. তার পর পর অনেক শিক্ষার্থীদেরই নানারকম রিএ্যাকশন দেখেছি, নিজেও এসব করতাম। বেলতলায় গিয়ে বেলের বাড়ি খেতে খেতে শিখেছি কোনটা কি কারণে হয়। সেগুলোই শেয়ার করছি, যেন তোমাদের বেলতলায় আর না যাওয়া লাগে। রিএ্যাকশনগুলো‌র ভিতরে সিংহভাগ হলো:</p>
+
+                  
+                    <p>কয়েকদিন আগেই ভার্সিটিতে হয়ে গেল Software Project Lab Final. তার পর পর অনেক শিক্ষার্থীদেরই নানারকম রিএ্যাকশন দেখেছি, নিজেও এসব করতাম। বেলতলায় গিয়ে বেলের বাড়ি খেতে খেতে শিখেছি কোনটা কি কারণে হয়। সেগুলোই শেয়ার করছি, যেন তোমাদের বেলতলায় আর না যাওয়া লাগে। রিএ্যাকশনগুলো‌র ভিতরে সিংহভাগ হলো:</p>
 
 <ul>
   <li>প্রেজেন্টেশনে স্যারেরা ইংরেজি বলতে বলে কেন?</li>
@@ -553,8 +556,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p>সামনে আরো লিখবো আশা করি এসবের উপরে :)</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -636,7 +640,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <time class="op-published" dateTime="2016-05-03 15:22:00 BDT">Tue, 03 May 2016 15:22:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
-                  <p>Atom editor could not display Bangla font properly in Markdown file. If I changed the font from settings, it was being applied to all characters, and it was messing up the display. However, there is a CSS based style file that can be used to modify the UI of Atom. I just had to edit it to:</p>
+
+                  
+                    <p>Atom editor could not display Bangla font properly in Markdown file. If I changed the font from settings, it was being applied to all characters, and it was messing up the display. However, there is a CSS based style file that can be used to modify the UI of Atom. I just had to edit it to:</p>
 
 <ul>
   <li>Specify a Bengali font for Bengali Characters only</li>
@@ -677,8 +683,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p>Of course, you will have to install <code class="highlighter-rouge">inconsolata</code> and <code class="highlighter-rouge">Ekushey Durga</code> font in advance to make it work. Enjoy!</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -733,14 +740,16 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট ">
                           <figcaption>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2016-04-28 19:47:00 BDT">Thu, 28 Apr 2016 19:47:00 +0600</time>
                       <time class="op-modified" dateTime="2016-04-28 19:47:00 BDT">2016-04-28 19:47:00 +0600</time>
                   </header>
-                  <p>আমি মোটামুটি বিশদ পরিমাণে ঘাটাঘাটি করেছি গত কয়দিন ধরে একটা ভালো টাস্ক ম্যানেজারের জন্য লিনাক্সে। অনেক কিছুই তো আছে, কিন্তু কোনটাই মনের মতো মিলছিলো না। দরকার ছিলো এমন একটা কিছু, যেটা
+
+                  
+                    <p>আমি মোটামুটি বিশদ পরিমাণে ঘাটাঘাটি করেছি গত কয়দিন ধরে একটা ভালো টাস্ক ম্যানেজারের জন্য লিনাক্সে। অনেক কিছুই তো আছে, কিন্তু কোনটাই মনের মতো মিলছিলো না। দরকার ছিলো এমন একটা কিছু, যেটা
 - ফ্রি
 - প্রোজেক্ট অনুসারে টাইমার চালাতে দিবে
 - ওয়েবসাইটে স্ট্যাটিসটিকস দিবে
@@ -761,8 +770,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p>সব মিলিয়ে ভালোই লাগছে। :)</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -817,14 +827,16 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা ">
                           <figcaption>কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2016-04-28 16:24:00 BDT">Thu, 28 Apr 2016 16:24:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
-                  <p>কিছুদিন আগে এন্ড্রিউ মুরের (কম্পিউটার সায়েন্স এবং রোবোটিকসের প্রফেসর + ডিন, কার্নেগি মেলনে আছেন ) একটা <a href="http://techcrunch.com/2016/04/26/it-isnt-just-uber-carnegie-mellons-computer-science-dean-on-its-poaching-problem/" target="_blank">ইন্টারভিউ</a> পড়লাম। সারসংক্ষেপ এমন:</p>
+
+                  
+                    <p>কিছুদিন আগে এন্ড্রিউ মুরের (কম্পিউটার সায়েন্স এবং রোবোটিকসের প্রফেসর + ডিন, কার্নেগি মেলনে আছেন ) একটা <a href="http://techcrunch.com/2016/04/26/it-isnt-just-uber-carnegie-mellons-computer-science-dean-on-its-poaching-problem/" target="_blank">ইন্টারভিউ</a> পড়লাম। সারসংক্ষেপ এমন:</p>
 
 <p><strong>কার্নেগি মেলন থেকে প্রায় সময়ই বিভিন্ন শিক্ষকরা ইন্ডাস্ট্রিতে চলে যান। আপনি নিজেও গিয়েছিলেন গুগলে ফ্রড ঠেকানো এবং টার্গেটেড বিজ্ঞাপন নিয়ে কাজ করতে। প্রায় সবাইই আবার ফেরত আসেন। অনেকে কখনোই আসে না। যেমন কিছুদিন আগেই আপনার ভার্সিটি থেকে প্রায় ৪০জন গবেষক এবং বিজ্ঞানী চলে গিয়েছেন Uber এ। ইন্ডাস্ট্রি যেখানে অনেক বেশি পরিমাণে টাকা এবং অন্যান্য সুযোগ সুবিধা দিচ্ছে - সেখানে এভাবে চলে যাওয়া ঠেকাতে আপনার চিন্তা ভাবনা কি?</strong>
 <!-- more --></p>
@@ -845,8 +857,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p><strong>কিন্তু কিভাবে?</strong></p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -916,14 +929,16 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>প্রোগ্রামিং শিখতে হলে</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" প্রোগ্রামিং শিখতে হলে ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" প্রোগ্রামিং শিখতে হলে ">
                           <figcaption>প্রোগ্রামিং শিখতে হলে</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2016-04-25 04:26:00 BDT">Mon, 25 Apr 2016 04:26:00 +0600</time>
                       <time class="op-modified" dateTime="2016-05-14 13:16:00 BDT">14-05-2016 13:16:00 +0600</time>
                   </header>
-                  <p>আমি অনেক দিন ধরেই লক্ষ্য করেছি – আমার আশে পাশে অনেকেই আছে যারা খুব তাড়াতাড়ি প্রোগ্রামিং রপ্ত করে ফেলতে পারে, নতুন জিনিষ শিখতে পারে। আমার ধারণা ব্যাপারটা বুদ্ধিমত্তার কিছু না। অনেক সময়ই দেখেছি, অনেক ছোট ভাই এসে বলে – ভাই – শিখতে পারছি না প্রোগ্রামিং। কি করলে শিখতে পারবো? তখন কিছু জিনিষ বলেছিলাম।
+
+                  
+                    <p>আমি অনেক দিন ধরেই লক্ষ্য করেছি – আমার আশে পাশে অনেকেই আছে যারা খুব তাড়াতাড়ি প্রোগ্রামিং রপ্ত করে ফেলতে পারে, নতুন জিনিষ শিখতে পারে। আমার ধারণা ব্যাপারটা বুদ্ধিমত্তার কিছু না। অনেক সময়ই দেখেছি, অনেক ছোট ভাই এসে বলে – ভাই – শিখতে পারছি না প্রোগ্রামিং। কি করলে শিখতে পারবো? তখন কিছু জিনিষ বলেছিলাম।
 কয়দিন আগে Learn Python the Hard way বইয়েও দেখি আমার কথাগুলো, সাথে আরো অনেক কিছু বলা হয়েছে যেগুলো আমি ঐসব ভালো প্রোগ্রামারের ভেতরে লক্ষ্য করেছি। আমার ধারণা প্রোগ্রামিং শিখতে না পারা, বা খুব ধীর গতিতে শেখাটা মোটামুটি সাধারণ আমাদের মাঝে। সেজন্যই ঐ বই আর আমার চিন্তা মিলিয়ে এই লেখাটা। নিজেদের ভেতরে কিছু ছোট্ট ছোট্ট পরিবর্তন আনলেই প্রোগ্রামিং শেখা ডাল ভাত।</p>
 
 <!-- more -->
@@ -959,8 +974,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p><em>প্রথম প্রকাশিত হয়েছিলো আগের ব্লগে, ২০১২ সালে। তার পরে ইষৎ পরিমার্জিত করে আবারো লেখা।</em></p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -1032,7 +1048,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <time class="op-published" dateTime="2016-04-24 22:10:43 BDT">Sun, 24 Apr 2016 22:10:43 +0600</time>
                       <time class="op-modified" dateTime="2016-04-25 02:44:00 BDT">2016-04-25 02:44:00 +0600</time>
                   </header>
-                  <p>আমার কম্পিউটার ব্যবহার করার জীবন প্রায় এক যুগের মতোই হবে। খুবই সহজ সরল ব্যবহার। গান শোনা, গেম খেলা, ইন্টারনেট ফোরামে যাওয়া, একটু আধটু প্রোগ্রামিং শেখার চেষ্টা, ক্লিক করে আয় করার চেষ্টা (না না, ডুল্যান্সার না :D) ইত্যাদি। এর মাঝে অসংখ্য রকমের অভিজ্ঞতার সম্মুখীন হয়েছি। খারাপ, ভালো সবরকম মিলিয়ে বলতে পারি এসব অভিজ্ঞতা নিঃসন্দেহে আমার কম্পিউটার চালানোর ব্যাপারটাকে আরো নিরাপদ করেছে। <strong>দ্রুত শেখা ভালো, তার চাইতেও বেশি ভালো ভুল থেকে শেখা; যেন ভুল একবারই হয়।</strong>
+
+                  
+                    <p>আমার কম্পিউটার ব্যবহার করার জীবন প্রায় এক যুগের মতোই হবে। খুবই সহজ সরল ব্যবহার। গান শোনা, গেম খেলা, ইন্টারনেট ফোরামে যাওয়া, একটু আধটু প্রোগ্রামিং শেখার চেষ্টা, ক্লিক করে আয় করার চেষ্টা (না না, ডুল্যান্সার না :D) ইত্যাদি। এর মাঝে অসংখ্য রকমের অভিজ্ঞতার সম্মুখীন হয়েছি। খারাপ, ভালো সবরকম মিলিয়ে বলতে পারি এসব অভিজ্ঞতা নিঃসন্দেহে আমার কম্পিউটার চালানোর ব্যাপারটাকে আরো নিরাপদ করেছে। <strong>দ্রুত শেখা ভালো, তার চাইতেও বেশি ভালো ভুল থেকে শেখা; যেন ভুল একবারই হয়।</strong>
 <!-- more --></p>
 <figure>
   <img src="https://farm4.staticflickr.com/3951/15558028879_96463380af_z.jpg" alt="বিজয়ী হিসেবে সাকিব আল হাসানের সাথে আমি" />
@@ -1063,8 +1081,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p><em>প্রকাশিত হয়েছিলো <a href="http://tech.priyo.com/blog/2012/07/10/4414.html">প্রিয়টেকে</a>, ২০১২ সালে নরটন এন্টিভাইরাস স্পন্সরড কম্পিউটার নিরাপত্তা বিষয়ক প্রতিযোগিতা - আমার কম্পিউটার জীবনের নিরাপত্তা তে।</em></p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -1111,14 +1130,16 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা ">
                           <figcaption>বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2016-04-24 22:10:43 BDT">Sun, 24 Apr 2016 22:10:43 +0600</time>
                       <time class="op-modified" dateTime="2016-05-04 05:15:00 BDT">2016-05-04 05:15:00 +0600</time>
                   </header>
-                  <p>ফেসবুক নিয়মিত ভাবে <a href="https://www.fbf8.com/" target="_blank">F8 ডেভেলপার কনফারেন্স</a> আয়োজন করে, যেখানে তারা ভবিষ্যতে ফেসবুকের লক্ষ্য কি, তারা কিভাবে আগাচ্ছে, ডেভেলপার এবং ব্যবহারকারীদের জন্য নতুন কি কি আসছে সে বিষয়ে জানায়। যেহেতু গোটা পৃথিবী জুড়ে অনেক আগ্রহী ব্যক্তি থাকলেও সবাইকে নিমন্ত্রন করা সম্ভব হয় না, তাই তারা বিভিন্ন দেশে সেই সময়ে <a href="https://developers.facebook.com/blog/post/2016/03/01/f8-2016-meetups/" target="_blank">Facebook F8Meetup</a> আয়োজন করে, যেখানে F8 Developer Conference লাইভ স্ট্রিমিং করার পাশাপাশি লোকাল ডেভেলপার কমিউনিটিও ফেসবুকের বিভিন্ন প্রযুক, সেগুলোর প্রায়োগিক ব্যবহার এবং লোকালিটির সাপেক্ষে কি করা যায় সে বিষয়ে আলোচনা করে। এ বছরের ১৩ এপ্রিল বাংলাদেশে প্রথম বারের মতো অনুষ্ঠিত হয় Facebook F8Meetup। আয়োজন করেছিলো SD Asia, GPHouse এ। প্যানেল স্পিকার হিসাবে সেখানে নিমন্ত্রিত হয়ে যাই আমি। আলোচনার বিষয় ছিলো “How to Make Better Apps in the Context of Bangladesh”।</p>
+
+                  
+                    <p>ফেসবুক নিয়মিত ভাবে <a href="https://www.fbf8.com/" target="_blank">F8 ডেভেলপার কনফারেন্স</a> আয়োজন করে, যেখানে তারা ভবিষ্যতে ফেসবুকের লক্ষ্য কি, তারা কিভাবে আগাচ্ছে, ডেভেলপার এবং ব্যবহারকারীদের জন্য নতুন কি কি আসছে সে বিষয়ে জানায়। যেহেতু গোটা পৃথিবী জুড়ে অনেক আগ্রহী ব্যক্তি থাকলেও সবাইকে নিমন্ত্রন করা সম্ভব হয় না, তাই তারা বিভিন্ন দেশে সেই সময়ে <a href="https://developers.facebook.com/blog/post/2016/03/01/f8-2016-meetups/" target="_blank">Facebook F8Meetup</a> আয়োজন করে, যেখানে F8 Developer Conference লাইভ স্ট্রিমিং করার পাশাপাশি লোকাল ডেভেলপার কমিউনিটিও ফেসবুকের বিভিন্ন প্রযুক, সেগুলোর প্রায়োগিক ব্যবহার এবং লোকালিটির সাপেক্ষে কি করা যায় সে বিষয়ে আলোচনা করে। এ বছরের ১৩ এপ্রিল বাংলাদেশে প্রথম বারের মতো অনুষ্ঠিত হয় Facebook F8Meetup। আয়োজন করেছিলো SD Asia, GPHouse এ। প্যানেল স্পিকার হিসাবে সেখানে নিমন্ত্রিত হয়ে যাই আমি। আলোচনার বিষয় ছিলো “How to Make Better Apps in the Context of Bangladesh”।</p>
 <figure class="op-social">
   <div class="fb-post" data-href="https://www.facebook.com/photo.php?fbid=10209292169161570" data-width="500" data-show-text="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/photo.php?fbid=10209292169161570&amp;set=p.10209292169161570&amp;type=3"><p>Facebook F8Meetup &#x98f; &#x9aa;&#x9cd;&#x9af;&#x9be;&#x9a8;&#x9c7;&#x9b2; &#x986;&#x9b2;&#x9cb;&#x99a;&#x9a8;&#x9be; &#x99a;&#x9b2;&#x9be;&#x9b0; &#x98f;&#x995;&#x99f;&#x9bf; &#x9ae;&#x9c1;&#x9b9;&#x9c2;&#x9b0;&#x9cd;&#x9a4;&#x9c7;</p>Posted by <a href="https://www.facebook.com/lordamit">Amit Seal Ami</a> on&nbsp;<a href="https://www.facebook.com/photo.php?fbid=10209292169161570&amp;set=p.10209292169161570&amp;type=3">Wednesday, April 13, 2016</a></blockquote></div></div>
   
@@ -1131,8 +1152,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p>ব্যক্তিগতভাবে আমার কাছে সবচাইতে বেশি ভালো লেগেছে GObd এর COO - Farhan Rahman এর সেশনটা। ওখানে তিনি GObd কিভাবে ফেসবুকের Authentication kit ব্যবহার করবে, তাতে কি সুবিধা হবে সে বিষয়ে আলাপ করেন। GObd কে মূল <a href="http://www.clickittefaq.com/gobd-becomes-bangladeshi-tech-startup-featured-facebook-f8-conference/" target="_blank">ডেভেলপার কনফারেন্সেও</a> ফিচার করা হয়েছে এবছরে।</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -1195,7 +1217,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <time class="op-published" dateTime="2016-04-24 21:10:43 BDT">Sun, 24 Apr 2016 21:10:43 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
-                  <p>কিছুদিন আগে প্ল্যান করেছিলাম গুগলের কার্ডবোর্ড কিনবো। কিনতে গিয়ে টের পেলাম, আমার ৬ ইঞ্চি স্ক্রিনের শাওমি রেডমি নোটের জন্য আসলে সেটা অনেক ছোট হয়ে যায়। কিছু আলাপ আলোচনা করে কিনলাম RIEM এর ভার্চুয়াল রিয়েলিটি হেডসেট ভার্সন ২। দোকানে চেক করে দেখলাম খুবই ভালো কাজ করে। কিনেও ফেললাম।
+
+                  
+                    <p>কিছুদিন আগে প্ল্যান করেছিলাম গুগলের কার্ডবোর্ড কিনবো। কিনতে গিয়ে টের পেলাম, আমার ৬ ইঞ্চি স্ক্রিনের শাওমি রেডমি নোটের জন্য আসলে সেটা অনেক ছোট হয়ে যায়। কিছু আলাপ আলোচনা করে কিনলাম RIEM এর ভার্চুয়াল রিয়েলিটি হেডসেট ভার্সন ২। দোকানে চেক করে দেখলাম খুবই ভালো কাজ করে। কিনেও ফেললাম।
 <!-- more --></p>
 <figure>
   <img src="https://farm2.staticflickr.com/1508/26588228446_ee6a582ca3_z.jpg" alt="RIEM VR HeadSet right after Unpacking" />
@@ -1217,8 +1241,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p>সব মিলিয়ে আমার কাছে খুবই ভালো লেগেছে। পয়সা উসুল!</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -1256,19 +1281,22 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে ">
                           <figcaption>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2016-04-18 00:00:00 BDT">Mon, 18 Apr 2016 00:00:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
-                  <p>২০০১ সালে Unicef এর আর্থিক সহযোগিতায় বাংলাদেশ দুর্যোগ ব্যবস্থাপনা ব্যুরো (<a href="http://www.ddm.gov.bd/"><abbr title="Department of Disaster Management">DDM</abbr></a>) থেকে প্রকাশিত হয় ভূমিকম্প বিষয়ে গণসচেতনতা নামের একটি বুকলেট। সেই বুকলেটটি পুরনো <a href="http://old.ddm.gov.bd/"><abbr title="Department of Disaster Management">DDM</abbr></a> এর সাইট থেকে উদ্ধার করা গেলেও, বর্তমান ওয়েবসাইটে পাওয়া যায়না সহজে। সকলের উপকারের জন্যই, এটিকে আলাদা করে আবার এখানে রাখা।
+
+                  
+                    <p>২০০১ সালে Unicef এর আর্থিক সহযোগিতায় বাংলাদেশ দুর্যোগ ব্যবস্থাপনা ব্যুরো (<a href="http://www.ddm.gov.bd/"><abbr title="Department of Disaster Management">DDM</abbr></a>) থেকে প্রকাশিত হয় ভূমিকম্প বিষয়ে গণসচেতনতা নামের একটি বুকলেট। সেই বুকলেটটি পুরনো <a href="http://old.ddm.gov.bd/"><abbr title="Department of Disaster Management">DDM</abbr></a> এর সাইট থেকে উদ্ধার করা গেলেও, বর্তমান ওয়েবসাইটে পাওয়া যায়না সহজে। সকলের উপকারের জন্যই, এটিকে আলাদা করে আবার এখানে রাখা।
 <script async="" class="speakerdeck-embed" data-id="7843578431dc427db6ea217ee869fead" data-ratio="0.617611580217129" src="//speakerdeck.com/assets/embed.js"></script></p>
 
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -1399,14 +1427,16 @@ Replace the version values with the values you found from the &lt;code class=&qu
                       <h1>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner ">
                           <figcaption>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2016-03-25 02:41:03 BDT">Fri, 25 Mar 2016 02:41:03 +0600</time>
                       <time class="op-modified" dateTime="2016-04-20 01:33:00 BDT">2016-04-20 01:33:00 +0600</time>
                   </header>
-                  <p>Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!</p>
+
+                  
+                    <p>Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!</p>
 
 <p>The major steps for <strong>setting up environment</strong> are:</p>
 
@@ -1503,8 +1533,9 @@ Replace the version values with the values you found from the <code class="highl
 
 <p>Compile and run.  Comment below if this works for you or if you got a feedback! share your screen shot of what you built :)</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -1611,14 +1642,16 @@ Replace the version values with the values you found from the <code class="highl
                       <h1>Celebrating Intl. Women&#39;s day at AIUB</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" Celebrating Intl. Women's day at AIUB ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" Celebrating Intl. Women's day at AIUB ">
                           <figcaption>Celebrating Intl. Women's day at AIUB</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2016-03-20 16:48:51 BDT">Sun, 20 Mar 2016 16:48:51 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
-                  <p>On 20th March, 2016 - I gave a speech at American International University-Bangladesh, in an event to celebrate International Women’s Day and to encourage women in technical fields. This event was organized by IEEE AIUB Student Branch and Google Women TechMakers Bangladesh group.</p>
+
+                  
+                    <p>On 20th March, 2016 - I gave a speech at American International University-Bangladesh, in an event to celebrate International Women’s Day and to encourage women in technical fields. This event was organized by IEEE AIUB Student Branch and Google Women TechMakers Bangladesh group.</p>
 
 <p>I talked about the past, and the present, and shared my own experience in software industry, so that together, men and women can create a better future.</p>
 
@@ -1691,8 +1724,9 @@ Replace the version values with the values you found from the <code class="highl
 <span class="p">-</span> Info-graphics</code></pre></figure>
 
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -1801,14 +1835,16 @@ That’s all. Enjoy. :)&lt;/p&gt;
                       <h1>Remix OS Resident Mode in Virtual Machine</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" Remix OS Resident Mode in Virtual Machine ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" Remix OS Resident Mode in Virtual Machine ">
                           <figcaption>Remix OS Resident Mode in Virtual Machine</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2016-03-04 11:17:11 BDT">Fri, 04 Mar 2016 11:17:11 +0600</time>
                       <time class="op-modified" dateTime="2016-04-25 00:01:00 BDT">2016-04-25 00:01:00 +0600</time>
                   </header>
-                  <p>Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.</p>
+
+                  
+                    <p>Long story short, it is now possible to run Remix OS in Virtual Machine (or Virtual Box) in resident mode.</p>
 <figure>
   <img src="https://farm2.staticflickr.com/1481/25837025506_8cc2d7d6e8_b.jpg" alt="Remix OS in Virtual Machine" />
   
@@ -1883,8 +1919,9 @@ That’s all. Enjoy. :)</p>
   <li><a href="http://pierre.baudu.in/other/grub.vga.modes.html">GRUB VGA Modes</a></li>
 </ol>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -1935,14 +1972,16 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
                       <h1>And that is why I switched to Octopress from Blogger!</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" And that is why I switched to Octopress from Blogger! ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" And that is why I switched to Octopress from Blogger! ">
                           <figcaption>And that is why I switched to Octopress from Blogger!</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2015-11-23 19:37:22 BDT">Mon, 23 Nov 2015 19:37:22 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
-                  <p>I switched from Blogspot to Octopress about a year ago. Even though my blogspot site was search engine friendly, was getting about 10K views per month when I was regular, and contained details about all of my useful works - I still decided to switch to Octopress - for a fresh start.  Why?
+
+                  
+                    <p>I switched from Blogspot to Octopress about a year ago. Even though my blogspot site was search engine friendly, was getting about 10K views per month when I was regular, and contained details about all of my useful works - I still decided to switch to Octopress - for a fresh start.  Why?
 <!-- more -->
 Because I found that Blogspot is incredibly slow and rusty. It is of course, useful with all the widgets and such - but it still is <i>slow</i>. That’s when Salman, a young fellow I consider a brother to me, suggested me about Octopress. I loved this, and here I made this blog. After an year, I decided to analyze the response. Here is the result right from Google Webmaster.</p>
 
@@ -1959,8 +1998,9 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 
 <p>And that’s why, I switched from Blogspot to Octopress. :)</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -2019,14 +2059,16 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
                       <h1>Review: Mi Band and Xiaomi Piston Basic Edition Headphone</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" Review: Mi Band and Xiaomi Piston Basic Edition Headphone ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" Review: Mi Band and Xiaomi Piston Basic Edition Headphone ">
                           <figcaption>Review: Mi Band and Xiaomi Piston Basic Edition Headphone</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2015-11-16 14:25:11 BDT">Mon, 16 Nov 2015 14:25:11 +0600</time>
                       <time class="op-modified" dateTime="2016-04-19 13:20:00 BDT">2016-04-19 13:20:00</time>
                   </header>
-                  <p>কিছু দিন আগে আমি <a href="http://gadgetgang7.com/">GadgetGang7</a> থেকে অনলাইনে অর্ডার দেই <a href="http://gadgetgang7.com/product/xiaomi-piston-earphone-basic-edition/">Xiaomi Piston Basic Edition Earphone</a> আর <a href="http://gadgetgang7.com/product/mi-band/">Mi Band</a> এর। বলা দরকার - অনলাইন অর্ডার প্রোসেসে কো‌থাও প্রোডাক্টের রংয়ের কথা উল্লেখ নেই।</p>
+
+                  
+                    <p>কিছু দিন আগে আমি <a href="http://gadgetgang7.com/">GadgetGang7</a> থেকে অনলাইনে অর্ডার দেই <a href="http://gadgetgang7.com/product/xiaomi-piston-earphone-basic-edition/">Xiaomi Piston Basic Edition Earphone</a> আর <a href="http://gadgetgang7.com/product/mi-band/">Mi Band</a> এর। বলা দরকার - অনলাইন অর্ডার প্রোসেসে কো‌থাও প্রোডাক্টের রংয়ের কথা উল্লেখ নেই।</p>
 
 <p>যাই হোক - ব্যান্ড হিসাবে এবং ইয়ারফোন হিসাবে এই দুটোই সবচাইতে কম দামী প্রোডাক্টগুলোর একটা Xiaomi এর পক্ষ থেকে। কাজেই খুব বেশি আশাবাদী ছিলাম না। ঘটনা পাল্টে গেলো হাতে পাবার পরে।  ব্যান্ডখানাতে খালি Accelerometer আর Bluetooth আছে। সাথে আছে একটা পিচ্চি, কিন্তু সাশ্রয়ী ব্যাটারি। ৫ দিন টানা চালানোর পরে এখনো চার্জ আছে ৮২% এর মতো। আবার ওয়াটারপ্রুফও। ৫দিন হাতে লাগিয়ে ঘুমানো, খাওয়া দাওয়া, সবই করলাম। প্রথম দিনেই MiFit নামের এন্ড্রয়েড অ্যাপে রিপোর্ট দেখে চমকে গেলাম। প্রায় ২০০০টাকার মতো দামের একটা ব্যান্ডে এত ভালো রেজাল্ট পাবো সেটা আশা করি নাই।
 <!-- more -->
@@ -2051,8 +2093,9 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 
 <p>আর ইয়ারফোনটার কথা কি বলবো। লো থেকে হাই - সব রেঞ্জের শব্দের জন্যই এটা ভালো কাজ করছে। হয়তো দুর্দান্ত না - কিন্তু তাই বলে একেবারে ফেলনাও না!</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -2118,14 +2161,16 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
                       <h1>সিঙ্গাপুর সফর – একগাদা নোটিশের ভিড়ে যাতায়াত ব্যবস্থা</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" সিঙ্গাপুর সফর – একগাদা নোটিশের ভিড়ে যাতায়াত ব্যবস্থা ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" সিঙ্গাপুর সফর – একগাদা নোটিশের ভিড়ে যাতায়াত ব্যবস্থা ">
                           <figcaption>সিঙ্গাপুর সফর – একগাদা নোটিশের ভিড়ে যাতায়াত ব্যবস্থা</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2015-07-23 22:51:07 BDT">Thu, 23 Jul 2015 22:51:07 +0600</time>
                       <time class="op-modified" dateTime="2016-04-19 00:00:00 BDT">2016-04-19</time>
                   </header>
-                  <p>সিঙ্গাপুরে প্রথমেই যেটা আপনার যেটা চোখে পড়বে, সেটা হল সিস্টেমেটিক নোটিশ। বাংলাদেশের রাস্তার বৈশিষ্ট্য যদি হয় রাজনৈতিক পোস্টার, তাহলে এখানে সেটা হবে বিভিন্ন নির্দেশনার পোস্টার। সেটা বাসে হোক, দোকানে হোক, পাতালরেলের ভিতরে বা বাইরে। এমনিতেই এশিয়ানদের খ্যাতি আছে কম কথা বলার অভ্যাস নিয়ে, সেটা সিঙ্গাপুরে আরো পাকাপোক্ত করে ফেলেছে নোটিশের ছড়াছড়ি দিয়ে। কিরকম ন‌োটিশ?
+
+                  
+                    <p>সিঙ্গাপুরে প্রথমেই যেটা আপনার যেটা চোখে পড়বে, সেটা হল সিস্টেমেটিক নোটিশ। বাংলাদেশের রাস্তার বৈশিষ্ট্য যদি হয় রাজনৈতিক পোস্টার, তাহলে এখানে সেটা হবে বিভিন্ন নির্দেশনার পোস্টার। সেটা বাসে হোক, দোকানে হোক, পাতালরেলের ভিতরে বা বাইরে। এমনিতেই এশিয়ানদের খ্যাতি আছে কম কথা বলার অভ্যাস নিয়ে, সেটা সিঙ্গাপুরে আরো পাকাপোক্ত করে ফেলেছে নোটিশের ছড়াছড়ি দিয়ে। কিরকম ন‌োটিশ?
 <!-- more --></p>
 <figure>
   <img src="https://farm4.staticflickr.com/3804/19946608905_13fe753bf0_z.jpg" alt="পানিতে ভেজা ছাতা আছে? এখানের ব্যাগ ব্যবহার করে ভিতরে নিয়ে যান, পানি পড়বে না।" />
@@ -2157,8 +2202,9 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 
 <p>এত সব ছোট ছোট জিনিষ এরা করেছে যেগুলা সহজে কারো মাথায় হয়তো আসে না। কিন্তু এরা একটা জিনিষ শিখে ফেলেছে, সেটা হল যদি নিজে একটু কষ্ট করে সমাজের নিয়ম গুলা মেনে চলি তাহলে আখেরে নিজের অনেক বেশি লাভ হয়। আমরা এটা শিখেছি নাকি সেটা রাস্তায় উল্টা দিকে যাওয়া বা বাম দিক থেকে ডান দিকে যাওয়া গাড়ি বা রিকশা দেখলেই বুঝা যায়। আশা করি শিখলে তখন যাতায়াত ব্যবস্থা হোক বা দেশপ্রেম – আমাদের নিজেদের সিস্টেম আরো বেশি সিস্টেমেটিক হবে। :)</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -2225,14 +2271,16 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
                       <h1>সিঙ্গাপুর সফর - ১</h1>
                       
                       <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_1248x960.png" alt=" সিঙ্গাপুর সফর - ১ ">
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" সিঙ্গাপুর সফর - ১ ">
                           <figcaption>সিঙ্গাপুর সফর - ১</figcaption>
                       </figure>
                       
                       <time class="op-published" dateTime="2015-07-19 22:09:04 BDT">Sun, 19 Jul 2015 22:09:04 +0600</time>
                       <time class="op-modified" dateTime="2016-04-19 13:17:00 BDT">2016-04-19 13:17:00</time>
                   </header>
-                  <p>২০১৫ সালে সিঙ্গাপুরে  যাবার সুযোগটা হঠাৎ করেই আসে। তো ওখানের কি কি দেখলাম, কি কি খেয়াল করলাম, কি শিখলাম, তা সবার মাঝে ছড়িয়ে দিতেই এখানে কিছু লেখা লিখবো।</p>
+
+                  
+                    <p>২০১৫ সালে সিঙ্গাপুরে  যাবার সুযোগটা হঠাৎ করেই আসে। তো ওখানের কি কি দেখলাম, কি কি খেয়াল করলাম, কি শিখলাম, তা সবার মাঝে ছড়িয়ে দিতেই এখানে কিছু লেখা লিখবো।</p>
 
 <p>মাঝে মধ্যে বাংলাদেশের সাথে তুুলনাটাও চলে আসবে - কি করলে আরো ভালো করা যায়, কি মাথায় রাখা যায় - তা নিয়েই।</p>
 
@@ -2265,8 +2313,9 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
 
 <p>পরবর্তী পর্ব পড়তে ক্লিক করুন <a href="http://lordamit.github.io/blog/2015/07/23/singapore-visit-2/">এখানে</a>।</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -2279,3 +2328,5 @@ Because I found that Blogspot is incredibly slow and rusty. It is of course, use
     
   </channel>
 </rss>
+
+<!-- Designed by Amit Seal Ami. If you like what I did, visit me http://lordamit.github.io/contact -->

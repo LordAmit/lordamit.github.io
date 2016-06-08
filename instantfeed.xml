@@ -5,7 +5,7 @@
     <description></description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-06-08T04:36:49+06:00</updated>
+    <updated>2016-06-08T14:41:20+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -64,10 +64,17 @@
                 <article>
                   <header>
                       <h1>বাস্তব কল্পকাহিনী - সুপার সোলজার</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" বাস্তব কল্পকাহিনী - সুপার সোলজার ">
+                          <figcaption>বাস্তব কল্পকাহিনী - সুপার সোলজার</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-06-05 09:22:00 BDT">Sun, 05 Jun 2016 09:22:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
-                  <p>বার বার তিনবার।</p>
+                  
+                    <p>বার বার তিনবার।</p>
 
 <p>এই নিয়ে ৩য়বারের মতো আক্রমণে আমরা ছত্রভঙ্গ হয়ে গেলাম। কি হচ্ছে, কিভাবে হচ্ছে কিচ্ছু বুঝছি না। সকাল বিকাল রাতে নিয়মিতভাবে নতুন সৈন্য কই থেকে যেন উদয় হচ্ছে। নতুন প্রযুক্তি, নতুন চেহারা - না এদের ব্যাপারে আমাদের নেটওয়ার্কে কোন ডাটা আছে, না আছে কোন সূত্র।</p>
 
@@ -99,8 +106,9 @@
 
 <p>থামানোর মতো কেউ থাকবে না। কেউ না।</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -153,10 +161,17 @@
                 <article>
                   <header>
                       <h1>Making a Text Based Progress Bar in Python</h1>
+                      
+                      <figure>
+                          <img src="https://farm8.staticflickr.com/7711/26891460872_717938f69b_b.jpg" alt=" Making a Text Based Progress Bar in Python ">
+                          <figcaption>Making a Text Based Progress Bar in Python</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-05-13 10:03:00 BDT">Fri, 13 May 2016 10:03:00 +0600</time>
                       <time class="op-modified" dateTime="2016-05-13 10:53:00 BDT">2016-05-13 10:53:00 +0600</time>
                   </header>
-                  <p>ছোটবেলায় যখন কনসোলে কিছু একট কাজ করতে দিতাম - দেখা যেত একটা প্রোগ্রেস বারও আছে। সেটা আবার এক যায়গায় আস্তে আস্তে বাড়তে থাকে।
+                  
+                    <p>ছোটবেলায় যখন কনসোলে কিছু একট কাজ করতে দিতাম - দেখা যেত একটা প্রোগ্রেস বারও আছে। সেটা আবার এক যায়গায় আস্তে আস্তে বাড়তে থাকে।
 মনে হতো,  আরে!কনসোলে এই যে প্রোগ্রেসবারটা দেখি, সেটা কিভাবে কাজ করে? এনিমেশনটা হয় কিভাবে?!
 ভাবলাম এখন যখন জানি, সবাইকে দেখাই কেমন করে কাজ করে!
 কোডটা দিলাম, কিন্তু ছবি আকারে - করতে চাইলে কোডটা নিজেই লিখে করো :D</p>
@@ -177,8 +192,9 @@
 <p>লক্ষ্য করার যে অংশটা, সেটা হলো \r. এটার কারণেই একযায়গায় বার বার লেখা হচ্ছে। ‌\r মানে হচ্ছে ক্যারিজ রিটার্ন।
 আর ফ্লাশিংয়ের অংশটা <a href="http://stackoverflow.com/questions/10019456/usage-of-sys-stdout-flush-method" target="_blank">এখান</a> থেকে বুঝতে পারো।</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -196,15 +212,10 @@
         <pubDate>Tue, 10 May 2016 13:23:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
-          <description>&lt;p&gt;I am a fan of offline, native applications. Even though there are web apps out there to modify image / apply filters - I was looking for one native to Ubuntu. I found one called &lt;a href=&quot;https://www.polarr.co/linux-electron?platform=polarr&amp;amp;label=homepage_website&quot;&gt;Polarr&lt;/a&gt; and I am blown away by it!
-Right after starting, it gave me a guided tour - and Look what I made!&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;https://farm8.staticflickr.com/7682/26328025243_b0e91b29b2_b.jpg&quot; alt=&quot;Before and After shots after editing the same Image&quot; /&gt;
-  
-  &lt;figcaption&gt;Before and After shots after editing the same Image&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;!-- more --&gt;
-&lt;p&gt;What sets it apart are:&lt;/p&gt;
+          <description>&lt;p&gt;I am a fan of offline, native applications. Even though there are web apps out there to modify image / apply filters - I was looking for one native to Ubuntu. I found one called &lt;a href=&quot;https://www.polarr.co/linux-electron?platform=polarr&amp;amp;label=homepage_website&quot;&gt;Polarr&lt;/a&gt; and I am blown away by it! Right after starting, it gave me a guided tour - and Look what I made! &lt;figure&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7682/26328025243_b0e91b29b2_b.jpg&quot; alt=&quot;Before and After shots after editing the same Image&quot; /&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;figcaption&gt;Before and After shots after editing the same Image&lt;/figcaption&gt;
+&lt;p&gt;&amp;lt;/figure&amp;gt; &lt;!-- more --&gt; What sets it apart are:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Extremely Friendly User Interface&lt;/li&gt;
@@ -212,8 +223,7 @@ Right after starting, it gave me a guided tour - and Look what I made!&lt;/p&gt;
   &lt;li&gt;Detailed options like clarity, Feather, Exposure Grain&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;figure&gt;
-  &lt;img src=&quot;http://i.giphy.com/yp4NqnYUYkwN2.gif&quot; alt=&quot;Just take a look at the settings!&quot; /&gt;
+&lt;figure&gt;&lt;img src=&quot;http://i.giphy.com/yp4NqnYUYkwN2.gif&quot; alt=&quot;Just take a look at the settings!&quot; /&gt;
   
   &lt;figcaption&gt;Just take a look at the settings!&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -236,18 +246,20 @@ Right after starting, it gave me a guided tour - and Look what I made!&lt;/p&gt;
                 <article>
                   <header>
                       <h1>Polarr - Awesome Image Editor for Linux</h1>
+                      
+                      <figure>
+                          <img src="https://farm8.staticflickr.com/7682/26328025243_b0e91b29b2_b.jpg" alt=" Polarr - Awesome Image Editor for Linux ">
+                          <figcaption>Polarr - Awesome Image Editor for Linux</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-05-10 13:23:00 BDT">Tue, 10 May 2016 13:23:00 +0600</time>
-                      <time class="op-modified" dateTime=""></time>
+                      <time class="op-modified" dateTime="2016-06-08 02:40:00 BDT">2016-06-08 2:40:00 +0600</time>
                   </header>
-                  <p>I am a fan of offline, native applications. Even though there are web apps out there to modify image / apply filters - I was looking for one native to Ubuntu. I found one called <a href="https://www.polarr.co/linux-electron?platform=polarr&amp;label=homepage_website">Polarr</a> and I am blown away by it!
-Right after starting, it gave me a guided tour - and Look what I made!</p>
-<figure>
-  <img src="https://farm8.staticflickr.com/7682/26328025243_b0e91b29b2_b.jpg" alt="Before and After shots after editing the same Image" />
-  
-  <figcaption>Before and After shots after editing the same Image</figcaption>
-</figure>
-<!-- more -->
-<p>What sets it apart are:</p>
+                  
+                    <p>I am a fan of offline, native applications. Even though there are web apps out there to modify image / apply filters - I was looking for one native to Ubuntu. I found one called <a href="https://www.polarr.co/linux-electron?platform=polarr&amp;label=homepage_website">Polarr</a> and I am blown away by it! Right after starting, it gave me a guided tour - and Look what I made! <figure data-feedback="fb:likes"><img src="https://farm8.staticflickr.com/7682/26328025243_b0e91b29b2_b.jpg" alt="Before and After shots after editing the same Image" /></figure></p>
+
+<figcaption>Before and After shots after editing the same Image</figcaption>
+<p>&lt;/figure&gt; <!-- more --> What sets it apart are:</p>
 
 <ul>
   <li>Extremely Friendly User Interface</li>
@@ -255,8 +267,7 @@ Right after starting, it gave me a guided tour - and Look what I made!</p>
   <li>Detailed options like clarity, Feather, Exposure Grain</li>
 </ul>
 
-<figure>
-  <img src="http://i.giphy.com/yp4NqnYUYkwN2.gif" alt="Just take a look at the settings!" />
+<figure data-feedback="fb:likes"><img src="http://i.giphy.com/yp4NqnYUYkwN2.gif" alt="Just take a look at the settings!" />
   
   <figcaption>Just take a look at the settings!</figcaption>
 </figure>
@@ -265,8 +276,9 @@ Right after starting, it gave me a guided tour - and Look what I made!</p>
 
 <p>Let me know in comments below :)</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -339,10 +351,17 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
                 <article>
                   <header>
                       <h1>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" Cracking FaceBook Instant Articles With Jekyll - RSS Feed ">
+                          <figcaption>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-05-10 10:00:00 BDT">Tue, 10 May 2016 10:00:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
-                  <p>Hello All,
+                  
+                    <p>Hello All,
 Recently I got access to Instant Articles from Facebook for my Jekyll based blog. The interesting part is that as far as I know, Instant Articles RSS Feed are not supported by Jekyll - yet! But no worries, I have done this and I am going to share how :)</p>
 
 <div id="fb-root"></div>
@@ -383,8 +402,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p>Also, head over to David Chua’s <a href="http://dchua.com/2016/04/24/hooking-up-jekyll-to-facebook-instant-articles/">blog</a> if you want another perspective of achieving the same thing.</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -468,10 +488,17 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর ">
+                          <figcaption>ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-05-04 15:30:00 BDT">Wed, 04 May 2016 15:30:00 +0600</time>
                       <time class="op-modified" dateTime="2016-05-05 00:00:00 BDT">2016-05-05</time>
                   </header>
-                  <p>কয়েকদিন আগেই ভার্সিটিতে হয়ে গেল Software Project Lab Final. তার পর পর অনেক শিক্ষার্থীদেরই নানারকম রিএ্যাকশন দেখেছি, নিজেও এসব করতাম। বেলতলায় গিয়ে বেলের বাড়ি খেতে খেতে শিখেছি কোনটা কি কারণে হয়। সেগুলোই শেয়ার করছি, যেন তোমাদের বেলতলায় আর না যাওয়া লাগে। রিএ্যাকশনগুলো‌র ভিতরে সিংহভাগ হলো:</p>
+                  
+                    <p>কয়েকদিন আগেই ভার্সিটিতে হয়ে গেল Software Project Lab Final. তার পর পর অনেক শিক্ষার্থীদেরই নানারকম রিএ্যাকশন দেখেছি, নিজেও এসব করতাম। বেলতলায় গিয়ে বেলের বাড়ি খেতে খেতে শিখেছি কোনটা কি কারণে হয়। সেগুলোই শেয়ার করছি, যেন তোমাদের বেলতলায় আর না যাওয়া লাগে। রিএ্যাকশনগুলো‌র ভিতরে সিংহভাগ হলো:</p>
 
 <ul>
   <li>প্রেজেন্টেশনে স্যারেরা ইংরেজি বলতে বলে কেন?</li>
@@ -523,8 +550,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p>সামনে আরো লিখবো আশা করি এসবের উপরে :)</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -597,10 +625,17 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>Showing Bangla properly in Atom Editor</h1>
+                      
+                      <figure>
+                          <img src="http://i.giphy.com/WlXFkMCUe84Za.gif" alt=" Showing Bangla properly in Atom Editor ">
+                          <figcaption>Showing Bangla properly in Atom Editor</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-05-03 15:22:00 BDT">Tue, 03 May 2016 15:22:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
-                  <p>Atom editor could not display Bangla font properly in Markdown file. If I changed the font from settings, it was being applied to all characters, and it was messing up the display. However, there is a CSS based style file that can be used to modify the UI of Atom. I just had to edit it to:</p>
+                  
+                    <p>Atom editor could not display Bangla font properly in Markdown file. If I changed the font from settings, it was being applied to all characters, and it was messing up the display. However, there is a CSS based style file that can be used to modify the UI of Atom. I just had to edit it to:</p>
 
 <ul>
   <li>Specify a Bengali font for Bengali Characters only</li>
@@ -641,8 +676,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p>Of course, you will have to install <code class="highlighter-rouge">inconsolata</code> and <code class="highlighter-rouge">Ekushey Durga</code> font in advance to make it work. Enjoy!</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -695,10 +731,17 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট ">
+                          <figcaption>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-04-28 19:47:00 BDT">Thu, 28 Apr 2016 19:47:00 +0600</time>
                       <time class="op-modified" dateTime="2016-04-28 19:47:00 BDT">2016-04-28 19:47:00 +0600</time>
                   </header>
-                  <p>আমি মোটামুটি বিশদ পরিমাণে ঘাটাঘাটি করেছি গত কয়দিন ধরে একটা ভালো টাস্ক ম্যানেজারের জন্য লিনাক্সে। অনেক কিছুই তো আছে, কিন্তু কোনটাই মনের মতো মিলছিলো না। দরকার ছিলো এমন একটা কিছু, যেটা
+                  
+                    <p>আমি মোটামুটি বিশদ পরিমাণে ঘাটাঘাটি করেছি গত কয়দিন ধরে একটা ভালো টাস্ক ম্যানেজারের জন্য লিনাক্সে। অনেক কিছুই তো আছে, কিন্তু কোনটাই মনের মতো মিলছিলো না। দরকার ছিলো এমন একটা কিছু, যেটা
 - ফ্রি
 - প্রোজেক্ট অনুসারে টাইমার চালাতে দিবে
 - ওয়েবসাইটে স্ট্যাটিসটিকস দিবে
@@ -719,8 +762,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p>সব মিলিয়ে ভালোই লাগছে। :)</p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -773,10 +817,17 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা ">
+                          <figcaption>কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-04-28 16:24:00 BDT">Thu, 28 Apr 2016 16:24:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
-                  <p>কিছুদিন আগে এন্ড্রিউ মুরের (কম্পিউটার সায়েন্স এবং রোবোটিকসের প্রফেসর + ডিন, কার্নেগি মেলনে আছেন ) একটা <a href="http://techcrunch.com/2016/04/26/it-isnt-just-uber-carnegie-mellons-computer-science-dean-on-its-poaching-problem/" target="_blank">ইন্টারভিউ</a> পড়লাম। সারসংক্ষেপ এমন:</p>
+                  
+                    <p>কিছুদিন আগে এন্ড্রিউ মুরের (কম্পিউটার সায়েন্স এবং রোবোটিকসের প্রফেসর + ডিন, কার্নেগি মেলনে আছেন ) একটা <a href="http://techcrunch.com/2016/04/26/it-isnt-just-uber-carnegie-mellons-computer-science-dean-on-its-poaching-problem/" target="_blank">ইন্টারভিউ</a> পড়লাম। সারসংক্ষেপ এমন:</p>
 
 <p><strong>কার্নেগি মেলন থেকে প্রায় সময়ই বিভিন্ন শিক্ষকরা ইন্ডাস্ট্রিতে চলে যান। আপনি নিজেও গিয়েছিলেন গুগলে ফ্রড ঠেকানো এবং টার্গেটেড বিজ্ঞাপন নিয়ে কাজ করতে। প্রায় সবাইই আবার ফেরত আসেন। অনেকে কখনোই আসে না। যেমন কিছুদিন আগেই আপনার ভার্সিটি থেকে প্রায় ৪০জন গবেষক এবং বিজ্ঞানী চলে গিয়েছেন Uber এ। ইন্ডাস্ট্রি যেখানে অনেক বেশি পরিমাণে টাকা এবং অন্যান্য সুযোগ সুবিধা দিচ্ছে - সেখানে এভাবে চলে যাওয়া ঠেকাতে আপনার চিন্তা ভাবনা কি?</strong>
 <!-- more --></p>
@@ -797,8 +848,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p><strong>কিন্তু কিভাবে?</strong></p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -866,10 +918,17 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>প্রোগ্রামিং শিখতে হলে</h1>
+                      
+                      <figure>
+                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" প্রোগ্রামিং শিখতে হলে ">
+                          <figcaption>প্রোগ্রামিং শিখতে হলে</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-04-25 04:26:00 BDT">Mon, 25 Apr 2016 04:26:00 +0600</time>
                       <time class="op-modified" dateTime="2016-05-14 13:16:00 BDT">14-05-2016 13:16:00 +0600</time>
                   </header>
-                  <p>আমি অনেক দিন ধরেই লক্ষ্য করেছি – আমার আশে পাশে অনেকেই আছে যারা খুব তাড়াতাড়ি প্রোগ্রামিং রপ্ত করে ফেলতে পারে, নতুন জিনিষ শিখতে পারে। আমার ধারণা ব্যাপারটা বুদ্ধিমত্তার কিছু না। অনেক সময়ই দেখেছি, অনেক ছোট ভাই এসে বলে – ভাই – শিখতে পারছি না প্রোগ্রামিং। কি করলে শিখতে পারবো? তখন কিছু জিনিষ বলেছিলাম।
+                  
+                    <p>আমি অনেক দিন ধরেই লক্ষ্য করেছি – আমার আশে পাশে অনেকেই আছে যারা খুব তাড়াতাড়ি প্রোগ্রামিং রপ্ত করে ফেলতে পারে, নতুন জিনিষ শিখতে পারে। আমার ধারণা ব্যাপারটা বুদ্ধিমত্তার কিছু না। অনেক সময়ই দেখেছি, অনেক ছোট ভাই এসে বলে – ভাই – শিখতে পারছি না প্রোগ্রামিং। কি করলে শিখতে পারবো? তখন কিছু জিনিষ বলেছিলাম।
 কয়দিন আগে Learn Python the Hard way বইয়েও দেখি আমার কথাগুলো, সাথে আরো অনেক কিছু বলা হয়েছে যেগুলো আমি ঐসব ভালো প্রোগ্রামারের ভেতরে লক্ষ্য করেছি। আমার ধারণা প্রোগ্রামিং শিখতে না পারা, বা খুব ধীর গতিতে শেখাটা মোটামুটি সাধারণ আমাদের মাঝে। সেজন্যই ঐ বই আর আমার চিন্তা মিলিয়ে এই লেখাটা। নিজেদের ভেতরে কিছু ছোট্ট ছোট্ট পরিবর্তন আনলেই প্রোগ্রামিং শেখা ডাল ভাত।</p>
 
 <!-- more -->
@@ -905,8 +964,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p><em>প্রথম প্রকাশিত হয়েছিলো আগের ব্লগে, ২০১২ সালে। তার পরে ইষৎ পরিমার্জিত করে আবারো লেখা।</em></p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
@@ -969,10 +1029,17 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <article>
                   <header>
                       <h1>সহজ সরল কম্পিউটার নিরাপত্তা</h1>
+                      
+                      <figure>
+                          <img src="https://farm4.staticflickr.com/3951/15558028879_96463380af_z.jpg" alt=" সহজ সরল কম্পিউটার নিরাপত্তা ">
+                          <figcaption>সহজ সরল কম্পিউটার নিরাপত্তা</figcaption>
+                      </figure>
+                      
                       <time class="op-published" dateTime="2016-04-24 22:10:43 BDT">Sun, 24 Apr 2016 22:10:43 +0600</time>
                       <time class="op-modified" dateTime="2016-04-25 02:44:00 BDT">2016-04-25 02:44:00 +0600</time>
                   </header>
-                  <p>আমার কম্পিউটার ব্যবহার করার জীবন প্রায় এক যুগের মতোই হবে। খুবই সহজ সরল ব্যবহার। গান শোনা, গেম খেলা, ইন্টারনেট ফোরামে যাওয়া, একটু আধটু প্রোগ্রামিং শেখার চেষ্টা, ক্লিক করে আয় করার চেষ্টা (না না, ডুল্যান্সার না :D) ইত্যাদি। এর মাঝে অসংখ্য রকমের অভিজ্ঞতার সম্মুখীন হয়েছি। খারাপ, ভালো সবরকম মিলিয়ে বলতে পারি এসব অভিজ্ঞতা নিঃসন্দেহে আমার কম্পিউটার চালানোর ব্যাপারটাকে আরো নিরাপদ করেছে। <strong>দ্রুত শেখা ভালো, তার চাইতেও বেশি ভালো ভুল থেকে শেখা; যেন ভুল একবারই হয়।</strong>
+                  
+                    <p>আমার কম্পিউটার ব্যবহার করার জীবন প্রায় এক যুগের মতোই হবে। খুবই সহজ সরল ব্যবহার। গান শোনা, গেম খেলা, ইন্টারনেট ফোরামে যাওয়া, একটু আধটু প্রোগ্রামিং শেখার চেষ্টা, ক্লিক করে আয় করার চেষ্টা (না না, ডুল্যান্সার না :D) ইত্যাদি। এর মাঝে অসংখ্য রকমের অভিজ্ঞতার সম্মুখীন হয়েছি। খারাপ, ভালো সবরকম মিলিয়ে বলতে পারি এসব অভিজ্ঞতা নিঃসন্দেহে আমার কম্পিউটার চালানোর ব্যাপারটাকে আরো নিরাপদ করেছে। <strong>দ্রুত শেখা ভালো, তার চাইতেও বেশি ভালো ভুল থেকে শেখা; যেন ভুল একবারই হয়।</strong>
 <!-- more --></p>
 <figure>
   <img src="https://farm4.staticflickr.com/3951/15558028879_96463380af_z.jpg" alt="বিজয়ী হিসেবে সাকিব আল হাসানের সাথে আমি" />
@@ -1003,8 +1070,9 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p><em>প্রকাশিত হয়েছিলো <a href="http://tech.priyo.com/blog/2012/07/10/4414.html">প্রিয়টেকে</a>, ২০১২ সালে নরটন এন্টিভাইরাস স্পন্সরড কম্পিউটার নিরাপত্তা বিষয়ক প্রতিযোগিতা - আমার কম্পিউটার জীবনের নিরাপত্তা তে।</em></p>
 
+                  
                     <footer>
-                        <aside>Written by Amit Seal Ami, a lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
                         <small>Copyright - Amit Seal Ami</small>
                   </footer>
                 </article>
