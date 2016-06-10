@@ -8,6 +8,7 @@ gem 'jekyll-redirect-from'
 gem 'jekyll-paginate'
 gem 'jekyll-compose'
 gem 'jekyll-figure'
+gem 'jekyll-seo-tag'
 end
 
 gem 'font-awesome-sass'
