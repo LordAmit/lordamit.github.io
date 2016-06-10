@@ -31,17 +31,24 @@
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif page.content %}{{ page.content | strip_html | truncatewords: 50 }}{% else %}{{ site.description }}{% endif %}">
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
-<meta property="og:site_name" content="{{ site.title }}">
+
+<!-- <meta property="og:type" content="article"> -->
+
+<!-- <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"> -->
+
+<!-- <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif page.content %}{{ page.content | strip_html | truncatewords: 50 }}{% else %}{{ site.description }}{% endif %}"> -->
+
+<!-- <meta property="og:url" content="{{ site.url }}{{ page.url }}"> -->
+
+<!-- <meta property="og:site_name" content="{{ site.title }}"> -->
+
 {% if page.imagefeature %}
   {% if page.imagefeature contains 'http' %}
     {% assign domain = '' %}
   {% else %}
     {% assign domain = site.urlimg %}
   {% endif %}
+
 <meta property="og:image" content="{{ domain }}{{ page.imagefeature }}">{% else %}
 <meta property="og:image" content="{% if page.imagesummary %}{{ site.urlimg }}{{ page.imagesummary }}{% else %}{{ site.urlimg }}{{ site.default_bg }}{% endif %}">{% endif %}
 {% if page.videofeature %}<meta property="og:video" content="{{ page.videofeature }}">{% endif %}
