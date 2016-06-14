@@ -108,6 +108,11 @@ callback([
   {
     "text": "বাস্তব কল্পকাহিনী - সুপার সোলজার",
     "href": "http://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/"
+  } ,
+
+  {
+    "text": "বিশ্ববিদ্যালয়ের শিক্ষক - শেখানোই যার একমাত্র কাজ না!",
+    "href": "http://lordamit.github.io/blog/2016/06/14/varsity-teacher/"
   } 
 
 ])
