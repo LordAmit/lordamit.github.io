@@ -113,6 +113,11 @@ callback([
   {
     "text": "বিশ্ববিদ্যালয়ের শিক্ষক - শেখানোই যার একমাত্র কাজ না!",
     "href": "http://lordamit.github.io/blog/2016/06/14/varsity-teacher/"
+  } ,
+
+  {
+    "text": "রিপোর্ট, রিপোর্টের ভুল এবং শিক্ষকের মাথার চুল",
+    "href": "http://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/"
   } 
 
 ])
