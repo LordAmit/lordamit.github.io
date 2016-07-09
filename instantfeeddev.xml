@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <!-- Designed by Amit Seal Ami. If you like what I did, visit me http://lordamit.github.io/contact -->
   <channel>
-    <title>Amit&#39;s Blog (অমিতের লেখালেখি)</title>
-    <description>অমিতের ব্লগ, অমিতের লেখালেখি, Amit&#39;s Blog, LordAmit, LordAmit&#39;s Blog, IIT, DU, ঢাকা বিশ্ববিদ্যালয়</description>
+    <title>Amit Seal Ami</title>
+    <description>Amit Seal Ami is a Researcher, Academician, Software Engineer, Gamer, and Observer of Life.</description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io /instantfeeddev.xml" rel="self" type="application/rss+xml"/>
-    <updated>2016-06-24T13:42:14+06:00</updated>
+    <updated>2016-07-10T02:07:41+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
