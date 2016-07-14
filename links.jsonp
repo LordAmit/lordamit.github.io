@@ -118,6 +118,11 @@ callback([
   {
     "text": "রিপোর্ট, রিপোর্টের ভুল এবং শিক্ষকের মাথার চুল",
     "href": "http://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/"
+  } ,
+
+  {
+    "text": "Lossless Conversion from PDF to SVG / EMF in Ubuntu",
+    "href": "http://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/"
   } 
 
 ])

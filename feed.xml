@@ -5,11 +5,31 @@
     <description>Amit Seal Ami is a Researcher, Academician, Software Engineer, Gamer, and Observer of Life.</description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-07-10T04:08:55+06:00</updated>
+    <updated>2016-07-14T19:37:39+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
+    
+      <item>
+        <title>Lossless Conversion from PDF to SVG / EMF in Ubuntu</title>
+        
+          <description>&lt;p&gt;LaTeX users may to use a diagram or algorithm from PDF in presentation. The probably best way is to convert a PDF to EMF / SVG file so that it can be directly imported in Microsoft Powerpoint / Libre Impress. Here is why you may want to do that.&lt;/p&gt;
+
+&lt;p&gt;Enhanced Meta File (EMF) and SVG (Scalar Vector Graphics) are formats that can be scaled (or enlarged, if you prefer) without degrading the quality of image. But you probably already know that, since you are here.&lt;/p&gt;
+
+&lt;p&gt;Without stressing any more, here are the commands you need to convert a PDF to SVG, and if you need, to EMF.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;pdf2svg filename.pdf filename.svg
+inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;As you noticed above, you will need &lt;code class=&quot;highlighter-rouge&quot;&gt;pdf2svg&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;inkscape&lt;/code&gt;  installed in your computer.&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 14 Jul 2016 13:00:00 +0600</pubDate>
+        <link>http://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</guid>
+      </item>
     
       <item>
         <title>রিপোর্ট, রিপোর্টের ভুল এবং শিক্ষকের মাথার চুল</title>
@@ -413,36 +433,6 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
         <pubDate>Thu, 28 Apr 2016 19:47:00 +0600</pubDate>
         <link>http://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/</link>
         <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/</guid>
-      </item>
-    
-      <item>
-        <title>কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা</title>
-        
-          <description>&lt;p&gt;কিছুদিন আগে এন্ড্রিউ মুরের (কম্পিউটার সায়েন্স এবং রোবোটিকসের প্রফেসর + ডিন, কার্নেগি মেলনে আছেন ) একটা &lt;a href=&quot;http://techcrunch.com/2016/04/26/it-isnt-just-uber-carnegie-mellons-computer-science-dean-on-its-poaching-problem/&quot; target=&quot;_blank&quot;&gt;ইন্টারভিউ&lt;/a&gt; পড়লাম। সারসংক্ষেপ এমন:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;কার্নেগি মেলন থেকে প্রায় সময়ই বিভিন্ন শিক্ষকরা ইন্ডাস্ট্রিতে চলে যান। আপনি নিজেও গিয়েছিলেন গুগলে ফ্রড ঠেকানো এবং টার্গেটেড বিজ্ঞাপন নিয়ে কাজ করতে। প্রায় সবাইই আবার ফেরত আসেন। অনেকে কখনোই আসে না। যেমন কিছুদিন আগেই আপনার ভার্সিটি থেকে প্রায় ৪০জন গবেষক এবং বিজ্ঞানী চলে গিয়েছেন Uber এ। ইন্ডাস্ট্রি যেখানে অনেক বেশি পরিমাণে টাকা এবং অন্যান্য সুযোগ সুবিধা দিচ্ছে - সেখানে এভাবে চলে যাওয়া ঠেকাতে আপনার চিন্তা ভাবনা কি?&lt;/strong&gt;
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;আপনি যে সমস্যার কথা বলেছেন - সেটা ঠেকাতে আমার মাথার সর্বশেষ চুলগুলো উজাড় হয়ে যাচ্ছে প্রায়। কিন্তু আমি এটা নিয়েও গর্বিত যে তাদের যোগ্যতার কারণেই তাদের এত চাহিদা আছে। এখানে থাকা না থাকার ব্যাপাারটা নিজের আদর্শের উপরে নির্ভরশীল। যারা এখানে আসেন - তারা গবেষনা করেন কিভাবে বৃহত্তর মানব স্বার্থে প্রযুক্তি ব্যবহার করা যায়। তারা ভবিষ্যৎ এর স্বার্থে, মানবতার স্বার্থে এখানে আছেন। আর টাকার সমস্যাটা তো সবসময়ই আছে। এটা খুবই আশ্চর্যের যে এখানে যারা টপ লেভেলের ফ্যাকাল্টি তাদের প্রায়ই চিন্তা করতে হয় কিভাবে তাদের সন্তানদের পড়াশুনা নিশ্চিত করবেন। আর তাদের অন্যান্য সমকক্ষ যারা আছেন ইন্ডাস্ট্রিতে, তাদের টাকা নিয়েই চিন্তা করা লাগেই না। কাজেই ইন্ডাস্ট্রিতে যাবার ব্যাপারটাই স্বাভাবিক। এজন্য আমি এবং অন্যান্য ডিপার্টমেন্টের হেডরা উৎসাহিত করছি তাদের নিজেদের স্টার্টআপ দেবার জন্য বা ইন্ডাস্ট্রিতে কাজ করার জন্য, এবং তারপর তাদের ফিরে আসতে বলছি। সময়ের সাথে সাথে তাদের নিজেদের আর্থিক সমস্যাটা কমবে সেটা আশা করা যায়। সাথে বোনাস হচ্ছে তারা যখন ইন্ডাস্ট্রি থেকে ফেরত আসছেন তারা অনেক বড় বড় গবেষণার আইডিয়া নিয়েই ফেরত আসছেন - যেটা খুবই গুরুত্বপূর্ণ।&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;আমার মতে এখানে বেশ কিছু গুরুত্বপূর্ণ জিনিষ উঠে এসেছে।&lt;/p&gt;
-
-&lt;h2 id=&quot;section&quot;&gt;ভার্সিটিতে গবেষণা&lt;/h2&gt;
-&lt;p&gt;ভার্সিটির ফ্যাকাল্টিদের মূল কাজ গবেষনা করা। সেই গবেষনা এগিয়ে নিয়ে যাবার জন্য দরকার হলে তারা যেন ইন্ডাস্ট্রিতে যান - সে ব্যপাারে উৎসাহিত করা হচ্ছে কার্নেগি মেলনে। আমরা কেন জানি এখানে ভার্সিটি, কলেজ, স্কুল সবখানে শিক্ষক বলি। বাইরে বলে ফ্যাকাল্টি বা ফ্যাকাল্টি সদস্য। এখানে কিভাবে জানি মানুষের মনেও ধারণা হয়ে গেছে, ইউনিভার্সিটিতে শিক্ষক কেবল মাত্র পড়াবেন। আর কিছু করবেন না। শিক্ষকতা ভার্সিটি পর্যায়ে একমাত্র দায়িত্ব না। গবেষনার মাধ্যমে নিত্যনতুন জ্ঞান তৈরী করা ভার্সিটির মূল কাজ। সেটার জন্য ইন্ডাস্ট্রি একাডেমিয়ার একসাথে মিলে কাজ করাটা খুবই গুরুত্বপূর্ণ - বিশেষ করে কম্পিউটার সায়েন্স বা সফটওয়্যার ইঞ্জিনিয়ারিং জাতীয় ক্ষেত্রে। আমাদের এখানে সবাই অবশ্য ফ্রিল্যান্সিং এই ব্যস্ত। Research and Development উইং তো নিজেদের প্রোডাক্ট থাকলে তার পরে খুলবে! এরপরেই তো একাডেমিয়া ইন্ডাস্ট্রি কোলাবরেশনের কথা আসবে।&lt;/p&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;অন্যান্য যায়গায় কাজ করা&lt;/h2&gt;
-&lt;p&gt;এটা খুবই মজার। পৃথিবীর বিভিন্ন যায়গায় ভার্সিটির ফ্যাকাল্টিদের এক্সটার্নাল এক্সপার্ট হিসাবে ডাকা হয় মতামত দেবার জন্য। এক্সটার্নাল ফ্যাকাল্টি হিসাবে ডাকা হয় কারণ নিজেদের ঐ বিষয়ে জানার ব্যাপ্তি আরো বাড়ানোর জন্য। আমাদের এখানে বরং অন্য যায়গায় গেলে আমাদের শিক্ষার্থী বা ‌*এহেম* মন্ত্রীদের মাথা ব্যথা হয়ে যায়। অবশ্য এর কারণও আছে। অন্যান্য যায়গার মতো আমাদের এখানে জবাবদিহিতা নেই বলে অনেক ফ্যাকাল্টি সেটার সুযোগ নিয়ে সেচ্ছাচারিতা করেন। অনেক ক্ষেত্রেই তাদের সময়ের বা দায়িত্বের পরিমাণ নিজের ভার্সিটির চাইতে অন্য যায়গায় বেশি থাকে। এটা বেশ বড় একটা সমস্যা। আবার অনেকে ইচ্ছা না থাকলেও বাইরে কাজ করতে বাধ্য হন। চিন্তা করে দেখুন, আপনার সম যোগ্যতা সম্পন্ন কেউ ইন্ডাস্ট্রিতে আপনার কয়েক গুন বেশি সুবিধা পাচ্ছে - আর আপনার সংসার টানাটানি করে চালাতে হচ্ছে। হয়তো আপনার টাকার প্রতি টান নেই, কিন্তু আপনার পরিবার? তাদের সুবিধা দেখা দরকার, সন্তানদের ভালো পড়াশুনা নিশ্চিত করা দরকার, সামাজিক নিরাপত্তা, চিকিৎসা - এসব সুবিধারও দরকার। কেন আপনি চাইবেন সেগুলো থেকে নিজেকে এবং অন্যদের বঞ্চিত করতে, যেখানে আপনি সবচেয়ে যোগ্যদের একজন?&lt;/p&gt;
-
-&lt;h2 id=&quot;section-2&quot;&gt;দরকার পরিবর্তনের&lt;/h2&gt;
-&lt;p&gt;আমাদের এখানে সিস্টেমটা পাল্টানো দরকার। ভার্সিটিগুলো কেমন জানি ট্রেইনিং সেন্টার টাইপ হয়ে যাচ্ছে বলে মনে হয় আমার মাঝে মাঝে। ভার্সিটিতে শেখা শুধু ক্লাসে না, সেটা আশে পাশে মানুষের থেকে, রাস্তায় ঘুরেও করা লাগে। তা নাহলে সেটার সাথে স্কুলের পার্থক্য হলো কই?&lt;/p&gt;
-
-&lt;p&gt;ভার্সিটিতে মূল যে দায়িত্ব গবেষণা করা, দেশ ও জাতিকে দিকনির্দেশনা দেয়া - সেখান থেকে আমরা অনেক দূরে সরে এসেছি। প্রমোশনের জন্য আমরা গবেষণা করি, কিন্তু পাবলিকেশনের ইমপ্যাক্ট দেখি না। আবার প্রমোশন ছাড়া বেতনও বাড়ে না, তাই দ্রুত প্রমোশন জরুরী হয়ে যায় টিকে থাকার জন্য। জবাবদিহিতাও নিয়ে আসা দরকার - কিন্তু সেটার বদলে সেচ্ছাচারিতাই চোখে পরে বেশি। সব মিলিয়ে কেমন জানি একটা আধাখ্যাচড়া অবস্থায় আমরা। পরিবর্তন যে দরকার, সেটা আমরা সবাই বুঝি, জানি।&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;কিন্তু কিভাবে?&lt;/strong&gt;&lt;/p&gt;
-</description>
-        
-        <pubDate>Thu, 28 Apr 2016 16:24:00 +0600</pubDate>
-        <link>http://lordamit.github.io/blog/2016/04/28/cmu-industry-and-academia/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/28/cmu-industry-and-academia/</guid>
       </item>
     
   </channel>
