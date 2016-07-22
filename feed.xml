@@ -5,7 +5,7 @@
     <description>Amit Seal Ami is a Researcher, Academician, Software Engineer, Gamer, and Observer of Life.</description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-07-23T03:14:03+06:00</updated>
+    <updated>2016-07-23T03:23:10+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
@@ -54,6 +54,10 @@
   
   &lt;figcaption&gt;Huion W58 দিয়ে আমার আঁকা ছবি&lt;/figcaption&gt;
 &lt;/figure&gt;
+
+&lt;h2 id=&quot;rating&quot;&gt;Rating&lt;/h2&gt;
+
+&lt;p&gt;4.00/5.00&lt;/p&gt;
 </description>
         
         <pubDate>Sat, 23 Jul 2016 21:25:00 +0600</pubDate>
