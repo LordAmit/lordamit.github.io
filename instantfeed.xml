@@ -5,11 +5,137 @@
     <description>Amit Seal Ami is a Researcher, Academician, Software Engineer, Gamer, and Observer of Life.</description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-07-14T19:39:05+06:00</updated>
+    <updated>2016-07-23T03:11:17+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
+    
+      <item>
+        <title>Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে</title>
+        <link>http://lordamit.github.io/blog/2016/07/23/huion-w58-tablet-review-in-ubuntu/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/07/23/huion-w58-tablet-review-in-ubuntu/</guid>
+        <pubDate>Sat, 23 Jul 2016 21:25:00 +0600</pubDate>
+        <author>Amit Seal Ami</author>
+        
+          <description>&lt;p&gt;কিছুদিন আগেই আমি কিনলাম Huion W58 Tablet. দাম নিয়েছে প্রায় ১০হাজার টাকার মতো‌, কিনেছি &lt;a href=&quot;http://multimediakingdom.com.bd/product-brands/huion/&quot;&gt;MultiMedia Kingdom&lt;/a&gt; থেকে।
+আগেই বলে রাখি, কেনার সময় যথেষ্ট ভয়ে ছিলাম। সারাদিন ধরে উবুন্টু ব্যবহার করি, নেহাৎ ঠেকায় না পড়লে উইন্ডোজে ঢুকা হয় না। কাজেই খোঁজ খবরও আগে নিয়েছি নানা ওয়েবসাইট থেকে, Huion  এর ট্যাবলেটের সাপোর্ট উবুন্টুতে কিছুটা হলেও পাওয়া যাবে, ভরসা পেয়েই এটা কেনা।&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://c8.staticflickr.com/9/8762/28478501415_f69b5b55ab_c.jpg&quot; alt=&quot;Huion W58&quot; /&gt;
+  
+  &lt;figcaption&gt;Huion W58&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;ইন্সটলেশন&lt;/h2&gt;
+
+&lt;p&gt;যাই হোক, বাসায় কিনে এনে লাগানোর পরে অবাক হবার পালা। প্লাগ অ্যান্ড প্লে ডিভাইস পুরাই। কিচ্ছু ইন্সটল করা লাগেনি। সাথে দেয়া কলমটাতে AAA সাইজের ব্যাটারি লাগে। শুরুতে একটু বুঝতে সমস্যা হয়েছিল, কিভাবে কি করে জানতাম না বলে। যখন একবার বুঝলাম - তখন আর কোন সমস্যাই হয়নি ব্যবহার করতে।&lt;/p&gt;
+
+&lt;p&gt;কলমটায় তিনটা বাটন। উপরে অন-অফ বাটন, যেটা অন করলে ট্যাবলেট দিয়ে কাজ শুরু করা যায়। নিচে যেখানে কলম ধরে, সেখানে আরো দুটো - ডিফল্ট সেটিংয়ে যেগুলো লেফট আর রাইট ক্লিকের কাজ করে। ডিফল্ট বললাম, কারণ এগুলো রিম্যাপিং করা সম্ভব, যদিও সেটার জন্য এখনো পর্যন্ত কোন ভালো সফটওয়্যার আমার চোখে পড়েনি। অবশ্য রিম্যাপ করার দরকারও হয়নি, নাহলে নিজেই বানিয়ে নিতাম হয়তো! হেহে।&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;কনফিগারেশন সফটয়্যার&lt;/h2&gt;
+
+&lt;p&gt;লাগে নাই। ডিফল্ট হিসাবে পুরো ট্যাবলেটের ড্রয়িং এরিয়াটা স্ক্রিনের সাথে ম্যাপ করা।&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;কলম&lt;/h2&gt;
+&lt;p&gt;ভালো কোয়ালিটি, একটু মোটকা, তবে ধরতে সমস্যা হয়নি। একটা ব্যাটারি দিয়ে কয়েকমাস চলে গেছে এবং চলছে। এখনো জানি না কবে সেটা শেষ হবে। কয়েকরকমের প্রেসার ডিটেক্ট করতে পারে। ভালো ড্রয়িং অ্যাপ্লিকেশনে স্কেচিং করার জন্য যথেষ্ট ভালো মনে হয়েছে আমার কাছে।&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;বোনাস - ব্যবহার করার জন্য সফটওয়্যার&lt;/h2&gt;
+&lt;p&gt;আমার অভিজ্ঞতার আলোকে কিছু সফটয়্যারের নাম দিলাম - যেগুলো আমার কাছে ব্যবহার করে ভালো লেগেছে।&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;শুধুই আঁকাআঁকি করার জন্য - &lt;a href=&quot;http://mypaint.org/&quot;&gt;MyPaint&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;আরো আঁকাআঁকি করার জন্য - &lt;a href=&quot;https://www.gimp.org/&quot;&gt;GIMP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PDF Annotate করার জন্য - &lt;a href=&quot;https://okular.kde.org/&quot;&gt;Okular&lt;/a&gt; / &lt;a href=&quot;http://xournal.sourceforge.net/&quot;&gt;Xournal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sample হিসাবে আমার আঁকা একটা ছবি দিলাম এখানে!&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://c1.staticflickr.com/9/8713/28445860336_3770c89ae7_o.png&quot; alt=&quot;Huion W58 দিয়ে আমার আঁকা ছবি&quot; /&gt;
+  
+  &lt;figcaption&gt;Huion W58 দিয়ে আমার আঁকা ছবি&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+        
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://lordamit.github.io/blog/2016/07/23/huion-w58-tablet-review-in-ubuntu/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে</h1>
+                      
+                      <figure>
+                          <img src="https://c8.staticflickr.com/9/8762/28478501415_f69b5b55ab_c.jpg" alt=" Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে ">
+                          <figcaption>Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে</figcaption>
+                      </figure>
+                      
+                      <time class="op-published" dateTime="2016-07-23 21:25:00 BDT">Sat, 23 Jul 2016 21:25:00 +0600</time>
+                      <time class="op-modified" dateTime=""></time>
+                  </header>
+                  
+                    <p>কিছুদিন আগেই আমি কিনলাম Huion W58 Tablet. দাম নিয়েছে প্রায় ১০হাজার টাকার মতো‌, কিনেছি <a href="http://multimediakingdom.com.bd/product-brands/huion/">MultiMedia Kingdom</a> থেকে।
+আগেই বলে রাখি, কেনার সময় যথেষ্ট ভয়ে ছিলাম। সারাদিন ধরে উবুন্টু ব্যবহার করি, নেহাৎ ঠেকায় না পড়লে উইন্ডোজে ঢুকা হয় না। কাজেই খোঁজ খবরও আগে নিয়েছি নানা ওয়েবসাইট থেকে, Huion  এর ট্যাবলেটের সাপোর্ট উবুন্টুতে কিছুটা হলেও পাওয়া যাবে, ভরসা পেয়েই এটা কেনা।</p>
+
+<figure data-feedback="fb:likes">
+  <img src="https://c8.staticflickr.com/9/8762/28478501415_f69b5b55ab_c.jpg" alt="Huion W58" />
+  
+  <figcaption>Huion W58</figcaption>
+</figure>
+
+<h2 id="section">ইন্সটলেশন</h2>
+
+<p>যাই হোক, বাসায় কিনে এনে লাগানোর পরে অবাক হবার পালা। প্লাগ অ্যান্ড প্লে ডিভাইস পুরাই। কিচ্ছু ইন্সটল করা লাগেনি। সাথে দেয়া কলমটাতে AAA সাইজের ব্যাটারি লাগে। শুরুতে একটু বুঝতে সমস্যা হয়েছিল, কিভাবে কি করে জানতাম না বলে। যখন একবার বুঝলাম - তখন আর কোন সমস্যাই হয়নি ব্যবহার করতে।</p>
+
+<p>কলমটায় তিনটা বাটন। উপরে অন-অফ বাটন, যেটা অন করলে ট্যাবলেট দিয়ে কাজ শুরু করা যায়। নিচে যেখানে কলম ধরে, সেখানে আরো দুটো - ডিফল্ট সেটিংয়ে যেগুলো লেফট আর রাইট ক্লিকের কাজ করে। ডিফল্ট বললাম, কারণ এগুলো রিম্যাপিং করা সম্ভব, যদিও সেটার জন্য এখনো পর্যন্ত কোন ভালো সফটওয়্যার আমার চোখে পড়েনি। অবশ্য রিম্যাপ করার দরকারও হয়নি, নাহলে নিজেই বানিয়ে নিতাম হয়তো! হেহে।</p>
+
+<h2 id="section-1">কনফিগারেশন সফটয়্যার</h2>
+
+<p>লাগে নাই। ডিফল্ট হিসাবে পুরো ট্যাবলেটের ড্রয়িং এরিয়াটা স্ক্রিনের সাথে ম্যাপ করা।</p>
+
+<h2 id="section-2">কলম</h2>
+<p>ভালো কোয়ালিটি, একটু মোটকা, তবে ধরতে সমস্যা হয়নি। একটা ব্যাটারি দিয়ে কয়েকমাস চলে গেছে এবং চলছে। এখনো জানি না কবে সেটা শেষ হবে। কয়েকরকমের প্রেসার ডিটেক্ট করতে পারে। ভালো ড্রয়িং অ্যাপ্লিকেশনে স্কেচিং করার জন্য যথেষ্ট ভালো মনে হয়েছে আমার কাছে।</p>
+
+<h2 id="section-3">বোনাস - ব্যবহার করার জন্য সফটওয়্যার</h2>
+<p>আমার অভিজ্ঞতার আলোকে কিছু সফটয়্যারের নাম দিলাম - যেগুলো আমার কাছে ব্যবহার করে ভালো লেগেছে।</p>
+
+<ul>
+  <li>শুধুই আঁকাআঁকি করার জন্য - <a href="http://mypaint.org/">MyPaint</a></li>
+  <li>আরো আঁকাআঁকি করার জন্য - <a href="https://www.gimp.org/">GIMP</a></li>
+  <li>PDF Annotate করার জন্য - <a href="https://okular.kde.org/">Okular</a> / <a href="http://xournal.sourceforge.net/">Xournal</a></li>
+</ul>
+
+<p>Sample হিসাবে আমার আঁকা একটা ছবি দিলাম এখানে!</p>
+
+<figure data-feedback="fb:likes">
+  <img src="https://c1.staticflickr.com/9/8713/28445860336_3770c89ae7_o.png" alt="Huion W58 দিয়ে আমার আঁকা ছবি" />
+  
+  <figcaption>Huion W58 দিয়ে আমার আঁকা ছবি</figcaption>
+</figure>
+
+                  
+                    <footer>
+                        <aside>
+                            
+                              Photo of Huion W58 tablet is taken from the official website..<br />
+                            
+                            Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
+
+      </item>
     
       <item>
         <title>Lossless Conversion from PDF to SVG / EMF in Ubuntu</title>
@@ -1037,94 +1163,6 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 <span class="p">}</span></code></pre></figure>
 
 <p>Of course, you will have to install <code class="highlighter-rouge">inconsolata</code> and <code class="highlighter-rouge">Ekushey Durga</code> font in advance to make it work. Enjoy!</p>
-
-                  
-                    <footer>
-                        <aside>
-                            
-                            Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
-                        <small>Copyright - Amit Seal Ami</small>
-                  </footer>
-                </article>
-              </body>
-            </html>
-        ]]>
-        </content:encoded>
-
-      </item>
-    
-      <item>
-        <title>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</title>
-        <link>http://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/</guid>
-        <pubDate>Thu, 28 Apr 2016 19:47:00 +0600</pubDate>
-        <author>Amit Seal Ami</author>
-        
-          <description>&lt;p&gt;আমি মোটামুটি বিশদ পরিমাণে ঘাটাঘাটি করেছি গত কয়দিন ধরে একটা ভালো টাস্ক ম্যানেজারের জন্য লিনাক্সে। অনেক কিছুই তো আছে, কিন্তু কোনটাই মনের মতো মিলছিলো না। দরকার ছিলো এমন একটা কিছু, যেটা
-- ফ্রি
-- প্রোজেক্ট অনুসারে টাইমার চালাতে দিবে
-- ওয়েবসাইটে স্ট্যাটিসটিকস দিবে
-- মোবাইলে সাপোর্ট দিবে এবং সবচেয়ে বেশি যেটা দরকার,
-- অটোমেটিকালি স্ক্রিনশট নিয়ে আমার নিজের কাজ মনিটর করতে সাহায্য করবে&lt;/p&gt;
-
-&lt;p&gt;ঝামেলা হলো, অসংখ্যা টাস্ক ম্যানেজার আছে উবুন্টুর জন্য। যেমন:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Pomotodo&lt;/li&gt;
-  &lt;li&gt;Hamster&lt;/li&gt;
-  &lt;li&gt;Toogl&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;কিন্তু সেগুলো সবই দিন শেষে ম্যানুয়ালি চালু করা লাগে, ম্যানুয়ালি বন্ধ করা লাগে। তাও মানা যায়, কিন্তু আমি কাজের টাইমার শুরু করে ভুলে গেলাম - তাহলে এগুলো কিন্তু সেটা মনিটর করে না। টোগল তাও কোন মতে একটা ওয়ার্নিং ম্যাসেজ দিয়ে বলে যে এতটা সময় তুমি ইনএ্যাক্টিভ ছিলে, প্রোগ্রেস সেভ করতে চাও?&lt;/p&gt;
-
-&lt;p&gt;দিনশেষে পেলাম &lt;a href=&quot;https://hubstaff.com/organizations&quot; target=&quot;_blank&quot;&gt;HubStaff&lt;/a&gt;, যেটা ফ্রি এবং উপরে যা যা বলেছি তার সবগুলো সুবিধাই দেয়। শুধু তাই না, আপনি যখন টাইমার চালু করবেন, তখন এটায় মনিটর করবে আপনি কত সময় কাজ করেছেন আর কত সময় অন্য কিছু। সেটার উপরে ভিত্তি করে দেখাবে প্রতি ১০ মিনিটে আপনি কত পার্সেন্ট সময় একটিভ ছিলেন।&lt;/p&gt;
-
-&lt;p&gt;সব মিলিয়ে ভালোই লাগছে। :)&lt;/p&gt;
-</description>
-        
-        <content:encoded>
-            <![CDATA[
-                <!doctype html>
-                <html lang="en" prefix="op: http://media.facebook.com/op#">
-              <head>
-                <meta charset="utf-8">
-                <link rel="canonical" href="http://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/">
-                <meta property="op:markup_version" content="v1.0">
-              </head>
-              <body>
-                <article>
-                  <header>
-                      <h1>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</h1>
-                      
-                      <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট ">
-                          <figcaption>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</figcaption>
-                      </figure>
-                      
-                      <time class="op-published" dateTime="2016-04-28 19:47:00 BDT">Thu, 28 Apr 2016 19:47:00 +0600</time>
-                      <time class="op-modified" dateTime="2016-04-28 19:47:00 BDT">2016-04-28 19:47:00 +0600</time>
-                  </header>
-                  
-                    <p>আমি মোটামুটি বিশদ পরিমাণে ঘাটাঘাটি করেছি গত কয়দিন ধরে একটা ভালো টাস্ক ম্যানেজারের জন্য লিনাক্সে। অনেক কিছুই তো আছে, কিন্তু কোনটাই মনের মতো মিলছিলো না। দরকার ছিলো এমন একটা কিছু, যেটা
-- ফ্রি
-- প্রোজেক্ট অনুসারে টাইমার চালাতে দিবে
-- ওয়েবসাইটে স্ট্যাটিসটিকস দিবে
-- মোবাইলে সাপোর্ট দিবে এবং সবচেয়ে বেশি যেটা দরকার,
-- অটোমেটিকালি স্ক্রিনশট নিয়ে আমার নিজের কাজ মনিটর করতে সাহায্য করবে</p>
-
-<p>ঝামেলা হলো, অসংখ্যা টাস্ক ম্যানেজার আছে উবুন্টুর জন্য। যেমন:</p>
-
-<ul>
-  <li>Pomotodo</li>
-  <li>Hamster</li>
-  <li>Toogl</li>
-</ul>
-
-<p>কিন্তু সেগুলো সবই দিন শেষে ম্যানুয়ালি চালু করা লাগে, ম্যানুয়ালি বন্ধ করা লাগে। তাও মানা যায়, কিন্তু আমি কাজের টাইমার শুরু করে ভুলে গেলাম - তাহলে এগুলো কিন্তু সেটা মনিটর করে না। টোগল তাও কোন মতে একটা ওয়ার্নিং ম্যাসেজ দিয়ে বলে যে এতটা সময় তুমি ইনএ্যাক্টিভ ছিলে, প্রোগ্রেস সেভ করতে চাও?</p>
-
-<p>দিনশেষে পেলাম <a href="https://hubstaff.com/organizations" target="_blank">HubStaff</a>, যেটা ফ্রি এবং উপরে যা যা বলেছি তার সবগুলো সুবিধাই দেয়। শুধু তাই না, আপনি যখন টাইমার চালু করবেন, তখন এটায় মনিটর করবে আপনি কত সময় কাজ করেছেন আর কত সময় অন্য কিছু। সেটার উপরে ভিত্তি করে দেখাবে প্রতি ১০ মিনিটে আপনি কত পার্সেন্ট সময় একটিভ ছিলেন।</p>
-
-<p>সব মিলিয়ে ভালোই লাগছে। :)</p>
 
                   
                     <footer>

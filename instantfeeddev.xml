@@ -6,11 +6,134 @@
     <description>Amit Seal Ami is a Researcher, Academician, Software Engineer, Gamer, and Observer of Life.</description>
     <link>http://lordamit.github.io/</link>
     <atom:link href="http://lordamit.github.io /instantfeeddev.xml" rel="self" type="application/rss+xml"/>
-    <updated>2016-07-14T19:39:05+06:00</updated>
+    <updated>2016-07-23T03:11:17+06:00</updated>
     <id>http://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
+    
+      <item>
+        <title>Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে</title>
+        <link>http://lordamit.github.io/blog/2016/07/23/huion-w58-tablet-review-in-ubuntu/</link>
+        <guid isPermaLink="true">http://lordamit.github.io/blog/2016/07/23/huion-w58-tablet-review-in-ubuntu/</guid>
+        <pubDate>Sat, 23 Jul 2016 21:25:00 +0600</pubDate>
+        <author>Amit Seal Ami</author>
+        
+          <description>&lt;p&gt;কিছুদিন আগেই আমি কিনলাম Huion W58 Tablet. দাম নিয়েছে প্রায় ১০হাজার টাকার মতো‌, কিনেছি &lt;a href=&quot;http://multimediakingdom.com.bd/product-brands/huion/&quot;&gt;MultiMedia Kingdom&lt;/a&gt; থেকে।
+আগেই বলে রাখি, কেনার সময় যথেষ্ট ভয়ে ছিলাম। সারাদিন ধরে উবুন্টু ব্যবহার করি, নেহাৎ ঠেকায় না পড়লে উইন্ডোজে ঢুকা হয় না। কাজেই খোঁজ খবরও আগে নিয়েছি নানা ওয়েবসাইট থেকে, Huion  এর ট্যাবলেটের সাপোর্ট উবুন্টুতে কিছুটা হলেও পাওয়া যাবে, ভরসা পেয়েই এটা কেনা।&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://c8.staticflickr.com/9/8762/28478501415_f69b5b55ab_c.jpg&quot; alt=&quot;Huion W58&quot; /&gt;
+  
+  &lt;figcaption&gt;Huion W58&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;ইন্সটলেশন&lt;/h2&gt;
+
+&lt;p&gt;যাই হোক, বাসায় কিনে এনে লাগানোর পরে অবাক হবার পালা। প্লাগ অ্যান্ড প্লে ডিভাইস পুরাই। কিচ্ছু ইন্সটল করা লাগেনি। সাথে দেয়া কলমটাতে AAA সাইজের ব্যাটারি লাগে। শুরুতে একটু বুঝতে সমস্যা হয়েছিল, কিভাবে কি করে জানতাম না বলে। যখন একবার বুঝলাম - তখন আর কোন সমস্যাই হয়নি ব্যবহার করতে।&lt;/p&gt;
+
+&lt;p&gt;কলমটায় তিনটা বাটন। উপরে অন-অফ বাটন, যেটা অন করলে ট্যাবলেট দিয়ে কাজ শুরু করা যায়। নিচে যেখানে কলম ধরে, সেখানে আরো দুটো - ডিফল্ট সেটিংয়ে যেগুলো লেফট আর রাইট ক্লিকের কাজ করে। ডিফল্ট বললাম, কারণ এগুলো রিম্যাপিং করা সম্ভব, যদিও সেটার জন্য এখনো পর্যন্ত কোন ভালো সফটওয়্যার আমার চোখে পড়েনি। অবশ্য রিম্যাপ করার দরকারও হয়নি, নাহলে নিজেই বানিয়ে নিতাম হয়তো! হেহে।&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;কনফিগারেশন সফটয়্যার&lt;/h2&gt;
+
+&lt;p&gt;লাগে নাই। ডিফল্ট হিসাবে পুরো ট্যাবলেটের ড্রয়িং এরিয়াটা স্ক্রিনের সাথে ম্যাপ করা।&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;কলম&lt;/h2&gt;
+&lt;p&gt;ভালো কোয়ালিটি, একটু মোটকা, তবে ধরতে সমস্যা হয়নি। একটা ব্যাটারি দিয়ে কয়েকমাস চলে গেছে এবং চলছে। এখনো জানি না কবে সেটা শেষ হবে। কয়েকরকমের প্রেসার ডিটেক্ট করতে পারে। ভালো ড্রয়িং অ্যাপ্লিকেশনে স্কেচিং করার জন্য যথেষ্ট ভালো মনে হয়েছে আমার কাছে।&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;বোনাস - ব্যবহার করার জন্য সফটওয়্যার&lt;/h2&gt;
+&lt;p&gt;আমার অভিজ্ঞতার আলোকে কিছু সফটয়্যারের নাম দিলাম - যেগুলো আমার কাছে ব্যবহার করে ভালো লেগেছে।&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;শুধুই আঁকাআঁকি করার জন্য - &lt;a href=&quot;http://mypaint.org/&quot;&gt;MyPaint&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;আরো আঁকাআঁকি করার জন্য - &lt;a href=&quot;https://www.gimp.org/&quot;&gt;GIMP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;PDF Annotate করার জন্য - &lt;a href=&quot;https://okular.kde.org/&quot;&gt;Okular&lt;/a&gt; / &lt;a href=&quot;http://xournal.sourceforge.net/&quot;&gt;Xournal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sample হিসাবে আমার আঁকা একটা ছবি দিলাম এখানে!&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://c1.staticflickr.com/9/8713/28445860336_3770c89ae7_o.png&quot; alt=&quot;Huion W58 দিয়ে আমার আঁকা ছবি&quot; /&gt;
+  
+  &lt;figcaption&gt;Huion W58 দিয়ে আমার আঁকা ছবি&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+        
+        <content:encoded>
+          <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://lordamit.github.io/blog/2016/07/23/huion-w58-tablet-review-in-ubuntu/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে</h1>
+                      
+                      <figure>
+                          <img src="https://c8.staticflickr.com/9/8762/28478501415_f69b5b55ab_c.jpg" alt=" Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে ">
+                          <figcaption>Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে</figcaption>
+                      </figure>
+                      
+                      <time class="op-published" dateTime="2016-07-23 21:25:00 BDT">Sat, 23 Jul 2016 21:25:00 +0600</time>
+                      <time class="op-modified" dateTime=""></time>
+                  </header>
+
+                  
+                    <p>কিছুদিন আগেই আমি কিনলাম Huion W58 Tablet. দাম নিয়েছে প্রায় ১০হাজার টাকার মতো‌, কিনেছি <a href="http://multimediakingdom.com.bd/product-brands/huion/">MultiMedia Kingdom</a> থেকে।
+আগেই বলে রাখি, কেনার সময় যথেষ্ট ভয়ে ছিলাম। সারাদিন ধরে উবুন্টু ব্যবহার করি, নেহাৎ ঠেকায় না পড়লে উইন্ডোজে ঢুকা হয় না। কাজেই খোঁজ খবরও আগে নিয়েছি নানা ওয়েবসাইট থেকে, Huion  এর ট্যাবলেটের সাপোর্ট উবুন্টুতে কিছুটা হলেও পাওয়া যাবে, ভরসা পেয়েই এটা কেনা।</p>
+
+<figure data-feedback="fb:likes">
+  <img src="https://c8.staticflickr.com/9/8762/28478501415_f69b5b55ab_c.jpg" alt="Huion W58" />
+  
+  <figcaption>Huion W58</figcaption>
+</figure>
+
+<h2 id="section">ইন্সটলেশন</h2>
+
+<p>যাই হোক, বাসায় কিনে এনে লাগানোর পরে অবাক হবার পালা। প্লাগ অ্যান্ড প্লে ডিভাইস পুরাই। কিচ্ছু ইন্সটল করা লাগেনি। সাথে দেয়া কলমটাতে AAA সাইজের ব্যাটারি লাগে। শুরুতে একটু বুঝতে সমস্যা হয়েছিল, কিভাবে কি করে জানতাম না বলে। যখন একবার বুঝলাম - তখন আর কোন সমস্যাই হয়নি ব্যবহার করতে।</p>
+
+<p>কলমটায় তিনটা বাটন। উপরে অন-অফ বাটন, যেটা অন করলে ট্যাবলেট দিয়ে কাজ শুরু করা যায়। নিচে যেখানে কলম ধরে, সেখানে আরো দুটো - ডিফল্ট সেটিংয়ে যেগুলো লেফট আর রাইট ক্লিকের কাজ করে। ডিফল্ট বললাম, কারণ এগুলো রিম্যাপিং করা সম্ভব, যদিও সেটার জন্য এখনো পর্যন্ত কোন ভালো সফটওয়্যার আমার চোখে পড়েনি। অবশ্য রিম্যাপ করার দরকারও হয়নি, নাহলে নিজেই বানিয়ে নিতাম হয়তো! হেহে।</p>
+
+<h2 id="section-1">কনফিগারেশন সফটয়্যার</h2>
+
+<p>লাগে নাই। ডিফল্ট হিসাবে পুরো ট্যাবলেটের ড্রয়িং এরিয়াটা স্ক্রিনের সাথে ম্যাপ করা।</p>
+
+<h2 id="section-2">কলম</h2>
+<p>ভালো কোয়ালিটি, একটু মোটকা, তবে ধরতে সমস্যা হয়নি। একটা ব্যাটারি দিয়ে কয়েকমাস চলে গেছে এবং চলছে। এখনো জানি না কবে সেটা শেষ হবে। কয়েকরকমের প্রেসার ডিটেক্ট করতে পারে। ভালো ড্রয়িং অ্যাপ্লিকেশনে স্কেচিং করার জন্য যথেষ্ট ভালো মনে হয়েছে আমার কাছে।</p>
+
+<h2 id="section-3">বোনাস - ব্যবহার করার জন্য সফটওয়্যার</h2>
+<p>আমার অভিজ্ঞতার আলোকে কিছু সফটয়্যারের নাম দিলাম - যেগুলো আমার কাছে ব্যবহার করে ভালো লেগেছে।</p>
+
+<ul>
+  <li>শুধুই আঁকাআঁকি করার জন্য - <a href="http://mypaint.org/">MyPaint</a></li>
+  <li>আরো আঁকাআঁকি করার জন্য - <a href="https://www.gimp.org/">GIMP</a></li>
+  <li>PDF Annotate করার জন্য - <a href="https://okular.kde.org/">Okular</a> / <a href="http://xournal.sourceforge.net/">Xournal</a></li>
+</ul>
+
+<p>Sample হিসাবে আমার আঁকা একটা ছবি দিলাম এখানে!</p>
+
+<figure data-feedback="fb:likes">
+  <img src="https://c1.staticflickr.com/9/8713/28445860336_3770c89ae7_o.png" alt="Huion W58 দিয়ে আমার আঁকা ছবি" />
+  
+  <figcaption>Huion W58 দিয়ে আমার আঁকা ছবি</figcaption>
+</figure>
+
+                  
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
+
+      </item>
     
       <item>
         <title>Lossless Conversion from PDF to SVG / EMF in Ubuntu</title>
@@ -2265,85 +2388,6 @@ That’s all. Enjoy. :)</p>
   <li><a href="http://stackoverflow.com/questions/6202342/switch-android-x86-screen-resolution/8273560#8273560">virtualbox - Switch android x86 screen resolution - Stack Overflow</a></li>
   <li><a href="http://pierre.baudu.in/other/grub.vga.modes.html">GRUB VGA Modes</a></li>
 </ol>
-.<br />
-                  
-                    <footer>
-                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
-                        <small>Copyright - Amit Seal Ami</small>
-                  </footer>
-                </article>
-              </body>
-            </html>
-        ]]>
-        </content:encoded>
-
-      </item>
-    
-      <item>
-        <title>And that is why I switched to Octopress from Blogger!</title>
-        <link>http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</link>
-        <guid isPermaLink="true">http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/</guid>
-        <pubDate>Mon, 23 Nov 2015 19:37:22 +0600</pubDate>
-        <author>Amit Seal Ami</author>
-        
-          <description>&lt;p&gt;I switched from Blogspot to Octopress about a year ago. Even though my blogspot site was search engine friendly, was getting about 10K views per month when I was regular, and contained details about all of my useful works - I still decided to switch to Octopress - for a fresh start.  Why?
-&lt;!-- more --&gt;
-Because I found that Blogspot is incredibly slow and rusty. It is of course, useful with all the widgets and such - but it still is &lt;i&gt;slow&lt;/i&gt;. That’s when Salman, a young fellow I consider a brother to me, suggested me about Octopress. I loved this, and here I made this blog. After an year, I decided to analyze the response. Here is the result right from Google Webmaster.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;https://farm6.staticflickr.com/5634/22616887593_a9cf2518e6_b.jpg&quot; alt=&quot;Response rate from lordamit.blogspot.com&quot; /&gt;
-  
-  &lt;figcaption&gt;Figure: Response rate from lordamit.blogspot.com&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;https://farm1.staticflickr.com/622/23244001195_f4c3e6ee33_b.jpg&quot; alt=&quot; Response rate from lordamit.github.io&quot; /&gt;
-  
-  &lt;figcaption&gt;Figure: Response rate from lordamit.github.io&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;And that’s why, I switched from Blogspot to Octopress. :)&lt;/p&gt;
-</description>
-        
-        <content:encoded>
-          <![CDATA[
-                <!doctype html>
-                <html lang="en" prefix="op: http://media.facebook.com/op#">
-              <head>
-                <meta charset="utf-8">
-                <link rel="canonical" href="http://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/">
-                <meta property="op:markup_version" content="v1.0">
-              </head>
-              <body>
-                <article>
-                  <header>
-                      <h1>And that is why I switched to Octopress from Blogger!</h1>
-                      
-                      <figure>
-                          <img src="http://lordamit.github.io/images/sitelogo_640x492.png" alt=" And that is why I switched to Octopress from Blogger! ">
-                          <figcaption>And that is why I switched to Octopress from Blogger!</figcaption>
-                      </figure>
-                      
-                      <time class="op-published" dateTime="2015-11-23 19:37:22 BDT">Mon, 23 Nov 2015 19:37:22 +0600</time>
-                      <time class="op-modified" dateTime=""></time>
-                  </header>
-
-                  
-                    <p>I switched from Blogspot to Octopress about a year ago. Even though my blogspot site was search engine friendly, was getting about 10K views per month when I was regular, and contained details about all of my useful works - I still decided to switch to Octopress - for a fresh start.  Why?
-<!-- more -->
-Because I found that Blogspot is incredibly slow and rusty. It is of course, useful with all the widgets and such - but it still is <i>slow</i>. That’s when Salman, a young fellow I consider a brother to me, suggested me about Octopress. I loved this, and here I made this blog. After an year, I decided to analyze the response. Here is the result right from Google Webmaster.</p>
-
-<figure>
-  <img src="https://farm6.staticflickr.com/5634/22616887593_a9cf2518e6_b.jpg" alt="Response rate from lordamit.blogspot.com" />
-  
-  <figcaption>Figure: Response rate from lordamit.blogspot.com</figcaption>
-</figure>
-<figure>
-  <img src="https://farm1.staticflickr.com/622/23244001195_f4c3e6ee33_b.jpg" alt=" Response rate from lordamit.github.io" />
-  
-  <figcaption>Figure: Response rate from lordamit.github.io</figcaption>
-</figure>
-
-<p>And that’s why, I switched from Blogspot to Octopress. :)</p>
 .<br />
                   
                     <footer>
