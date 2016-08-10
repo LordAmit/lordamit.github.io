@@ -1,10 +1,10 @@
 /* TEAM */
 Primary Contact: foo
-Site: http://lordamit.github.io/about/
+Site: https://lordamit.github.io/about/
 Twitter: https://twitter.com/lordamit
 
 /* THANKS */
-Design Contributors: http://lordamit.github.io/disclosure/
+Design Contributors: https://lordamit.github.io/disclosure/
 
 /* SITE */
 Last Updated: 2016/08/10
