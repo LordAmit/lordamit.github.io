@@ -7,6 +7,6 @@ Twitter: https://twitter.com/lordamit
 Design Contributors: https://lordamit.github.io/disclosure/
 
 /* SITE */
-Last Updated: 2016/12/30
+Last Updated: 2017/01/04
 Standards: HTML5, CSS3
 Software: Sublime Text, Chrome, Jekyll, Git, Sass
