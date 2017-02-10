@@ -4,18 +4,18 @@
   <channel>
     <title>Amit Seal Ami</title>
     <description>Amit Seal Ami is a Researcher, Academician, Software Engineer, Gamer, and Observer of Life.</description>
-    <link>https://lordamit.github.io/</link>
-    <atom:link href="https://lordamit.github.io /instantfeeddev.xml" rel="self" type="application/rss+xml"/>
-    <updated>2017-02-10T15:52:09+06:00</updated>
-    <id>https://lordamit.github.io</id>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000 /instantfeeddev.xml" rel="self" type="application/rss+xml"/>
+    <updated>2017-02-10T16:04:22+06:00</updated>
+    <id>http://localhost:4000</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
     
       <item>
         <title>70300 xp in pokemon go: যেভাবে সহজে লেভেল আপ করা যায় Pokemon Go এ</title>
-        <link>https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/</guid>
+        <link>http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/</guid>
         <pubDate>Fri, 30 Dec 2016 01:38:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -59,7 +59,7 @@
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -125,8 +125,8 @@
     
       <item>
         <title>No Man's Sky - Game Review</title>
-        <link>https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/</guid>
+        <link>http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/</guid>
         <pubDate>Sun, 14 Aug 2016 15:52:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -197,7 +197,7 @@
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -290,8 +290,8 @@
     
       <item>
         <title>Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে</title>
-        <link>https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</guid>
+        <link>http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</guid>
         <pubDate>Fri, 22 Jul 2016 21:25:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -347,7 +347,7 @@
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -425,8 +425,8 @@
     
       <item>
         <title>Lossless Conversion from PDF to SVG / EMF in Ubuntu</title>
-        <link>https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</guid>
+        <link>http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</guid>
         <pubDate>Thu, 14 Jul 2016 13:00:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -448,7 +448,7 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -457,7 +457,7 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
                       <h1>Lossless Conversion from PDF to SVG / EMF in Ubuntu</h1>
                       
                       <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" Lossless Conversion from PDF to SVG / EMF in Ubuntu ">
+                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" Lossless Conversion from PDF to SVG / EMF in Ubuntu ">
                           <figcaption>Lossless Conversion from PDF to SVG / EMF in Ubuntu</figcaption>
                       </figure>
                       
@@ -492,8 +492,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>রিপোর্ট, রিপোর্টের ভুল এবং শিক্ষকের মাথার চুল</title>
-        <link>https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/</guid>
+        <link>http://localhost:4000/blog/2016/06/24/annoying-things-in-report/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/06/24/annoying-things-in-report/</guid>
         <pubDate>Fri, 24 Jun 2016 00:00:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -560,7 +560,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/06/24/annoying-things-in-report/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -649,8 +649,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>বিশ্ববিদ্যালয়ের শিক্ষক - শেখানোই যার একমাত্র কাজ না!</title>
-        <link>https://lordamit.github.io/blog/2016/06/14/varsity-teacher/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/14/varsity-teacher/</guid>
+        <link>http://localhost:4000/blog/2016/06/14/varsity-teacher/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/06/14/varsity-teacher/</guid>
         <pubDate>Tue, 14 Jun 2016 07:38:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -696,7 +696,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/06/14/varsity-teacher/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/06/14/varsity-teacher/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -764,8 +764,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>বাস্তব কল্পকাহিনী - সুপার সোলজার</title>
-        <link>https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/</guid>
+        <link>http://localhost:4000/blog/2016/06/05/aram-korlei-beram/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/06/05/aram-korlei-beram/</guid>
         <pubDate>Sun, 05 Jun 2016 09:22:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -808,7 +808,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/06/05/aram-korlei-beram/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -817,7 +817,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                       <h1>বাস্তব কল্পকাহিনী - সুপার সোলজার</h1>
                       
                       <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" বাস্তব কল্পকাহিনী - সুপার সোলজার ">
+                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" বাস্তব কল্পকাহিনী - সুপার সোলজার ">
                           <figcaption>বাস্তব কল্পকাহিনী - সুপার সোলজার</figcaption>
                       </figure>
                       
@@ -873,8 +873,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>Making a Text Based Progress Bar in Python</title>
-        <link>https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</guid>
+        <link>http://localhost:4000/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</guid>
         <pubDate>Fri, 13 May 2016 10:03:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -906,7 +906,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/05/13/making-a-text-based-progress-bar-in-python/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -960,8 +960,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>Polarr - Awesome Image Editor for Linux</title>
-        <link>https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/</guid>
+        <link>http://localhost:4000/blog/2016/05/10/polarr-awesome-image-editor/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/10/polarr-awesome-image-editor/</guid>
         <pubDate>Tue, 10 May 2016 13:23:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -996,7 +996,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/05/10/polarr-awesome-image-editor/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1053,8 +1053,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</title>
-        <link>https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</guid>
+        <link>http://localhost:4000/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</guid>
         <pubDate>Tue, 10 May 2016 10:00:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1106,7 +1106,7 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1115,7 +1115,7 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
                       <h1>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</h1>
                       
                       <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" Cracking FaceBook Instant Articles With Jekyll - RSS Feed ">
+                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" Cracking FaceBook Instant Articles With Jekyll - RSS Feed ">
                           <figcaption>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</figcaption>
                       </figure>
                       
@@ -1180,8 +1180,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর</title>
-        <link>https://lordamit.github.io/blog/2016/05/04/nera-beltola/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/04/nera-beltola/</guid>
+        <link>http://localhost:4000/blog/2016/05/04/nera-beltola/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/04/nera-beltola/</guid>
         <pubDate>Wed, 04 May 2016 15:30:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1244,7 +1244,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/05/04/nera-beltola/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/05/04/nera-beltola/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1253,7 +1253,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর</h1>
                       
                       <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর ">
+                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর ">
                           <figcaption>ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর</figcaption>
                       </figure>
                       
@@ -1329,8 +1329,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>Showing Bangla properly in Atom Editor</title>
-        <link>https://lordamit.github.io/blog/2016/05/03/showing-bangla-properly-in-atom-editor/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/03/showing-bangla-properly-in-atom-editor/</guid>
+        <link>http://localhost:4000/blog/2016/05/03/showing-bangla-properly-in-atom-editor/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/03/showing-bangla-properly-in-atom-editor/</guid>
         <pubDate>Tue, 03 May 2016 15:22:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1382,7 +1382,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/05/03/showing-bangla-properly-in-atom-editor/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/05/03/showing-bangla-properly-in-atom-editor/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1456,8 +1456,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</title>
-        <link>https://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/</guid>
+        <link>http://localhost:4000/blog/2016/04/28/time-and-task-management-in-linux/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/28/time-and-task-management-in-linux/</guid>
         <pubDate>Thu, 28 Apr 2016 19:47:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1489,7 +1489,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/04/28/time-and-task-management-in-linux/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1498,7 +1498,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</h1>
                       
                       <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট ">
+                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট ">
                           <figcaption>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</figcaption>
                       </figure>
                       
@@ -1543,8 +1543,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা</title>
-        <link>https://lordamit.github.io/blog/2016/04/28/cmu-industry-and-academia/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/28/cmu-industry-and-academia/</guid>
+        <link>http://localhost:4000/blog/2016/04/28/cmu-industry-and-academia/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/28/cmu-industry-and-academia/</guid>
         <pubDate>Thu, 28 Apr 2016 16:24:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1576,7 +1576,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/28/cmu-industry-and-academia/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/04/28/cmu-industry-and-academia/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1585,7 +1585,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা</h1>
                       
                       <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা ">
+                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা ">
                           <figcaption>কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা</figcaption>
                       </figure>
                       
@@ -1630,8 +1630,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>প্রোগ্রামিং শিখতে হলে</title>
-        <link>https://lordamit.github.io/blog/2016/04/25/programming-shekha/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/25/programming-shekha/</guid>
+        <link>http://localhost:4000/blog/2016/04/25/programming-shekha/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/25/programming-shekha/</guid>
         <pubDate>Mon, 25 Apr 2016 04:26:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1678,7 +1678,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/25/programming-shekha/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/04/25/programming-shekha/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1687,7 +1687,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>প্রোগ্রামিং শিখতে হলে</h1>
                       
                       <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" প্রোগ্রামিং শিখতে হলে ">
+                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" প্রোগ্রামিং শিখতে হলে ">
                           <figcaption>প্রোগ্রামিং শিখতে হলে</figcaption>
                       </figure>
                       
@@ -1747,8 +1747,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>সহজ সরল কম্পিউটার নিরাপত্তা</title>
-        <link>https://lordamit.github.io/blog/2016/04/24/norton-security-contest/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/24/norton-security-contest/</guid>
+        <link>http://localhost:4000/blog/2016/04/24/norton-security-contest/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/24/norton-security-contest/</guid>
         <pubDate>Sun, 24 Apr 2016 22:10:43 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1790,7 +1790,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/24/norton-security-contest/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/04/24/norton-security-contest/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1854,8 +1854,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা</title>
-        <link>https://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/</guid>
+        <link>http://localhost:4000/blog/2016/04/24/facebook-f8-conference-dhaka/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/24/facebook-f8-conference-dhaka/</guid>
         <pubDate>Sun, 24 Apr 2016 22:10:43 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1879,7 +1879,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/04/24/facebook-f8-conference-dhaka/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1888,7 +1888,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা</h1>
                       
                       <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা ">
+                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা ">
                           <figcaption>বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা</figcaption>
                       </figure>
                       
@@ -1925,8 +1925,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>Virtual Reality Headset Review - RIEM 3D v2</title>
-        <link>https://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</guid>
+        <link>http://localhost:4000/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</guid>
         <pubDate>Sun, 24 Apr 2016 21:10:43 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1959,7 +1959,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -2014,8 +2014,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</title>
-        <link>https://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</guid>
+        <link>http://localhost:4000/blog/2016/04/18/earthquake-bangladesh-guideline/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/18/earthquake-bangladesh-guideline/</guid>
         <pubDate>Mon, 18 Apr 2016 00:00:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -2030,7 +2030,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/04/18/earthquake-bangladesh-guideline/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -2039,7 +2039,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</h1>
                       
                       <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে ">
+                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে ">
                           <figcaption>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</figcaption>
                       </figure>
                       
@@ -2067,8 +2067,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</title>
-        <link>https://lordamit.github.io/blog/2016/03/25/using-gtk/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/03/25/using-gtk/</guid>
+        <link>http://localhost:4000/blog/2016/03/25/using-gtk/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/03/25/using-gtk/</guid>
         <pubDate>Fri, 25 Mar 2016 02:41:03 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -2176,7 +2176,7 @@ Replace the version values with the values you found from the &lt;code class=&qu
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/03/25/using-gtk/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/03/25/using-gtk/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -2185,7 +2185,7 @@ Replace the version values with the values you found from the &lt;code class=&qu
                       <h1>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</h1>
                       
                       <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner ">
+                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner ">
                           <figcaption>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</figcaption>
                       </figure>
                       

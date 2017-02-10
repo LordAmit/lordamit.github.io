@@ -3,18 +3,18 @@
   <channel>
     <title>Amit Seal Ami</title>
     <description>Amit Seal Ami is a Researcher, Academician, Software Engineer, Gamer, and Observer of Life.</description>
-    <link>https://lordamit.github.io/</link>
-    <atom:link href="https://lordamit.github.io/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2017-02-10T15:52:09+06:00</updated>
-    <id>https://lordamit.github.io</id>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/instantfeed.xml" rel="self" type="application/rss+xml" />
+    <updated>2017-02-10T16:04:22+06:00</updated>
+    <id>http://localhost:4000</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
     
       <item>
         <title>70300 xp in pokemon go: যেভাবে সহজে লেভেল আপ করা যায় Pokemon Go এ</title>
-        <link>https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/</guid>
+        <link>http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/</guid>
         <pubDate>Fri, 30 Dec 2016 01:38:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -58,7 +58,7 @@
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -127,8 +127,8 @@
     
       <item>
         <title>No Man's Sky - Game Review</title>
-        <link>https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/</guid>
+        <link>http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/</guid>
         <pubDate>Sun, 14 Aug 2016 15:52:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -199,7 +199,7 @@
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -295,8 +295,8 @@
     
       <item>
         <title>Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে</title>
-        <link>https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</guid>
+        <link>http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</guid>
         <pubDate>Fri, 22 Jul 2016 21:25:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -352,7 +352,7 @@
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -433,8 +433,8 @@
     
       <item>
         <title>Lossless Conversion from PDF to SVG / EMF in Ubuntu</title>
-        <link>https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</guid>
+        <link>http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</guid>
         <pubDate>Thu, 14 Jul 2016 13:00:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -456,7 +456,7 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -465,7 +465,7 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
                       <h1>Lossless Conversion from PDF to SVG / EMF in Ubuntu</h1>
                       
                       <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" Lossless Conversion from PDF to SVG / EMF in Ubuntu ">
+                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" Lossless Conversion from PDF to SVG / EMF in Ubuntu ">
                           <figcaption>Lossless Conversion from PDF to SVG / EMF in Ubuntu</figcaption>
                       </figure>
                       
@@ -501,8 +501,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>রিপোর্ট, রিপোর্টের ভুল এবং শিক্ষকের মাথার চুল</title>
-        <link>https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/</guid>
+        <link>http://localhost:4000/blog/2016/06/24/annoying-things-in-report/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/06/24/annoying-things-in-report/</guid>
         <pubDate>Fri, 24 Jun 2016 00:00:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -569,7 +569,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/06/24/annoying-things-in-report/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -659,8 +659,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>বিশ্ববিদ্যালয়ের শিক্ষক - শেখানোই যার একমাত্র কাজ না!</title>
-        <link>https://lordamit.github.io/blog/2016/06/14/varsity-teacher/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/14/varsity-teacher/</guid>
+        <link>http://localhost:4000/blog/2016/06/14/varsity-teacher/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/06/14/varsity-teacher/</guid>
         <pubDate>Tue, 14 Jun 2016 07:38:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -706,7 +706,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/06/14/varsity-teacher/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/06/14/varsity-teacher/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -777,8 +777,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>বাস্তব কল্পকাহিনী - সুপার সোলজার</title>
-        <link>https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/</guid>
+        <link>http://localhost:4000/blog/2016/06/05/aram-korlei-beram/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/06/05/aram-korlei-beram/</guid>
         <pubDate>Sun, 05 Jun 2016 09:22:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -821,7 +821,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/06/05/aram-korlei-beram/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -830,7 +830,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                       <h1>বাস্তব কল্পকাহিনী - সুপার সোলজার</h1>
                       
                       <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" বাস্তব কল্পকাহিনী - সুপার সোলজার ">
+                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" বাস্তব কল্পকাহিনী - সুপার সোলজার ">
                           <figcaption>বাস্তব কল্পকাহিনী - সুপার সোলজার</figcaption>
                       </figure>
                       
@@ -887,8 +887,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>Making a Text Based Progress Bar in Python</title>
-        <link>https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</guid>
+        <link>http://localhost:4000/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</guid>
         <pubDate>Fri, 13 May 2016 10:03:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -920,7 +920,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/05/13/making-a-text-based-progress-bar-in-python/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -975,8 +975,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>Polarr - Awesome Image Editor for Linux</title>
-        <link>https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/</guid>
+        <link>http://localhost:4000/blog/2016/05/10/polarr-awesome-image-editor/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/10/polarr-awesome-image-editor/</guid>
         <pubDate>Tue, 10 May 2016 13:23:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1011,7 +1011,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/05/10/polarr-awesome-image-editor/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1069,8 +1069,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</title>
-        <link>https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</guid>
+        <link>http://localhost:4000/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</guid>
         <pubDate>Tue, 10 May 2016 10:00:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1122,7 +1122,7 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/">
+                <link rel="canonical" href="http://localhost:4000/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1131,7 +1131,7 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
                       <h1>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</h1>
                       
                       <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" Cracking FaceBook Instant Articles With Jekyll - RSS Feed ">
+                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" Cracking FaceBook Instant Articles With Jekyll - RSS Feed ">
                           <figcaption>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</figcaption>
                       </figure>
                       
