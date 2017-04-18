@@ -4,18 +4,18 @@
   <channel>
     <title>Amit Seal Ami</title>
     <description>Amit Seal Ami is a Researcher, Academician, Software Engineer, Gamer, and Observer of Life.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000 /instantfeeddev.xml" rel="self" type="application/rss+xml"/>
-    <updated>2017-02-10T16:04:22+06:00</updated>
-    <id>http://localhost:4000</id>
+    <link>https://lordamit.github.io/</link>
+    <atom:link href="https://lordamit.github.io /instantfeeddev.xml" rel="self" type="application/rss+xml"/>
+    <updated>2017-04-18T11:35:37+06:00</updated>
+    <id>https://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
     
       <item>
         <title>70300 xp in pokemon go: যেভাবে সহজে লেভেল আপ করা যায় Pokemon Go এ</title>
-        <link>http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/</guid>
+        <link>https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/</guid>
         <pubDate>Fri, 30 Dec 2016 01:38:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -59,7 +59,7 @@
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -72,8 +72,8 @@
                           <figcaption>70300 xp in pokemon go: যেভাবে সহজে লেভেল আপ করা যায় Pokemon Go এ</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-12-30 01:38:00 BDT">Fri, 30 Dec 2016 01:38:00 +0600</time>
-                      <time class="op-modified" dateTime="2016-12-30 02:46:00 BDT">2016-12-30 02:46:00 +0600</time>
+                      <time class="op-published" dateTime="2016-12-30 01:38:00 +06">Fri, 30 Dec 2016 01:38:00 +0600</time>
+                      <time class="op-modified" dateTime="2016-12-30 02:46:00 +06">2016-12-30 02:46:00 +0600</time>
                   </header>
 
                   
@@ -125,8 +125,8 @@
     
       <item>
         <title>No Man's Sky - Game Review</title>
-        <link>http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/</guid>
+        <link>https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/</guid>
         <pubDate>Sun, 14 Aug 2016 15:52:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -142,7 +142,8 @@
 &lt;!-- more --&gt;
 কারণ আগেই জানা গিয়েছিল:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;- প্রায় ১৮ কুইন্টিলিয়ন (1.8×10&amp;lt;sup&amp;gt;19&amp;lt;/sup&amp;gt;) গ্রহ আছে এটিতে। - প্রতিটি গ্রহের আলাদা আলাদা বৈশিষ্ট্য - জীব জন্তু, গাছপালা, পরিবেশ - এগুলোর ভিত্তিতে - গেমের সবকিছু &amp;lt;a href=&quot;https://en.wikipedia.org/wiki/Procedural_generation&quot;&amp;gt;প্রসিডিউরালি জেনারেটেড!! &amp;lt;/a&amp;gt; - জিরো লোডিং টাইম অলমোস্ট - গ্রহের বাইরে থেকে গ্রহের ভিতরে ঢুকতে কোন সময়ই লাগে না লোডিংয়ে। চোখের সামনেই দেখা যায় আস্তে আস্তে গ্রহ বড় হচ্ছে, তার পরে পাহাড় নদী, প্রাণী দেখা যায়। - অন্য কোন প্রাচীন এলিয়েন সভ্যতার নিদর্শন আশে পাশে ছড়িয়ে ছিটিয়ে - কিন্তু কেন সে বিষয়ে গেম খেলে জানা লাগবে
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- প্রায় ১৮ কুইন্টিলিয়ন (1.8×10&amp;lt;sup&amp;gt;19&amp;lt;/sup&amp;gt;) গ্রহ আছে এটিতে। - প্রতিটি গ্রহের আলাদা আলাদা বৈশিষ্ট্য - জীব জন্তু, গাছপালা, পরিবেশ - এগুলোর ভিত্তিতে - গেমের সবকিছু &amp;lt;a href=&quot;https://en.wikipedia.org/wiki/Procedural_generation&quot;&amp;gt;প্রসিডিউরালি জেনারেটেড!! &amp;lt;/a&amp;gt; - জিরো লোডিং টাইম অলমোস্ট - গ্রহের বাইরে থেকে গ্রহের ভিতরে ঢুকতে কোন সময়ই লাগে না লোডিংয়ে। চোখের সামনেই দেখা যায় আস্তে আস্তে গ্রহ বড় হচ্ছে, তার পরে পাহাড় নদী, প্রাণী দেখা যায়। - অন্য কোন প্রাচীন এলিয়েন সভ্যতার নিদর্শন আশে পাশে ছড়িয়ে ছিটিয়ে - কিন্তু কেন সে বিষয়ে গেম খেলে জানা লাগবে
+&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
 &lt;p&gt;সব মিলিয়ে সবার মাথা খারাপ করা অবস্থা গেম রিলিজ হবার আগেই! আর আমার তো আরো বেশি।  এমন এক্সপ্লোরেশন, কাহিনী আমার বরাবরই ভালো লাগে। &lt;a href=&quot;https://en.wikipedia.org/wiki/Freelancer_(video_game)&quot;&gt;ফ্রিল্যান্সার&lt;/a&gt; গেমের মতো আর এমন পাইও নি। সব মিলিয়ে পাগল অবস্থা!&lt;/p&gt;
@@ -167,7 +168,7 @@
 
 &lt;p&gt;এই বিশাল ইউনিভার্স তারা যে তৈরী করেছে সেখানে ঘুরে ফিরে বেড়ানো, দেখা যদি গেমের উদ্দেশ্য হয়, যদি উদ্দেশ্য হয় প্রাচীন এলিয়েন সভ্যতার সম্পর্কে জানা, তাদের ভাষা শেখা, তাদের সংষ্কৃতি বুঝা - তাহলে গেমটা বাড়াবাড়ি রকমের সফল। কারণ গেমের ফ্লাইট, শুটিং তেমন সুবিধার কন্ট্রোল না, গেমটায় সারভাইভাল কোন ভাবেই কঠিন না, ট্রেডিংও করা যায় মনমতো।&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;ভালো দিক&lt;/h2&gt;
+&lt;h2 id=&quot;ভালো-দিক&quot;&gt;ভালো দিক&lt;/h2&gt;
 &lt;p&gt;গেমের ভিতরে তারা যে বৈচিত্র্য এনেছে - তা অসাধারণ। আমি প্রায় ১০ ঘন্টার উপরে খেলেছি, এখনো কোথাও একই রকমের গ্রহ পাইনি। কোন গ্রহে এসিড বৃষ্টি হয় তো কোন গ্রহে প্রচন্ড দাবদাহ। এক গ্রহে প্রচুর গাছপালা ত‌ো আরেক গ্রহে আকাশে উড়ে বেড়ানো হাঙ্গরের মতো দেখতে পাখি! এই গ্রহে কিউট দেখতে ভালুক এসে কামড় দেয় তো ঐ গ্রহে দাঁত কটমটানো ডাইনোসর ঘাষ খায়, কাছে এসে খাবার খায়।&lt;/p&gt;
 
 &lt;figure&gt;
@@ -184,7 +185,7 @@
   &lt;figcaption&gt;গেকের বকরবকর&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;শেষ কথা&lt;/h2&gt;
+&lt;h2 id=&quot;শেষ-কথা&quot;&gt;শেষ কথা&lt;/h2&gt;
 &lt;p&gt;গেমটা সবার জন্য না। ফেবুর যুগে মানুষের ধৈর্য বড্ড বেশিই কম। সবকিছু চাই এখনই, এখনই, এখনইইই! সেখানে একটা গেম, ঘন্টার পর ঘন্টা খেলা লাগবে ধৈর্য ধরে। এলিয়েনের সভ্যতা নিয়ে জানা না জানা নিজের ব্যাপার। গেমের গ্রাফিক্স অসাধারণ, কিন্তু কন্ট্রোল বা ইউআই তত ভালো না। পিসি ভার্সনে নাকি বেশ কিছু বাগ আছে, আমার এখনো তেমন কোন সমস্যা হয়নি, টানা কয়েকঘন্টা খেলেও। যাদের ঘন্টার পর ঘন্টা স্পেসশিপে ঘুরে বেড়াতে ভালো লাগে, বিচিত্র গ্রহ দেখতে ভালো লাগে, জানতে ইচ্ছা করে এলিয়েন সভ্যতার ব্যাপারে, বা ইচ্ছা করে বিচিত্র সব বহিঃজাগতিক প্রাণী দেখতে - এই গেম তাদের জন্যই!&lt;/p&gt;
 
 &lt;h2 id=&quot;rating&quot;&gt;Rating&lt;/h2&gt;
@@ -197,7 +198,7 @@
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -210,7 +211,7 @@
                           <figcaption>No Man's Sky - Game Review</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-08-14 15:52:00 BDT">Sun, 14 Aug 2016 15:52:00 +0600</time>
+                      <time class="op-published" dateTime="2016-08-14 15:52:00 +06">Sun, 14 Aug 2016 15:52:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
 
@@ -227,7 +228,8 @@
 <!-- more -->
 কারণ আগেই জানা গিয়েছিল:</p>
 
-<div class="highlighter-rouge">- প্রায় ১৮ কুইন্টিলিয়ন (1.8×10&lt;sup&gt;19&lt;/sup&gt;) গ্রহ আছে এটিতে। - প্রতিটি গ্রহের আলাদা আলাদা বৈশিষ্ট্য - জীব জন্তু, গাছপালা, পরিবেশ - এগুলোর ভিত্তিতে - গেমের সবকিছু &lt;a href="https://en.wikipedia.org/wiki/Procedural_generation"&gt;প্রসিডিউরালি জেনারেটেড!! &lt;/a&gt; - জিরো লোডিং টাইম অলমোস্ট - গ্রহের বাইরে থেকে গ্রহের ভিতরে ঢুকতে কোন সময়ই লাগে না লোডিংয়ে। চোখের সামনেই দেখা যায় আস্তে আস্তে গ্রহ বড় হচ্ছে, তার পরে পাহাড় নদী, প্রাণী দেখা যায়। - অন্য কোন প্রাচীন এলিয়েন সভ্যতার নিদর্শন আশে পাশে ছড়িয়ে ছিটিয়ে - কিন্তু কেন সে বিষয়ে গেম খেলে জানা লাগবে
+<div class="highlighter-rouge"><pre class="highlight"><code>- প্রায় ১৮ কুইন্টিলিয়ন (1.8×10&lt;sup&gt;19&lt;/sup&gt;) গ্রহ আছে এটিতে। - প্রতিটি গ্রহের আলাদা আলাদা বৈশিষ্ট্য - জীব জন্তু, গাছপালা, পরিবেশ - এগুলোর ভিত্তিতে - গেমের সবকিছু &lt;a href="https://en.wikipedia.org/wiki/Procedural_generation"&gt;প্রসিডিউরালি জেনারেটেড!! &lt;/a&gt; - জিরো লোডিং টাইম অলমোস্ট - গ্রহের বাইরে থেকে গ্রহের ভিতরে ঢুকতে কোন সময়ই লাগে না লোডিংয়ে। চোখের সামনেই দেখা যায় আস্তে আস্তে গ্রহ বড় হচ্ছে, তার পরে পাহাড় নদী, প্রাণী দেখা যায়। - অন্য কোন প্রাচীন এলিয়েন সভ্যতার নিদর্শন আশে পাশে ছড়িয়ে ছিটিয়ে - কিন্তু কেন সে বিষয়ে গেম খেলে জানা লাগবে
+</code></pre>
 </div>
 
 <p>সব মিলিয়ে সবার মাথা খারাপ করা অবস্থা গেম রিলিজ হবার আগেই! আর আমার তো আরো বেশি।  এমন এক্সপ্লোরেশন, কাহিনী আমার বরাবরই ভালো লাগে। <a href="https://en.wikipedia.org/wiki/Freelancer_(video_game)">ফ্রিল্যান্সার</a> গেমের মতো আর এমন পাইও নি। সব মিলিয়ে পাগল অবস্থা!</p>
@@ -252,7 +254,7 @@
 
 <p>এই বিশাল ইউনিভার্স তারা যে তৈরী করেছে সেখানে ঘুরে ফিরে বেড়ানো, দেখা যদি গেমের উদ্দেশ্য হয়, যদি উদ্দেশ্য হয় প্রাচীন এলিয়েন সভ্যতার সম্পর্কে জানা, তাদের ভাষা শেখা, তাদের সংষ্কৃতি বুঝা - তাহলে গেমটা বাড়াবাড়ি রকমের সফল। কারণ গেমের ফ্লাইট, শুটিং তেমন সুবিধার কন্ট্রোল না, গেমটায় সারভাইভাল কোন ভাবেই কঠিন না, ট্রেডিংও করা যায় মনমতো।</p>
 
-<h2 id="section">ভালো দিক</h2>
+<h2 id="ভালো-দিক">ভালো দিক</h2>
 <p>গেমের ভিতরে তারা যে বৈচিত্র্য এনেছে - তা অসাধারণ। আমি প্রায় ১০ ঘন্টার উপরে খেলেছি, এখনো কোথাও একই রকমের গ্রহ পাইনি। কোন গ্রহে এসিড বৃষ্টি হয় তো কোন গ্রহে প্রচন্ড দাবদাহ। এক গ্রহে প্রচুর গাছপালা ত‌ো আরেক গ্রহে আকাশে উড়ে বেড়ানো হাঙ্গরের মতো দেখতে পাখি! এই গ্রহে কিউট দেখতে ভালুক এসে কামড় দেয় তো ঐ গ্রহে দাঁত কটমটানো ডাইনোসর ঘাষ খায়, কাছে এসে খাবার খায়।</p>
 
 <figure data-feedback="fb:likes">
@@ -269,7 +271,7 @@
   <figcaption>গেকের বকরবকর</figcaption>
 </figure>
 
-<h2 id="section-1">শেষ কথা</h2>
+<h2 id="শেষ-কথা">শেষ কথা</h2>
 <p>গেমটা সবার জন্য না। ফেবুর যুগে মানুষের ধৈর্য বড্ড বেশিই কম। সবকিছু চাই এখনই, এখনই, এখনইইই! সেখানে একটা গেম, ঘন্টার পর ঘন্টা খেলা লাগবে ধৈর্য ধরে। এলিয়েনের সভ্যতা নিয়ে জানা না জানা নিজের ব্যাপার। গেমের গ্রাফিক্স অসাধারণ, কিন্তু কন্ট্রোল বা ইউআই তত ভালো না। পিসি ভার্সনে নাকি বেশ কিছু বাগ আছে, আমার এখনো তেমন কোন সমস্যা হয়নি, টানা কয়েকঘন্টা খেলেও। যাদের ঘন্টার পর ঘন্টা স্পেসশিপে ঘুরে বেড়াতে ভালো লাগে, বিচিত্র গ্রহ দেখতে ভালো লাগে, জানতে ইচ্ছা করে এলিয়েন সভ্যতার ব্যাপারে, বা ইচ্ছা করে বিচিত্র সব বহিঃজাগতিক প্রাণী দেখতে - এই গেম তাদের জন্যই!</p>
 
 <h2 id="rating">Rating</h2>
@@ -290,8 +292,8 @@
     
       <item>
         <title>Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে</title>
-        <link>http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</guid>
+        <link>https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</guid>
         <pubDate>Fri, 22 Jul 2016 21:25:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -306,20 +308,20 @@
 
 &lt;!-- more --&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;ইন্সটলেশন&lt;/h2&gt;
+&lt;h2 id=&quot;ইন্সটলেশন&quot;&gt;ইন্সটলেশন&lt;/h2&gt;
 
 &lt;p&gt;যাই হোক, বাসায় কিনে এনে লাগানোর পরে অবাক হবার পালা। প্লাগ অ্যান্ড প্লে ডিভাইস পুরাই। কিচ্ছু ইন্সটল করা লাগেনি। সাথে দেয়া কলমটাতে AAA সাইজের ব্যাটারি লাগে। শুরুতে একটু বুঝতে সমস্যা হয়েছিল, কিভাবে কি করে জানতাম না বলে। যখন একবার বুঝলাম - তখন আর কোন সমস্যাই হয়নি ব্যবহার করতে।&lt;/p&gt;
 
 &lt;p&gt;কলমটায় তিনটা বাটন। উপরে অন-অফ বাটন, যেটা অন করলে ট্যাবলেট দিয়ে কাজ শুরু করা যায়। নিচে যেখানে কলম ধরে, সেখানে আরো দুটো - ডিফল্ট সেটিংয়ে যেগুলো লেফট আর রাইট ক্লিকের কাজ করে। ডিফল্ট বললাম, কারণ এগুলো রিম্যাপিং করা সম্ভব, যদিও সেটার জন্য এখনো পর্যন্ত কোন ভালো সফটওয়্যার আমার চোখে পড়েনি। অবশ্য রিম্যাপ করার দরকারও হয়নি, নাহলে নিজেই বানিয়ে নিতাম হয়তো! হেহে।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;কনফিগারেশন সফটওয়্যার&lt;/h2&gt;
+&lt;h2 id=&quot;কনফিগারেশন-সফটওয়্যার&quot;&gt;কনফিগারেশন সফটওয়্যার&lt;/h2&gt;
 
 &lt;p&gt;লাগে নাই। ডিফল্ট হিসাবে পুরো ট্যাবলেটের ড্রয়িং এরিয়াটা স্ক্রিনের সাথে ম্যাপ করা।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;কলম&lt;/h2&gt;
+&lt;h2 id=&quot;কলম&quot;&gt;কলম&lt;/h2&gt;
 &lt;p&gt;ভালো কোয়ালিটি, একটু মোটকা, তবে ধরতে সমস্যা হয়নি। একটা ব্যাটারি দিয়ে কয়েকমাস চলে গেছে এবং চলছে। এখনো জানি না কবে সেটা শেষ হবে। কয়েকরকমের প্রেসার ডিটেক্ট করতে পারে। ভালো ড্রয়িং অ্যাপ্লিকেশনে স্কেচিং করার জন্য যথেষ্ট ভালো মনে হয়েছে আমার কাছে।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;বোনাস - ব্যবহার করার জন্য সফটওয়্যার&lt;/h2&gt;
+&lt;h2 id=&quot;বোনাস---ব্যবহার-করার-জন্য-সফটওয়্যার&quot;&gt;বোনাস - ব্যবহার করার জন্য সফটওয়্যার&lt;/h2&gt;
 &lt;p&gt;আমার অভিজ্ঞতার আলোকে কিছু সফটয়্যারের নাম দিলাম - যেগুলো আমার কাছে ব্যবহার করে ভালো লেগেছে।&lt;/p&gt;
 
 &lt;ul&gt;
@@ -347,7 +349,7 @@
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -360,8 +362,8 @@
                           <figcaption>Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-07-22 21:25:00 BDT">Fri, 22 Jul 2016 21:25:00 +0600</time>
-                      <time class="op-modified" dateTime="2016-07-23 08:17:00 BDT">2016-07-23 08:17:00 +0600</time>
+                      <time class="op-published" dateTime="2016-07-22 21:25:00 +06">Fri, 22 Jul 2016 21:25:00 +0600</time>
+                      <time class="op-modified" dateTime="2016-07-23 08:17:00 +06">2016-07-23 08:17:00 +0600</time>
                   </header>
 
                   
@@ -376,20 +378,20 @@
 
 <!-- more -->
 
-<h2 id="section">ইন্সটলেশন</h2>
+<h2 id="ইন্সটলেশন">ইন্সটলেশন</h2>
 
 <p>যাই হোক, বাসায় কিনে এনে লাগানোর পরে অবাক হবার পালা। প্লাগ অ্যান্ড প্লে ডিভাইস পুরাই। কিচ্ছু ইন্সটল করা লাগেনি। সাথে দেয়া কলমটাতে AAA সাইজের ব্যাটারি লাগে। শুরুতে একটু বুঝতে সমস্যা হয়েছিল, কিভাবে কি করে জানতাম না বলে। যখন একবার বুঝলাম - তখন আর কোন সমস্যাই হয়নি ব্যবহার করতে।</p>
 
 <p>কলমটায় তিনটা বাটন। উপরে অন-অফ বাটন, যেটা অন করলে ট্যাবলেট দিয়ে কাজ শুরু করা যায়। নিচে যেখানে কলম ধরে, সেখানে আরো দুটো - ডিফল্ট সেটিংয়ে যেগুলো লেফট আর রাইট ক্লিকের কাজ করে। ডিফল্ট বললাম, কারণ এগুলো রিম্যাপিং করা সম্ভব, যদিও সেটার জন্য এখনো পর্যন্ত কোন ভালো সফটওয়্যার আমার চোখে পড়েনি। অবশ্য রিম্যাপ করার দরকারও হয়নি, নাহলে নিজেই বানিয়ে নিতাম হয়তো! হেহে।</p>
 
-<h2 id="section-1">কনফিগারেশন সফটওয়্যার</h2>
+<h2 id="কনফিগারেশন-সফটওয়্যার">কনফিগারেশন সফটওয়্যার</h2>
 
 <p>লাগে নাই। ডিফল্ট হিসাবে পুরো ট্যাবলেটের ড্রয়িং এরিয়াটা স্ক্রিনের সাথে ম্যাপ করা।</p>
 
-<h2 id="section-2">কলম</h2>
+<h2 id="কলম">কলম</h2>
 <p>ভালো কোয়ালিটি, একটু মোটকা, তবে ধরতে সমস্যা হয়নি। একটা ব্যাটারি দিয়ে কয়েকমাস চলে গেছে এবং চলছে। এখনো জানি না কবে সেটা শেষ হবে। কয়েকরকমের প্রেসার ডিটেক্ট করতে পারে। ভালো ড্রয়িং অ্যাপ্লিকেশনে স্কেচিং করার জন্য যথেষ্ট ভালো মনে হয়েছে আমার কাছে।</p>
 
-<h2 id="section-3">বোনাস - ব্যবহার করার জন্য সফটওয়্যার</h2>
+<h2 id="বোনাস---ব্যবহার-করার-জন্য-সফটওয়্যার">বোনাস - ব্যবহার করার জন্য সফটওয়্যার</h2>
 <p>আমার অভিজ্ঞতার আলোকে কিছু সফটয়্যারের নাম দিলাম - যেগুলো আমার কাছে ব্যবহার করে ভালো লেগেছে।</p>
 
 <ul>
@@ -425,8 +427,8 @@
     
       <item>
         <title>Lossless Conversion from PDF to SVG / EMF in Ubuntu</title>
-        <link>http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</guid>
+        <link>https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</guid>
         <pubDate>Thu, 14 Jul 2016 13:00:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -448,7 +450,7 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -457,11 +459,11 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
                       <h1>Lossless Conversion from PDF to SVG / EMF in Ubuntu</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" Lossless Conversion from PDF to SVG / EMF in Ubuntu ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" Lossless Conversion from PDF to SVG / EMF in Ubuntu ">
                           <figcaption>Lossless Conversion from PDF to SVG / EMF in Ubuntu</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-07-14 13:00:00 BDT">Thu, 14 Jul 2016 13:00:00 +0600</time>
+                      <time class="op-published" dateTime="2016-07-14 13:00:00 +06">Thu, 14 Jul 2016 13:00:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
 
@@ -492,8 +494,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>রিপোর্ট, রিপোর্টের ভুল এবং শিক্ষকের মাথার চুল</title>
-        <link>http://localhost:4000/blog/2016/06/24/annoying-things-in-report/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/06/24/annoying-things-in-report/</guid>
+        <link>https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/</guid>
         <pubDate>Fri, 24 Jun 2016 00:00:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -511,14 +513,14 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
 
 &lt;p&gt;মজার বিষয়, এগুলো কখনোই ভুল লিখেছে বা কেউ কম জানে বলে মনে হয়নি আমার। মনে হয়েছে কারণ যেসব কাজ করেছে রিপোর্টে - সেগুলো গাফিলতি, কেয়ারলেসনেস, বা সোজা বাংলায় “দেবার আছে দিলাম রিপোর্ট। কি আছে গেবনে?” ভেবে সাবমিট করা। আবার এমনও হতে পারে যে এসব গাফিলতি, সেটা জানেই না! যাই হোক, কি সেগুলো?&lt;/p&gt;
 
-&lt;h2 id=&quot;plagiarism&quot;&gt;১ - Plagiarism&lt;/h2&gt;
+&lt;h2 id=&quot;১---plagiarism&quot;&gt;১ - Plagiarism&lt;/h2&gt;
 &lt;p&gt;অনেকে বলে রচনা চুরি। সোজা বাংলায় কৃতজ্ঞতা স্বীকার না করে অন্য কারো কিছু ব্যবহার করা বা ভাব দেখানো যেন লেখার ঐ অংশটা নিজের মস্তিষ্ক প্রসূত। আমরা আবার ওয়েবসাইট থেকে সরাসরি কপি পেস্ট করতে খুব পছন্দ করি। সেটাও এর ভিতরে পরে।&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;বাঁচতে হলে&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;সহজ হিসাব। অন্য কারো কিছু আমি ব্যবহার করলে কৃতজ্ঞতা স্বীকার করবো। কোটেশন মার্ক বা অন্য কোন ভাবে বুঝাবো এই অংশ আমার মগজ প্রসূত না। সাথে রেফারেন্স দিয়ে দিবো। আরো কিছু জানতে Stanford University এর &lt;a href=&quot;https://communitystandards.stanford.edu/student-conduct-process/honor-code-and-fundamental-standard/additional-resources/what-plagiarism&quot;&gt;পেজ&lt;/a&gt; দেখতে পারো।&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;২ - ফরম্যাটিং&lt;/h2&gt;
+&lt;h2 id=&quot;২---ফরম্যাটিং&quot;&gt;২ - ফরম্যাটিং&lt;/h2&gt;
 &lt;p&gt;এটা খুব মজার। যেমন:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -536,13 +538,13 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
 
 &lt;p&gt;মাথা খাটাও।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;৩ - শর্টকাট&lt;/h2&gt;
+&lt;h2 id=&quot;৩---শর্টকাট&quot;&gt;৩ - শর্টকাট&lt;/h2&gt;
 &lt;p&gt;“It’s”, “wanna”, “&amp;amp;”, “I’ll” এমন শর্টকাট শব্দ নিষিদ্ধ ফরমাল রিপোর্টে। আর কোন কথা নাই।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;৪ - অনাথ টেবিল এবং ছবি&lt;/h2&gt;
+&lt;h2 id=&quot;৪---অনাথ-টেবিল-এবং-ছবি&quot;&gt;৪ - অনাথ টেবিল এবং ছবি&lt;/h2&gt;
 &lt;p&gt;রিপোর্টে আমরা ছবি এবং টেবিল দিতে বেশ পছন্দ করি। দৃষ্টিনন্দন হয়, ভিজুয়ালিজেশন করা যায়। কিন্তু রিপোর্টে এসব দেবার কিছু নিয়ম আছে। ছবি দিলে সেই ছবির একটা আইডেন্টিফাইং নাম্বার, একটা ক্যাপশন থাকা লাগবে। সেটার কথা রিপোর্টে কোথাও না কোথাও বলা রেফারেন্স করা লাগবে। তা নাহলে সেই ছবি বা টেবিল অনাথ, মূ্ল্যহীন এবং দৃষ্টিকটু! এই যেমন এই লেখায় একদম উপরে একটা ছবি আছে, সেটার রেফারেন্স (ছবি ১) এবং ক্যাপশন ও আছে, আবার লেখায় সেটা উল্লেখ করাও হয়েছে রেফারেন্স ধরে!&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;৫ - ভুলভাল শব্দ ব্যবহার&lt;/h2&gt;
+&lt;h2 id=&quot;৫---ভুলভাল-শব্দ-ব্যবহার&quot;&gt;৫ - ভুলভাল শব্দ ব্যবহার&lt;/h2&gt;
 &lt;p&gt;এখনো কেউ শক্ত শক্ত দাঁত ভাঙ্গা শব্দ ব্যবহারের জন্য নাম্বার দেয় বা দিয়েছে বলে শুনি নাই। অবশ্য নাম্বার কাটাও হয় না। কিন্তু কাটা হয় যদি ভুল যায়গায় ভুল শব্দ ব্যবহার করা হয়, তখন। উপরের ছবি ১ দ্রষ্টব্য :)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;বাঁচতে হলে&lt;/strong&gt;&lt;/p&gt;
@@ -560,7 +562,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/06/24/annoying-things-in-report/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -573,8 +575,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                           <figcaption>রিপোর্ট, রিপোর্টের ভুল এবং শিক্ষকের মাথার চুল</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-06-24 00:00:00 BDT">Fri, 24 Jun 2016 00:00:00 +0600</time>
-                      <time class="op-modified" dateTime="2016-06-24 07:42:00 BDT">2016-06-24 07:42:00 +0600</time>
+                      <time class="op-published" dateTime="2016-06-24 00:00:00 +06">Fri, 24 Jun 2016 00:00:00 +0600</time>
+                      <time class="op-modified" dateTime="2016-06-24 07:42:00 +06">2016-06-24 07:42:00 +0600</time>
                   </header>
 
                   
@@ -592,14 +594,14 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
 
 <p>মজার বিষয়, এগুলো কখনোই ভুল লিখেছে বা কেউ কম জানে বলে মনে হয়নি আমার। মনে হয়েছে কারণ যেসব কাজ করেছে রিপোর্টে - সেগুলো গাফিলতি, কেয়ারলেসনেস, বা সোজা বাংলায় “দেবার আছে দিলাম রিপোর্ট। কি আছে গেবনে?” ভেবে সাবমিট করা। আবার এমনও হতে পারে যে এসব গাফিলতি, সেটা জানেই না! যাই হোক, কি সেগুলো?</p>
 
-<h2 id="plagiarism">১ - Plagiarism</h2>
+<h2 id="১---plagiarism">১ - Plagiarism</h2>
 <p>অনেকে বলে রচনা চুরি। সোজা বাংলায় কৃতজ্ঞতা স্বীকার না করে অন্য কারো কিছু ব্যবহার করা বা ভাব দেখানো যেন লেখার ঐ অংশটা নিজের মস্তিষ্ক প্রসূত। আমরা আবার ওয়েবসাইট থেকে সরাসরি কপি পেস্ট করতে খুব পছন্দ করি। সেটাও এর ভিতরে পরে।</p>
 
 <p><strong>বাঁচতে হলে</strong></p>
 
 <p>সহজ হিসাব। অন্য কারো কিছু আমি ব্যবহার করলে কৃতজ্ঞতা স্বীকার করবো। কোটেশন মার্ক বা অন্য কোন ভাবে বুঝাবো এই অংশ আমার মগজ প্রসূত না। সাথে রেফারেন্স দিয়ে দিবো। আরো কিছু জানতে Stanford University এর <a href="https://communitystandards.stanford.edu/student-conduct-process/honor-code-and-fundamental-standard/additional-resources/what-plagiarism">পেজ</a> দেখতে পারো।</p>
 
-<h2 id="section">২ - ফরম্যাটিং</h2>
+<h2 id="২---ফরম্যাটিং">২ - ফরম্যাটিং</h2>
 <p>এটা খুব মজার। যেমন:</p>
 
 <ul>
@@ -617,13 +619,13 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
 
 <p>মাথা খাটাও।</p>
 
-<h2 id="section-1">৩ - শর্টকাট</h2>
+<h2 id="৩---শর্টকাট">৩ - শর্টকাট</h2>
 <p>“It’s”, “wanna”, “&amp;”, “I’ll” এমন শর্টকাট শব্দ নিষিদ্ধ ফরমাল রিপোর্টে। আর কোন কথা নাই।</p>
 
-<h2 id="section-2">৪ - অনাথ টেবিল এবং ছবি</h2>
+<h2 id="৪---অনাথ-টেবিল-এবং-ছবি">৪ - অনাথ টেবিল এবং ছবি</h2>
 <p>রিপোর্টে আমরা ছবি এবং টেবিল দিতে বেশ পছন্দ করি। দৃষ্টিনন্দন হয়, ভিজুয়ালিজেশন করা যায়। কিন্তু রিপোর্টে এসব দেবার কিছু নিয়ম আছে। ছবি দিলে সেই ছবির একটা আইডেন্টিফাইং নাম্বার, একটা ক্যাপশন থাকা লাগবে। সেটার কথা রিপোর্টে কোথাও না কোথাও বলা রেফারেন্স করা লাগবে। তা নাহলে সেই ছবি বা টেবিল অনাথ, মূ্ল্যহীন এবং দৃষ্টিকটু! এই যেমন এই লেখায় একদম উপরে একটা ছবি আছে, সেটার রেফারেন্স (ছবি ১) এবং ক্যাপশন ও আছে, আবার লেখায় সেটা উল্লেখ করাও হয়েছে রেফারেন্স ধরে!</p>
 
-<h2 id="section-3">৫ - ভুলভাল শব্দ ব্যবহার</h2>
+<h2 id="৫---ভুলভাল-শব্দ-ব্যবহার">৫ - ভুলভাল শব্দ ব্যবহার</h2>
 <p>এখনো কেউ শক্ত শক্ত দাঁত ভাঙ্গা শব্দ ব্যবহারের জন্য নাম্বার দেয় বা দিয়েছে বলে শুনি নাই। অবশ্য নাম্বার কাটাও হয় না। কিন্তু কাটা হয় যদি ভুল যায়গায় ভুল শব্দ ব্যবহার করা হয়, তখন। উপরের ছবি ১ দ্রষ্টব্য :)</p>
 
 <p><strong>বাঁচতে হলে</strong></p>
@@ -649,8 +651,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>বিশ্ববিদ্যালয়ের শিক্ষক - শেখানোই যার একমাত্র কাজ না!</title>
-        <link>http://localhost:4000/blog/2016/06/14/varsity-teacher/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/06/14/varsity-teacher/</guid>
+        <link>https://lordamit.github.io/blog/2016/06/14/varsity-teacher/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/14/varsity-teacher/</guid>
         <pubDate>Tue, 14 Jun 2016 07:38:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -696,7 +698,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/06/14/varsity-teacher/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/06/14/varsity-teacher/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -709,8 +711,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                           <figcaption>বিশ্ববিদ্যালয়ের শিক্ষক - শেখানোই যার একমাত্র কাজ না!</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-06-14 07:38:00 BDT">Tue, 14 Jun 2016 07:38:00 +0600</time>
-                      <time class="op-modified" dateTime="2016-06-20 10:46:00 BDT">2016-06-20 10:46:00 +0600</time>
+                      <time class="op-published" dateTime="2016-06-14 07:38:00 +06">Tue, 14 Jun 2016 07:38:00 +0600</time>
+                      <time class="op-modified" dateTime="2016-06-20 10:46:00 +06">2016-06-20 10:46:00 +0600</time>
                   </header>
 
                   
@@ -764,8 +766,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>বাস্তব কল্পকাহিনী - সুপার সোলজার</title>
-        <link>http://localhost:4000/blog/2016/06/05/aram-korlei-beram/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/06/05/aram-korlei-beram/</guid>
+        <link>https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/</guid>
         <pubDate>Sun, 05 Jun 2016 09:22:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -808,7 +810,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/06/05/aram-korlei-beram/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -817,12 +819,12 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                       <h1>বাস্তব কল্পকাহিনী - সুপার সোলজার</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" বাস্তব কল্পকাহিনী - সুপার সোলজার ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" বাস্তব কল্পকাহিনী - সুপার সোলজার ">
                           <figcaption>বাস্তব কল্পকাহিনী - সুপার সোলজার</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-06-05 09:22:00 BDT">Sun, 05 Jun 2016 09:22:00 +0600</time>
-                      <time class="op-modified" dateTime="2016-06-08 09:11:00 BDT">2016-06-08 09:11:00 +0600</time>
+                      <time class="op-published" dateTime="2016-06-05 09:22:00 +06">Sun, 05 Jun 2016 09:22:00 +0600</time>
+                      <time class="op-modified" dateTime="2016-06-08 09:11:00 +06">2016-06-08 09:11:00 +0600</time>
                   </header>
 
                   
@@ -873,8 +875,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>Making a Text Based Progress Bar in Python</title>
-        <link>http://localhost:4000/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</guid>
+        <link>https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</guid>
         <pubDate>Fri, 13 May 2016 10:03:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -906,7 +908,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/05/13/making-a-text-based-progress-bar-in-python/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -919,8 +921,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                           <figcaption>Making a Text Based Progress Bar in Python</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-05-13 10:03:00 BDT">Fri, 13 May 2016 10:03:00 +0600</time>
-                      <time class="op-modified" dateTime="2016-05-13 10:53:00 BDT">2016-05-13 10:53:00 +0600</time>
+                      <time class="op-published" dateTime="2016-05-13 10:03:00 +06">Fri, 13 May 2016 10:03:00 +0600</time>
+                      <time class="op-modified" dateTime="2016-05-13 10:53:00 +06">2016-05-13 10:53:00 +0600</time>
                   </header>
 
                   
@@ -960,8 +962,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>Polarr - Awesome Image Editor for Linux</title>
-        <link>http://localhost:4000/blog/2016/05/10/polarr-awesome-image-editor/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/10/polarr-awesome-image-editor/</guid>
+        <link>https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/</guid>
         <pubDate>Tue, 10 May 2016 13:23:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -996,7 +998,7 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/05/10/polarr-awesome-image-editor/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1009,8 +1011,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
                           <figcaption>Polarr - Awesome Image Editor for Linux</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-05-10 13:23:00 BDT">Tue, 10 May 2016 13:23:00 +0600</time>
-                      <time class="op-modified" dateTime="2016-06-08 02:54:00 BDT">2016-06-08 2:54:00 +0600</time>
+                      <time class="op-published" dateTime="2016-05-10 13:23:00 +06">Tue, 10 May 2016 13:23:00 +0600</time>
+                      <time class="op-modified" dateTime="2016-06-08 02:54:00 +06">2016-06-08 2:54:00 +0600</time>
                   </header>
 
                   
@@ -1053,8 +1055,8 @@ inkscape filename.svg -M filename.emf</code></pre></figure>
     
       <item>
         <title>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</title>
-        <link>http://localhost:4000/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</guid>
+        <link>https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</guid>
         <pubDate>Tue, 10 May 2016 10:00:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1106,7 +1108,7 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1115,11 +1117,11 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
                       <h1>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" Cracking FaceBook Instant Articles With Jekyll - RSS Feed ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" Cracking FaceBook Instant Articles With Jekyll - RSS Feed ">
                           <figcaption>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-05-10 10:00:00 BDT">Tue, 10 May 2016 10:00:00 +0600</time>
+                      <time class="op-published" dateTime="2016-05-10 10:00:00 +06">Tue, 10 May 2016 10:00:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
 
@@ -1180,8 +1182,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর</title>
-        <link>http://localhost:4000/blog/2016/05/04/nera-beltola/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/04/nera-beltola/</guid>
+        <link>https://lordamit.github.io/blog/2016/05/04/nera-beltola/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/04/nera-beltola/</guid>
         <pubDate>Wed, 04 May 2016 15:30:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1201,16 +1203,16 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 &lt;p&gt;সঠিক উত্তর আমরা সবাই জানি। এর একটার জন্যও ট্যালেন্ট লাগে না। লাগে সতর্কতা, অধ্যবসায় আর পরিশ্রম।&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;কথা বলা&lt;/h2&gt;
+&lt;h2 id=&quot;কথা-বলা&quot;&gt;কথা বলা&lt;/h2&gt;
 &lt;p&gt;আমরা বিশ্ববিদ্যালয়ে গ্লোবাল স্কেলে কাজ করতে পারবে এমন মানুষ তৈরী করতে চাই। সেটার জন্যই একটা প্র্যাকটিস হিসাবে ইংরেজি বলতে বলা। অসংখ্য সফটওয়্যার ইঞ্জিনিয়ার দেখেছি - ভয়াবহ ট্যালেন্টেড। কিন্তু বুক ফাটে তো মুখ ফুটে না। লাভ কি ট্যালেন্ট দিয়ে যদি তুমি নিজের কথা অন্যদের বুঝাতেই না পারো? যদি দুইজন থাকে তোমার সামনে যারা সমান ট্যালেন্টেড - কিন্তু একজন কথাই বলে না - আরেকজন কমিউনিকেটিভ - কাকে তুমি কাজের জন্য নিবে?&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;প্রেজেন্টেশনে ভয় পাওয়া&lt;/h2&gt;
+&lt;h2 id=&quot;প্রেজেন্টেশনে-ভয়-পাওয়া&quot;&gt;প্রেজেন্টেশনে ভয় পাওয়া&lt;/h2&gt;
 &lt;p&gt;একটা গোপন কথা শেয়ার করি। ছোটবেলায় আমি অনেক নার্ভাস হতাম কথা বলতে আসলে স্টেজে কোন কারণে। পরে যখন মিরপুর ইনডোর স্টেডিয়ামে টেকনিকাল সেশন নিয়েছি, বা ন্যাশনাল হ্যাকাথনে স্টেজে উঠিয়ে দেয়া হয়েছে ৫ মিনিটের নো‌টিশে, হাজার খানেক মানুষের সামনে কথা বলার আগে আমার একটু হলেও কেমন জানি লেগেছে। মজার বিষয়, কথা বলা শুরু করার পরে আর সেগুলোর কথা তো মনেই থাকে না - উল্টো বলতে মজাই লাগে।  এটা পুরাপুরি অভ্যাসের এবং প্রস্তুতির ব্যাপার। অনেকেই আয়নার সামনে, নিজে নিজে বা বন্ধুদের সামনে প্র্যাকটিস করে, প্রস্তুতি নেয়। আমার যেখানেই, যত সময়ের জন্যই না কিছু বলা লাগে - আমি আগে থেকে প্রস্তুতি নিয়ে রাখি, সময়টাও লক্ষ্য রাখি। যতখানি সময় আমার জন্য আছে - সেটার মধ্যেই যেন সব গুছিয়ে আনতে পারি তার জন্য এই টাইমড প্র্যাকটিস।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;প্রোজেক্ট নাই হয়ে যাওয়া&lt;/h2&gt;
+&lt;h2 id=&quot;প্রোজেক্ট-নাই-হয়ে-যাওয়া&quot;&gt;প্রোজেক্ট নাই হয়ে যাওয়া&lt;/h2&gt;
 &lt;p&gt;কিচ্ছু বলার নাই। তোমাকে কেউ মানা করে নাই ব্যাকআপ রাখতে। নিজেকে মেইল করো, টীমের বাকিদের মেইল করো। ড্রপবক্স, গিট, বিটবাকেট - একশো যায়গা আছে এসব রাখার জন্য। যদি কোন কারণে কোড উধাও হয়ে যায় - সেটা পুরাপুরি তোমার গাফিলতির কারণে।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;প্রেজেন্টেশন&lt;/h2&gt;
+&lt;h2 id=&quot;প্রেজেন্টেশন&quot;&gt;প্রেজেন্টেশন&lt;/h2&gt;
 &lt;p&gt;কিছু কমন সেন্স ব্যবহার করা লাগে এটার জন্য।&lt;/p&gt;
 
 &lt;ul&gt;
@@ -1227,7 +1229,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
   &lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/damonnofar/22-flat-background-colors-for-your-presentation&quot; target=&quot;_blank&quot;&gt;22 Flat Background Colors for Your Presentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;ডকুমেন্টেশন&lt;/h2&gt;
+&lt;h2 id=&quot;ডকুমেন্টেশন&quot;&gt;ডকুমেন্টেশন&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;যে কোম্পানি একটা প্রোপোজালের ডকুমেন্ট ঠিক মতো করে না, সে কাজটাও ঠিক মতো করবে না। কাজ করে টাকা নিয়ে যখন ঐ কোম্পানি উধাও হয়ে যাবে - তখন তার কাজ তো বুঝা লাগবে ডকুমেন্টেশন পড়েই! কাজেই - বাদ।&lt;/p&gt;
@@ -1244,7 +1246,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/05/04/nera-beltola/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/05/04/nera-beltola/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1253,12 +1255,12 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর ">
                           <figcaption>ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-05-04 15:30:00 BDT">Wed, 04 May 2016 15:30:00 +0600</time>
-                      <time class="op-modified" dateTime="2016-05-05 00:00:00 BDT">2016-05-05</time>
+                      <time class="op-published" dateTime="2016-05-04 15:30:00 +06">Wed, 04 May 2016 15:30:00 +0600</time>
+                      <time class="op-modified" dateTime="2016-05-05 00:00:00 +06">2016-05-05</time>
                   </header>
 
                   
@@ -1278,16 +1280,16 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p>সঠিক উত্তর আমরা সবাই জানি। এর একটার জন্যও ট্যালেন্ট লাগে না। লাগে সতর্কতা, অধ্যবসায় আর পরিশ্রম।</p>
 
-<h2 id="section">কথা বলা</h2>
+<h2 id="কথা-বলা">কথা বলা</h2>
 <p>আমরা বিশ্ববিদ্যালয়ে গ্লোবাল স্কেলে কাজ করতে পারবে এমন মানুষ তৈরী করতে চাই। সেটার জন্যই একটা প্র্যাকটিস হিসাবে ইংরেজি বলতে বলা। অসংখ্য সফটওয়্যার ইঞ্জিনিয়ার দেখেছি - ভয়াবহ ট্যালেন্টেড। কিন্তু বুক ফাটে তো মুখ ফুটে না। লাভ কি ট্যালেন্ট দিয়ে যদি তুমি নিজের কথা অন্যদের বুঝাতেই না পারো? যদি দুইজন থাকে তোমার সামনে যারা সমান ট্যালেন্টেড - কিন্তু একজন কথাই বলে না - আরেকজন কমিউনিকেটিভ - কাকে তুমি কাজের জন্য নিবে?</p>
 
-<h2 id="section-1">প্রেজেন্টেশনে ভয় পাওয়া</h2>
+<h2 id="প্রেজেন্টেশনে-ভয়-পাওয়া">প্রেজেন্টেশনে ভয় পাওয়া</h2>
 <p>একটা গোপন কথা শেয়ার করি। ছোটবেলায় আমি অনেক নার্ভাস হতাম কথা বলতে আসলে স্টেজে কোন কারণে। পরে যখন মিরপুর ইনডোর স্টেডিয়ামে টেকনিকাল সেশন নিয়েছি, বা ন্যাশনাল হ্যাকাথনে স্টেজে উঠিয়ে দেয়া হয়েছে ৫ মিনিটের নো‌টিশে, হাজার খানেক মানুষের সামনে কথা বলার আগে আমার একটু হলেও কেমন জানি লেগেছে। মজার বিষয়, কথা বলা শুরু করার পরে আর সেগুলোর কথা তো মনেই থাকে না - উল্টো বলতে মজাই লাগে।  এটা পুরাপুরি অভ্যাসের এবং প্রস্তুতির ব্যাপার। অনেকেই আয়নার সামনে, নিজে নিজে বা বন্ধুদের সামনে প্র্যাকটিস করে, প্রস্তুতি নেয়। আমার যেখানেই, যত সময়ের জন্যই না কিছু বলা লাগে - আমি আগে থেকে প্রস্তুতি নিয়ে রাখি, সময়টাও লক্ষ্য রাখি। যতখানি সময় আমার জন্য আছে - সেটার মধ্যেই যেন সব গুছিয়ে আনতে পারি তার জন্য এই টাইমড প্র্যাকটিস।</p>
 
-<h2 id="section-2">প্রোজেক্ট নাই হয়ে যাওয়া</h2>
+<h2 id="প্রোজেক্ট-নাই-হয়ে-যাওয়া">প্রোজেক্ট নাই হয়ে যাওয়া</h2>
 <p>কিচ্ছু বলার নাই। তোমাকে কেউ মানা করে নাই ব্যাকআপ রাখতে। নিজেকে মেইল করো, টীমের বাকিদের মেইল করো। ড্রপবক্স, গিট, বিটবাকেট - একশো যায়গা আছে এসব রাখার জন্য। যদি কোন কারণে কোড উধাও হয়ে যায় - সেটা পুরাপুরি তোমার গাফিলতির কারণে।</p>
 
-<h2 id="section-3">প্রেজেন্টেশন</h2>
+<h2 id="প্রেজেন্টেশন">প্রেজেন্টেশন</h2>
 <p>কিছু কমন সেন্স ব্যবহার করা লাগে এটার জন্য।</p>
 
 <ul>
@@ -1304,7 +1306,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
   <li><a href="http://www.slideshare.net/damonnofar/22-flat-background-colors-for-your-presentation" target="_blank">22 Flat Background Colors for Your Presentation</a></li>
 </ul>
 
-<h2 id="section-4">ডকুমেন্টেশন</h2>
+<h2 id="ডকুমেন্টেশন">ডকুমেন্টেশন</h2>
 
 <blockquote>
   <p>যে কোম্পানি একটা প্রোপোজালের ডকুমেন্ট ঠিক মতো করে না, সে কাজটাও ঠিক মতো করবে না। কাজ করে টাকা নিয়ে যখন ঐ কোম্পানি উধাও হয়ে যাবে - তখন তার কাজ তো বুঝা লাগবে ডকুমেন্টেশন পড়েই! কাজেই - বাদ।</p>
@@ -1329,8 +1331,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>Showing Bangla properly in Atom Editor</title>
-        <link>http://localhost:4000/blog/2016/05/03/showing-bangla-properly-in-atom-editor/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/03/showing-bangla-properly-in-atom-editor/</guid>
+        <link>https://lordamit.github.io/blog/2016/05/03/showing-bangla-properly-in-atom-editor/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/03/showing-bangla-properly-in-atom-editor/</guid>
         <pubDate>Tue, 03 May 2016 15:22:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1382,7 +1384,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/05/03/showing-bangla-properly-in-atom-editor/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/05/03/showing-bangla-properly-in-atom-editor/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1395,8 +1397,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                           <figcaption>Showing Bangla properly in Atom Editor</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-05-03 15:22:00 BDT">Tue, 03 May 2016 15:22:00 +0600</time>
-                      <time class="op-modified" dateTime="2016-05-03 16:22:10 BDT">2016-05-03 16:22:10 +0600</time>
+                      <time class="op-published" dateTime="2016-05-03 15:22:00 +06">Tue, 03 May 2016 15:22:00 +0600</time>
+                      <time class="op-modified" dateTime="2016-05-03 16:22:10 +06">2016-05-03 16:22:10 +0600</time>
                   </header>
 
                   
@@ -1456,17 +1458,19 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</title>
-        <link>http://localhost:4000/blog/2016/04/28/time-and-task-management-in-linux/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/28/time-and-task-management-in-linux/</guid>
+        <link>https://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/</guid>
         <pubDate>Thu, 28 Apr 2016 19:47:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
-          <description>&lt;p&gt;আমি মোটামুটি বিশদ পরিমাণে ঘাটাঘাটি করেছি গত কয়দিন ধরে একটা ভালো টাস্ক ম্যানেজারের জন্য লিনাক্সে। অনেক কিছুই তো আছে, কিন্তু কোনটাই মনের মতো মিলছিলো না। দরকার ছিলো এমন একটা কিছু, যেটা
-- ফ্রি
-- প্রোজেক্ট অনুসারে টাইমার চালাতে দিবে
-- ওয়েবসাইটে স্ট্যাটিসটিকস দিবে
-- মোবাইলে সাপোর্ট দিবে এবং সবচেয়ে বেশি যেটা দরকার,
-- অটোমেটিকালি স্ক্রিনশট নিয়ে আমার নিজের কাজ মনিটর করতে সাহায্য করবে&lt;/p&gt;
+          <description>&lt;p&gt;আমি মোটামুটি বিশদ পরিমাণে ঘাটাঘাটি করেছি গত কয়দিন ধরে একটা ভালো টাস্ক ম্যানেজারের জন্য লিনাক্সে। অনেক কিছুই তো আছে, কিন্তু কোনটাই মনের মতো মিলছিলো না। দরকার ছিলো এমন একটা কিছু, যেটা&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ফ্রি&lt;/li&gt;
+  &lt;li&gt;প্রোজেক্ট অনুসারে টাইমার চালাতে দিবে&lt;/li&gt;
+  &lt;li&gt;ওয়েবসাইটে স্ট্যাটিসটিকস দিবে&lt;/li&gt;
+  &lt;li&gt;মোবাইলে সাপোর্ট দিবে এবং সবচেয়ে বেশি যেটা দরকার,&lt;/li&gt;
+  &lt;li&gt;অটোমেটিকালি স্ক্রিনশট নিয়ে আমার নিজের কাজ মনিটর করতে সাহায্য করবে&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;ঝামেলা হলো, অসংখ্যা টাস্ক ম্যানেজার আছে উবুন্টুর জন্য। যেমন:&lt;/p&gt;
 
@@ -1489,7 +1493,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/04/28/time-and-task-management-in-linux/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1498,21 +1502,23 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট ">
                           <figcaption>উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-04-28 19:47:00 BDT">Thu, 28 Apr 2016 19:47:00 +0600</time>
-                      <time class="op-modified" dateTime="2016-04-28 19:47:00 BDT">2016-04-28 19:47:00 +0600</time>
+                      <time class="op-published" dateTime="2016-04-28 19:47:00 +06">Thu, 28 Apr 2016 19:47:00 +0600</time>
+                      <time class="op-modified" dateTime="2016-04-28 19:47:00 +06">2016-04-28 19:47:00 +0600</time>
                   </header>
 
                   
-                    <p>আমি মোটামুটি বিশদ পরিমাণে ঘাটাঘাটি করেছি গত কয়দিন ধরে একটা ভালো টাস্ক ম্যানেজারের জন্য লিনাক্সে। অনেক কিছুই তো আছে, কিন্তু কোনটাই মনের মতো মিলছিলো না। দরকার ছিলো এমন একটা কিছু, যেটা
-- ফ্রি
-- প্রোজেক্ট অনুসারে টাইমার চালাতে দিবে
-- ওয়েবসাইটে স্ট্যাটিসটিকস দিবে
-- মোবাইলে সাপোর্ট দিবে এবং সবচেয়ে বেশি যেটা দরকার,
-- অটোমেটিকালি স্ক্রিনশট নিয়ে আমার নিজের কাজ মনিটর করতে সাহায্য করবে</p>
+                    <p>আমি মোটামুটি বিশদ পরিমাণে ঘাটাঘাটি করেছি গত কয়দিন ধরে একটা ভালো টাস্ক ম্যানেজারের জন্য লিনাক্সে। অনেক কিছুই তো আছে, কিন্তু কোনটাই মনের মতো মিলছিলো না। দরকার ছিলো এমন একটা কিছু, যেটা</p>
+<ul>
+  <li>ফ্রি</li>
+  <li>প্রোজেক্ট অনুসারে টাইমার চালাতে দিবে</li>
+  <li>ওয়েবসাইটে স্ট্যাটিসটিকস দিবে</li>
+  <li>মোবাইলে সাপোর্ট দিবে এবং সবচেয়ে বেশি যেটা দরকার,</li>
+  <li>অটোমেটিকালি স্ক্রিনশট নিয়ে আমার নিজের কাজ মনিটর করতে সাহায্য করবে</li>
+</ul>
 
 <p>ঝামেলা হলো, অসংখ্যা টাস্ক ম্যানেজার আছে উবুন্টুর জন্য। যেমন:</p>
 
@@ -1543,8 +1549,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা</title>
-        <link>http://localhost:4000/blog/2016/04/28/cmu-industry-and-academia/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/28/cmu-industry-and-academia/</guid>
+        <link>https://lordamit.github.io/blog/2016/04/28/cmu-industry-and-academia/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/28/cmu-industry-and-academia/</guid>
         <pubDate>Thu, 28 Apr 2016 16:24:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1556,13 +1562,13 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 &lt;p&gt;আমার মতে এখানে বেশ কিছু গুরুত্বপূর্ণ জিনিষ উঠে এসেছে।&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;ভার্সিটিতে গবেষণা&lt;/h2&gt;
+&lt;h2 id=&quot;ভার্সিটিতে-গবেষণা&quot;&gt;ভার্সিটিতে গবেষণা&lt;/h2&gt;
 &lt;p&gt;ভার্সিটির ফ্যাকাল্টিদের মূল কাজ গবেষনা করা। সেই গবেষনা এগিয়ে নিয়ে যাবার জন্য দরকার হলে তারা যেন ইন্ডাস্ট্রিতে যান - সে ব্যপাারে উৎসাহিত করা হচ্ছে কার্নেগি মেলনে। আমরা কেন জানি এখানে ভার্সিটি, কলেজ, স্কুল সবখানে শিক্ষক বলি। বাইরে বলে ফ্যাকাল্টি বা ফ্যাকাল্টি সদস্য। এখানে কিভাবে জানি মানুষের মনেও ধারণা হয়ে গেছে, ইউনিভার্সিটিতে শিক্ষক কেবল মাত্র পড়াবেন। আর কিছু করবেন না। শিক্ষকতা ভার্সিটি পর্যায়ে একমাত্র দায়িত্ব না। গবেষনার মাধ্যমে নিত্যনতুন জ্ঞান তৈরী করা ভার্সিটির মূল কাজ। সেটার জন্য ইন্ডাস্ট্রি একাডেমিয়ার একসাথে মিলে কাজ করাটা খুবই গুরুত্বপূর্ণ - বিশেষ করে কম্পিউটার সায়েন্স বা সফটওয়্যার ইঞ্জিনিয়ারিং জাতীয় ক্ষেত্রে। আমাদের এখানে সবাই অবশ্য ফ্রিল্যান্সিং এই ব্যস্ত। Research and Development উইং তো নিজেদের প্রোডাক্ট থাকলে তার পরে খুলবে! এরপরেই তো একাডেমিয়া ইন্ডাস্ট্রি কোলাবরেশনের কথা আসবে।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;অন্যান্য যায়গায় কাজ করা&lt;/h2&gt;
+&lt;h2 id=&quot;অন্যান্য-যায়গায়-কাজ-করা&quot;&gt;অন্যান্য যায়গায় কাজ করা&lt;/h2&gt;
 &lt;p&gt;এটা খুবই মজার। পৃথিবীর বিভিন্ন যায়গায় ভার্সিটির ফ্যাকাল্টিদের এক্সটার্নাল এক্সপার্ট হিসাবে ডাকা হয় মতামত দেবার জন্য। এক্সটার্নাল ফ্যাকাল্টি হিসাবে ডাকা হয় কারণ নিজেদের ঐ বিষয়ে জানার ব্যাপ্তি আরো বাড়ানোর জন্য। আমাদের এখানে বরং অন্য যায়গায় গেলে আমাদের শিক্ষার্থী বা ‌*এহেম* মন্ত্রীদের মাথা ব্যথা হয়ে যায়। অবশ্য এর কারণও আছে। অন্যান্য যায়গার মতো আমাদের এখানে জবাবদিহিতা নেই বলে অনেক ফ্যাকাল্টি সেটার সুযোগ নিয়ে সেচ্ছাচারিতা করেন। অনেক ক্ষেত্রেই তাদের সময়ের বা দায়িত্বের পরিমাণ নিজের ভার্সিটির চাইতে অন্য যায়গায় বেশি থাকে। এটা বেশ বড় একটা সমস্যা। আবার অনেকে ইচ্ছা না থাকলেও বাইরে কাজ করতে বাধ্য হন। চিন্তা করে দেখুন, আপনার সম যোগ্যতা সম্পন্ন কেউ ইন্ডাস্ট্রিতে আপনার কয়েক গুন বেশি সুবিধা পাচ্ছে - আর আপনার সংসার টানাটানি করে চালাতে হচ্ছে। হয়তো আপনার টাকার প্রতি টান নেই, কিন্তু আপনার পরিবার? তাদের সুবিধা দেখা দরকার, সন্তানদের ভালো পড়াশুনা নিশ্চিত করা দরকার, সামাজিক নিরাপত্তা, চিকিৎসা - এসব সুবিধারও দরকার। কেন আপনি চাইবেন সেগুলো থেকে নিজেকে এবং অন্যদের বঞ্চিত করতে, যেখানে আপনি সবচেয়ে যোগ্যদের একজন?&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;দরকার পরিবর্তনের&lt;/h2&gt;
+&lt;h2 id=&quot;দরকার-পরিবর্তনের&quot;&gt;দরকার পরিবর্তনের&lt;/h2&gt;
 &lt;p&gt;আমাদের এখানে সিস্টেমটা পাল্টানো দরকার। ভার্সিটিগুলো কেমন জানি ট্রেইনিং সেন্টার টাইপ হয়ে যাচ্ছে বলে মনে হয় আমার মাঝে মাঝে। ভার্সিটিতে শেখা শুধু ক্লাসে না, সেটা আশে পাশে মানুষের থেকে, রাস্তায় ঘুরেও করা লাগে। তা নাহলে সেটার সাথে স্কুলের পার্থক্য হলো কই?&lt;/p&gt;
 
 &lt;p&gt;ভার্সিটিতে মূল যে দায়িত্ব গবেষণা করা, দেশ ও জাতিকে দিকনির্দেশনা দেয়া - সেখান থেকে আমরা অনেক দূরে সরে এসেছি। প্রমোশনের জন্য আমরা গবেষণা করি, কিন্তু পাবলিকেশনের ইমপ্যাক্ট দেখি না। আবার প্রমোশন ছাড়া বেতনও বাড়ে না, তাই দ্রুত প্রমোশন জরুরী হয়ে যায় টিকে থাকার জন্য। জবাবদিহিতাও নিয়ে আসা দরকার - কিন্তু সেটার বদলে সেচ্ছাচারিতাই চোখে পরে বেশি। সব মিলিয়ে কেমন জানি একটা আধাখ্যাচড়া অবস্থায় আমরা। পরিবর্তন যে দরকার, সেটা আমরা সবাই বুঝি, জানি।&lt;/p&gt;
@@ -1576,7 +1582,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/04/28/cmu-industry-and-academia/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/28/cmu-industry-and-academia/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1585,11 +1591,11 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা ">
                           <figcaption>কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-04-28 16:24:00 BDT">Thu, 28 Apr 2016 16:24:00 +0600</time>
+                      <time class="op-published" dateTime="2016-04-28 16:24:00 +06">Thu, 28 Apr 2016 16:24:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
 
@@ -1602,13 +1608,13 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <p>আমার মতে এখানে বেশ কিছু গুরুত্বপূর্ণ জিনিষ উঠে এসেছে।</p>
 
-<h2 id="section">ভার্সিটিতে গবেষণা</h2>
+<h2 id="ভার্সিটিতে-গবেষণা">ভার্সিটিতে গবেষণা</h2>
 <p>ভার্সিটির ফ্যাকাল্টিদের মূল কাজ গবেষনা করা। সেই গবেষনা এগিয়ে নিয়ে যাবার জন্য দরকার হলে তারা যেন ইন্ডাস্ট্রিতে যান - সে ব্যপাারে উৎসাহিত করা হচ্ছে কার্নেগি মেলনে। আমরা কেন জানি এখানে ভার্সিটি, কলেজ, স্কুল সবখানে শিক্ষক বলি। বাইরে বলে ফ্যাকাল্টি বা ফ্যাকাল্টি সদস্য। এখানে কিভাবে জানি মানুষের মনেও ধারণা হয়ে গেছে, ইউনিভার্সিটিতে শিক্ষক কেবল মাত্র পড়াবেন। আর কিছু করবেন না। শিক্ষকতা ভার্সিটি পর্যায়ে একমাত্র দায়িত্ব না। গবেষনার মাধ্যমে নিত্যনতুন জ্ঞান তৈরী করা ভার্সিটির মূল কাজ। সেটার জন্য ইন্ডাস্ট্রি একাডেমিয়ার একসাথে মিলে কাজ করাটা খুবই গুরুত্বপূর্ণ - বিশেষ করে কম্পিউটার সায়েন্স বা সফটওয়্যার ইঞ্জিনিয়ারিং জাতীয় ক্ষেত্রে। আমাদের এখানে সবাই অবশ্য ফ্রিল্যান্সিং এই ব্যস্ত। Research and Development উইং তো নিজেদের প্রোডাক্ট থাকলে তার পরে খুলবে! এরপরেই তো একাডেমিয়া ইন্ডাস্ট্রি কোলাবরেশনের কথা আসবে।</p>
 
-<h2 id="section-1">অন্যান্য যায়গায় কাজ করা</h2>
+<h2 id="অন্যান্য-যায়গায়-কাজ-করা">অন্যান্য যায়গায় কাজ করা</h2>
 <p>এটা খুবই মজার। পৃথিবীর বিভিন্ন যায়গায় ভার্সিটির ফ্যাকাল্টিদের এক্সটার্নাল এক্সপার্ট হিসাবে ডাকা হয় মতামত দেবার জন্য। এক্সটার্নাল ফ্যাকাল্টি হিসাবে ডাকা হয় কারণ নিজেদের ঐ বিষয়ে জানার ব্যাপ্তি আরো বাড়ানোর জন্য। আমাদের এখানে বরং অন্য যায়গায় গেলে আমাদের শিক্ষার্থী বা ‌*এহেম* মন্ত্রীদের মাথা ব্যথা হয়ে যায়। অবশ্য এর কারণও আছে। অন্যান্য যায়গার মতো আমাদের এখানে জবাবদিহিতা নেই বলে অনেক ফ্যাকাল্টি সেটার সুযোগ নিয়ে সেচ্ছাচারিতা করেন। অনেক ক্ষেত্রেই তাদের সময়ের বা দায়িত্বের পরিমাণ নিজের ভার্সিটির চাইতে অন্য যায়গায় বেশি থাকে। এটা বেশ বড় একটা সমস্যা। আবার অনেকে ইচ্ছা না থাকলেও বাইরে কাজ করতে বাধ্য হন। চিন্তা করে দেখুন, আপনার সম যোগ্যতা সম্পন্ন কেউ ইন্ডাস্ট্রিতে আপনার কয়েক গুন বেশি সুবিধা পাচ্ছে - আর আপনার সংসার টানাটানি করে চালাতে হচ্ছে। হয়তো আপনার টাকার প্রতি টান নেই, কিন্তু আপনার পরিবার? তাদের সুবিধা দেখা দরকার, সন্তানদের ভালো পড়াশুনা নিশ্চিত করা দরকার, সামাজিক নিরাপত্তা, চিকিৎসা - এসব সুবিধারও দরকার। কেন আপনি চাইবেন সেগুলো থেকে নিজেকে এবং অন্যদের বঞ্চিত করতে, যেখানে আপনি সবচেয়ে যোগ্যদের একজন?</p>
 
-<h2 id="section-2">দরকার পরিবর্তনের</h2>
+<h2 id="দরকার-পরিবর্তনের">দরকার পরিবর্তনের</h2>
 <p>আমাদের এখানে সিস্টেমটা পাল্টানো দরকার। ভার্সিটিগুলো কেমন জানি ট্রেইনিং সেন্টার টাইপ হয়ে যাচ্ছে বলে মনে হয় আমার মাঝে মাঝে। ভার্সিটিতে শেখা শুধু ক্লাসে না, সেটা আশে পাশে মানুষের থেকে, রাস্তায় ঘুরেও করা লাগে। তা নাহলে সেটার সাথে স্কুলের পার্থক্য হলো কই?</p>
 
 <p>ভার্সিটিতে মূল যে দায়িত্ব গবেষণা করা, দেশ ও জাতিকে দিকনির্দেশনা দেয়া - সেখান থেকে আমরা অনেক দূরে সরে এসেছি। প্রমোশনের জন্য আমরা গবেষণা করি, কিন্তু পাবলিকেশনের ইমপ্যাক্ট দেখি না। আবার প্রমোশন ছাড়া বেতনও বাড়ে না, তাই দ্রুত প্রমোশন জরুরী হয়ে যায় টিকে থাকার জন্য। জবাবদিহিতাও নিয়ে আসা দরকার - কিন্তু সেটার বদলে সেচ্ছাচারিতাই চোখে পরে বেশি। সব মিলিয়ে কেমন জানি একটা আধাখ্যাচড়া অবস্থায় আমরা। পরিবর্তন যে দরকার, সেটা আমরা সবাই বুঝি, জানি।</p>
@@ -1630,8 +1636,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>প্রোগ্রামিং শিখতে হলে</title>
-        <link>http://localhost:4000/blog/2016/04/25/programming-shekha/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/25/programming-shekha/</guid>
+        <link>https://lordamit.github.io/blog/2016/04/25/programming-shekha/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/25/programming-shekha/</guid>
         <pubDate>Mon, 25 Apr 2016 04:26:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1640,29 +1646,29 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 &lt;!-- more --&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;প্রোগ্রামিং এবং প্রোগ্রামিং ল্যাঙ্গুয়েজ এক না&lt;/h2&gt;
+&lt;h2 id=&quot;প্রোগ্রামিং-এবং-প্রোগ্রামিং-ল্যাঙ্গুয়েজ-এক-না&quot;&gt;প্রোগ্রামিং এবং প্রোগ্রামিং ল্যাঙ্গুয়েজ এক না&lt;/h2&gt;
 &lt;p&gt;অনেকেই প্রোগ্রামিং শিখতে গিয়ে ল্যাঙ্গুয়েজ নিয়ে আগে মাথা ঘামায়। দিনশেষে ল্যাঙ্গুয়েজ একটা টুল মাত্র। মূল কাজটা হলো কোন একটা সমস্যার সমাধান করার জন্য বিভিন্ন যৌক্তিক ভাগে ভাগ করে একটা সমাধান তৈরী করা। এমনও হয়েছে, আমি আরেকজনের কাছে শুনেছি যে এই সমস্যাটা এই প্রোগ্রামিং ল্যাঙ্গুয়েজে কিভাবে করবো বুঝতেছি না। আগে তো চিন্তা করতে হবে সমাধানটা কিভাবে করবো সেটা নিয়ে। তার পরে সেটা ল্যাঙ্গুয়েজ দিয়ে তৈরী করবো মাত্র। অবশ্যই ল্যাঙ্গুয়েজটা ব্যাবহার করা জানতে হবে, সেটা ব্যবহার করে করে সমাধানে পৌঁছানো শিখতে হবে। কিন্তু এই ছোট্ট পার্থক্যটা আমরা কেন জানি ভুলে যাই।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;পড়া এবং লেখা&lt;/h2&gt;
+&lt;h2 id=&quot;পড়া-এবং-লেখা&quot;&gt;পড়া এবং লেখা&lt;/h2&gt;
 &lt;p&gt;সাধারণত Herbert Schildt এর Teach Yourself C দিয়ে আমাদের অনেকের প্রোগ্রামিংয়ের হাতে খড়ি হয়। অবাক হয়ে দেখেছি বইয়ে এত সুন্দর সুন্দর উদাহরণ, অনুশীলনী থাকার পরেও অনেকে শিখতে পারছে না। একটু ঘাটাতেই লক্ষ্য করেছি তারা জিনিষগুলা পড়েই গেছে। কখনো টাইপ করেনি।
 উদাহরণের প্রোগ্রামিং দেখে দেখে হলেও টাইপ করে, বা লিখে শিখতে হবে। এটা করলে ঐ প্রোগ্রামিং ভাষা সমন্ধে জানা যায়, লেখার অভ্যাস হয়। আমাদের আয়ত্তে আসে।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;খুঁটিনাটি লক্ষ্য করা&lt;/h2&gt;
+&lt;h2 id=&quot;খুঁটিনাটি-লক্ষ্য-করা&quot;&gt;খুঁটিনাটি লক্ষ্য করা&lt;/h2&gt;
 &lt;p&gt;এইখানেই দুনিয়ার ভালো প্রোগ্রামার আর ভালো হতে চাওয়া প্রোগ্রামারদের মাঝে পার্থক্য। বই বা অন্য কিছু যখন আমরা পড়বো, তখন একদম প্রতিটা লাইন পড়ে পড়ে যেতে হবে। তা নাহলে অনেক ফাঁক ফোঁকর থেকে যায়। পরবর্তিতে সেগুলা সমস্যার সৃষ্টি করে। আমার বইগুলা তো আমি মোটামুটি রক্তাক্ত করে ফেলি দাগিয়ে পড়ার সময়।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;পার্থক্য লক্ষ্য করা&lt;/h2&gt;
+&lt;h2 id=&quot;পার্থক্য-লক্ষ্য-করা&quot;&gt;পার্থক্য লক্ষ্য করা&lt;/h2&gt;
 &lt;p&gt;খুব কম মানুষই আছে যারা ওয়েবসাইট বা অন্য কোথাও থেকে দেখে দেখে প্রোগ্রাম করেছে এবং তার পরে নিজের লেখা প্রোগ্রামে বাগ(ক্রুটি) পায়নি। এমনটাই হওয়া স্বাভাবিক্। কিন্তু এর পরে আমরা সাধারণত বিরক্ত হয়ে প্রোগ্রামটা কপি পেস্ট মারি। এতে যা হয়, তা হলো আমরা দেখে দেখে করার পরেও যে ভুল করেছিলাম – সেটার সমন্ধে জানি না। দেখে দেখে করার সময়ই যদি আমরা ভেজাল পাকাই – নিজে নিজে প্রোগ্রাম করার সময় ভেজাল পাকাতে বাধ্য।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;কপি পেস্ট&lt;/h2&gt;
+&lt;h2 id=&quot;কপি-পেস্ট&quot;&gt;কপি পেস্ট&lt;/h2&gt;
 &lt;p&gt;আমরা কপি পেস্ট করতে খুব পছন্দ করি। এসাইনমেন্ট, রিপোর্ট, প্রোগ্রামিং ইত্যাদি। অনেক ক্ষেত্রে হয়তো কপি পেস্ট করা লাগেই, কিন্তু সেটা প্রোগ্রামিংয়ে করা উচিত না। একদম প্রথম পর্যায়ে আমরা কপি পেস্ট করে প্রোগ্রামিং করতে গিয়ে নিজেদের গোড়াটাই দুর্বল করে ফেলি। সময়ের সাথে সাথে সেই দুর্বল গোড়া আরো দুর্বল হয়। কপি পেস্ট করা মানেই নিজেকে ঠকানো। এইটা করতে যাবেন না।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-5&quot;&gt;অনুশীলন এবং লেগে থাকা&lt;/h2&gt;
+&lt;h2 id=&quot;অনুশীলন-এবং-লেগে-থাকা&quot;&gt;অনুশীলন এবং লেগে থাকা&lt;/h2&gt;
 &lt;p&gt;প্রোগ্রামিং জিনিষটা লেগে থাকার। গান শিখতে হলে প্রতিদিন চেষ্টা করতে হয়, গিটার শিখতে হলেও প্রতিদিন চেষ্টা করতে হয়। অথচ প্রোগ্রামিং শিখতে হলেও যে লেগে থাকতে হয় – তা আমাদের মাথায় আসে না। টানা চেষ্টা করে যেতে হবে শেখার জন্য। এমনও দিন গেছে যখন আমি একটা বাগের পিছনে ৩ দিন মাথা কুটেও কিচ্ছু পাইনি। শেষে যখন বাগ ধরা পড়েছে, সেটা মোটামুটি আমার মাথায় গেঁথে গেছে। ভুল করা স্বাভাবিক। কিন্তু হাল ছেড়ে দেয়া মোটেও ঠিক না।&lt;/p&gt;
 
-&lt;h2 id=&quot;ide--editor----&quot;&gt;IDE বা Editor নিয়ে নাকানি চুবানি খাওয়া&lt;/h2&gt;
+&lt;h2 id=&quot;ide-বা-editor-নিয়ে-নাকানি-চুবানি-খাওয়া&quot;&gt;IDE বা Editor নিয়ে নাকানি চুবানি খাওয়া&lt;/h2&gt;
 &lt;p&gt;এটা খুব কমন। প্রোগ্রামিং শেখার আগে কি দিয়ে প্রোগ্রামিং করবো, কোন এডিটর ভালো এইসব চিন্তা করি আমরা অনেকে। এত কিছু ভাবার দরকার নাই। আগে Notepad++ বা Gedit বা কোন সহজ Editor দিয়ে শুরু তো করেন। (অনেক অভিজ্ঞ প্রোগ্রামার চোখ উল্টে পরে যাবেন) যে সহজ সাধারণ এডিটর দিয়ে প্রোগ্রামিং করতে পারে, সে IDE তে খুব তাড়াতাড়ি রপ্ত হতে পারবে। প্রোগ্রামিংয়ের জন্য IDE, IDE এর জন্য প্রোগ্রামিং না।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-6&quot;&gt;শেষ কথা&lt;/h2&gt;
+&lt;h2 id=&quot;শেষ-কথা&quot;&gt;শেষ কথা&lt;/h2&gt;
 &lt;p&gt;প্রথম প্রথম প্রোগ্রামিং খুব কঠিন লাগে। কিচ্ছু আগা মাথা পাওয়া যায় না। মনে হয়, এটা আমার জন্য না। এইটা পারি না। কচু গাছে ঝুলার জন্য দঁড়িও খুঁজি আমরা মাঝে মাঝে যখন দেখি আশে পাশের সবাই পারছে কিন্তু নিজে পারছি না।&lt;/p&gt;
 
 &lt;p&gt;কিন্তু  মানুষের যেকোন ভাষা শিখতে হলেই এর চাইতেও বেশি কষ্ট করা লাগবে। চেষ্টা করে যেতেই হবে, তাহলেই প্রোগ্রামিং শেখা সম্ভব। হাল ছাড়লে আমরা কখনো এগিয়ে যেতে পারবো না। এটা মনে রাখা দরকার।&lt;/p&gt;
@@ -1678,7 +1684,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/04/25/programming-shekha/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/25/programming-shekha/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1687,12 +1693,12 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>প্রোগ্রামিং শিখতে হলে</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" প্রোগ্রামিং শিখতে হলে ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" প্রোগ্রামিং শিখতে হলে ">
                           <figcaption>প্রোগ্রামিং শিখতে হলে</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-04-25 04:26:00 BDT">Mon, 25 Apr 2016 04:26:00 +0600</time>
-                      <time class="op-modified" dateTime="2016-05-14 13:16:00 BDT">14-05-2016 13:16:00 +0600</time>
+                      <time class="op-published" dateTime="2016-04-25 04:26:00 +06">Mon, 25 Apr 2016 04:26:00 +0600</time>
+                      <time class="op-modified" dateTime="2016-05-14 13:16:00 +06">14-05-2016 13:16:00 +0600</time>
                   </header>
 
                   
@@ -1701,29 +1707,29 @@ For the second one, I created a new file called <code class="highlighter-rouge">
 
 <!-- more -->
 
-<h2 id="section">প্রোগ্রামিং এবং প্রোগ্রামিং ল্যাঙ্গুয়েজ এক না</h2>
+<h2 id="প্রোগ্রামিং-এবং-প্রোগ্রামিং-ল্যাঙ্গুয়েজ-এক-না">প্রোগ্রামিং এবং প্রোগ্রামিং ল্যাঙ্গুয়েজ এক না</h2>
 <p>অনেকেই প্রোগ্রামিং শিখতে গিয়ে ল্যাঙ্গুয়েজ নিয়ে আগে মাথা ঘামায়। দিনশেষে ল্যাঙ্গুয়েজ একটা টুল মাত্র। মূল কাজটা হলো কোন একটা সমস্যার সমাধান করার জন্য বিভিন্ন যৌক্তিক ভাগে ভাগ করে একটা সমাধান তৈরী করা। এমনও হয়েছে, আমি আরেকজনের কাছে শুনেছি যে এই সমস্যাটা এই প্রোগ্রামিং ল্যাঙ্গুয়েজে কিভাবে করবো বুঝতেছি না। আগে তো চিন্তা করতে হবে সমাধানটা কিভাবে করবো সেটা নিয়ে। তার পরে সেটা ল্যাঙ্গুয়েজ দিয়ে তৈরী করবো মাত্র। অবশ্যই ল্যাঙ্গুয়েজটা ব্যাবহার করা জানতে হবে, সেটা ব্যবহার করে করে সমাধানে পৌঁছানো শিখতে হবে। কিন্তু এই ছোট্ট পার্থক্যটা আমরা কেন জানি ভুলে যাই।</p>
 
-<h2 id="section-1">পড়া এবং লেখা</h2>
+<h2 id="পড়া-এবং-লেখা">পড়া এবং লেখা</h2>
 <p>সাধারণত Herbert Schildt এর Teach Yourself C দিয়ে আমাদের অনেকের প্রোগ্রামিংয়ের হাতে খড়ি হয়। অবাক হয়ে দেখেছি বইয়ে এত সুন্দর সুন্দর উদাহরণ, অনুশীলনী থাকার পরেও অনেকে শিখতে পারছে না। একটু ঘাটাতেই লক্ষ্য করেছি তারা জিনিষগুলা পড়েই গেছে। কখনো টাইপ করেনি।
 উদাহরণের প্রোগ্রামিং দেখে দেখে হলেও টাইপ করে, বা লিখে শিখতে হবে। এটা করলে ঐ প্রোগ্রামিং ভাষা সমন্ধে জানা যায়, লেখার অভ্যাস হয়। আমাদের আয়ত্তে আসে।</p>
 
-<h2 id="section-2">খুঁটিনাটি লক্ষ্য করা</h2>
+<h2 id="খুঁটিনাটি-লক্ষ্য-করা">খুঁটিনাটি লক্ষ্য করা</h2>
 <p>এইখানেই দুনিয়ার ভালো প্রোগ্রামার আর ভালো হতে চাওয়া প্রোগ্রামারদের মাঝে পার্থক্য। বই বা অন্য কিছু যখন আমরা পড়বো, তখন একদম প্রতিটা লাইন পড়ে পড়ে যেতে হবে। তা নাহলে অনেক ফাঁক ফোঁকর থেকে যায়। পরবর্তিতে সেগুলা সমস্যার সৃষ্টি করে। আমার বইগুলা তো আমি মোটামুটি রক্তাক্ত করে ফেলি দাগিয়ে পড়ার সময়।</p>
 
-<h2 id="section-3">পার্থক্য লক্ষ্য করা</h2>
+<h2 id="পার্থক্য-লক্ষ্য-করা">পার্থক্য লক্ষ্য করা</h2>
 <p>খুব কম মানুষই আছে যারা ওয়েবসাইট বা অন্য কোথাও থেকে দেখে দেখে প্রোগ্রাম করেছে এবং তার পরে নিজের লেখা প্রোগ্রামে বাগ(ক্রুটি) পায়নি। এমনটাই হওয়া স্বাভাবিক্। কিন্তু এর পরে আমরা সাধারণত বিরক্ত হয়ে প্রোগ্রামটা কপি পেস্ট মারি। এতে যা হয়, তা হলো আমরা দেখে দেখে করার পরেও যে ভুল করেছিলাম – সেটার সমন্ধে জানি না। দেখে দেখে করার সময়ই যদি আমরা ভেজাল পাকাই – নিজে নিজে প্রোগ্রাম করার সময় ভেজাল পাকাতে বাধ্য।</p>
 
-<h2 id="section-4">কপি পেস্ট</h2>
+<h2 id="কপি-পেস্ট">কপি পেস্ট</h2>
 <p>আমরা কপি পেস্ট করতে খুব পছন্দ করি। এসাইনমেন্ট, রিপোর্ট, প্রোগ্রামিং ইত্যাদি। অনেক ক্ষেত্রে হয়তো কপি পেস্ট করা লাগেই, কিন্তু সেটা প্রোগ্রামিংয়ে করা উচিত না। একদম প্রথম পর্যায়ে আমরা কপি পেস্ট করে প্রোগ্রামিং করতে গিয়ে নিজেদের গোড়াটাই দুর্বল করে ফেলি। সময়ের সাথে সাথে সেই দুর্বল গোড়া আরো দুর্বল হয়। কপি পেস্ট করা মানেই নিজেকে ঠকানো। এইটা করতে যাবেন না।</p>
 
-<h2 id="section-5">অনুশীলন এবং লেগে থাকা</h2>
+<h2 id="অনুশীলন-এবং-লেগে-থাকা">অনুশীলন এবং লেগে থাকা</h2>
 <p>প্রোগ্রামিং জিনিষটা লেগে থাকার। গান শিখতে হলে প্রতিদিন চেষ্টা করতে হয়, গিটার শিখতে হলেও প্রতিদিন চেষ্টা করতে হয়। অথচ প্রোগ্রামিং শিখতে হলেও যে লেগে থাকতে হয় – তা আমাদের মাথায় আসে না। টানা চেষ্টা করে যেতে হবে শেখার জন্য। এমনও দিন গেছে যখন আমি একটা বাগের পিছনে ৩ দিন মাথা কুটেও কিচ্ছু পাইনি। শেষে যখন বাগ ধরা পড়েছে, সেটা মোটামুটি আমার মাথায় গেঁথে গেছে। ভুল করা স্বাভাবিক। কিন্তু হাল ছেড়ে দেয়া মোটেও ঠিক না।</p>
 
-<h2 id="ide--editor----">IDE বা Editor নিয়ে নাকানি চুবানি খাওয়া</h2>
+<h2 id="ide-বা-editor-নিয়ে-নাকানি-চুবানি-খাওয়া">IDE বা Editor নিয়ে নাকানি চুবানি খাওয়া</h2>
 <p>এটা খুব কমন। প্রোগ্রামিং শেখার আগে কি দিয়ে প্রোগ্রামিং করবো, কোন এডিটর ভালো এইসব চিন্তা করি আমরা অনেকে। এত কিছু ভাবার দরকার নাই। আগে Notepad++ বা Gedit বা কোন সহজ Editor দিয়ে শুরু তো করেন। (অনেক অভিজ্ঞ প্রোগ্রামার চোখ উল্টে পরে যাবেন) যে সহজ সাধারণ এডিটর দিয়ে প্রোগ্রামিং করতে পারে, সে IDE তে খুব তাড়াতাড়ি রপ্ত হতে পারবে। প্রোগ্রামিংয়ের জন্য IDE, IDE এর জন্য প্রোগ্রামিং না।</p>
 
-<h2 id="section-6">শেষ কথা</h2>
+<h2 id="শেষ-কথা">শেষ কথা</h2>
 <p>প্রথম প্রথম প্রোগ্রামিং খুব কঠিন লাগে। কিচ্ছু আগা মাথা পাওয়া যায় না। মনে হয়, এটা আমার জন্য না। এইটা পারি না। কচু গাছে ঝুলার জন্য দঁড়িও খুঁজি আমরা মাঝে মাঝে যখন দেখি আশে পাশের সবাই পারছে কিন্তু নিজে পারছি না।</p>
 
 <p>কিন্তু  মানুষের যেকোন ভাষা শিখতে হলেই এর চাইতেও বেশি কষ্ট করা লাগবে। চেষ্টা করে যেতেই হবে, তাহলেই প্রোগ্রামিং শেখা সম্ভব। হাল ছাড়লে আমরা কখনো এগিয়ে যেতে পারবো না। এটা মনে রাখা দরকার।</p>
@@ -1747,8 +1753,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>সহজ সরল কম্পিউটার নিরাপত্তা</title>
-        <link>http://localhost:4000/blog/2016/04/24/norton-security-contest/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/24/norton-security-contest/</guid>
+        <link>https://lordamit.github.io/blog/2016/04/24/norton-security-contest/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/24/norton-security-contest/</guid>
         <pubDate>Sun, 24 Apr 2016 22:10:43 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1790,7 +1796,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/04/24/norton-security-contest/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/24/norton-security-contest/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1803,8 +1809,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                           <figcaption>সহজ সরল কম্পিউটার নিরাপত্তা</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-04-24 22:10:43 BDT">Sun, 24 Apr 2016 22:10:43 +0600</time>
-                      <time class="op-modified" dateTime="2016-04-25 02:44:00 BDT">2016-04-25 02:44:00 +0600</time>
+                      <time class="op-published" dateTime="2016-04-24 22:10:43 +06">Sun, 24 Apr 2016 22:10:43 +0600</time>
+                      <time class="op-modified" dateTime="2016-04-25 02:44:00 +06">2016-04-25 02:44:00 +0600</time>
                   </header>
 
                   
@@ -1854,8 +1860,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা</title>
-        <link>http://localhost:4000/blog/2016/04/24/facebook-f8-conference-dhaka/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/24/facebook-f8-conference-dhaka/</guid>
+        <link>https://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/</guid>
         <pubDate>Sun, 24 Apr 2016 22:10:43 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1879,7 +1885,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/04/24/facebook-f8-conference-dhaka/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1888,12 +1894,12 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা ">
                           <figcaption>বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-04-24 22:10:43 BDT">Sun, 24 Apr 2016 22:10:43 +0600</time>
-                      <time class="op-modified" dateTime="2016-05-04 05:15:00 BDT">2016-05-04 05:15:00 +0600</time>
+                      <time class="op-published" dateTime="2016-04-24 22:10:43 +06">Sun, 24 Apr 2016 22:10:43 +0600</time>
+                      <time class="op-modified" dateTime="2016-05-04 05:15:00 +06">2016-05-04 05:15:00 +0600</time>
                   </header>
 
                   
@@ -1925,8 +1931,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>Virtual Reality Headset Review - RIEM 3D v2</title>
-        <link>http://localhost:4000/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</guid>
+        <link>https://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/</guid>
         <pubDate>Sun, 24 Apr 2016 21:10:43 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -1959,7 +1965,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1972,7 +1978,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                           <figcaption>Virtual Reality Headset Review - RIEM 3D v2</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-04-24 21:10:43 BDT">Sun, 24 Apr 2016 21:10:43 +0600</time>
+                      <time class="op-published" dateTime="2016-04-24 21:10:43 +06">Sun, 24 Apr 2016 21:10:43 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
 
@@ -2014,8 +2020,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</title>
-        <link>http://localhost:4000/blog/2016/04/18/earthquake-bangladesh-guideline/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/04/18/earthquake-bangladesh-guideline/</guid>
+        <link>https://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/</guid>
         <pubDate>Mon, 18 Apr 2016 00:00:00 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -2030,7 +2036,7 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/04/18/earthquake-bangladesh-guideline/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -2039,11 +2045,11 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                       <h1>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে ">
                           <figcaption>ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-04-18 00:00:00 BDT">Mon, 18 Apr 2016 00:00:00 +0600</time>
+                      <time class="op-published" dateTime="2016-04-18 00:00:00 +06">Mon, 18 Apr 2016 00:00:00 +0600</time>
                       <time class="op-modified" dateTime=""></time>
                   </header>
 
@@ -2067,8 +2073,8 @@ For the second one, I created a new file called <code class="highlighter-rouge">
     
       <item>
         <title>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</title>
-        <link>http://localhost:4000/blog/2016/03/25/using-gtk/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/03/25/using-gtk/</guid>
+        <link>https://lordamit.github.io/blog/2016/03/25/using-gtk/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/03/25/using-gtk/</guid>
         <pubDate>Fri, 25 Mar 2016 02:41:03 +0600</pubDate>
         <author>Amit Seal Ami</author>
         
@@ -2176,7 +2182,7 @@ Replace the version values with the values you found from the &lt;code class=&qu
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/03/25/using-gtk/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/03/25/using-gtk/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -2185,12 +2191,12 @@ Replace the version values with the values you found from the &lt;code class=&qu
                       <h1>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner ">
                           <figcaption>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</figcaption>
                       </figure>
                       
-                      <time class="op-published" dateTime="2016-03-25 02:41:03 BDT">Fri, 25 Mar 2016 02:41:03 +0600</time>
-                      <time class="op-modified" dateTime="2016-04-20 01:33:00 BDT">2016-04-20 01:33:00 +0600</time>
+                      <time class="op-published" dateTime="2016-03-25 02:41:03 +06">Fri, 25 Mar 2016 02:41:03 +0600</time>
+                      <time class="op-modified" dateTime="2016-04-20 01:33:00 +06">2016-04-20 01:33:00 +0600</time>
                   </header>
 
                   

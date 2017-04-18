@@ -2,142 +2,142 @@ callback([
 
   {
     "text": "Hello?",
-    "href": "http://localhost:4000/blog/2014/11/14/hello/"
+    "href": "https://lordamit.github.io/blog/2014/11/14/hello/"
   } ,
 
   {
     "text": "Technical Session 1 at EATL Prothom Alo App Contest 2015",
-    "href": "http://localhost:4000/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015/"
+    "href": "https://lordamit.github.io/blog/2014/12/21/technical-session-1-at-eatl-prothom-alo-app-contest-2015/"
   } ,
 
   {
     "text": "সিঙ্গাপুর সফর - ১",
-    "href": "http://localhost:4000/blog/2015/07/19/singgaapur-sphr-1/"
+    "href": "https://lordamit.github.io/blog/2015/07/19/singgaapur-sphr-1/"
   } ,
 
   {
     "text": "সিঙ্গাপুর সফর – একগাদা নোটিশের ভিড়ে যাতায়াত ব্যবস্থা",
-    "href": "http://localhost:4000/blog/2015/07/23/singapore-visit-2/"
+    "href": "https://lordamit.github.io/blog/2015/07/23/singapore-visit-2/"
   } ,
 
   {
     "text": "Review: Mi Band and Xiaomi Piston Basic Edition Headphone",
-    "href": "http://localhost:4000/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/"
+    "href": "https://lordamit.github.io/blog/2015/11/16/review-mi-band-and-xiaomi-piston-basic-edition-headphone/"
   } ,
 
   {
     "text": "And that is why I switched to Octopress from Blogger!",
-    "href": "http://localhost:4000/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/"
+    "href": "https://lordamit.github.io/blog/2015/11/23/and-that-is-why-i-switched-to-octopress-from-blogger/"
   } ,
 
   {
     "text": "Remix OS Resident Mode in Virtual Machine",
-    "href": "http://localhost:4000/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/"
+    "href": "https://lordamit.github.io/blog/2016/03/04/remixos-resident-mode-in-virtual-machine/"
   } ,
 
   {
     "text": "Celebrating Intl. Women's day at AIUB",
-    "href": "http://localhost:4000/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/"
+    "href": "https://lordamit.github.io/blog/2016/03/20/celebrating-intl-womens-day-at-aiub/"
   } ,
 
   {
     "text": "Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner",
-    "href": "http://localhost:4000/blog/2016/03/25/using-gtk/"
+    "href": "https://lordamit.github.io/blog/2016/03/25/using-gtk/"
   } ,
 
   {
     "text": "ভূমিকম্প বিষয়ে গণসচেতনতা - দুর্যোগ ব্যবস্থাপনা ব্যুর‌োর থেকে",
-    "href": "http://localhost:4000/blog/2016/04/18/earthquake-bangladesh-guideline/"
+    "href": "https://lordamit.github.io/blog/2016/04/18/earthquake-bangladesh-guideline/"
   } ,
 
   {
     "text": "Virtual Reality Headset Review - RIEM 3D v2",
-    "href": "http://localhost:4000/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/"
+    "href": "https://lordamit.github.io/blog/2016/04/24/virtual-reality-headset-review-reim-3d-v2/"
   } ,
 
   {
     "text": "বাংলাদেশের প্রথম ফেসবুক F8Meetup - আমার অভিজ্ঞতা",
-    "href": "http://localhost:4000/blog/2016/04/24/facebook-f8-conference-dhaka/"
+    "href": "https://lordamit.github.io/blog/2016/04/24/facebook-f8-conference-dhaka/"
   } ,
 
   {
     "text": "সহজ সরল কম্পিউটার নিরাপত্তা",
-    "href": "http://localhost:4000/blog/2016/04/24/norton-security-contest/"
+    "href": "https://lordamit.github.io/blog/2016/04/24/norton-security-contest/"
   } ,
 
   {
     "text": "প্রোগ্রামিং শিখতে হলে",
-    "href": "http://localhost:4000/blog/2016/04/25/programming-shekha/"
+    "href": "https://lordamit.github.io/blog/2016/04/25/programming-shekha/"
   } ,
 
   {
     "text": "কার্নেগি মেলন ইউনিভার্সিটি, ইন্ডাস্ট্রি এবং আমরা",
-    "href": "http://localhost:4000/blog/2016/04/28/cmu-industry-and-academia/"
+    "href": "https://lordamit.github.io/blog/2016/04/28/cmu-industry-and-academia/"
   } ,
 
   {
     "text": "উবুন্টুতে সময় এবং কাজের ম্যানেজমেন্ট",
-    "href": "http://localhost:4000/blog/2016/04/28/time-and-task-management-in-linux/"
+    "href": "https://lordamit.github.io/blog/2016/04/28/time-and-task-management-in-linux/"
   } ,
 
   {
     "text": "Showing Bangla properly in Atom Editor",
-    "href": "http://localhost:4000/blog/2016/05/03/showing-bangla-properly-in-atom-editor/"
+    "href": "https://lordamit.github.io/blog/2016/05/03/showing-bangla-properly-in-atom-editor/"
   } ,
 
   {
     "text": "ন্যাড়ার প্রোজেক্ট প্রেজেন্টেশন সফর",
-    "href": "http://localhost:4000/blog/2016/05/04/nera-beltola/"
+    "href": "https://lordamit.github.io/blog/2016/05/04/nera-beltola/"
   } ,
 
   {
     "text": "Cracking FaceBook Instant Articles With Jekyll - RSS Feed",
-    "href": "http://localhost:4000/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/"
+    "href": "https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/"
   } ,
 
   {
     "text": "Polarr - Awesome Image Editor for Linux",
-    "href": "http://localhost:4000/blog/2016/05/10/polarr-awesome-image-editor/"
+    "href": "https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/"
   } ,
 
   {
     "text": "Making a Text Based Progress Bar in Python",
-    "href": "http://localhost:4000/blog/2016/05/13/making-a-text-based-progress-bar-in-python/"
+    "href": "https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/"
   } ,
 
   {
     "text": "বাস্তব কল্পকাহিনী - সুপার সোলজার",
-    "href": "http://localhost:4000/blog/2016/06/05/aram-korlei-beram/"
+    "href": "https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/"
   } ,
 
   {
     "text": "বিশ্ববিদ্যালয়ের শিক্ষক - শেখানোই যার একমাত্র কাজ না!",
-    "href": "http://localhost:4000/blog/2016/06/14/varsity-teacher/"
+    "href": "https://lordamit.github.io/blog/2016/06/14/varsity-teacher/"
   } ,
 
   {
     "text": "রিপোর্ট, রিপোর্টের ভুল এবং শিক্ষকের মাথার চুল",
-    "href": "http://localhost:4000/blog/2016/06/24/annoying-things-in-report/"
+    "href": "https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/"
   } ,
 
   {
     "text": "Lossless Conversion from PDF to SVG / EMF in Ubuntu",
-    "href": "http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/"
+    "href": "https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/"
   } ,
 
   {
     "text": "Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে",
-    "href": "http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/"
+    "href": "https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/"
   } ,
 
   {
     "text": "No Man's Sky - Game Review",
-    "href": "http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/"
+    "href": "https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/"
   } ,
 
   {
     "text": "70300 xp in pokemon go: যেভাবে সহজে লেভেল আপ করা যায় Pokemon Go এ",
-    "href": "http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/"
+    "href": "https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/"
   } 
 
 ])

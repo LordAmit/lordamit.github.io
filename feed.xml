@@ -3,10 +3,10 @@
   <channel>
     <title>Amit Seal Ami</title>
     <description>Amit Seal Ami is a Researcher, Academician, Software Engineer, Gamer, and Observer of Life.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2017-02-10T16:04:22+06:00</updated>
-    <id>http://localhost:4000</id>
+    <link>https://lordamit.github.io/</link>
+    <atom:link href="https://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <updated>2017-04-18T11:35:37+06:00</updated>
+    <id>https://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
@@ -49,8 +49,8 @@
 </description>
         
         <pubDate>Fri, 30 Dec 2016 01:38:00 +0600</pubDate>
-        <link>http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/</guid>
+        <link>https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/</guid>
       </item>
     
       <item>
@@ -68,7 +68,8 @@
 &lt;!-- more --&gt;
 কারণ আগেই জানা গিয়েছিল:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;- প্রায় ১৮ কুইন্টিলিয়ন (1.8×10&amp;lt;sup&amp;gt;19&amp;lt;/sup&amp;gt;) গ্রহ আছে এটিতে। - প্রতিটি গ্রহের আলাদা আলাদা বৈশিষ্ট্য - জীব জন্তু, গাছপালা, পরিবেশ - এগুলোর ভিত্তিতে - গেমের সবকিছু &amp;lt;a href=&quot;https://en.wikipedia.org/wiki/Procedural_generation&quot;&amp;gt;প্রসিডিউরালি জেনারেটেড!! &amp;lt;/a&amp;gt; - জিরো লোডিং টাইম অলমোস্ট - গ্রহের বাইরে থেকে গ্রহের ভিতরে ঢুকতে কোন সময়ই লাগে না লোডিংয়ে। চোখের সামনেই দেখা যায় আস্তে আস্তে গ্রহ বড় হচ্ছে, তার পরে পাহাড় নদী, প্রাণী দেখা যায়। - অন্য কোন প্রাচীন এলিয়েন সভ্যতার নিদর্শন আশে পাশে ছড়িয়ে ছিটিয়ে - কিন্তু কেন সে বিষয়ে গেম খেলে জানা লাগবে
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- প্রায় ১৮ কুইন্টিলিয়ন (1.8×10&amp;lt;sup&amp;gt;19&amp;lt;/sup&amp;gt;) গ্রহ আছে এটিতে। - প্রতিটি গ্রহের আলাদা আলাদা বৈশিষ্ট্য - জীব জন্তু, গাছপালা, পরিবেশ - এগুলোর ভিত্তিতে - গেমের সবকিছু &amp;lt;a href=&quot;https://en.wikipedia.org/wiki/Procedural_generation&quot;&amp;gt;প্রসিডিউরালি জেনারেটেড!! &amp;lt;/a&amp;gt; - জিরো লোডিং টাইম অলমোস্ট - গ্রহের বাইরে থেকে গ্রহের ভিতরে ঢুকতে কোন সময়ই লাগে না লোডিংয়ে। চোখের সামনেই দেখা যায় আস্তে আস্তে গ্রহ বড় হচ্ছে, তার পরে পাহাড় নদী, প্রাণী দেখা যায়। - অন্য কোন প্রাচীন এলিয়েন সভ্যতার নিদর্শন আশে পাশে ছড়িয়ে ছিটিয়ে - কিন্তু কেন সে বিষয়ে গেম খেলে জানা লাগবে
+&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
 &lt;p&gt;সব মিলিয়ে সবার মাথা খারাপ করা অবস্থা গেম রিলিজ হবার আগেই! আর আমার তো আরো বেশি।  এমন এক্সপ্লোরেশন, কাহিনী আমার বরাবরই ভালো লাগে। &lt;a href=&quot;https://en.wikipedia.org/wiki/Freelancer_(video_game)&quot;&gt;ফ্রিল্যান্সার&lt;/a&gt; গেমের মতো আর এমন পাইও নি। সব মিলিয়ে পাগল অবস্থা!&lt;/p&gt;
@@ -93,7 +94,7 @@
 
 &lt;p&gt;এই বিশাল ইউনিভার্স তারা যে তৈরী করেছে সেখানে ঘুরে ফিরে বেড়ানো, দেখা যদি গেমের উদ্দেশ্য হয়, যদি উদ্দেশ্য হয় প্রাচীন এলিয়েন সভ্যতার সম্পর্কে জানা, তাদের ভাষা শেখা, তাদের সংষ্কৃতি বুঝা - তাহলে গেমটা বাড়াবাড়ি রকমের সফল। কারণ গেমের ফ্লাইট, শুটিং তেমন সুবিধার কন্ট্রোল না, গেমটায় সারভাইভাল কোন ভাবেই কঠিন না, ট্রেডিংও করা যায় মনমতো।&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;ভালো দিক&lt;/h2&gt;
+&lt;h2 id=&quot;ভালো-দিক&quot;&gt;ভালো দিক&lt;/h2&gt;
 &lt;p&gt;গেমের ভিতরে তারা যে বৈচিত্র্য এনেছে - তা অসাধারণ। আমি প্রায় ১০ ঘন্টার উপরে খেলেছি, এখনো কোথাও একই রকমের গ্রহ পাইনি। কোন গ্রহে এসিড বৃষ্টি হয় তো কোন গ্রহে প্রচন্ড দাবদাহ। এক গ্রহে প্রচুর গাছপালা ত‌ো আরেক গ্রহে আকাশে উড়ে বেড়ানো হাঙ্গরের মতো দেখতে পাখি! এই গ্রহে কিউট দেখতে ভালুক এসে কামড় দেয় তো ঐ গ্রহে দাঁত কটমটানো ডাইনোসর ঘাষ খায়, কাছে এসে খাবার খায়।&lt;/p&gt;
 
 &lt;figure&gt;
@@ -110,7 +111,7 @@
   &lt;figcaption&gt;গেকের বকরবকর&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;শেষ কথা&lt;/h2&gt;
+&lt;h2 id=&quot;শেষ-কথা&quot;&gt;শেষ কথা&lt;/h2&gt;
 &lt;p&gt;গেমটা সবার জন্য না। ফেবুর যুগে মানুষের ধৈর্য বড্ড বেশিই কম। সবকিছু চাই এখনই, এখনই, এখনইইই! সেখানে একটা গেম, ঘন্টার পর ঘন্টা খেলা লাগবে ধৈর্য ধরে। এলিয়েনের সভ্যতা নিয়ে জানা না জানা নিজের ব্যাপার। গেমের গ্রাফিক্স অসাধারণ, কিন্তু কন্ট্রোল বা ইউআই তত ভালো না। পিসি ভার্সনে নাকি বেশ কিছু বাগ আছে, আমার এখনো তেমন কোন সমস্যা হয়নি, টানা কয়েকঘন্টা খেলেও। যাদের ঘন্টার পর ঘন্টা স্পেসশিপে ঘুরে বেড়াতে ভালো লাগে, বিচিত্র গ্রহ দেখতে ভালো লাগে, জানতে ইচ্ছা করে এলিয়েন সভ্যতার ব্যাপারে, বা ইচ্ছা করে বিচিত্র সব বহিঃজাগতিক প্রাণী দেখতে - এই গেম তাদের জন্যই!&lt;/p&gt;
 
 &lt;h2 id=&quot;rating&quot;&gt;Rating&lt;/h2&gt;
@@ -118,8 +119,8 @@
 </description>
         
         <pubDate>Sun, 14 Aug 2016 15:52:00 +0600</pubDate>
-        <link>http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/</guid>
+        <link>https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/</guid>
       </item>
     
       <item>
@@ -136,20 +137,20 @@
 
 &lt;!-- more --&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;ইন্সটলেশন&lt;/h2&gt;
+&lt;h2 id=&quot;ইন্সটলেশন&quot;&gt;ইন্সটলেশন&lt;/h2&gt;
 
 &lt;p&gt;যাই হোক, বাসায় কিনে এনে লাগানোর পরে অবাক হবার পালা। প্লাগ অ্যান্ড প্লে ডিভাইস পুরাই। কিচ্ছু ইন্সটল করা লাগেনি। সাথে দেয়া কলমটাতে AAA সাইজের ব্যাটারি লাগে। শুরুতে একটু বুঝতে সমস্যা হয়েছিল, কিভাবে কি করে জানতাম না বলে। যখন একবার বুঝলাম - তখন আর কোন সমস্যাই হয়নি ব্যবহার করতে।&lt;/p&gt;
 
 &lt;p&gt;কলমটায় তিনটা বাটন। উপরে অন-অফ বাটন, যেটা অন করলে ট্যাবলেট দিয়ে কাজ শুরু করা যায়। নিচে যেখানে কলম ধরে, সেখানে আরো দুটো - ডিফল্ট সেটিংয়ে যেগুলো লেফট আর রাইট ক্লিকের কাজ করে। ডিফল্ট বললাম, কারণ এগুলো রিম্যাপিং করা সম্ভব, যদিও সেটার জন্য এখনো পর্যন্ত কোন ভালো সফটওয়্যার আমার চোখে পড়েনি। অবশ্য রিম্যাপ করার দরকারও হয়নি, নাহলে নিজেই বানিয়ে নিতাম হয়তো! হেহে।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;কনফিগারেশন সফটওয়্যার&lt;/h2&gt;
+&lt;h2 id=&quot;কনফিগারেশন-সফটওয়্যার&quot;&gt;কনফিগারেশন সফটওয়্যার&lt;/h2&gt;
 
 &lt;p&gt;লাগে নাই। ডিফল্ট হিসাবে পুরো ট্যাবলেটের ড্রয়িং এরিয়াটা স্ক্রিনের সাথে ম্যাপ করা।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;কলম&lt;/h2&gt;
+&lt;h2 id=&quot;কলম&quot;&gt;কলম&lt;/h2&gt;
 &lt;p&gt;ভালো কোয়ালিটি, একটু মোটকা, তবে ধরতে সমস্যা হয়নি। একটা ব্যাটারি দিয়ে কয়েকমাস চলে গেছে এবং চলছে। এখনো জানি না কবে সেটা শেষ হবে। কয়েকরকমের প্রেসার ডিটেক্ট করতে পারে। ভালো ড্রয়িং অ্যাপ্লিকেশনে স্কেচিং করার জন্য যথেষ্ট ভালো মনে হয়েছে আমার কাছে।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;বোনাস - ব্যবহার করার জন্য সফটওয়্যার&lt;/h2&gt;
+&lt;h2 id=&quot;বোনাস---ব্যবহার-করার-জন্য-সফটওয়্যার&quot;&gt;বোনাস - ব্যবহার করার জন্য সফটওয়্যার&lt;/h2&gt;
 &lt;p&gt;আমার অভিজ্ঞতার আলোকে কিছু সফটয়্যারের নাম দিলাম - যেগুলো আমার কাছে ব্যবহার করে ভালো লেগেছে।&lt;/p&gt;
 
 &lt;ul&gt;
@@ -172,8 +173,8 @@
 </description>
         
         <pubDate>Fri, 22 Jul 2016 21:25:00 +0600</pubDate>
-        <link>http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</guid>
+        <link>https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</guid>
       </item>
     
       <item>
@@ -192,8 +193,8 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         
         <pubDate>Thu, 14 Jul 2016 13:00:00 +0600</pubDate>
-        <link>http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</guid>
+        <link>https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</guid>
       </item>
     
       <item>
@@ -213,14 +214,14 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;মজার বিষয়, এগুলো কখনোই ভুল লিখেছে বা কেউ কম জানে বলে মনে হয়নি আমার। মনে হয়েছে কারণ যেসব কাজ করেছে রিপোর্টে - সেগুলো গাফিলতি, কেয়ারলেসনেস, বা সোজা বাংলায় “দেবার আছে দিলাম রিপোর্ট। কি আছে গেবনে?” ভেবে সাবমিট করা। আবার এমনও হতে পারে যে এসব গাফিলতি, সেটা জানেই না! যাই হোক, কি সেগুলো?&lt;/p&gt;
 
-&lt;h2 id=&quot;plagiarism&quot;&gt;১ - Plagiarism&lt;/h2&gt;
+&lt;h2 id=&quot;১---plagiarism&quot;&gt;১ - Plagiarism&lt;/h2&gt;
 &lt;p&gt;অনেকে বলে রচনা চুরি। সোজা বাংলায় কৃতজ্ঞতা স্বীকার না করে অন্য কারো কিছু ব্যবহার করা বা ভাব দেখানো যেন লেখার ঐ অংশটা নিজের মস্তিষ্ক প্রসূত। আমরা আবার ওয়েবসাইট থেকে সরাসরি কপি পেস্ট করতে খুব পছন্দ করি। সেটাও এর ভিতরে পরে।&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;বাঁচতে হলে&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;সহজ হিসাব। অন্য কারো কিছু আমি ব্যবহার করলে কৃতজ্ঞতা স্বীকার করবো। কোটেশন মার্ক বা অন্য কোন ভাবে বুঝাবো এই অংশ আমার মগজ প্রসূত না। সাথে রেফারেন্স দিয়ে দিবো। আরো কিছু জানতে Stanford University এর &lt;a href=&quot;https://communitystandards.stanford.edu/student-conduct-process/honor-code-and-fundamental-standard/additional-resources/what-plagiarism&quot;&gt;পেজ&lt;/a&gt; দেখতে পারো।&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;২ - ফরম্যাটিং&lt;/h2&gt;
+&lt;h2 id=&quot;২---ফরম্যাটিং&quot;&gt;২ - ফরম্যাটিং&lt;/h2&gt;
 &lt;p&gt;এটা খুব মজার। যেমন:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -238,13 +239,13 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;মাথা খাটাও।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;৩ - শর্টকাট&lt;/h2&gt;
+&lt;h2 id=&quot;৩---শর্টকাট&quot;&gt;৩ - শর্টকাট&lt;/h2&gt;
 &lt;p&gt;“It’s”, “wanna”, “&amp;amp;”, “I’ll” এমন শর্টকাট শব্দ নিষিদ্ধ ফরমাল রিপোর্টে। আর কোন কথা নাই।&lt;/p&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;৪ - অনাথ টেবিল এবং ছবি&lt;/h2&gt;
+&lt;h2 id=&quot;৪---অনাথ-টেবিল-এবং-ছবি&quot;&gt;৪ - অনাথ টেবিল এবং ছবি&lt;/h2&gt;
 &lt;p&gt;রিপোর্টে আমরা ছবি এবং টেবিল দিতে বেশ পছন্দ করি। দৃষ্টিনন্দন হয়, ভিজুয়ালিজেশন করা যায়। কিন্তু রিপোর্টে এসব দেবার কিছু নিয়ম আছে। ছবি দিলে সেই ছবির একটা আইডেন্টিফাইং নাম্বার, একটা ক্যাপশন থাকা লাগবে। সেটার কথা রিপোর্টে কোথাও না কোথাও বলা রেফারেন্স করা লাগবে। তা নাহলে সেই ছবি বা টেবিল অনাথ, মূ্ল্যহীন এবং দৃষ্টিকটু! এই যেমন এই লেখায় একদম উপরে একটা ছবি আছে, সেটার রেফারেন্স (ছবি ১) এবং ক্যাপশন ও আছে, আবার লেখায় সেটা উল্লেখ করাও হয়েছে রেফারেন্স ধরে!&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;৫ - ভুলভাল শব্দ ব্যবহার&lt;/h2&gt;
+&lt;h2 id=&quot;৫---ভুলভাল-শব্দ-ব্যবহার&quot;&gt;৫ - ভুলভাল শব্দ ব্যবহার&lt;/h2&gt;
 &lt;p&gt;এখনো কেউ শক্ত শক্ত দাঁত ভাঙ্গা শব্দ ব্যবহারের জন্য নাম্বার দেয় বা দিয়েছে বলে শুনি নাই। অবশ্য নাম্বার কাটাও হয় না। কিন্তু কাটা হয় যদি ভুল যায়গায় ভুল শব্দ ব্যবহার করা হয়, তখন। উপরের ছবি ১ দ্রষ্টব্য :)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;বাঁচতে হলে&lt;/strong&gt;&lt;/p&gt;
@@ -257,8 +258,8 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         
         <pubDate>Fri, 24 Jun 2016 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/blog/2016/06/24/annoying-things-in-report/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/06/24/annoying-things-in-report/</guid>
+        <link>https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/</guid>
       </item>
     
       <item>
@@ -301,8 +302,8 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         
         <pubDate>Tue, 14 Jun 2016 07:38:00 +0600</pubDate>
-        <link>http://localhost:4000/blog/2016/06/14/varsity-teacher/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/06/14/varsity-teacher/</guid>
+        <link>https://lordamit.github.io/blog/2016/06/14/varsity-teacher/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/14/varsity-teacher/</guid>
       </item>
     
       <item>
@@ -342,8 +343,8 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         
         <pubDate>Sun, 05 Jun 2016 09:22:00 +0600</pubDate>
-        <link>http://localhost:4000/blog/2016/06/05/aram-korlei-beram/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/06/05/aram-korlei-beram/</guid>
+        <link>https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/</guid>
       </item>
     
       <item>
@@ -372,8 +373,8 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         
         <pubDate>Fri, 13 May 2016 10:03:00 +0600</pubDate>
-        <link>http://localhost:4000/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</guid>
+        <link>https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</guid>
       </item>
     
       <item>
@@ -405,8 +406,8 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         
         <pubDate>Tue, 10 May 2016 13:23:00 +0600</pubDate>
-        <link>http://localhost:4000/blog/2016/05/10/polarr-awesome-image-editor/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/10/polarr-awesome-image-editor/</guid>
+        <link>https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/</guid>
       </item>
     
       <item>
@@ -455,8 +456,8 @@ For the second one, I created a new file called &lt;code class=&quot;highlighter
 </description>
         
         <pubDate>Tue, 10 May 2016 10:00:00 +0600</pubDate>
-        <link>http://localhost:4000/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</guid>
+        <link>https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</guid>
       </item>
     
   </channel>
