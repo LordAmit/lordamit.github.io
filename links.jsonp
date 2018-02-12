@@ -138,6 +138,11 @@ callback([
   {
     "text": "70300 xp in pokemon go: যেভাবে সহজে লেভেল আপ করা যায় Pokemon Go এ",
     "href": "https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/"
+  } ,
+
+  {
+    "text": "Alloy in Visual Studio Code",
+    "href": "https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/"
   } 
 
 ])

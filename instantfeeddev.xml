@@ -6,11 +6,120 @@
     <description>Amit Seal Ami is a Researcher, Academician, Software Engineer, Gamer, and Observer of Life.</description>
     <link>https://lordamit.github.io/</link>
     <atom:link href="https://lordamit.github.io /instantfeeddev.xml" rel="self" type="application/rss+xml"/>
-    <updated>2017-04-18T11:35:37+06:00</updated>
+    <updated>2018-02-12T19:33:43+06:00</updated>
     <id>https://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
+    
+      <item>
+        <title>Alloy in Visual Studio Code</title>
+        <link>https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/</guid>
+        <pubDate>Mon, 12 Feb 2018 00:00:00 +0600</pubDate>
+        <author>Amit Seal Ami</author>
+        
+          <description>&lt;p&gt;For those in Formal Software Engineering domain, &lt;a href=&quot;http://alloy.mit.edu/alloy/download.html&quot;&gt;Alloy&lt;/a&gt; should be a common name. By itself, it is awesome for preparing and checking a model. However, the editor itself does not support auto complete, even for the symbols written in the same file. Therefore, some people of the community created extensions that support syntax highligting of Alloy syntax in &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=DongyuZhao.alloy-vscode&quot;&gt;Visual Studio Code&lt;/a&gt; and &lt;a href=&quot;https://github.com/HiroakiMikami/atom-alloy&quot;&gt;Atom&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One slight problem though. The only way to run the nicely crafted alloy files is to run them through the Alloy program. And we can connect Visual Studio Code and Alloy program quiet easily using another handy extension called &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&quot;&gt;Code Runner&lt;/a&gt;. All you have to do is to install this extension, and add the mapping for the Alloy languages.
+&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;By default, the code runner checks the following settings:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;code-runner.executorMap&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;javascript&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;node&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;php&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;C:\\php\\php.exe&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;python&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;python&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;perl&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;perl&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;ruby&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;C:\\Ruby23-x64\\bin\\ruby.exe&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;go&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;go run&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;html&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;\&quot;C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\&quot;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;java&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;cd $dir &amp;amp;&amp;amp; javac $fileName &amp;amp;&amp;amp; java $fileNameWithoutExt&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;c&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;cd $dir &amp;amp;&amp;amp; gcc $fileName -o $fileNameWithoutExt &amp;amp;&amp;amp; $dir$fileNameWithoutExt&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As you can see, this maps javascript, php, python and some more by default using these configuration. To add this, we only need to append the following line:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;alloy&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;java -jar &amp;lt;pathToAlloyHere&amp;gt; $fullfilename&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And that’s it! Now if you invoke the code runner (generally using &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl+enter&lt;/code&gt;), it will automatically run Alloy using the file you are using.&lt;/p&gt;
+</description>
+        
+        <content:encoded>
+          <![CDATA[
+                <!doctype html>
+                <html lang="en" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>Alloy in Visual Studio Code</h1>
+                      
+                      <figure>
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" Alloy in Visual Studio Code ">
+                          <figcaption>Alloy in Visual Studio Code</figcaption>
+                      </figure>
+                      
+                      <time class="op-published" dateTime="2018-02-12 00:00:00 +06">Mon, 12 Feb 2018 00:00:00 +0600</time>
+                      <time class="op-modified" dateTime=""></time>
+                  </header>
+
+                  
+                    <p>For those in Formal Software Engineering domain, <a href="http://alloy.mit.edu/alloy/download.html">Alloy</a> should be a common name. By itself, it is awesome for preparing and checking a model. However, the editor itself does not support auto complete, even for the symbols written in the same file. Therefore, some people of the community created extensions that support syntax highligting of Alloy syntax in <a href="https://marketplace.visualstudio.com/items?itemName=DongyuZhao.alloy-vscode">Visual Studio Code</a> and <a href="https://github.com/HiroakiMikami/atom-alloy">Atom</a>.</p>
+
+<p>One slight problem though. The only way to run the nicely crafted alloy files is to run them through the Alloy program. And we can connect Visual Studio Code and Alloy program quiet easily using another handy extension called <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner">Code Runner</a>. All you have to do is to install this extension, and add the mapping for the Alloy languages.
+<!-- more --></p>
+
+<p>By default, the code runner checks the following settings:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="nt">"code-runner.executorMap"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nt">"javascript"</span><span class="p">:</span><span class="w"> </span><span class="s2">"node"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"php"</span><span class="p">:</span><span class="w"> </span><span class="s2">"C:\\php\\php.exe"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"python"</span><span class="p">:</span><span class="w"> </span><span class="s2">"python"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"perl"</span><span class="p">:</span><span class="w"> </span><span class="s2">"perl"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"ruby"</span><span class="p">:</span><span class="w"> </span><span class="s2">"C:\\Ruby23-x64\\bin\\ruby.exe"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"go"</span><span class="p">:</span><span class="w"> </span><span class="s2">"go run"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"html"</span><span class="p">:</span><span class="w"> </span><span class="s2">"\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\""</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"java"</span><span class="p">:</span><span class="w"> </span><span class="s2">"cd $dir &amp;&amp; javac $fileName &amp;&amp; java $fileNameWithoutExt"</span><span class="p">,</span><span class="w">
+    </span><span class="nt">"c"</span><span class="p">:</span><span class="w"> </span><span class="s2">"cd $dir &amp;&amp; gcc $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt"</span><span class="w">
+</span><span class="p">}}</span><span class="w">
+
+</span></code></pre>
+</div>
+
+<p>As you can see, this maps javascript, php, python and some more by default using these configuration. To add this, we only need to append the following line:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="w">
+</span><span class="nt">"alloy"</span><span class="p">:</span><span class="w"> </span><span class="s2">"java -jar &lt;pathToAlloyHere&gt; $fullfilename"</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre>
+</div>
+
+<p>And that’s it! Now if you invoke the code runner (generally using <code class="highlighter-rouge">ctrl+enter</code>), it will automatically run Alloy using the file you are using.</p>
+.<br />
+                  
+                    <footer>
+                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
+                        <small>Copyright - Amit Seal Ami</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
+
+      </item>
     
       <item>
         <title>70300 xp in pokemon go: যেভাবে সহজে লেভেল আপ করা যায় Pokemon Go এ</title>
@@ -2057,245 +2166,6 @@ For the second one, I created a new file called <code class="highlighter-rouge">
                     <p>২০০১ সালে Unicef এর আর্থিক সহযোগিতায় বাংলাদেশ দুর্যোগ ব্যবস্থাপনা ব্যুরো (<a href="http://www.ddm.gov.bd/"><abbr title="Department of Disaster Management">DDM</abbr></a>) থেকে প্রকাশিত হয় ভূমিকম্প বিষয়ে গণসচেতনতা নামের একটি বুকলেট। সেই বুকলেটটি পুরনো <a href="http://old.ddm.gov.bd/"><abbr title="Department of Disaster Management">DDM</abbr></a> এর সাইট থেকে উদ্ধার করা গেলেও, বর্তমান ওয়েবসাইটে পাওয়া যায়না সহজে। সকলের উপকারের জন্যই, এটিকে আলাদা করে আবার এখানে রাখা।
 <script async="" class="speakerdeck-embed" data-id="7843578431dc427db6ea217ee869fead" data-ratio="0.617611580217129" src="//speakerdeck.com/assets/embed.js"></script></p>
 
-.<br />
-                  
-                    <footer>
-                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
-                        <small>Copyright - Amit Seal Ami</small>
-                  </footer>
-                </article>
-              </body>
-            </html>
-        ]]>
-        </content:encoded>
-
-      </item>
-    
-      <item>
-        <title>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</title>
-        <link>https://lordamit.github.io/blog/2016/03/25/using-gtk/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/03/25/using-gtk/</guid>
-        <pubDate>Fri, 25 Mar 2016 02:41:03 +0600</pubDate>
-        <author>Amit Seal Ami</author>
-        
-          <description>&lt;p&gt;Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!&lt;/p&gt;
-
-&lt;p&gt;The major steps for &lt;strong&gt;setting up environment&lt;/strong&gt; are:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Install latest stable version of CodeBlocks (for me, 16.01)&lt;/li&gt;
-  &lt;li&gt;Install GTK-3.0 related libraries&lt;/li&gt;
-  &lt;li&gt;Modify the Template Script in CodeBlocks&lt;/li&gt;
-  &lt;li&gt;Install Glade&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The major steps for creating an UI are:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Create design using Glade&lt;/li&gt;
-  &lt;li&gt;Connect it to a C code&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;!-- more --&gt;
-&lt;h2 id=&quot;latest-codeblocks&quot;&gt;Latest CodeBlocks!&lt;/h2&gt;
-&lt;p&gt;Installing CodeBlocks from PPA&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;sudo apt-add-repository ppa:damien-moore/codeblocks-stable
-sudo apt-get update
-sudo apt-get install codeblocks&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;gtk-30-libraries&quot;&gt;GTK-3.0 Libraries!&lt;/h2&gt;
-&lt;p&gt;Installing GTK-3.0 libraries:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;sudo apt-get install libgtk3.0-dev
-sudo apt-get install libgtk3.0-cil libgtk3.0-cil-dev&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;modify-template-script-in-codeblocks&quot;&gt;Modify Template Script in CodeBlocks&lt;/h2&gt;
-&lt;p&gt;This is the tricky part. You see, the CodeBlocks still uses GTK+-2.0 libraries by default for the GTK+ projects in its template. You need to edit the template file and modify the parts where it will reference the GTK-3.0 libraries instead of the libraries from version 2.&lt;/p&gt;
-
-&lt;p&gt;start with this command:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;pkg-config --cflags --libs gtk+-3.0&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;See the output? It is showing the necessary files you need to successfully build a gtk based app.
-For me, it is:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;-pthread -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/mirclient -I/usr/include/mircommon -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/pango-1.0 -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng12 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -lgtk-3 -lgdk-3 -lpangocairo-1.0 -lpango-1.0 -latk-1.0 -lcairo-gobject -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Now, Open CodeBlocks. Right click on &lt;code class=&quot;highlighter-rouge&quot;&gt;New &amp;gt; Project &amp;gt; GTK+ Project&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;edit this script&lt;/code&gt;. It may throw an error saying it can not find the file, making it in read-only mode. Hence, go to &lt;code class=&quot;highlighter-rouge&quot;&gt;~/.local/share/codeblocks/templates/wizard/gtk&lt;/code&gt; and open the &lt;code class=&quot;highlighter-rouge&quot;&gt;wizard.script&lt;/code&gt;.
-Replace the version values with the values you found from the &lt;code class=&quot;highlighter-rouge&quot;&gt;pkg-config&lt;/code&gt; part. For example,&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;# modifying versions from wizard.script file - before change
-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;VerifyFile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dir_nomacro_inc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;wxFILE_SEP_PATH&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;_T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gtk-2.0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;will become&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;# c modifying versions from wizard.script file - after change
-&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;VerifyFile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dir_nomacro_inc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;wxFILE_SEP_PATH&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;_T&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gtk-3.0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;In case you are clueless, you can take a look at my &lt;a href=&quot;https://gist.github.com/lordamit/fc2b608f15047d9f672e&quot;&gt;wizard.script&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;installing-glade&quot;&gt;Installing Glade&lt;/h2&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;sudo apt-get install glade&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;create-design-using-glade&quot;&gt;Create Design Using Glade&lt;/h2&gt;
-&lt;p&gt;Open glade, drag and drop a &lt;code class=&quot;highlighter-rouge&quot;&gt;Window&lt;/code&gt; top-level container. Add some more things if you want inside it. From the properties pane at the right side, go to &lt;code class=&quot;highlighter-rouge&quot;&gt;general&lt;/code&gt; tab, and write &lt;code class=&quot;highlighter-rouge&quot;&gt;mywindow&lt;/code&gt; in the ID.&lt;/p&gt;
-
-&lt;p&gt;The key things to remember here are:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;You got to have a Window ID, and it must be used in the C code&lt;/li&gt;
-  &lt;li&gt;You have to save it in GtkBuilder format (&lt;code class=&quot;highlighter-rouge&quot;&gt;file &amp;gt; save as&lt;/code&gt;)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;c-code-example&quot;&gt;C code example&lt;/h2&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;# C Code that includes a testGlade.glade file
-# for designing UI
-#include&amp;lt;gtk/gtk.h&amp;gt;
-&lt;/span&gt;
-&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;argc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]){&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;GtkBuilder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;GtkWidget&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-    &lt;span class=&quot;n&quot;&gt;gtk_init&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-    &lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gtk_builder_new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;gtk_builder_add_from_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;testGlade.glade&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;window&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;GTK_WIDGET&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtk_builder_get_object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;mywindow&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-
-    &lt;span class=&quot;n&quot;&gt;g_object_unref&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;G_OBJECT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;gtk_widget_show&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;gtk_main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Compile and run.  Comment below if this works for you or if you got a feedback! share your screen shot of what you built :)&lt;/p&gt;
-</description>
-        
-        <content:encoded>
-          <![CDATA[
-                <!doctype html>
-                <html lang="en" prefix="op: http://media.facebook.com/op#">
-              <head>
-                <meta charset="utf-8">
-                <link rel="canonical" href="https://lordamit.github.io/blog/2016/03/25/using-gtk/">
-                <meta property="op:markup_version" content="v1.0">
-              </head>
-              <body>
-                <article>
-                  <header>
-                      <h1>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</h1>
-                      
-                      <figure>
-                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner ">
-                          <figcaption>Using GTK, Glade and Codeblocks together in Ubuntu - Level Beginner</figcaption>
-                      </figure>
-                      
-                      <time class="op-published" dateTime="2016-03-25 02:41:03 +06">Fri, 25 Mar 2016 02:41:03 +0600</time>
-                      <time class="op-modified" dateTime="2016-04-20 01:33:00 +06">2016-04-20 01:33:00 +0600</time>
-                  </header>
-
-                  
-                    <p>Looks like you need to do a lot of things to properly set an environment where you can peacefully create UI files using Glade which uses GTK-3.0 version in the backend while using CodeBlocks!</p>
-
-<p>The major steps for <strong>setting up environment</strong> are:</p>
-
-<ol>
-  <li>Install latest stable version of CodeBlocks (for me, 16.01)</li>
-  <li>Install GTK-3.0 related libraries</li>
-  <li>Modify the Template Script in CodeBlocks</li>
-  <li>Install Glade</li>
-</ol>
-
-<p>The major steps for creating an UI are:</p>
-
-<ol>
-  <li>Create design using Glade</li>
-  <li>Connect it to a C code</li>
-</ol>
-
-<!-- more -->
-<h2 id="latest-codeblocks">Latest CodeBlocks!</h2>
-<p>Installing CodeBlocks from PPA</p>
-
-<figure class="highlight"><pre><code class="language-shell" data-lang="shell">sudo apt-add-repository ppa:damien-moore/codeblocks-stable
-sudo apt-get update
-sudo apt-get install codeblocks</code></pre></figure>
-
-<h2 id="gtk-30-libraries">GTK-3.0 Libraries!</h2>
-<p>Installing GTK-3.0 libraries:</p>
-
-<figure class="highlight"><pre><code class="language-shell" data-lang="shell">sudo apt-get install libgtk3.0-dev
-sudo apt-get install libgtk3.0-cil libgtk3.0-cil-dev</code></pre></figure>
-
-<h2 id="modify-template-script-in-codeblocks">Modify Template Script in CodeBlocks</h2>
-<p>This is the tricky part. You see, the CodeBlocks still uses GTK+-2.0 libraries by default for the GTK+ projects in its template. You need to edit the template file and modify the parts where it will reference the GTK-3.0 libraries instead of the libraries from version 2.</p>
-
-<p>start with this command:</p>
-
-<figure class="highlight"><pre><code class="language-shell" data-lang="shell">pkg-config --cflags --libs gtk+-3.0</code></pre></figure>
-
-<p>See the output? It is showing the necessary files you need to successfully build a gtk based app.
-For me, it is:</p>
-
-<figure class="highlight"><pre><code class="language-shell" data-lang="shell">-pthread -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0/ -I/usr/include/mirclient -I/usr/include/mircommon -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/pango-1.0 -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/freetype2 -I/usr/include/libpng12 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng12 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -lgtk-3 -lgdk-3 -lpangocairo-1.0 -lpango-1.0 -latk-1.0 -lcairo-gobject -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0</code></pre></figure>
-
-<p>Now, Open CodeBlocks. Right click on <code class="highlighter-rouge">New &gt; Project &gt; GTK+ Project</code>, <code class="highlighter-rouge">edit this script</code>. It may throw an error saying it can not find the file, making it in read-only mode. Hence, go to <code class="highlighter-rouge">~/.local/share/codeblocks/templates/wizard/gtk</code> and open the <code class="highlighter-rouge">wizard.script</code>.
-Replace the version values with the values you found from the <code class="highlighter-rouge">pkg-config</code> part. For example,</p>
-
-<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="cp"># modifying versions from wizard.script file - before change
-</span><span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">VerifyFile</span><span class="p">(</span><span class="n">dir_nomacro_inc</span> <span class="o">+</span> <span class="n">wxFILE_SEP_PATH</span> <span class="o">+</span> <span class="n">_T</span><span class="p">(</span><span class="s">"gtk-2.0"</span><span class="p">)))</span></code></pre></figure>
-
-<p>will become</p>
-
-<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="cp"># c modifying versions from wizard.script file - after change
-</span>
-<span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">VerifyFile</span><span class="p">(</span><span class="n">dir_nomacro_inc</span> <span class="o">+</span> <span class="n">wxFILE_SEP_PATH</span> <span class="o">+</span> <span class="n">_T</span><span class="p">(</span><span class="s">"gtk-3.0"</span><span class="p">)))</span></code></pre></figure>
-
-<p>In case you are clueless, you can take a look at my <a href="https://gist.github.com/lordamit/fc2b608f15047d9f672e">wizard.script</a>.</p>
-
-<h2 id="installing-glade">Installing Glade</h2>
-
-<figure class="highlight"><pre><code class="language-shell" data-lang="shell">sudo apt-get install glade</code></pre></figure>
-
-<h2 id="create-design-using-glade">Create Design Using Glade</h2>
-<p>Open glade, drag and drop a <code class="highlighter-rouge">Window</code> top-level container. Add some more things if you want inside it. From the properties pane at the right side, go to <code class="highlighter-rouge">general</code> tab, and write <code class="highlighter-rouge">mywindow</code> in the ID.</p>
-
-<p>The key things to remember here are:</p>
-
-<ol>
-  <li>You got to have a Window ID, and it must be used in the C code</li>
-  <li>You have to save it in GtkBuilder format (<code class="highlighter-rouge">file &gt; save as</code>)</li>
-</ol>
-
-<h2 id="c-code-example">C code example</h2>
-
-<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="cp"># C Code that includes a testGlade.glade file
-# for designing UI
-#include&lt;gtk/gtk.h&gt;
-</span>
-<span class="kt">int</span> <span class="n">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="o">*</span><span class="n">argv</span><span class="p">[]){</span>
-    <span class="n">GtkBuilder</span> <span class="o">*</span><span class="n">gtkBuilder</span><span class="p">;</span>
-    <span class="n">GtkWidget</span> <span class="o">*</span><span class="n">window</span><span class="p">;</span>
-
-    <span class="n">gtk_init</span><span class="p">(</span><span class="o">&amp;</span><span class="n">argc</span><span class="p">,</span> <span class="o">&amp;</span><span class="n">argv</span><span class="p">);</span>
-
-    <span class="n">gtkBuilder</span> <span class="o">=</span> <span class="n">gtk_builder_new</span><span class="p">();</span>
-    <span class="n">gtk_builder_add_from_file</span><span class="p">(</span><span class="n">gtkBuilder</span><span class="p">,</span> <span class="s">"testGlade.glade"</span><span class="p">,</span> <span class="nb">NULL</span><span class="p">);</span>
-    <span class="n">window</span> <span class="o">=</span> <span class="n">GTK_WIDGET</span><span class="p">(</span><span class="n">gtk_builder_get_object</span><span class="p">(</span><span class="n">gtkBuilder</span><span class="p">,</span> <span class="s">"mywindow"</span><span class="p">));</span>
-
-    <span class="n">g_object_unref</span><span class="p">(</span><span class="n">G_OBJECT</span><span class="p">(</span><span class="n">gtkBuilder</span><span class="p">));</span>
-    <span class="n">gtk_widget_show</span><span class="p">(</span><span class="n">window</span><span class="p">);</span>
-    <span class="n">gtk_main</span><span class="p">();</span>
-
-    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-<span class="p">}</span></code></pre></figure>
-
-<p>Compile and run.  Comment below if this works for you or if you got a feedback! share your screen shot of what you built :)</p>
 .<br />
                   
                     <footer>

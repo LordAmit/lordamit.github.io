@@ -5,11 +5,52 @@
     <description>Amit Seal Ami is a Researcher, Academician, Software Engineer, Gamer, and Observer of Life.</description>
     <link>https://lordamit.github.io/</link>
     <atom:link href="https://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2017-04-18T11:35:37+06:00</updated>
+    <updated>2018-02-12T19:33:43+06:00</updated>
     <id>https://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
+    
+      <item>
+        <title>Alloy in Visual Studio Code</title>
+        
+          <description>&lt;p&gt;For those in Formal Software Engineering domain, &lt;a href=&quot;http://alloy.mit.edu/alloy/download.html&quot;&gt;Alloy&lt;/a&gt; should be a common name. By itself, it is awesome for preparing and checking a model. However, the editor itself does not support auto complete, even for the symbols written in the same file. Therefore, some people of the community created extensions that support syntax highligting of Alloy syntax in &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=DongyuZhao.alloy-vscode&quot;&gt;Visual Studio Code&lt;/a&gt; and &lt;a href=&quot;https://github.com/HiroakiMikami/atom-alloy&quot;&gt;Atom&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One slight problem though. The only way to run the nicely crafted alloy files is to run them through the Alloy program. And we can connect Visual Studio Code and Alloy program quiet easily using another handy extension called &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&quot;&gt;Code Runner&lt;/a&gt;. All you have to do is to install this extension, and add the mapping for the Alloy languages.
+&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;By default, the code runner checks the following settings:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;code-runner.executorMap&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;javascript&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;node&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;php&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;C:\\php\\php.exe&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;python&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;python&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;perl&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;perl&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;ruby&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;C:\\Ruby23-x64\\bin\\ruby.exe&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;go&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;go run&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;html&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;\&quot;C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\&quot;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;java&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;cd $dir &amp;amp;&amp;amp; javac $fileName &amp;amp;&amp;amp; java $fileNameWithoutExt&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;c&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;cd $dir &amp;amp;&amp;amp; gcc $fileName -o $fileNameWithoutExt &amp;amp;&amp;amp; $dir$fileNameWithoutExt&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As you can see, this maps javascript, php, python and some more by default using these configuration. To add this, we only need to append the following line:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;alloy&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;java -jar &amp;lt;pathToAlloyHere&amp;gt; $fullfilename&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And that’s it! Now if you invoke the code runner (generally using &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl+enter&lt;/code&gt;), it will automatically run Alloy using the file you are using.&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 12 Feb 2018 00:00:00 +0600</pubDate>
+        <link>https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/</guid>
+      </item>
     
       <item>
         <title>70300 xp in pokemon go: যেভাবে সহজে লেভেল আপ করা যায় Pokemon Go এ</title>
@@ -408,56 +449,6 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
         <pubDate>Tue, 10 May 2016 13:23:00 +0600</pubDate>
         <link>https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/</link>
         <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/10/polarr-awesome-image-editor/</guid>
-      </item>
-    
-      <item>
-        <title>Cracking FaceBook Instant Articles With Jekyll - RSS Feed</title>
-        
-          <description>&lt;p&gt;Hello All,
-Recently I got access to Instant Articles from Facebook for my Jekyll based blog. The interesting part is that as far as I know, Instant Articles RSS Feed are not supported by Jekyll - yet! But no worries, I have done this and I am going to share how :)&lt;/p&gt;
-
-&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
-&lt;script&gt;(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = &quot;//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.6&amp;appId=394590333892568&quot;;
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
-
-&lt;div class=&quot;fb-post&quot; data-href=&quot;https://www.facebook.com/AmitPublic/photos/a.498726470144373.132061.283932261623796/1323428384340840/?type=3&amp;amp;theater&quot; data-width=&quot;500&quot; data-show-text=&quot;true&quot;&gt;&lt;div class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;blockquote cite=&quot;https://www.facebook.com/AmitPublic/posts/1323428384340840:0&quot;&gt;&lt;p&gt;Ladies and gentlemen, Instant Articles approval from Facebook :) That means you can get access to my contents even...&lt;/p&gt;Posted by &lt;a href=&quot;https://www.facebook.com/AmitPublic/&quot;&gt;Amit Seal Ami&lt;/a&gt; on&amp;nbsp;&lt;a href=&quot;https://www.facebook.com/AmitPublic/posts/1323428384340840:0&quot;&gt;Tuesday, May 3, 2016&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;!-- more --&gt;
-To do this, you need to submit 10 articles which uses Facebook specified Markup tags in your post. An easy way to achieve this is to format your &lt;a href=&quot;https://developers.facebook.com/docs/instant-articles/publishing/setup-rss-feed/&quot;&gt;RSS feed&lt;/a&gt;, and then ingest it.&lt;/p&gt;
-
-&lt;p&gt;Problem was, noone did this for Jekyll. At least not as far as I was concerned. And I was just starting with Jekyll as well with zero knowledge about Ruby! Therefore, I had to get my hands dirty. I had to ensure the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The images are surrounded by Figure tags&lt;/li&gt;
-  &lt;li&gt;The rss items are configured to contain the necessary tags Facebook is looking for&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For the first one, I used liquid Figure tags. You can get those in jekyll-figure gem.
-For the second one, I created a new file called &lt;code class=&quot;highlighter-rouge&quot;&gt;instantfeed.xml&lt;/code&gt; and then I included the following:&lt;/p&gt;
-
-&lt;script src=&quot;https://gist.github.com/lordamit/4bbde7c11e1daafa8e081643787db4a2.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Now, your of course need to&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Modify the parts that were specifically written for my blog&lt;/li&gt;
-  &lt;li&gt;insert yoursite.com/instantfeed.xml to the facebook instant article RSS ingestion section&lt;/li&gt;
-  &lt;li&gt;build your jekyll site and push it&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The RSS should be enough for most of your articles, if not all. Just make sure that you follow the Facebook Instant Articles Design Policies, and you are good to go.&lt;/p&gt;
-
-&lt;p&gt;Also, head over to David Chua’s &lt;a href=&quot;http://dchua.com/2016/04/24/hooking-up-jekyll-to-facebook-instant-articles/&quot;&gt;blog&lt;/a&gt; if you want another perspective of achieving the same thing.&lt;/p&gt;
-</description>
-        
-        <pubDate>Tue, 10 May 2016 10:00:00 +0600</pubDate>
-        <link>https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/10/cracking-facebook-instant-articles-with-jekyll-rss-feed/</guid>
       </item>
     
   </channel>
