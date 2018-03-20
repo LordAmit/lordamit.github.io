@@ -143,6 +143,11 @@ callback([
   {
     "text": "Alloy in Visual Studio Code",
     "href": "https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/"
+  } ,
+
+  {
+    "text": "Submitting to IEEE/ACM conferences - Lessons Learned",
+    "href": "https://lordamit.github.io/blog/2018/03/20/submitting-to-ieee-acm-conferences-lessons-learned/"
   } 
 
 ])
