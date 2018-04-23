@@ -5,11 +5,39 @@
     <description>Amit Seal Ami is a Researcher, Academician, Software Engineer, Gamer, and Observer of Life.</description>
     <link>https://lordamit.github.io/</link>
     <atom:link href="https://lordamit.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <updated>2018-03-20T22:32:54+06:00</updated>
+    <updated>2018-04-23T22:38:42+06:00</updated>
     <id>https://lordamit.github.io</id>
     <author>
       <name>Amit Seal Ami</name>
     </author>
+    
+      <item>
+        <title>Higher Studies in USA</title>
+        
+          <description>&lt;p&gt;USA তে পড়াশোনা করার ইচ্ছা অনেকের আছে। কিন্তু পড়াশোনার ইচ্ছা থাকলেই তো হয় না; তার সাথে অনেক প্রস্তুতির ব্যাপার আছে। কি করবো, কি ভাবে করবো এটা বার করা লাগে; আবার কিছু বিষয় ধরা যায় না সহজে।&lt;/p&gt;
+
+&lt;p&gt;যেমন IELTS না TOEFL, SOP কি, SOP তে কি থাকে, IELTS/TOEFL এর কোনটায় কি সুবিধা বা অসুবিধা ইত্যাদি!&lt;/p&gt;
+
+&lt;p&gt;এসব প্রশ্ন আমার মাথাতেও আসতো। সব মিলিয়ে এই ছোট্ট মাইন্ড ম্যাপটা বানালাম। বেশ কিছু প্রচলিত, কিন্তু ঝামেলাজনক প্রশ্নের উত্তর আমি দিয়েছি ব্যক্তিগত অভিজ্ঞতার আলোকে।&lt;/p&gt;
+
+&lt;p&gt;আশা করি যারা ভবিষ্যতে পড়াশোনা করতে USA যেতে চায়, তাদের জন্য এটা কাজে লাগবে :)&lt;/p&gt;
+
+&lt;p&gt;(ভালো কথা, এটা ডাউনলোড করা যায় না বা করা গেলেও করা উচিৎ না। আমি এটা আপডেট করলে বা কোন ভুল ঠিক করলে আপনার ডাউনলোডে সেটা পাবেন না!)&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;p&gt;&lt;a href=&quot;https://mind42.com/mindmap/50d07ed4-a988-4bb5-85a6-c4b16fa15cb7&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/798/39843006570_1c7aab5242_b.jpg&quot; alt=&quot;ইউএসএতে উচ্চতর শিক্ষা&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+  
+  &lt;figcaption&gt;ছবি:  ইউএসএতে উচ্চতর শিক্ষা. ক্লিক করলে বড় হবে।&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;এটা সবচেয়ে ভালো দেখা যাবে পিসিতে। শুধু মোবাইলে ব্রাউজ করতে পারলে এবং খুব সমস্যা হলে দেখতে ছবি হিসাবে ডাউনলোড করতে পারেন এখান &lt;a href=&quot;https://mind42.com/data/export?action=export&amp;amp;mapid=50d07ed4-a988-4bb5-85a6-c4b16fa15cb7&amp;amp;format=jpeg&quot;&gt;থেকে&lt;/a&gt;।&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0600</pubDate>
+        <link>https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa/</link>
+        <guid isPermaLink="true">https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa/</guid>
+      </item>
     
       <item>
         <title>Submitting to IEEE/ACM conferences - Lessons Learned</title>
@@ -445,36 +473,6 @@ inkscape filename.svg -M filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
         <pubDate>Sun, 05 Jun 2016 09:22:00 +0600</pubDate>
         <link>https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/</link>
         <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/</guid>
-      </item>
-    
-      <item>
-        <title>Making a Text Based Progress Bar in Python</title>
-        
-          <description>&lt;p&gt;ছোটবেলায় যখন কনসোলে কিছু একট কাজ করতে দিতাম - দেখা যেত একটা প্রোগ্রেস বারও আছে। সেটা আবার এক যায়গায় আস্তে আস্তে বাড়তে থাকে।
-মনে হতো,  আরে!কনসোলে এই যে প্রোগ্রেসবারটা দেখি, সেটা কিভাবে কাজ করে? এনিমেশনটা হয় কিভাবে?!
-ভাবলাম এখন যখন জানি, সবাইকে দেখাই কেমন করে কাজ করে!
-কোডটা দিলাম, কিন্তু ছবি আকারে - করতে চাইলে কোডটা নিজেই লিখে করো :D&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;https://farm8.staticflickr.com/7711/26891460872_717938f69b_b.jpg&quot; alt=&quot;পাইথন কোড - কনসোলে প্রোগ্রেস বার&quot; /&gt;
-  
-  &lt;figcaption&gt;পাইথন কোড - কনসোলে প্রোগ্রেস বার&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;কোডের আউটপুটটা দেখতে এমন হবে:&lt;/p&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;http://i.giphy.com/DLZMuaADXQdUc.gif&quot; alt=&quot;টেক্সট প্রোগ্রস বার&quot; /&gt;
-  
-  &lt;figcaption&gt;টেক্সট প্রোগ্রস বার&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;লক্ষ্য করার যে অংশটা, সেটা হলো \r. এটার কারণেই একযায়গায় বার বার লেখা হচ্ছে। ‌\r মানে হচ্ছে ক্যারিজ রিটার্ন।
-আর ফ্লাশিংয়ের অংশটা &lt;a href=&quot;http://stackoverflow.com/questions/10019456/usage-of-sys-stdout-flush-method&quot; target=&quot;_blank&quot;&gt;এখান&lt;/a&gt; থেকে বুঝতে পারো।&lt;/p&gt;
-</description>
-        
-        <pubDate>Fri, 13 May 2016 10:03:00 +0600</pubDate>
-        <link>https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</link>
-        <guid isPermaLink="true">https://lordamit.github.io/blog/2016/05/13/making-a-text-based-progress-bar-in-python/</guid>
       </item>
     
   </channel>
