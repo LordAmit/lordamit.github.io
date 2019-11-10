@@ -5,18 +5,18 @@ layout: null
     <channel>
         <title>Amit Seal Ami</title>
         <description>Random blogs from Amit</description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000 instantfeed.xml" rel="self" type="application/rss+xml" />
-        <updated>2019-11-10T11:19:13+06:00</updated>
-        <id>http://localhost:4000</id>
+        <link>https://lordamit.github.io/</link>
+        <atom:link href="https://lordamit.github.io instantfeed.xml" rel="self" type="application/rss+xml" />
+        <updated>2019-11-10T11:27:48+06:00</updated>
+        <id>https://lordamit.github.io</id>
         <author>
             <name>Amit Seal Ami</name>
         </author>
         
         <item>
             <title>Higher Studies in USA</title>
-            <link>http://localhost:4000/blog/2018/04/23/higher-studies-in-usa/</link>
-            <guid isPermaLink="true">http://localhost:4000/blog/2018/04/23/higher-studies-in-usa/</guid>
+            <link>https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa/</link>
+            <guid isPermaLink="true">https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa/</guid>
             <pubDate>Mon, 23 Apr 2018 00:00:00 +0600</pubDate>
             <author>Amit Seal Ami</author>
             
@@ -45,7 +45,7 @@ layout: null
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2018/04/23/higher-studies-in-usa/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -97,8 +97,8 @@ layout: null
         
         <item>
             <title>Submitting to IEEE/ACM conferences - Lessons Learned</title>
-            <link>http://localhost:4000/blog/2018/03/20/submitting-to-ieee-acm-conferences-lessons-learned/</link>
-            <guid isPermaLink="true">http://localhost:4000/blog/2018/03/20/submitting-to-ieee-acm-conferences-lessons-learned/</guid>
+            <link>https://lordamit.github.io/blog/2018/03/20/submitting-to-ieee-acm-conferences-lessons-learned/</link>
+            <guid isPermaLink="true">https://lordamit.github.io/blog/2018/03/20/submitting-to-ieee-acm-conferences-lessons-learned/</guid>
             <pubDate>Tue, 20 Mar 2018 00:00:00 +0600</pubDate>
             <author>Amit Seal Ami</author>
             
@@ -155,7 +155,7 @@ layout: null
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2018/03/20/submitting-to-ieee-acm-conferences-lessons-learned/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2018/03/20/submitting-to-ieee-acm-conferences-lessons-learned/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -164,7 +164,7 @@ layout: null
                       <h1>Submitting to IEEE/ACM conferences - Lessons Learned</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" Submitting to IEEE/ACM conferences - Lessons Learned ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" Submitting to IEEE/ACM conferences - Lessons Learned ">
                           <figcaption>Submitting to IEEE/ACM conferences - Lessons Learned</figcaption>
                       </figure>
                       
@@ -235,8 +235,8 @@ layout: null
         
         <item>
             <title>Alloy in Visual Studio Code</title>
-            <link>http://localhost:4000/blog/2018/02/12/alloy-in-visual-studio-code/</link>
-            <guid isPermaLink="true">http://localhost:4000/blog/2018/02/12/alloy-in-visual-studio-code/</guid>
+            <link>https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/</link>
+            <guid isPermaLink="true">https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/</guid>
             <pubDate>Mon, 12 Feb 2018 00:00:00 +0600</pubDate>
             <author>Amit Seal Ami</author>
             
@@ -281,7 +281,7 @@ layout: null
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2018/02/12/alloy-in-visual-studio-code/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -290,7 +290,7 @@ layout: null
                       <h1>Alloy in Visual Studio Code</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" Alloy in Visual Studio Code ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" Alloy in Visual Studio Code ">
                           <figcaption>Alloy in Visual Studio Code</figcaption>
                       </figure>
                       
@@ -349,8 +349,8 @@ layout: null
         
         <item>
             <title>70300 xp in pokemon go: যেভাবে সহজে লেভেল আপ করা যায় Pokemon Go এ</title>
-            <link>http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/</link>
-            <guid isPermaLink="true">http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/</guid>
+            <link>https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/</link>
+            <guid isPermaLink="true">https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/</guid>
             <pubDate>Fri, 30 Dec 2016 01:38:00 +0600</pubDate>
             <author>Amit Seal Ami</author>
             
@@ -394,7 +394,7 @@ layout: null
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/12/30/pokemon-go-leveling-up-fast/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -463,8 +463,8 @@ layout: null
         
         <item>
             <title>No Man's Sky - Game Review</title>
-            <link>http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/</link>
-            <guid isPermaLink="true">http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/</guid>
+            <link>https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/</link>
+            <guid isPermaLink="true">https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/</guid>
             <pubDate>Sun, 14 Aug 2016 15:52:00 +0600</pubDate>
             <author>Amit Seal Ami</author>
             
@@ -531,7 +531,7 @@ layout: null
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/08/14/no-man-s-sky-game-review/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -623,8 +623,8 @@ layout: null
         
         <item>
             <title>Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে</title>
-            <link>http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</link>
-            <guid isPermaLink="true">http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</guid>
+            <link>https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</link>
+            <guid isPermaLink="true">https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/</guid>
             <pubDate>Fri, 22 Jul 2016 21:25:00 +0600</pubDate>
             <author>Amit Seal Ami</author>
             
@@ -678,7 +678,7 @@ layout: null
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -757,8 +757,8 @@ layout: null
         
         <item>
             <title>Lossless Conversion from PDF to SVG / EMF in Ubuntu</title>
-            <link>http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</link>
-            <guid isPermaLink="true">http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</guid>
+            <link>https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</link>
+            <guid isPermaLink="true">https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/</guid>
             <pubDate>Thu, 14 Jul 2016 13:00:00 +0600</pubDate>
             <author>Amit Seal Ami</author>
             
@@ -780,7 +780,7 @@ inkscape filename.svg &lt;span class=&quot;nt&quot;&gt;-M&lt;/span&gt; filename.
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -789,7 +789,7 @@ inkscape filename.svg &lt;span class=&quot;nt&quot;&gt;-M&lt;/span&gt; filename.
                       <h1>Lossless Conversion from PDF to SVG / EMF in Ubuntu</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" Lossless Conversion from PDF to SVG / EMF in Ubuntu ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" Lossless Conversion from PDF to SVG / EMF in Ubuntu ">
                           <figcaption>Lossless Conversion from PDF to SVG / EMF in Ubuntu</figcaption>
                       </figure>
                       
@@ -825,8 +825,8 @@ inkscape filename.svg <span class="nt">-M</span> filename.emf</code></pre></figu
         
         <item>
             <title>রিপোর্ট, রিপোর্টের ভুল এবং শিক্ষকের মাথার চুল</title>
-            <link>http://localhost:4000/blog/2016/06/24/annoying-things-in-report/</link>
-            <guid isPermaLink="true">http://localhost:4000/blog/2016/06/24/annoying-things-in-report/</guid>
+            <link>https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/</link>
+            <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/</guid>
             <pubDate>Fri, 24 Jun 2016 00:00:00 +0600</pubDate>
             <author>Amit Seal Ami</author>
             
@@ -892,7 +892,7 @@ inkscape filename.svg <span class="nt">-M</span> filename.emf</code></pre></figu
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/06/24/annoying-things-in-report/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -981,8 +981,8 @@ inkscape filename.svg <span class="nt">-M</span> filename.emf</code></pre></figu
         
         <item>
             <title>বিশ্ববিদ্যালয়ের শিক্ষক - শেখানোই যার একমাত্র কাজ না!</title>
-            <link>http://localhost:4000/blog/2016/06/14/varsity-teacher/</link>
-            <guid isPermaLink="true">http://localhost:4000/blog/2016/06/14/varsity-teacher/</guid>
+            <link>https://lordamit.github.io/blog/2016/06/14/varsity-teacher/</link>
+            <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/14/varsity-teacher/</guid>
             <pubDate>Tue, 14 Jun 2016 07:38:00 +0600</pubDate>
             <author>Amit Seal Ami</author>
             
@@ -1027,7 +1027,7 @@ inkscape filename.svg <span class="nt">-M</span> filename.emf</code></pre></figu
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/06/14/varsity-teacher/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/06/14/varsity-teacher/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1097,8 +1097,8 @@ inkscape filename.svg <span class="nt">-M</span> filename.emf</code></pre></figu
         
         <item>
             <title>বাস্তব কল্পকাহিনী - সুপার সোলজার</title>
-            <link>http://localhost:4000/blog/2016/06/05/aram-korlei-beram/</link>
-            <guid isPermaLink="true">http://localhost:4000/blog/2016/06/05/aram-korlei-beram/</guid>
+            <link>https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/</link>
+            <guid isPermaLink="true">https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/</guid>
             <pubDate>Sun, 05 Jun 2016 09:22:00 +0600</pubDate>
             <author>Amit Seal Ami</author>
             
@@ -1142,7 +1142,7 @@ inkscape filename.svg <span class="nt">-M</span> filename.emf</code></pre></figu
                 <html lang="en" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://localhost:4000/blog/2016/06/05/aram-korlei-beram/">
+                <link rel="canonical" href="https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
@@ -1151,7 +1151,7 @@ inkscape filename.svg <span class="nt">-M</span> filename.emf</code></pre></figu
                       <h1>বাস্তব কল্পকাহিনী - সুপার সোলজার</h1>
                       
                       <figure>
-                          <img src="http://localhost:4000/images/sitelogo_640x492.png" alt=" বাস্তব কল্পকাহিনী - সুপার সোলজার ">
+                          <img src="https://lordamit.github.io/images/sitelogo_640x492.png" alt=" বাস্তব কল্পকাহিনী - সুপার সোলজার ">
                           <figcaption>বাস্তব কল্পকাহিনী - সুপার সোলজার</figcaption>
                       </figure>
                       
