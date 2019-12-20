@@ -1,503 +1,335 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://lordamit.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lordamit.github.io/" rel="alternate" type="text/html" /><updated>2019-12-20T11:00:48+06:00</updated><id>https://lordamit.github.io/feed.xml</id><title type="html">Amit Seal Ami</title><subtitle>Random blogs from Amit</subtitle><author><name>Amit Seal Ami</name></author><entry><title type="html">Temporary Post</title><link href="https://lordamit.github.io/blog/2019/11/01/temp/" rel="alternate" type="text/html" title="Temporary Post" /><published>2019-11-01T00:00:00+06:00</published><updated>2019-12-01T00:00:00+06:00</updated><id>https://lordamit.github.io/blog/2019/11/01/temp</id><content type="html" xml:base="https://lordamit.github.io/blog/2019/11/01/temp/">&lt;!-- excerpt --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://lordamit.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lordamit.github.io/" rel="alternate" type="text/html" /><updated>2019-12-20T11:01:20+06:00</updated><id>https://lordamit.github.io/feed.xml</id><title type="html">Amit Seal Ami</title><subtitle>Random blogs from Amit</subtitle><author><name>Amit Seal Ami</name></author><entry xml:lang="bn"><title type="html">Higher Studies in USA</title><link href="https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa/" rel="alternate" type="text/html" title="Higher Studies in USA" /><published>2018-04-23T00:00:00+06:00</published><updated>2018-04-23T00:00:00+06:00</updated><id>https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa</id><content type="html" xml:base="https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa/">USA তে পড়াশোনা করার ইচ্ছা অনেকের আছে। কিন্তু পড়াশোনার ইচ্ছা থাকলেই তো হয় না; তার সাথে অনেক প্রস্তুতির ব্যাপার আছে। কি করবো, কি ভাবে করবো এটা বার করা লাগে; আবার কিছু বিষয় ধরা যায় না সহজে।
 
-&lt;p&gt;ইহা একটি টেস্ট মার্কা লেখা - যাহায় যথেষ্ঠ পরিমাণে যুক্তাক্ষর ব্যবহৃত হয়েছে।&lt;/p&gt;
+যেমন IELTS না TOEFL, SOP কি, SOP তে কি থাকে, IELTS/TOEFL এর কোনটায় কি সুবিধা বা অসুবিধা ইত্যাদি!
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+এসব প্রশ্ন আমার মাথাতেও আসতো। সব মিলিয়ে এই ছোট্ট মাইন্ড ম্যাপটা বানালাম। বেশ কিছু প্রচলিত, কিন্তু ঝামেলাজনক প্রশ্নের উত্তর আমি দিয়েছি ব্যক্তিগত অভিজ্ঞতার আলোকে।
 
+আশা করি যারা ভবিষ্যতে পড়াশোনা করতে USA যেতে চায়, তাদের জন্য এটা কাজে লাগবে :)
 &lt;!-- more --&gt;
+(ভালো কথা, এটা ডাউনলোড করা যায় না বা করা গেলেও করা উচিৎ না। আমি এটা আপডেট করলে বা কোন ভুল ঠিক করলে আপনার ডাউনলোডে সেটা পাবেন না!)
 
-&lt;h1 id=&quot;shell&quot;&gt;shell&lt;/h1&gt;
+{% figure caption:&quot;ছবি:  ইউএসএতে উচ্চতর শিক্ষা. ক্লিক করলে বড় হবে। &quot; %}
+[![ইউএসএতে উচ্চতর শিক্ষা](https://farm1.staticflickr.com/798/39843006570_1c7aab5242_b.jpg)](https://mind42.com/mindmap/50d07ed4-a988-4bb5-85a6-c4b16fa15cb7)
+{% endfigure %}
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt-get &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;glade&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;&lt;span class=&quot;nv&quot;&gt;DPI&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;160 &lt;span class=&quot;nv&quot;&gt;UVESA_MODE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;1366x768
-&lt;span class=&quot;nv&quot;&gt;DPI&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;265 &lt;span class=&quot;nv&quot;&gt;UVESA_MODE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;2880x1800&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h1 id=&quot;normal&quot;&gt;normal&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-xpath&quot; data-lang=&quot;xpath&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;w&quot;&gt;    &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;@online&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;Thornburg01&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;Harry&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;Thornburg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2001&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;Introduction&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;ow&quot;&gt;to&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;Bayesian&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;Statistics&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;http&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;://&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;ccrma.stanford.edu&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;~&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;jos&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;bayes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;bayes.html&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;month&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;mar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;lastaccessed&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;March&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2005&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;json&quot;&gt;json&lt;/h2&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;code-runner.executorMap&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;javascript&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;node&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;php&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;C:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;php&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;php.exe&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;python&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;python&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;perl&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;perl&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;ruby&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;C:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Ruby23-x64&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;bin&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;ruby.exe&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;go&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;go run&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;html&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;C:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Program Files (x86)&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Google&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Chrome&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Application&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;chrome.exe&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;java&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;cd $dir &amp;amp;&amp;amp; javac $fileName &amp;amp;&amp;amp; java $fileNameWithoutExt&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;c&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;cd $dir &amp;amp;&amp;amp; gcc $fileName -o $fileNameWithoutExt &amp;amp;&amp;amp; $dir$fileNameWithoutExt&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;json-1&quot;&gt;json&lt;/h2&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;alloy&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;java -jar &amp;lt;pathToAlloyHere&amp;gt; $fullfilename&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;c-code-example&quot;&gt;C code example&lt;/h2&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;cp&quot;&gt;# C Code that includes a testGlade.glade file
-# for designing UI
-&lt;/span&gt;
-&lt;span class=&quot;cp&quot;&gt;#include&amp;lt;gtk/gtk.h&amp;gt;
-&lt;/span&gt;
-&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;argc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]){&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;GtkBuilder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;GtkWidget&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-    &lt;span class=&quot;n&quot;&gt;gtk_init&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-    &lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gtk_builder_new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;gtk_builder_add_from_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;testGlade.glade&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;window&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;GTK_WIDGET&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtk_builder_get_object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;mywindow&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-
-    &lt;span class=&quot;n&quot;&gt;g_object_unref&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;G_OBJECT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;gtk_widget_show&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;gtk_main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;ui.help&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Ui_Form&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Help_Ui_Form&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;util.executor&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Executor&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;util.check_displays&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CDisplay&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;util.write_config&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;WriteConfig&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;util.read_config&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ReadConfig&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;MyApplication&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;QtGui&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;QMainWindow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;__assign_displays&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;&quot;&quot;&quot;assigns display name &quot;&quot;&quot;&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;displays&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CDisplay&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;detect_display_devices&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;no_of_displays&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;displays&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;no_of_connected_dev&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;no_of_displays&lt;/span&gt;
-
-        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;no_of_displays&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-
-            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;display1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;displays&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;elif&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;no_of_displays&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-
-            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;display1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;displays&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;display2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;displays&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;__init__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;parent&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;&quot;&quot;&quot;Initializes&quot;&quot;&quot;&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;QtGui&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;QMainWindow&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;__init__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;parent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ui&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Ui_MainWindow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ui&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setupUi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;display1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;display2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;temperature&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Default'&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;no_of_connected_dev&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;__assign_displays&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setup_default_directory&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;generate_dynamic_items&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;default_config&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'/home/{}/.config/'&lt;/span&gt; \
-            &lt;span class=&quot;s&quot;&gt;'brightness_controller/settings'&lt;/span&gt;      \
-            &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getpass&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getuser&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;values&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;array_value&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.01&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;xrange&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;values&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;append&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;array_value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;array_value&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.01&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;connect_handlers&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setup_widgets&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;exists&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;default_config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;load_settings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;default_config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setup_tray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;parent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;setup_default_directory&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;&quot;&quot;&quot; Create default settings directory if it doesnt exist &quot;&quot;&quot;&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;directory&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'/home/{}/.config/'&lt;/span&gt; \
-            &lt;span class=&quot;s&quot;&gt;'brightness_controller/'&lt;/span&gt;    \
-            &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getpass&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getuser&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;exists&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;directory&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-                &lt;span class=&quot;n&quot;&gt;makedirs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;directory&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;error&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-                &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;_show_error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>Amit Seal Ami</name></author><summary type="html">ইহা একটি টেস্ট মার্কা লেখা - যাহায় যথেষ্ঠ পরিমাণে যুক্তাক্ষর ব্যবহৃত হয়েছে। Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lordamit.github.io/images/amit.png" /></entry><entry xml:lang="bn"><title type="html">Higher Studies in USA</title><link href="https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa/" rel="alternate" type="text/html" title="Higher Studies in USA" /><published>2018-04-23T00:00:00+06:00</published><updated>2018-04-23T00:00:00+06:00</updated><id>https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa</id><content type="html" xml:base="https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa/">&lt;p&gt;USA তে পড়াশোনা করার ইচ্ছা অনেকের আছে। কিন্তু পড়াশোনার ইচ্ছা থাকলেই তো হয় না; তার সাথে অনেক প্রস্তুতির ব্যাপার আছে। কি করবো, কি ভাবে করবো এটা বার করা লাগে; আবার কিছু বিষয় ধরা যায় না সহজে।&lt;/p&gt;
-
-&lt;p&gt;যেমন IELTS না TOEFL, SOP কি, SOP তে কি থাকে, IELTS/TOEFL এর কোনটায় কি সুবিধা বা অসুবিধা ইত্যাদি!&lt;/p&gt;
-
-&lt;p&gt;এসব প্রশ্ন আমার মাথাতেও আসতো। সব মিলিয়ে এই ছোট্ট মাইন্ড ম্যাপটা বানালাম। বেশ কিছু প্রচলিত, কিন্তু ঝামেলাজনক প্রশ্নের উত্তর আমি দিয়েছি ব্যক্তিগত অভিজ্ঞতার আলোকে।&lt;/p&gt;
-
-&lt;p&gt;আশা করি যারা ভবিষ্যতে পড়াশোনা করতে USA যেতে চায়, তাদের জন্য এটা কাজে লাগবে :)
+এটা সবচেয়ে ভালো দেখা যাবে পিসিতে। শুধু মোবাইলে ব্রাউজ করতে পারলে এবং খুব সমস্যা হলে দেখতে ছবি হিসাবে ডাউনলোড করতে পারেন এখান [থেকে](https://mind42.com/data/export?action=export&amp;mapid=50d07ed4-a988-4bb5-85a6-c4b16fa15cb7&amp;format=jpeg)।</content><author><name>Amit Seal Ami</name></author><category term="USA" /><category term="PhD" /><category term="HigherStudies" /><category term="Bangladesh" /><category term="Bangla" /><summary type="html">USA তে পড়াশোনা করার ইচ্ছা অনেকের আছে। কিন্তু পড়াশোনার ইচ্ছা থাকলেই তো হয় না; তার সাথে অনেক প্রস্তুতির ব্যাপার আছে। কি করবো, কি ভাবে করবো এটা বার করা লাগে; আবার কিছু বিষয় ধরা যায় না সহজে। যেমন IELTS না TOEFL, SOP কি, SOP তে কি থাকে, IELTS/TOEFL এর কোনটায় কি সুবিধা বা অসুবিধা ইত্যাদি! এসব প্রশ্ন আমার মাথাতেও আসতো। সব মিলিয়ে এই ছোট্ট মাইন্ড ম্যাপটা বানালাম। বেশ কিছু প্রচলিত, কিন্তু ঝামেলাজনক প্রশ্নের উত্তর আমি দিয়েছি ব্যক্তিগত অভিজ্ঞতার আলোকে। আশা করি যারা ভবিষ্যতে পড়াশোনা করতে USA যেতে চায়, তাদের জন্য এটা কাজে লাগবে :)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://farm1.staticflickr.com/798/39843006570_1c7aab5242_b.jpg" /></entry><entry><title type="html">Submitting to IEEE/ACM conferences - Lessons Learned</title><link href="https://lordamit.github.io/blog/2018/03/20/submitting-to-ieee-acm-conferences-lessons-learned/" rel="alternate" type="text/html" title="Submitting to IEEE/ACM conferences - Lessons Learned" /><published>2018-03-20T00:00:00+06:00</published><updated>2018-03-20T00:00:00+06:00</updated><id>https://lordamit.github.io/blog/2018/03/20/submitting-to-ieee-acm-conferences-lessons-learned</id><content type="html" xml:base="https://lordamit.github.io/blog/2018/03/20/submitting-to-ieee-acm-conferences-lessons-learned/">Recently I faced a few problems for a paper written using ACM conference template. The problems were related to Bibliography, IEEE PDF eXpress and Bookmarks! Here are the details and how I solved them with the help of different materials available across the Internet.
 &lt;!-- more --&gt;
-(ভালো কথা, এটা ডাউনলোড করা যায় না বা করা গেলেও করা উচিৎ না। আমি এটা আপডেট করলে বা কোন ভুল ঠিক করলে আপনার ডাউনলোডে সেটা পাবেন না!)&lt;/p&gt;
+## Problem 1: Referencing Online Websites in Bibliography
+Luckily this was solved in [ACM Author Guideline](https://www.acm.org/publications/authors/bibtex-formatting). As mentioned in their website, the structure should be:
 
-&lt;figure&gt;
-&lt;p&gt;&lt;a href=&quot;https://mind42.com/mindmap/50d07ed4-a988-4bb5-85a6-c4b16fa15cb7&quot;&gt;&lt;img src=&quot;https://farm1.staticflickr.com/798/39843006570_1c7aab5242_b.jpg&quot; alt=&quot;ইউএসএতে উচ্চতর শিক্ষা&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-  &lt;figcaption&gt;ছবি:  ইউএসএতে উচ্চতর শিক্ষা. ক্লিক করলে বড় হবে।&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;এটা সবচেয়ে ভালো দেখা যাবে পিসিতে। শুধু মোবাইলে ব্রাউজ করতে পারলে এবং খুব সমস্যা হলে দেখতে ছবি হিসাবে ডাউনলোড করতে পারেন এখান &lt;a href=&quot;https://mind42.com/data/export?action=export&amp;amp;mapid=50d07ed4-a988-4bb5-85a6-c4b16fa15cb7&amp;amp;format=jpeg&quot;&gt;থেকে&lt;/a&gt;।&lt;/p&gt;</content><author><name>Amit Seal Ami</name></author><category term="USA" /><category term="PhD" /><category term="HigherStudies" /><category term="Bangladesh" /><category term="Bangla" /><summary type="html">USA তে পড়াশোনা করার ইচ্ছা অনেকের আছে। কিন্তু পড়াশোনার ইচ্ছা থাকলেই তো হয় না; তার সাথে অনেক প্রস্তুতির ব্যাপার আছে। কি করবো, কি ভাবে করবো এটা বার করা লাগে; আবার কিছু বিষয় ধরা যায় না সহজে। যেমন IELTS না TOEFL, SOP কি, SOP তে কি থাকে, IELTS/TOEFL এর কোনটায় কি সুবিধা বা অসুবিধা ইত্যাদি! এসব প্রশ্ন আমার মাথাতেও আসতো। সব মিলিয়ে এই ছোট্ট মাইন্ড ম্যাপটা বানালাম। বেশ কিছু প্রচলিত, কিন্তু ঝামেলাজনক প্রশ্নের উত্তর আমি দিয়েছি ব্যক্তিগত অভিজ্ঞতার আলোকে। আশা করি যারা ভবিষ্যতে পড়াশোনা করতে USA যেতে চায়, তাদের জন্য এটা কাজে লাগবে :)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://farm1.staticflickr.com/798/39843006570_1c7aab5242_b.jpg" /></entry><entry><title type="html">Submitting to IEEE/ACM conferences - Lessons Learned</title><link href="https://lordamit.github.io/blog/2018/03/20/submitting-to-ieee-acm-conferences-lessons-learned/" rel="alternate" type="text/html" title="Submitting to IEEE/ACM conferences - Lessons Learned" /><published>2018-03-20T00:00:00+06:00</published><updated>2018-03-20T00:00:00+06:00</updated><id>https://lordamit.github.io/blog/2018/03/20/submitting-to-ieee-acm-conferences-lessons-learned</id><content type="html" xml:base="https://lordamit.github.io/blog/2018/03/20/submitting-to-ieee-acm-conferences-lessons-learned/">&lt;p&gt;Recently I faced a few problems for a paper written using ACM conference template. The problems were related to Bibliography, IEEE PDF eXpress and Bookmarks! Here are the details and how I solved them with the help of different materials available across the Internet.
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;h2 id=&quot;problem-1-referencing-online-websites-in-bibliography&quot;&gt;Problem 1: Referencing Online Websites in Bibliography&lt;/h2&gt;
-&lt;p&gt;Luckily this was solved in &lt;a href=&quot;https://www.acm.org/publications/authors/bibtex-formatting&quot;&gt;ACM Author Guideline&lt;/a&gt;. As mentioned in their website, the structure should be:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-linenos&quot; data-lang=&quot;linenos&quot;&gt;    @online{Thornburg01,
+{% highlight linenos %}
+    @online{Thornburg01,
     author ={Harry Thornburg},
     year = {2001},
     title ={Introduction to Bayesian Statistics},
     url ={http://ccrma.stanford.edu/~jos/bayes/bayes.html},
     month ={mar},
     lastaccessed ={March 2, 2005},
-    }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+    }
+{% endhighlight %}
 
-&lt;h2 id=&quot;problem-2-url-too-long-and-crosses-references-margin&quot;&gt;Problem 2: URL too long and crosses references margin&lt;/h2&gt;
-&lt;p&gt;For dual column papers, the URL references may be too long, thus ending up crossing the column margin. In ideal scenario, the URL should break to the next line without crossing the margin. To achieve so, I followed instructions from &lt;a href=&quot;https://norwied.wordpress.com/2012/07/10/how-to-break-long-urls-in-bibtex/&quot;&gt;blog&lt;/a&gt;. In short, these packages should be included like so:&lt;/p&gt;
+## Problem 2: URL too long and crosses references margin
+For dual column papers, the URL references may be too long, thus ending up crossing the column margin. In ideal scenario, the URL should break to the next line without crossing the margin. To achieve so, I followed instructions from [blog](https://norwied.wordpress.com/2012/07/10/how-to-break-long-urls-in-bibtex/). In short, these packages should be included like so:
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-tex&quot; data-lang=&quot;tex&quot;&gt;&lt;span class=&quot;k&quot;&gt;\usepackage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;url&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;\usepackage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;breakurl&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;\usepackage&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;[breaklinks]&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;hyperref&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+{% highlight tex %}
 
-&lt;p&gt;Sometimes URL contains many dashes ‘-‘ , so he took care of it like so:&lt;/p&gt;
+\usepackage{url}
+\usepackage{breakurl}
+\usepackage[breaklinks]{hyperref}
+{% endhighlight %}
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-tex&quot; data-lang=&quot;tex&quot;&gt;&lt;span class=&quot;k&quot;&gt;\def\UrlBreaks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;\do\/\do&lt;/span&gt;-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+Sometimes URL contains many dashes '-' , so he took care of it like so:
 
-&lt;p&gt;As a result, the URL will be broken at an appropriate ‘-‘ when necessary.&lt;/p&gt;
+{% highlight tex %}
 
-&lt;h2 id=&quot;problem-3-ieee-pdf-express-checking-failed-due-to-bookmarks-hyperlinks-and-external-hyperlinks&quot;&gt;Problem 3: IEEE PDF eXpress checking failed Due to Bookmarks, Hyperlinks and External Hyperlinks&lt;/h2&gt;
-&lt;p&gt;Well, this was a awkward problem, since I was using the default ACM conference template provided through Overleaf. By default, the template produces PDF files which contain bookmarks. Additionally, each citation becomes hyperlink to references! Whats more, in case the references are to online resources, those references become External Hyperlinks! After digging around, I found the &lt;a href=&quot;https://latex.org/forum/viewtopic.php?p=69905&amp;amp;sid=94e5b9fd689f20b1ca8c6f57c0e406e4#p69905&quot;&gt;answer by Stefan&lt;/a&gt; is useful. Particularly, these two options worked for me:&lt;/p&gt;
+\def\UrlBreaks{\do\/\do-}
+{% endhighlight %}
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-tex&quot; data-lang=&quot;tex&quot;&gt;  &lt;span class=&quot;k&quot;&gt;\PassOptionsToPackage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;draft&lt;span class=&quot;p&quot;&gt;}{&lt;/span&gt;hyperref&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;\hypersetup&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;draft&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+As a result, the URL will be broken at an appropriate '-' when necessary.
 
-&lt;p&gt;Otherwise, the failsafe approach is to use the combination of &lt;code class=&quot;highlighter-rouge&quot;&gt;pdf2ps&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;ps2pdf&lt;/code&gt;. For example,&lt;/p&gt;
+## Problem 3: IEEE PDF eXpress checking failed Due to Bookmarks, Hyperlinks and External Hyperlinks
+Well, this was a awkward problem, since I was using the default ACM conference template provided through Overleaf. By default, the template produces PDF files which contain bookmarks. Additionally, each citation becomes hyperlink to references! Whats more, in case the references are to online resources, those references become External Hyperlinks! After digging around, I found the [answer by Stefan](https://latex.org/forum/viewtopic.php?p=69905&amp;sid=94e5b9fd689f20b1ca8c6f57c0e406e4#p69905) is useful. Particularly, these two options worked for me:
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;  pdf2ps paper.pdf
-  ps2pdf paper.ps&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+{% highlight tex %}
+  \PassOptionsToPackage{draft}{hyperref}
+  \hypersetup{draft}
+{% endhighlight %}
 
-&lt;p&gt;This should convert the PDF to PostScript at first, later converting it to PDF again while removing all annotations and bookmarks in the process. Please note that the size of the converted PDF may not match with the original PDF. However, it should still be acceptable to IEEE PDF eXpress.&lt;/p&gt;
+Otherwise, the failsafe approach is to use the combination of `pdf2ps` and `ps2pdf`. For example,
 
-&lt;p&gt;Good luck with your submissions!&lt;/p&gt;</content><author><name>Amit Seal Ami</name></author><category term="ACM" /><category term="IEEE" /><category term="eXpressPDF" /><category term="Conference" /><category term="Research" /><category term="Publication" /><category term="LaTeX" /><summary type="html">Recently I faced a few problems for a paper written using ACM conference template. The problems were related to Bibliography, IEEE PDF eXpress and Bookmarks! Here are the details and how I solved them with the help of different materials available across the Internet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lordamit.github.io/images/sitelogo.png" /></entry><entry><title type="html">Alloy in Visual Studio Code</title><link href="https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/" rel="alternate" type="text/html" title="Alloy in Visual Studio Code" /><published>2018-02-12T00:00:00+06:00</published><updated>2018-02-12T00:00:00+06:00</updated><id>https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code</id><content type="html" xml:base="https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/">&lt;p&gt;For those in Formal Software Engineering domain, &lt;a href=&quot;http://alloy.mit.edu/alloy/download.html&quot;&gt;Alloy&lt;/a&gt; should be a common name. By itself, it is awesome for preparing and checking a model. However, the editor itself does not support auto complete, even for the symbols written in the same file. Therefore, some people of the community created extensions that support syntax highligting of Alloy syntax in &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=DongyuZhao.alloy-vscode&quot;&gt;Visual Studio Code&lt;/a&gt; and &lt;a href=&quot;https://github.com/HiroakiMikami/atom-alloy&quot;&gt;Atom&lt;/a&gt;.&lt;/p&gt;
+{% highlight shell %}
+  pdf2ps paper.pdf
+  ps2pdf paper.ps
+{% endhighlight %}
 
-&lt;p&gt;One slight problem though. The only way to run the nicely crafted alloy files is to run them through the Alloy program. And we can connect Visual Studio Code and Alloy program quiet easily using another handy extension called &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&quot;&gt;Code Runner&lt;/a&gt;. All you have to do is to install this extension, and add the mapping for the Alloy languages.
-&lt;!-- more --&gt;&lt;/p&gt;
 
-&lt;p&gt;By default, the code runner checks the following settings:&lt;/p&gt;
+This should convert the PDF to PostScript at first, later converting it to PDF again while removing all annotations and bookmarks in the process. Please note that the size of the converted PDF may not match with the original PDF. However, it should still be acceptable to IEEE PDF eXpress.
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;code-runner.executorMap&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;javascript&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;node&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;php&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;C:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;php&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;php.exe&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;python&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;python&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;perl&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;perl&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;ruby&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;C:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Ruby23-x64&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;bin&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;ruby.exe&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;go&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;go run&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;html&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;C:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Program Files (x86)&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Google&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Chrome&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Application&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;chrome.exe&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;java&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;cd $dir &amp;amp;&amp;amp; javac $fileName &amp;amp;&amp;amp; java $fileNameWithoutExt&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;c&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;cd $dir &amp;amp;&amp;amp; gcc $fileName -o $fileNameWithoutExt &amp;amp;&amp;amp; $dir$fileNameWithoutExt&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+Good luck with your submissions!</content><author><name>Amit Seal Ami</name></author><category term="ACM" /><category term="IEEE" /><category term="eXpressPDF" /><category term="Conference" /><category term="Research" /><category term="Publication" /><category term="LaTeX" /><summary type="html">Recently I faced a few problems for a paper written using ACM conference template. The problems were related to Bibliography, IEEE PDF eXpress and Bookmarks! Here are the details and how I solved them with the help of different materials available across the Internet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lordamit.github.io/images/sitelogo.png" /></entry><entry><title type="html">Alloy in Visual Studio Code</title><link href="https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/" rel="alternate" type="text/html" title="Alloy in Visual Studio Code" /><published>2018-02-12T00:00:00+06:00</published><updated>2018-02-12T00:00:00+06:00</updated><id>https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code</id><content type="html" xml:base="https://lordamit.github.io/blog/2018/02/12/alloy-in-visual-studio-code/">For those in Formal Software Engineering domain, [Alloy](http://alloy.mit.edu/alloy/download.html) should be a common name. By itself, it is awesome for preparing and checking a model. However, the editor itself does not support auto complete, even for the symbols written in the same file. Therefore, some people of the community created extensions that support syntax highligting of Alloy syntax in [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=DongyuZhao.alloy-vscode) and [Atom](https://github.com/HiroakiMikami/atom-alloy).
 
-&lt;p&gt;As you can see, this maps javascript, php, python and some more by default using these configuration. To add this, we only need to append the following line:&lt;/p&gt;
-&lt;figure&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;alloy&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;java -jar &amp;lt;pathToAlloyHere&amp;gt; $fullfilename&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;/figure&gt;
-&lt;p&gt;And that’s it! Now if you invoke the code runner (generally using &lt;code class=&quot;highlighter-rouge&quot;&gt;ctrl+enter&lt;/code&gt;), it will automatically run Alloy using the file you are using.&lt;/p&gt;</content><author><name>Amit Seal Ami</name></author><category term="alloy" /><category term="software engineering" /><category term="vscode" /><category term="visualstudio" /><summary type="html">For those in Formal Software Engineering domain, Alloy should be a common name. By itself, it is awesome for preparing and checking a model. However, the editor itself does not support auto complete, even for the symbols written in the same file. Therefore, some people of the community created extensions that support syntax highligting of Alloy syntax in Visual Studio Code and Atom. One slight problem though. The only way to run the nicely crafted alloy files is to run them through the Alloy program. And we can connect Visual Studio Code and Alloy program quiet easily using another handy extension called Code Runner. All you have to do is to install this extension, and add the mapping for the Alloy languages.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lordamit.github.io/images/sitelogo.png" /></entry><entry><title type="html">70300 xp in pokemon go: যেভাবে সহজে লেভেল আপ করা যায় Pokemon Go এ</title><link href="https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/" rel="alternate" type="text/html" title="70300 xp in pokemon go: যেভাবে সহজে লেভেল আপ করা যায় Pokemon Go এ" /><published>2016-12-30T01:38:00+06:00</published><updated>2016-12-30T02:46:00+06:00</updated><id>https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/">&lt;p&gt;পোকেমনের CP / Health / Stat সবই খেলোয়ারের লেভেলের উপরে নির্ভর করে।  লেভেল ছাড়া যে পোকেমনই ধরা হোক না কেন - সেটা Dragonite হোক বা Snorlax লাভ নাই।&lt;/p&gt;
-
-&lt;p&gt;তা কিভাবে লেভেল বাড়ানো যায়? XP বা Experience Point দিয়ে। capture, gym battle, pokestop visit সহ নানারকমের কাজ করলেই সেটা হয়, কিন্তু সবচেয়ে সহজে কিভাবে করা যায় কিভাবে সেটার জন্য একটা অংক করেছি :D
+One slight problem though. The only way to run the nicely crafted alloy files is to run them through the Alloy program. And we can connect Visual Studio Code and Alloy program quiet easily using another handy extension called [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner). All you have to do is to install this extension, and add the mapping for the Alloy languages.
 &lt;!-- more --&gt;
-যদি ধরে নেই Evolve করার সময় lucky egg ব্যবহার করা হচ্ছে, তাহলে প্রতি evolution এ 1000xp আসবে।।&lt;/p&gt;
 
-&lt;p&gt;সবচেয়ে সহজে Evolve  করা যায় Caterpie, Weedle আর Pidgey. প্রতিটার evolution এর জন্য মাত্র ১২টা ক্যান্ডি লাগে।
-কাজেই এগুলোই আমাদের লক্ষ্য ধরার জন্য।&lt;/p&gt;
+By default, the code runner checks the following settings:
 
-&lt;p&gt;প্রতি পোকেমন ধরায় ৩টা ক্যান্ডি পাওয়া যায়।&lt;/p&gt;
+{% highlight json linenos %}
+{&quot;code-runner.executorMap&quot;: {
+    &quot;javascript&quot;: &quot;node&quot;,
+    &quot;php&quot;: &quot;C:\\php\\php.exe&quot;,
+    &quot;python&quot;: &quot;python&quot;,
+    &quot;perl&quot;: &quot;perl&quot;,
+    &quot;ruby&quot;: &quot;C:\\Ruby23-x64\\bin\\ruby.exe&quot;,
+    &quot;go&quot;: &quot;go run&quot;,
+    &quot;html&quot;: &quot;\&quot;C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\&quot;&quot;,
+    &quot;java&quot;: &quot;cd $dir &amp;&amp; javac $fileName &amp;&amp; java $fileNameWithoutExt&quot;,
+    &quot;c&quot;: &quot;cd $dir &amp;&amp; gcc $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt&quot;
+}}
+{% endhighlight %}
 
-&lt;p&gt;আমার টার্গেট ৭০০০০+ xp পাওয়া।&lt;/p&gt;
+As you can see, this maps javascript, php, python and some more by default using these configuration. To add this, we only need to append the following line:
+&lt;figure&gt;
+{% highlight json linenos %}
+{
+&quot;alloy&quot;: &quot;java -jar &lt;pathToAlloyHere&gt; $fullfilename&quot;
+}
+{% endhighlight %}
+&lt;/figure&gt;
+And that's it! Now if you invoke the code runner (generally using `ctrl+enter`), it will automatically run Alloy using the file you are using.</content><author><name>Amit Seal Ami</name></author><category term="alloy" /><category term="software engineering" /><category term="vscode" /><category term="visualstudio" /><summary type="html">For those in Formal Software Engineering domain, Alloy should be a common name. By itself, it is awesome for preparing and checking a model. However, the editor itself does not support auto complete, even for the symbols written in the same file. Therefore, some people of the community created extensions that support syntax highligting of Alloy syntax in Visual Studio Code and Atom. One slight problem though. The only way to run the nicely crafted alloy files is to run them through the Alloy program. And we can connect Visual Studio Code and Alloy program quiet easily using another handy extension called Code Runner. All you have to do is to install this extension, and add the mapping for the Alloy languages.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lordamit.github.io/images/sitelogo.png" /></entry><entry><title type="html">70300 xp in pokemon go: যেভাবে সহজে লেভেল আপ করা যায় Pokemon Go এ</title><link href="https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/" rel="alternate" type="text/html" title="70300 xp in pokemon go: যেভাবে সহজে লেভেল আপ করা যায় Pokemon Go এ" /><published>2016-12-30T01:38:00+06:00</published><updated>2016-12-30T02:46:00+06:00</updated><id>https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/12/30/pokemon-go-leveling-up-fast/">পোকেমনের CP / Health / Stat সবই খেলোয়ারের লেভেলের উপরে নির্ভর করে।  লেভেল ছাড়া যে পোকেমনই ধরা হোক না কেন - সেটা Dragonite হোক বা Snorlax লাভ নাই।
 
-&lt;p&gt;তার জন্য 7০টা পোকেমন evolve করা লাগবে।&lt;/p&gt;
+তা কিভাবে লেভেল বাড়ানো যায়? XP বা Experience Point দিয়ে। capture, gym battle, pokestop visit সহ নানারকমের কাজ করলেই সেটা হয়, কিন্তু সবচেয়ে সহজে কিভাবে করা যায় কিভাবে সেটার জন্য একটা অংক করেছি :D
+&lt;!-- more --&gt;
+যদি ধরে নেই Evolve করার সময় lucky egg ব্যবহার করা হচ্ছে, তাহলে প্রতি evolution এ 1000xp আসবে।।
 
-&lt;p&gt;প্রতি evolution এ লাগে 12টা ক্যান্ডি। তার মানে 70 * 12 = 840 টা ক্যান্ডির জন্য 280টা পোকেমন ধরা লাগবে?!&lt;/p&gt;
+সবচেয়ে সহজে Evolve  করা যায় Caterpie, Weedle আর Pidgey. প্রতিটার evolution এর জন্য মাত্র ১২টা ক্যান্ডি লাগে।
+কাজেই এগুলোই আমাদের লক্ষ্য ধরার জন্য।
 
-&lt;p&gt;ব্যাপারটা আসলে আরেকটু সহজ করা যায়।&lt;/p&gt;
+প্রতি পোকেমন ধরায় ৩টা ক্যান্ডি পাওয়া যায়।
 
-&lt;p&gt;পোকেমন সব ধরে রেখে দেবার দরকার নাই। পোকেমন ট্রান্সফার করলেও ক্যান্ডি আসে।&lt;/p&gt;
+আমার টার্গেট ৭০০০০+ xp পাওয়া।
 
-&lt;p&gt;আমরা যদি 173 টা পোকেমন ধরি, সেখান থেকে পাই 519টা ক্যান্ডি।&lt;/p&gt;
+তার জন্য 7০টা পোকেমন evolve করা লাগবে।
 
-&lt;p&gt;173 পোকেমনের 120টা ট্রান্সফার করলে পাই আরো 120, মানে সর্বমোট 639টা ক্যান্ডি।&lt;/p&gt;
+প্রতি evolution এ লাগে 12টা ক্যান্ডি। তার মানে 70 * 12 = 840 টা ক্যান্ডির জন্য 280টা পোকেমন ধরা লাগবে?!
 
-&lt;p&gt;বাকি 53টা পোকেমনকে evolve করার জন্য লাগেই 636টা ক্যান্ডি। কাজেই আমাদের কাছে সেটা আছে!&lt;/p&gt;
+ব্যাপারটা আসলে আরেকটু সহজ করা যায়।
 
-&lt;p&gt;53টাকেই evolve করালে পাবো 1000 * 53 = 53000 xp.&lt;/p&gt;
+পোকেমন সব ধরে রেখে দেবার দরকার নাই। পোকেমন ট্রান্সফার করলেও ক্যান্ডি আসে।
 
-&lt;p&gt;আর 173টা ক্যাপচারের জন্য পাবো আরো 17300 xp.&lt;/p&gt;
+আমরা যদি 173 টা পোকেমন ধরি, সেখান থেকে পাই 519টা ক্যান্ডি।
 
-&lt;p&gt;&lt;strong&gt;সবমিলিয়ে পাবো 70300 xp!&lt;/strong&gt;&lt;/p&gt;</content><author><name>Amit Seal Ami</name></author><category term="Pokemon" /><category term="Pokemon Go" /><category term="Bangla" /><category term="বাংলা" /><category term="gaming" /><category term="game" /><summary type="html">পোকেমনের CP / Health / Stat সবই খেলোয়ারের লেভেলের উপরে নির্ভর করে। লেভেল ছাড়া যে পোকেমনই ধরা হোক না কেন - সেটা Dragonite হোক বা Snorlax লাভ নাই। তা কিভাবে লেভেল বাড়ানো যায়? XP বা Experience Point দিয়ে। capture, gym battle, pokestop visit সহ নানারকমের কাজ করলেই সেটা হয়, কিন্তু সবচেয়ে সহজে কিভাবে করা যায় কিভাবে সেটার জন্য একটা অংক করেছি :D</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://c2.staticflickr.com/1/411/31863532281_c8d46a06d6_z.jpg" /></entry><entry><title type="html">No Man’s Sky - Game Review</title><link href="https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/" rel="alternate" type="text/html" title="No Man's Sky - Game Review" /><published>2016-08-14T15:52:00+06:00</published><updated>2019-11-18T00:01:00+06:00</updated><id>https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/">&lt;p&gt;প্রায় কয়েক কোটি বছর অপেক্ষার পর হাতে পেলাম No Man’s Sky গেমটি। Hello Games নামের এক প্রতিষ্ঠানের তৈরী গেম এটি। এমন এক্সপ্লোরেশন, কাহিনী আমার বরাবরই ভালো লাগে। 
+173 পোকেমনের 120টা ট্রান্সফার করলে পাই আরো 120, মানে সর্বমোট 639টা ক্যান্ডি।
+
+বাকি 53টা পোকেমনকে evolve করার জন্য লাগেই 636টা ক্যান্ডি। কাজেই আমাদের কাছে সেটা আছে!
+
+53টাকেই evolve করালে পাবো 1000 * 53 = 53000 xp.
+
+আর 173টা ক্যাপচারের জন্য পাবো আরো 17300 xp.
+
+**সবমিলিয়ে পাবো 70300 xp!**</content><author><name>Amit Seal Ami</name></author><category term="Pokemon" /><category term="Pokemon Go" /><category term="Bangla" /><category term="বাংলা" /><category term="gaming" /><category term="game" /><summary type="html">পোকেমনের CP / Health / Stat সবই খেলোয়ারের লেভেলের উপরে নির্ভর করে। লেভেল ছাড়া যে পোকেমনই ধরা হোক না কেন - সেটা Dragonite হোক বা Snorlax লাভ নাই। তা কিভাবে লেভেল বাড়ানো যায়? XP বা Experience Point দিয়ে। capture, gym battle, pokestop visit সহ নানারকমের কাজ করলেই সেটা হয়, কিন্তু সবচেয়ে সহজে কিভাবে করা যায় কিভাবে সেটার জন্য একটা অংক করেছি :D</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://c2.staticflickr.com/1/411/31863532281_c8d46a06d6_z.jpg" /></entry><entry><title type="html">No Man’s Sky - Game Review</title><link href="https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/" rel="alternate" type="text/html" title="No Man's Sky - Game Review" /><published>2016-08-14T15:52:00+06:00</published><updated>2019-11-18T00:01:00+06:00</updated><id>https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/08/14/no-man-s-sky-game-review/">প্রায় কয়েক কোটি বছর অপেক্ষার পর হাতে পেলাম No Man's Sky গেমটি। Hello Games নামের এক প্রতিষ্ঠানের তৈরী গেম এটি। এমন এক্সপ্লোরেশন, কাহিনী আমার বরাবরই ভালো লাগে। 
 গেম পাবলিশ হবার আগেই গেমটা নিয়ে মানুষের আগ্রহ উন্মাদনার পর্যায়ে চলে গিয়েছিল। 
-&lt;!-- more --&gt;&lt;/p&gt;
-&lt;figure&gt;
-&lt;p&gt;&lt;img src=&quot;https://c8.staticflickr.com/9/8867/28363859743_ba0d44c474_c.jpg&quot; alt=&quot;অচিন গ্রহের অচিন চাঁদ, তার পানে চেয়ে অচিন নুশমিয়াস!&quot; /&gt;&lt;/p&gt;
-  &lt;figcaption&gt;অচিন গ্রহের অচিন চাঁদ, তার পানে চেয়ে অচিন নুশমিয়াস!&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;!-- more --&gt;
+{% figure caption:&quot;অচিন গ্রহের অচিন চাঁদ, তার পানে চেয়ে অচিন নুশমিয়াস!&quot; %}
+![অচিন গ্রহের অচিন চাঁদ, তার পানে চেয়ে অচিন নুশমিয়াস!](https://c8.staticflickr.com/9/8867/28363859743_ba0d44c474_c.jpg)
+{% endfigure %}
 
-&lt;p&gt;কারণ আগেই জানা গিয়েছিল:&lt;/p&gt;
+কারণ আগেই জানা গিয়েছিল:
 
-&lt;ul&gt;
-  &lt;li&gt;প্রায় ১৮ কুইন্টিলিয়ন (1.8×10&lt;sup&gt;19&lt;/sup&gt;) গ্রহ আছে এটিতে।&lt;/li&gt;
-  &lt;li&gt;প্রতিটি গ্রহের আলাদা আলাদা বৈশিষ্ট্য - জীব জন্তু, গাছপালা, পরিবেশ - এগুলোর ভিত্তিতে&lt;/li&gt;
-  &lt;li&gt;গেমের সবকিছু &lt;a href=&quot;https://en.wikipedia.org/wiki/Procedural_generation&quot;&gt;প্রসিডিউরালি জেনারেটেড!! &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;জিরো লোডিং টাইম অলমোস্ট - গ্রহের বাইরে থেকে গ্রহের ভিতরে ঢুকতে কোন সময়ই লাগে না লোডিংয়ে। চোখের সামনেই দেখা যায় আস্তে আস্তে গ্রহ বড় হচ্ছে, তার পরে পাহাড় নদী, প্রাণী দেখা যায়।&lt;/li&gt;
-  &lt;li&gt;অন্য কোন প্রাচীন এলিয়েন সভ্যতার নিদর্শন আশে পাশে ছড়িয়ে ছিটিয়ে - কিন্তু কেন সে বিষয়ে গেম খেলে জানা লাগবে&lt;/li&gt;
-&lt;/ul&gt;
+- প্রায় ১৮ কুইন্টিলিয়ন (1.8×10&lt;sup&gt;19&lt;/sup&gt;) গ্রহ আছে এটিতে।
+- প্রতিটি গ্রহের আলাদা আলাদা বৈশিষ্ট্য - জীব জন্তু, গাছপালা, পরিবেশ - এগুলোর ভিত্তিতে
+- গেমের সবকিছু &lt;a href=&quot;https://en.wikipedia.org/wiki/Procedural_generation&quot;&gt;প্রসিডিউরালি জেনারেটেড!! &lt;/a&gt;
+- জিরো লোডিং টাইম অলমোস্ট - গ্রহের বাইরে থেকে গ্রহের ভিতরে ঢুকতে কোন সময়ই লাগে না লোডিংয়ে। চোখের সামনেই দেখা যায় আস্তে আস্তে গ্রহ বড় হচ্ছে, তার পরে পাহাড় নদী, প্রাণী দেখা যায়।
+- অন্য কোন প্রাচীন এলিয়েন সভ্যতার নিদর্শন আশে পাশে ছড়িয়ে ছিটিয়ে - কিন্তু কেন সে বিষয়ে গেম খেলে জানা লাগবে
 
-&lt;p&gt;সব মিলিয়ে সবার মাথা খারাপ করা অবস্থা গেম রিলিজ হবার আগেই! আর আমার তো আরো বেশি।  &lt;a href=&quot;https://en.wikipedia.org/wiki/Freelancer_(video_game)&quot;&gt;ফ্রিল্যান্সার&lt;/a&gt; গেমের মতো আর এমন পাইও নি। সব মিলিয়ে পাগল অবস্থা!&lt;/p&gt;
+সব মিলিয়ে সবার মাথা খারাপ করা অবস্থা গেম রিলিজ হবার আগেই! আর আমার তো আরো বেশি।  [ফ্রিল্যান্সার](https://en.wikipedia.org/wiki/Freelancer_(video_game)) গেমের মতো আর এমন পাইও নি। সব মিলিয়ে পাগল অবস্থা!
 
-&lt;figure&gt;
-&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/9/8557/28694501680_c566f84832_c.jpg&quot; alt=&quot;স্পেসশিপে যাই মনচেরস্কাইভে ঘুরতে&quot; /&gt;&lt;/p&gt;
-  &lt;figcaption&gt;স্পেসশিপে যাই মনচেরস্কাইভে ঘুরতে&lt;/figcaption&gt;
-&lt;/figure&gt;
+{% figure caption:&quot;স্পেসশিপে যাই মনচেরস্কাইভে ঘুরতে&quot; %}
+![স্পেসশিপে যাই মনচেরস্কাইভে ঘুরতে](https://c1.staticflickr.com/9/8557/28694501680_c566f84832_c.jpg)
+{% endfigure %}
 
-&lt;p&gt;রিভিউ লেখার আগে কিছু জিনিষ পরিষ্কার করা দরকার। No Man’s Sky যা যা না:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;মাল্টিপ্লেয়ার গেম&lt;/li&gt;
-  &lt;li&gt;শুটিং&lt;/li&gt;
-  &lt;li&gt;ফ্লাইট সিমুলেশন&lt;/li&gt;
-  &lt;li&gt;সারভাইভাল&lt;/li&gt;
-  &lt;li&gt;ট্রেডিং&lt;/li&gt;
-&lt;/ul&gt;
+রিভিউ লেখার আগে কিছু জিনিষ পরিষ্কার করা দরকার। No Man's Sky যা যা না:
 
-&lt;p&gt;যদিও উপরের সবগুলোই গেমটায় আছে, কিন্তু গেমের মূল উদ্দেশ্য সেটা না। মূল উদ্দেশ্য এক্সপ্লোর করা। বিশাল এই কৃত্রিম জগতের মাঝে এসে পৌঁছানো।&lt;/p&gt;
+- মাল্টিপ্লেয়ার গেম
+- শুটিং
+- ফ্লাইট সিমুলেশন
+- সারভাইভাল
+- ট্রেডিং
 
-&lt;p&gt;এই বিশাল ইউনিভার্স তারা যে তৈরী করেছে সেখানে ঘুরে ফিরে বেড়ানো, দেখা যদি গেমের উদ্দেশ্য হয়, যদি উদ্দেশ্য হয় প্রাচীন এলিয়েন সভ্যতার সম্পর্কে জানা, তাদের ভাষা শেখা, তাদের সংষ্কৃতি বুঝা - তাহলে গেমটা বাড়াবাড়ি রকমের সফল। কারণ গেমের ফ্লাইট, শুটিং তেমন সুবিধার কন্ট্রোল না, গেমটায় সারভাইভাল কোন ভাবেই কঠিন না, ট্রেডিংও করা যায় মনমতো।&lt;/p&gt;
+যদিও উপরের সবগুলোই গেমটায় আছে, কিন্তু গেমের মূল উদ্দেশ্য সেটা না। মূল উদ্দেশ্য এক্সপ্লোর করা। বিশাল এই কৃত্রিম জগতের মাঝে এসে পৌঁছানো।
 
-&lt;h2 id=&quot;ভালো-দিক&quot;&gt;ভালো দিক&lt;/h2&gt;
+এই বিশাল ইউনিভার্স তারা যে তৈরী করেছে সেখানে ঘুরে ফিরে বেড়ানো, দেখা যদি গেমের উদ্দেশ্য হয়, যদি উদ্দেশ্য হয় প্রাচীন এলিয়েন সভ্যতার সম্পর্কে জানা, তাদের ভাষা শেখা, তাদের সংষ্কৃতি বুঝা - তাহলে গেমটা বাড়াবাড়ি রকমের সফল। কারণ গেমের ফ্লাইট, শুটিং তেমন সুবিধার কন্ট্রোল না, গেমটায় সারভাইভাল কোন ভাবেই কঠিন না, ট্রেডিংও করা যায় মনমতো।
 
-&lt;p&gt;গেমের ভিতরে তারা যে বৈচিত্র্য এনেছে - তা অসাধারণ। আমি প্রায় ১০ ঘন্টার উপরে খেলেছি, এখনো কোথাও একই রকমের গ্রহ পাইনি। কোন গ্রহে এসিড বৃষ্টি হয় তো কোন গ্রহে প্রচন্ড দাবদাহ। এক গ্রহে প্রচুর গাছপালা ত‌ো আরেক গ্রহে আকাশে উড়ে বেড়ানো হাঙ্গরের মতো দেখতে পাখি! এই গ্রহে কিউট দেখতে ভালুক এসে কামড় দেয় তো ঐ গ্রহে দাঁত কটমটানো ডাইনোসর ঘাষ খায়, কাছে এসে খাবার খায়।&lt;/p&gt;
+## ভালো দিক
 
-&lt;figure&gt;
-&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/9/8228/28694505280_d37ca47c62_c.jpg&quot; alt=&quot;উড়ছে দেখো হাঙ্গর পাখি, বিদেশি এক আকাশ ছুঁই&quot; /&gt;&lt;/p&gt;
-  &lt;figcaption&gt;উড়ছে দেখো হাঙ্গর পাখি, বিদেশি এক আকাশ ছুঁই&lt;/figcaption&gt;
-&lt;/figure&gt;
+গেমের ভিতরে তারা যে বৈচিত্র্য এনেছে - তা অসাধারণ। আমি প্রায় ১০ ঘন্টার উপরে খেলেছি, এখনো কোথাও একই রকমের গ্রহ পাইনি। কোন গ্রহে এসিড বৃষ্টি হয় তো কোন গ্রহে প্রচন্ড দাবদাহ। এক গ্রহে প্রচুর গাছপালা ত‌ো আরেক গ্রহে আকাশে উড়ে বেড়ানো হাঙ্গরের মতো দেখতে পাখি! এই গ্রহে কিউট দেখতে ভালুক এসে কামড় দেয় তো ঐ গ্রহে দাঁত কটমটানো ডাইনোসর ঘাষ খায়, কাছে এসে খাবার খায়।
 
-&lt;p&gt;এ যেন  সুকুমার রায়ের হেসোরাম হুঁশিয়ারের ডায়েরির এক বিচিত্র অনন্য রূপ চোখের সামনে। সেকেন্ডে সেকেন্ডের স্ক্রিনশটের প্রতিটা ওয়ালপেপার হবার মতো। মিউজিক? পরিবেশের সাথে মানানসই। এলিয়েনের গল্প? তিনটা প্রাচীন সভ্যতার খোঁজ পাওয়া গেছে এখন পর্যন্ত, Gek, Vay’Heek আর Korvux। তিনটাই তিনরকম, বিচিত্র দেখতে, বিচিত্র তাদের গল্প।&lt;/p&gt;
+{% figure caption:&quot;উড়ছে দেখো হাঙ্গর পাখি, বিদেশি এক আকাশ ছুঁই&quot; %}
+![উড়ছে দেখো হাঙ্গর পাখি, বিদেশি এক আকাশ ছুঁই](https://c1.staticflickr.com/9/8228/28694505280_d37ca47c62_c.jpg)
+{% endfigure %}
 
-&lt;figure&gt;
-&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/9/8771/28361332824_98c4642edf_c.jpg&quot; alt=&quot;গেকের বকরবকর&quot; /&gt;&lt;/p&gt;
-  &lt;figcaption&gt;গেকের বকরবকর&lt;/figcaption&gt;
-&lt;/figure&gt;
+এ যেন  সুকুমার রায়ের হেসোরাম হুঁশিয়ারের ডায়েরির এক বিচিত্র অনন্য রূপ চোখের সামনে। সেকেন্ডে সেকেন্ডের স্ক্রিনশটের প্রতিটা ওয়ালপেপার হবার মতো। মিউজিক? পরিবেশের সাথে মানানসই। এলিয়েনের গল্প? তিনটা প্রাচীন সভ্যতার খোঁজ পাওয়া গেছে এখন পর্যন্ত, Gek, Vay'Heek আর Korvux। তিনটাই তিনরকম, বিচিত্র দেখতে, বিচিত্র তাদের গল্প।
 
-&lt;h2 id=&quot;শেষ-কথা&quot;&gt;শেষ কথা&lt;/h2&gt;
+{% figure caption:&quot;গেকের বকরবকর&quot; %}
+![গেকের বকরবকর](https://c1.staticflickr.com/9/8771/28361332824_98c4642edf_c.jpg)
+{% endfigure %}
 
-&lt;p&gt;গেমটা সবার জন্য না। ফেবুর যুগে মানুষের ধৈর্য বড্ড বেশিই কম। সবকিছু চাই এখনই, এখনই, এখনইইই! সেখানে একটা গেম, ঘন্টার পর ঘন্টা খেলা লাগবে ধৈর্য ধরে। এলিয়েনের সভ্যতা নিয়ে জানা না জানা নিজের ব্যাপার। গেমের গ্রাফিক্স অসাধারণ, কিন্তু কন্ট্রোল বা ইউআই তত ভালো না। পিসি ভার্সনে নাকি বেশ কিছু বাগ আছে, আমার এখনো তেমন কোন সমস্যা হয়নি, টানা কয়েকঘন্টা খেলেও। যাদের ঘন্টার পর ঘন্টা স্পেসশিপে ঘুরে বেড়াতে ভালো লাগে, বিচিত্র গ্রহ দেখতে ভালো লাগে, জানতে ইচ্ছা করে এলিয়েন সভ্যতার ব্যাপারে, বা ইচ্ছা করে বিচিত্র সব বহিঃজাগতিক প্রাণী দেখতে - এই গেম তাদের জন্যই!&lt;/p&gt;
+## শেষ কথা
 
-&lt;h2 id=&quot;rating&quot;&gt;Rating&lt;/h2&gt;
+গেমটা সবার জন্য না। ফেবুর যুগে মানুষের ধৈর্য বড্ড বেশিই কম। সবকিছু চাই এখনই, এখনই, এখনইইই! সেখানে একটা গেম, ঘন্টার পর ঘন্টা খেলা লাগবে ধৈর্য ধরে। এলিয়েনের সভ্যতা নিয়ে জানা না জানা নিজের ব্যাপার। গেমের গ্রাফিক্স অসাধারণ, কিন্তু কন্ট্রোল বা ইউআই তত ভালো না। পিসি ভার্সনে নাকি বেশ কিছু বাগ আছে, আমার এখনো তেমন কোন সমস্যা হয়নি, টানা কয়েকঘন্টা খেলেও। যাদের ঘন্টার পর ঘন্টা স্পেসশিপে ঘুরে বেড়াতে ভালো লাগে, বিচিত্র গ্রহ দেখতে ভালো লাগে, জানতে ইচ্ছা করে এলিয়েন সভ্যতার ব্যাপারে, বা ইচ্ছা করে বিচিত্র সব বহিঃজাগতিক প্রাণী দেখতে - এই গেম তাদের জন্যই!
 
-&lt;p&gt;4.5 / 5.0&lt;/p&gt;</content><author><name>Amit Seal Ami</name></author><category term="Game" /><category term="Review" /><category term="Bangla" /><category term="বাংলা" /><summary type="html">প্রায় কয়েক কোটি বছর অপেক্ষার পর হাতে পেলাম No Man’s Sky গেমটি। Hello Games নামের এক প্রতিষ্ঠানের তৈরী গেম এটি। এমন এক্সপ্লোরেশন, কাহিনী আমার বরাবরই ভালো লাগে। গেম পাবলিশ হবার আগেই গেমটা নিয়ে মানুষের আগ্রহ উন্মাদনার পর্যায়ে চলে গিয়েছিল।</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://www.example.com/seafood-restaurant.jpg" /></entry><entry><title type="html">Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে</title><link href="https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/" rel="alternate" type="text/html" title="Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে" /><published>2016-07-22T21:25:00+06:00</published><updated>2019-11-17T08:17:00+06:00</updated><id>https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/">&lt;p&gt;কিছুদিন আগেই আমি কিনলাম Huion W58 Tablet. দাম নিয়েছে প্রায় ১০হাজার টাকার মতো‌, কিনেছি &lt;a href=&quot;http://multimediakingdom.com.bd/product-brands/huion/&quot;&gt;MultiMedia Kingdom&lt;/a&gt; থেকে।
-আগেই বলে রাখি, কেনার সময় যথেষ্ট ভয়ে ছিলাম। সারাদিন ধরে উবুন্টু ব্যবহার করি, নেহাৎ ঠেকায় না পড়লে উইন্ডোজে ঢুকা হয় না। কাজেই খোঁজ খবরও আগে নিয়েছি নানা ওয়েবসাইট থেকে, Huion  এর ট্যাবলেটের সাপোর্ট উবুন্টুতে কিছুটা হলেও পাওয়া যাবে, ভরসা পেয়েই এটা কেনা।&lt;/p&gt;
+## Rating
 
-&lt;figure&gt;
-&lt;p&gt;&lt;img src=&quot;https://c8.staticflickr.com/9/8762/28478501415_f69b5b55ab_c.jpg&quot; alt=&quot;Huion W58&quot; /&gt;&lt;/p&gt;
-  &lt;figcaption&gt;Huion W58&lt;/figcaption&gt;
-&lt;/figure&gt;
+4.5 / 5.0</content><author><name>Amit Seal Ami</name></author><category term="Game" /><category term="Review" /><category term="Bangla" /><category term="বাংলা" /><summary type="html">প্রায় কয়েক কোটি বছর অপেক্ষার পর হাতে পেলাম No Man’s Sky গেমটি। Hello Games নামের এক প্রতিষ্ঠানের তৈরী গেম এটি। এমন এক্সপ্লোরেশন, কাহিনী আমার বরাবরই ভালো লাগে। গেম পাবলিশ হবার আগেই গেমটা নিয়ে মানুষের আগ্রহ উন্মাদনার পর্যায়ে চলে গিয়েছিল।</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://www.example.com/seafood-restaurant.jpg" /></entry><entry><title type="html">Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে</title><link href="https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/" rel="alternate" type="text/html" title="Huion W58 Tablet রিভিউ - উবুন্টু ব্যবহারকারীর চোখে" /><published>2016-07-22T21:25:00+06:00</published><updated>2019-11-17T08:17:00+06:00</updated><id>https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/07/22/huion-w58-tablet-review-in-ubuntu/">কিছুদিন আগেই আমি কিনলাম Huion W58 Tablet. দাম নিয়েছে প্রায় ১০হাজার টাকার মতো‌, কিনেছি [MultiMedia Kingdom](http://multimediakingdom.com.bd/product-brands/huion/) থেকে।
+আগেই বলে রাখি, কেনার সময় যথেষ্ট ভয়ে ছিলাম। সারাদিন ধরে উবুন্টু ব্যবহার করি, নেহাৎ ঠেকায় না পড়লে উইন্ডোজে ঢুকা হয় না। কাজেই খোঁজ খবরও আগে নিয়েছি নানা ওয়েবসাইট থেকে, Huion  এর ট্যাবলেটের সাপোর্ট উবুন্টুতে কিছুটা হলেও পাওয়া যাবে, ভরসা পেয়েই এটা কেনা।
+
+{% figure caption: &quot;Huion W58&quot; %}
+![Huion W58](https://c8.staticflickr.com/9/8762/28478501415_f69b5b55ab_c.jpg)
+{% endfigure %}
 
 &lt;!-- more --&gt;
 
-&lt;h2 id=&quot;ইন্সটলেশন&quot;&gt;ইন্সটলেশন&lt;/h2&gt;
+## ইন্সটলেশন
 
-&lt;p&gt;যাই হোক, বাসায় কিনে এনে লাগানোর পরে অবাক হবার পালা। প্লাগ অ্যান্ড প্লে ডিভাইস পুরাই। কিচ্ছু ইন্সটল করা লাগেনি। সাথে দেয়া কলমটাতে AAA সাইজের ব্যাটারি লাগে। শুরুতে একটু বুঝতে সমস্যা হয়েছিল, কিভাবে কি করে জানতাম না বলে। যখন একবার বুঝলাম - তখন আর কোন সমস্যাই হয়নি ব্যবহার করতে।&lt;/p&gt;
+যাই হোক, বাসায় কিনে এনে লাগানোর পরে অবাক হবার পালা। প্লাগ অ্যান্ড প্লে ডিভাইস পুরাই। কিচ্ছু ইন্সটল করা লাগেনি। সাথে দেয়া কলমটাতে AAA সাইজের ব্যাটারি লাগে। শুরুতে একটু বুঝতে সমস্যা হয়েছিল, কিভাবে কি করে জানতাম না বলে। যখন একবার বুঝলাম - তখন আর কোন সমস্যাই হয়নি ব্যবহার করতে।
 
-&lt;p&gt;কলমটায় তিনটা বাটন। উপরে অন-অফ বাটন, যেটা অন করলে ট্যাবলেট দিয়ে কাজ শুরু করা যায়। নিচে যেখানে কলম ধরে, সেখানে আরো দুটো - ডিফল্ট সেটিংয়ে যেগুলো লেফট আর রাইট ক্লিকের কাজ করে। ডিফল্ট বললাম, কারণ এগুলো রিম্যাপিং করা সম্ভব, যদিও সেটার জন্য এখনো পর্যন্ত কোন ভালো সফটওয়্যার আমার চোখে পড়েনি। অবশ্য রিম্যাপ করার দরকারও হয়নি, নাহলে নিজেই বানিয়ে নিতাম হয়তো! হেহে।&lt;/p&gt;
+কলমটায় তিনটা বাটন। উপরে অন-অফ বাটন, যেটা অন করলে ট্যাবলেট দিয়ে কাজ শুরু করা যায়। নিচে যেখানে কলম ধরে, সেখানে আরো দুটো - ডিফল্ট সেটিংয়ে যেগুলো লেফট আর রাইট ক্লিকের কাজ করে। ডিফল্ট বললাম, কারণ এগুলো রিম্যাপিং করা সম্ভব, যদিও সেটার জন্য এখনো পর্যন্ত কোন ভালো সফটওয়্যার আমার চোখে পড়েনি। অবশ্য রিম্যাপ করার দরকারও হয়নি, নাহলে নিজেই বানিয়ে নিতাম হয়তো! হেহে।
 
-&lt;h2 id=&quot;কনফিগারেশন-সফটওয়্যার&quot;&gt;কনফিগারেশন সফটওয়্যার&lt;/h2&gt;
+## কনফিগারেশন সফটওয়্যার
 
-&lt;p&gt;লাগে নাই। ডিফল্ট হিসাবে পুরো ট্যাবলেটের ড্রয়িং এরিয়াটা স্ক্রিনের সাথে ম্যাপ করা।&lt;/p&gt;
+লাগে নাই। ডিফল্ট হিসাবে পুরো ট্যাবলেটের ড্রয়িং এরিয়াটা স্ক্রিনের সাথে ম্যাপ করা।
 
-&lt;h2 id=&quot;কলম&quot;&gt;কলম&lt;/h2&gt;
-&lt;p&gt;ভালো কোয়ালিটি, একটু মোটকা, তবে ধরতে সমস্যা হয়নি। একটা ব্যাটারি দিয়ে কয়েকমাস চলে গেছে এবং চলছে। এখনো জানি না কবে সেটা শেষ হবে। কয়েকরকমের প্রেসার ডিটেক্ট করতে পারে। ভালো ড্রয়িং অ্যাপ্লিকেশনে স্কেচিং করার জন্য যথেষ্ট ভালো মনে হয়েছে আমার কাছে।&lt;/p&gt;
+## কলম
+ভালো কোয়ালিটি, একটু মোটকা, তবে ধরতে সমস্যা হয়নি। একটা ব্যাটারি দিয়ে কয়েকমাস চলে গেছে এবং চলছে। এখনো জানি না কবে সেটা শেষ হবে। কয়েকরকমের প্রেসার ডিটেক্ট করতে পারে। ভালো ড্রয়িং অ্যাপ্লিকেশনে স্কেচিং করার জন্য যথেষ্ট ভালো মনে হয়েছে আমার কাছে।
 
-&lt;h2 id=&quot;বোনাস---ব্যবহার-করার-জন্য-সফটওয়্যার&quot;&gt;বোনাস - ব্যবহার করার জন্য সফটওয়্যার&lt;/h2&gt;
-&lt;p&gt;আমার অভিজ্ঞতার আলোকে কিছু সফটয়্যারের নাম দিলাম - যেগুলো আমার কাছে ব্যবহার করে ভালো লেগেছে।&lt;/p&gt;
+## বোনাস - ব্যবহার করার জন্য সফটওয়্যার
+আমার অভিজ্ঞতার আলোকে কিছু সফটয়্যারের নাম দিলাম - যেগুলো আমার কাছে ব্যবহার করে ভালো লেগেছে।
 
-&lt;ul&gt;
-  &lt;li&gt;শুধুই আঁকাআঁকি করার জন্য - &lt;a href=&quot;http://mypaint.org/&quot;&gt;MyPaint&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;আরো আঁকাআঁকি করার জন্য - &lt;a href=&quot;https://www.gimp.org/&quot;&gt;GIMP&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;PDF Annotate করার জন্য - &lt;a href=&quot;https://okular.kde.org/&quot;&gt;Okular&lt;/a&gt; / &lt;a href=&quot;http://xournal.sourceforge.net/&quot;&gt;Xournal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+- শুধুই আঁকাআঁকি করার জন্য - [MyPaint](http://mypaint.org/)
+- আরো আঁকাআঁকি করার জন্য - [GIMP](https://www.gimp.org/)
+- PDF Annotate করার জন্য - [Okular](https://okular.kde.org/) / [Xournal](http://xournal.sourceforge.net/)
 
-&lt;p&gt;Sample হিসাবে আমার আঁকা একটা ছবি দিলাম এখানে!&lt;/p&gt;
+Sample হিসাবে আমার আঁকা একটা ছবি দিলাম এখানে!
 
-&lt;figure&gt;
-&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/9/8713/28445860336_3770c89ae7_o.png&quot; alt=&quot;Huion W58 দিয়ে আমার আঁকা ছবি&quot; /&gt;&lt;/p&gt;
-  &lt;figcaption&gt;Huion W58 দিয়ে আমার আঁকা ছবি&lt;/figcaption&gt;
-&lt;/figure&gt;
+{% figure caption: &quot;Huion W58 দিয়ে আমার আঁকা ছবি&quot; %}
+![Huion W58 দিয়ে আমার আঁকা ছবি](https://c1.staticflickr.com/9/8713/28445860336_3770c89ae7_o.png)
+{% endfigure%}
 
-&lt;h2 id=&quot;rating&quot;&gt;Rating&lt;/h2&gt;
+## Rating
 
-&lt;p&gt;4.00/5.00&lt;/p&gt;</content><author><name>Amit Seal Ami</name></author><category term="huion" /><category term="Ubuntu" /><category term="Linux" /><category term="Tablet" /><category term="Review" /><summary type="html">কিছুদিন আগেই আমি কিনলাম Huion W58 Tablet. দাম নিয়েছে প্রায় ১০হাজার টাকার মতো‌, কিনেছি MultiMedia Kingdom থেকে। আগেই বলে রাখি, কেনার সময় যথেষ্ট ভয়ে ছিলাম। সারাদিন ধরে উবুন্টু ব্যবহার করি, নেহাৎ ঠেকায় না পড়লে উইন্ডোজে ঢুকা হয় না। কাজেই খোঁজ খবরও আগে নিয়েছি নানা ওয়েবসাইট থেকে, Huion এর ট্যাবলেটের সাপোর্ট উবুন্টুতে কিছুটা হলেও পাওয়া যাবে, ভরসা পেয়েই এটা কেনা। Huion W58</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://c8.staticflickr.com/9/8762/28478501415_f69b5b55ab_c.jpg" /></entry><entry><title type="html">Lossless Conversion from PDF to SVG / EMF in Ubuntu</title><link href="https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/" rel="alternate" type="text/html" title="Lossless Conversion from PDF to SVG / EMF in Ubuntu" /><published>2016-07-14T13:00:00+06:00</published><updated>2016-07-14T13:00:00+06:00</updated><id>https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/">&lt;p&gt;LaTeX users may want to use a diagram or algorithm from PDF in presentation. The probably best way is to convert a PDF to EMF / SVG file so that it can be directly imported in Microsoft Powerpoint / Libre Impress. Here is why you may want to do that.&lt;/p&gt;
+4.00/5.00</content><author><name>Amit Seal Ami</name></author><category term="huion" /><category term="Ubuntu" /><category term="Linux" /><category term="Tablet" /><category term="Review" /><summary type="html">কিছুদিন আগেই আমি কিনলাম Huion W58 Tablet. দাম নিয়েছে প্রায় ১০হাজার টাকার মতো‌, কিনেছি MultiMedia Kingdom থেকে। আগেই বলে রাখি, কেনার সময় যথেষ্ট ভয়ে ছিলাম। সারাদিন ধরে উবুন্টু ব্যবহার করি, নেহাৎ ঠেকায় না পড়লে উইন্ডোজে ঢুকা হয় না। কাজেই খোঁজ খবরও আগে নিয়েছি নানা ওয়েবসাইট থেকে, Huion এর ট্যাবলেটের সাপোর্ট উবুন্টুতে কিছুটা হলেও পাওয়া যাবে, ভরসা পেয়েই এটা কেনা। Huion W58</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://c8.staticflickr.com/9/8762/28478501415_f69b5b55ab_c.jpg" /></entry><entry><title type="html">Lossless Conversion from PDF to SVG / EMF in Ubuntu</title><link href="https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/" rel="alternate" type="text/html" title="Lossless Conversion from PDF to SVG / EMF in Ubuntu" /><published>2016-07-14T13:00:00+06:00</published><updated>2016-07-14T13:00:00+06:00</updated><id>https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/07/14/lossless-conversion-from-pdf-to-svg-emf-in-ubuntu/">LaTeX users may want to use a diagram or algorithm from PDF in presentation. The probably best way is to convert a PDF to EMF / SVG file so that it can be directly imported in Microsoft Powerpoint / Libre Impress. Here is why you may want to do that.
 
-&lt;p&gt;Enhanced Meta File (EMF) and SVG (Scalar Vector Graphics) are formats that can be scaled (or enlarged, if you prefer) without degrading the quality of image. But you probably already know that, since you are here.&lt;/p&gt;
+Enhanced Meta File (EMF) and SVG (Scalar Vector Graphics) are formats that can be scaled (or enlarged, if you prefer) without degrading the quality of image. But you probably already know that, since you are here.
 
-&lt;p&gt;Without stressing any more, here are the commands you need to convert a PDF to SVG, and if you need, to EMF.&lt;/p&gt;
+Without stressing any more, here are the commands you need to convert a PDF to SVG, and if you need, to EMF.
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;pdf2svg filename.pdf filename.svg
-inkscape filename.svg &lt;span class=&quot;nt&quot;&gt;-M&lt;/span&gt; filename.emf&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+{% highlight shell %}
+pdf2svg filename.pdf filename.svg
+inkscape filename.svg -M filename.emf
+{% endhighlight %}
 
-&lt;p&gt;As you noticed above, you will need &lt;code class=&quot;highlighter-rouge&quot;&gt;pdf2svg&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;inkscape&lt;/code&gt;  installed in your computer.&lt;/p&gt;</content><author><name>Amit Seal Ami</name></author><category term="tips" /><category term="Powerpoint" /><category term="Ubuntu" /><category term="Linux" /><category term="Libreoffice" /><category term="Impress" /><summary type="html">LaTeX users may want to use a diagram or algorithm from PDF in presentation. The probably best way is to convert a PDF to EMF / SVG file so that it can be directly imported in Microsoft Powerpoint / Libre Impress. Here is why you may want to do that. Enhanced Meta File (EMF) and SVG (Scalar Vector Graphics) are formats that can be scaled (or enlarged, if you prefer) without degrading the quality of image. But you probably already know that, since you are here. Without stressing any more, here are the commands you need to convert a PDF to SVG, and if you need, to EMF. pdf2svg filename.pdf filename.svg inkscape filename.svg -M filename.emf As you noticed above, you will need pdf2svg and inkscape installed in your computer.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lordamit.github.io/images/sitelogo.png" /></entry><entry><title type="html">রিপোর্ট, রিপোর্টের ভুল এবং শিক্ষকের মাথার চুল</title><link href="https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/" rel="alternate" type="text/html" title="রিপোর্ট, রিপোর্টের ভুল এবং শিক্ষকের মাথার চুল" /><published>2016-06-24T00:00:00+06:00</published><updated>2016-06-24T07:42:00+06:00</updated><id>https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/">&lt;p&gt;খোলাসা করেই বলি। শিক্ষার্থীরা যখন রিপোর্ট দেয় - তখন কিছু রিপোর্ট আছে যেগুলো দেখে মনে হয় বাধাই করে রাখি, কিছু মনে হয় হাল্কের মতো করে কুচি কুচি করে ছিড়ি। নিদেন পক্ষে লাল কালির কলম দিয়ে রক্তাক্ত করি।&lt;/p&gt;
+As you noticed above, you will need `pdf2svg` and `inkscape`  installed in your computer.</content><author><name>Amit Seal Ami</name></author><category term="tips" /><category term="Powerpoint" /><category term="Ubuntu" /><category term="Linux" /><category term="Libreoffice" /><category term="Impress" /><summary type="html">LaTeX users may want to use a diagram or algorithm from PDF in presentation. The probably best way is to convert a PDF to EMF / SVG file so that it can be directly imported in Microsoft Powerpoint / Libre Impress. Here is why you may want to do that. Enhanced Meta File (EMF) and SVG (Scalar Vector Graphics) are formats that can be scaled (or enlarged, if you prefer) without degrading the quality of image. But you probably already know that, since you are here. Without stressing any more, here are the commands you need to convert a PDF to SVG, and if you need, to EMF. pdf2svg filename.pdf filename.svg inkscape filename.svg -M filename.emf As you noticed above, you will need pdf2svg and inkscape installed in your computer.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lordamit.github.io/images/sitelogo.png" /></entry><entry><title type="html">রিপোর্ট, রিপোর্টের ভুল এবং শিক্ষকের মাথার চুল</title><link href="https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/" rel="alternate" type="text/html" title="রিপোর্ট, রিপোর্টের ভুল এবং শিক্ষকের মাথার চুল" /><published>2016-06-24T00:00:00+06:00</published><updated>2016-06-24T07:42:00+06:00</updated><id>https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/06/24/annoying-things-in-report/">খোলাসা করেই বলি। শিক্ষার্থীরা যখন রিপোর্ট দেয় - তখন কিছু রিপোর্ট আছে যেগুলো দেখে মনে হয় বাধাই করে রাখি, কিছু মনে হয় হাল্কের মতো করে কুচি কুচি করে ছিড়ি। নিদেন পক্ষে লাল কালির কলম দিয়ে রক্তাক্ত করি।
 
-&lt;figure&gt;
-&lt;p&gt;&lt;img src=&quot;https://c6.staticflickr.com/8/7342/27259721973_bf7ca44ab2_b.jpg&quot; alt=&quot;আমার কিছু প্রিয় বাণী&quot; /&gt;&lt;/p&gt;
-  &lt;figcaption&gt;ছবি ১: আমার কিছু প্রিয় ‘কাল্পনিক’ বাণী&lt;/figcaption&gt;
-&lt;/figure&gt;
+{% figure caption: &quot;ছবি ১: আমার কিছু প্রিয় 'কাল্পনিক' বাণী&quot; %}
+![আমার কিছু প্রিয় বাণী](https://c6.staticflickr.com/8/7342/27259721973_bf7ca44ab2_b.jpg)
+{% endfigure %}
 
-&lt;p&gt;তার সাথে নিজের মাথার চুল ছেঁড়ার ইচ্ছা তো আছেই। সেটা না করতে, আমার সহকর্মী শিক্ষকদের মাথার চুলের স্বার্থে এবং তোমাদের নাম্বার যেন দিতে পারি - সেই জন্যেই এই লেখা।&lt;/p&gt;
+
+তার সাথে নিজের মাথার চুল ছেঁড়ার ইচ্ছা তো আছেই। সেটা না করতে, আমার সহকর্মী শিক্ষকদের মাথার চুলের স্বার্থে এবং তোমাদের নাম্বার যেন দিতে পারি - সেই জন্যেই এই লেখা।
 
 &lt;!-- more --&gt;
 
-&lt;p&gt;মজার বিষয়, এগুলো কখনোই ভুল লিখেছে বা কেউ কম জানে বলে মনে হয়নি আমার। মনে হয়েছে কারণ যেসব কাজ করেছে রিপোর্টে - সেগুলো গাফিলতি, কেয়ারলেসনেস, বা সোজা বাংলায় “দেবার আছে দিলাম রিপোর্ট। কি আছে গেবনে?” ভেবে সাবমিট করা। আবার এমনও হতে পারে যে এসব গাফিলতি, সেটা জানেই না! যাই হোক, কি সেগুলো?&lt;/p&gt;
+মজার বিষয়, এগুলো কখনোই ভুল লিখেছে বা কেউ কম জানে বলে মনে হয়নি আমার। মনে হয়েছে কারণ যেসব কাজ করেছে রিপোর্টে - সেগুলো গাফিলতি, কেয়ারলেসনেস, বা সোজা বাংলায় &quot;দেবার আছে দিলাম রিপোর্ট। কি আছে গেবনে?&quot; ভেবে সাবমিট করা। আবার এমনও হতে পারে যে এসব গাফিলতি, সেটা জানেই না! যাই হোক, কি সেগুলো?
 
-&lt;h2 id=&quot;১---plagiarism&quot;&gt;১ - Plagiarism&lt;/h2&gt;
-&lt;p&gt;অনেকে বলে রচনা চুরি। সোজা বাংলায় কৃতজ্ঞতা স্বীকার না করে অন্য কারো কিছু ব্যবহার করা বা ভাব দেখানো যেন লেখার ঐ অংশটা নিজের মস্তিষ্ক প্রসূত। আমরা আবার ওয়েবসাইট থেকে সরাসরি কপি পেস্ট করতে খুব পছন্দ করি। সেটাও এর ভিতরে পরে।&lt;/p&gt;
+## ১ - Plagiarism
+অনেকে বলে রচনা চুরি। সোজা বাংলায় কৃতজ্ঞতা স্বীকার না করে অন্য কারো কিছু ব্যবহার করা বা ভাব দেখানো যেন লেখার ঐ অংশটা নিজের মস্তিষ্ক প্রসূত। আমরা আবার ওয়েবসাইট থেকে সরাসরি কপি পেস্ট করতে খুব পছন্দ করি। সেটাও এর ভিতরে পরে।
 
-&lt;p&gt;&lt;strong&gt;বাঁচতে হলে&lt;/strong&gt;&lt;/p&gt;
+**বাঁচতে হলে**
 
-&lt;p&gt;সহজ হিসাব। অন্য কারো কিছু আমি ব্যবহার করলে কৃতজ্ঞতা স্বীকার করবো। কোটেশন মার্ক বা অন্য কোন ভাবে বুঝাবো এই অংশ আমার মগজ প্রসূত না। সাথে রেফারেন্স দিয়ে দিবো। আরো কিছু জানতে Stanford University এর &lt;a href=&quot;https://communitystandards.stanford.edu/student-conduct-process/honor-code-and-fundamental-standard/additional-resources/what-plagiarism&quot;&gt;পেজ&lt;/a&gt; দেখতে পারো।&lt;/p&gt;
+সহজ হিসাব। অন্য কারো কিছু আমি ব্যবহার করলে কৃতজ্ঞতা স্বীকার করবো। কোটেশন মার্ক বা অন্য কোন ভাবে বুঝাবো এই অংশ আমার মগজ প্রসূত না। সাথে রেফারেন্স দিয়ে দিবো। আরো কিছু জানতে Stanford University এর [পেজ](https://communitystandards.stanford.edu/student-conduct-process/honor-code-and-fundamental-standard/additional-resources/what-plagiarism) দেখতে পারো।
 
-&lt;h2 id=&quot;২---ফরম্যাটিং&quot;&gt;২ - ফরম্যাটিং&lt;/h2&gt;
-&lt;p&gt;এটা খুব মজার। যেমন:&lt;/p&gt;
+## ২ - ফরম্যাটিং
+এটা খুব মজার। যেমন:
 
-&lt;ul&gt;
-  &lt;li&gt;রিপোর্ট টেমপ্লেট দেয়া আছে। সেটা নিজের মনের খুশিমতো ফলো না করা&lt;/li&gt;
-  &lt;li&gt;রিপোর্ট জমা দেয়া হয়েছে, কিন্তু সেটায় Letter of Transmittal এ সিগনেচার (কষ্ট লাগলে টিপসই) না দেয়া (যেটার মানে আসলে রিপোর্ট জমা দেয়াই হয়নি!)&lt;/li&gt;
-  &lt;li&gt;কভার পেজে পেজ নাম্বার দেয়া&lt;/li&gt;
-  &lt;li&gt;বিভিন্ন পেজে বিভিন্ন রকমের রং বেরংয়ের ফরম্যাটিং ব্যবহার করা&lt;/li&gt;
-  &lt;li&gt;কপি পেস্ট করতে গিয়ে বিভিন্ন পেজে নানা ফন্টের লেখা হয়ে যাওয়া&lt;/li&gt;
-  &lt;li&gt;কপি পেস্ট করতে গিয়ে ফুটনোটের &lt;sub&gt;1&lt;/sub&gt; দেয়া, যেটা আসলে নাই&lt;/li&gt;
-  &lt;li&gt;কোন কারণে লিংক বা ইমেইল এ্যাড্রেস দেয়া আছে, সেটার রং আর নিচের আন্ডারলাইন না ফেলা&lt;/li&gt;
-  &lt;li&gt;রিপোর্টের পেজ সংখ্যা বাড়াতে গিয়ে প্রতি হেডিং আর প্যারাগ্রাফের আশে পাশে কয়েক মাইল ফাঁকা রাখা&lt;/li&gt;
-&lt;/ul&gt;
+- রিপোর্ট টেমপ্লেট দেয়া আছে। সেটা নিজের মনের খুশিমতো ফলো না করা
+- রিপোর্ট জমা দেয়া হয়েছে, কিন্তু সেটায় Letter of Transmittal এ সিগনেচার (কষ্ট লাগলে টিপসই) না দেয়া (যেটার মানে আসলে রিপোর্ট জমা দেয়াই হয়নি!)
+- কভার পেজে পেজ নাম্বার দেয়া
+- বিভিন্ন পেজে বিভিন্ন রকমের রং বেরংয়ের ফরম্যাটিং ব্যবহার করা
+- কপি পেস্ট করতে গিয়ে বিভিন্ন পেজে নানা ফন্টের লেখা হয়ে যাওয়া
+- কপি পেস্ট করতে গিয়ে ফুটনোটের &lt;sub&gt;1&lt;/sub&gt; দেয়া, যেটা আসলে নাই
+- কোন কারণে লিংক বা ইমেইল এ্যাড্রেস দেয়া আছে, সেটার রং আর নিচের আন্ডারলাইন না ফেলা
+- রিপোর্টের পেজ সংখ্যা বাড়াতে গিয়ে প্রতি হেডিং আর প্যারাগ্রাফের আশে পাশে কয়েক মাইল ফাঁকা রাখা
 
-&lt;p&gt;&lt;strong&gt;বাঁচতে হলে&lt;/strong&gt;&lt;/p&gt;
+**বাঁচতে হলে**
 
-&lt;p&gt;মাথা খাটাও।&lt;/p&gt;
+মাথা খাটাও।
 
-&lt;h2 id=&quot;৩---শর্টকাট&quot;&gt;৩ - শর্টকাট&lt;/h2&gt;
-&lt;p&gt;“It’s”, “wanna”, “&amp;amp;”, “I’ll” এমন শর্টকাট শব্দ নিষিদ্ধ ফরমাল রিপোর্টে। আর কোন কথা নাই।&lt;/p&gt;
+## ৩ - শর্টকাট
+&quot;It's&quot;, &quot;wanna&quot;, &quot;&amp;&quot;, &quot;I'll&quot; এমন শর্টকাট শব্দ নিষিদ্ধ ফরমাল রিপোর্টে। আর কোন কথা নাই।
 
-&lt;h2 id=&quot;৪---অনাথ-টেবিল-এবং-ছবি&quot;&gt;৪ - অনাথ টেবিল এবং ছবি&lt;/h2&gt;
-&lt;p&gt;রিপোর্টে আমরা ছবি এবং টেবিল দিতে বেশ পছন্দ করি। দৃষ্টিনন্দন হয়, ভিজুয়ালিজেশন করা যায়। কিন্তু রিপোর্টে এসব দেবার কিছু নিয়ম আছে। ছবি দিলে সেই ছবির একটা আইডেন্টিফাইং নাম্বার, একটা ক্যাপশন থাকা লাগবে। সেটার কথা রিপোর্টে কোথাও না কোথাও বলা রেফারেন্স করা লাগবে। তা নাহলে সেই ছবি বা টেবিল অনাথ, মূ্ল্যহীন এবং দৃষ্টিকটু! এই যেমন এই লেখায় একদম উপরে একটা ছবি আছে, সেটার রেফারেন্স (ছবি ১) এবং ক্যাপশন ও আছে, আবার লেখায় সেটা উল্লেখ করাও হয়েছে রেফারেন্স ধরে!&lt;/p&gt;
+## ৪ - অনাথ টেবিল এবং ছবি
+রিপোর্টে আমরা ছবি এবং টেবিল দিতে বেশ পছন্দ করি। দৃষ্টিনন্দন হয়, ভিজুয়ালিজেশন করা যায়। কিন্তু রিপোর্টে এসব দেবার কিছু নিয়ম আছে। ছবি দিলে সেই ছবির একটা আইডেন্টিফাইং নাম্বার, একটা ক্যাপশন থাকা লাগবে। সেটার কথা রিপোর্টে কোথাও না কোথাও বলা রেফারেন্স করা লাগবে। তা নাহলে সেই ছবি বা টেবিল অনাথ, মূ্ল্যহীন এবং দৃষ্টিকটু! এই যেমন এই লেখায় একদম উপরে একটা ছবি আছে, সেটার রেফারেন্স (ছবি ১) এবং ক্যাপশন ও আছে, আবার লেখায় সেটা উল্লেখ করাও হয়েছে রেফারেন্স ধরে!
 
-&lt;h2 id=&quot;৫---ভুলভাল-শব্দ-ব্যবহার&quot;&gt;৫ - ভুলভাল শব্দ ব্যবহার&lt;/h2&gt;
-&lt;p&gt;এখনো কেউ শক্ত শক্ত দাঁত ভাঙ্গা শব্দ ব্যবহারের জন্য নাম্বার দেয় বা দিয়েছে বলে শুনি নাই। অবশ্য নাম্বার কাটাও হয় না। কিন্তু কাটা হয় যদি ভুল যায়গায় ভুল শব্দ ব্যবহার করা হয়, তখন। উপরের ছবি ১ দ্রষ্টব্য :)&lt;/p&gt;
+## ৫ - ভুলভাল শব্দ ব্যবহার
+এখনো কেউ শক্ত শক্ত দাঁত ভাঙ্গা শব্দ ব্যবহারের জন্য নাম্বার দেয় বা দিয়েছে বলে শুনি নাই। অবশ্য নাম্বার কাটাও হয় না। কিন্তু কাটা হয় যদি ভুল যায়গায় ভুল শব্দ ব্যবহার করা হয়, তখন। উপরের ছবি ১ দ্রষ্টব্য :)
 
-&lt;p&gt;&lt;strong&gt;বাঁচতে হলে&lt;/strong&gt;&lt;/p&gt;
+**বাঁচতে হলে**
 
-&lt;p&gt;যেই শব্দের মানে সঠিক জানো না, সেইটা ব্যবহার করো না!&lt;/p&gt;
+যেই শব্দের মানে সঠিক জানো না, সেইটা ব্যবহার করো না!
 
-&lt;p&gt;এগুলোই একমাত্র না, আরো আছে, সামনে আরো লিখবো ধীরে ধীরে এসব নিয়ে আশা করি। সেটা হয়তো কারো কাজে লেগে যেতেও পারে। লাগলে জানতে চাই!&lt;/p&gt;
+এগুলোই একমাত্র না, আরো আছে, সামনে আরো লিখবো ধীরে ধীরে এসব নিয়ে আশা করি। সেটা হয়তো কারো কাজে লেগে যেতেও পারে। লাগলে জানতে চাই!
 
-&lt;p&gt;আর আমার সহকর্মীদের এমন আর কি কি দেখলে মাথার চুল ছিড়তে ইচ্ছা করে, বা শিক্ষার্থীদের রিপোর্ট দেখানো নিয়ে কি অভিজ্ঞতা হয়েছে, তা জানতে চাই। আশা করি কমেন্ট, সেটা সাইটে বা ফেসবুকে যেখানেই হোক, পাবো।  :)&lt;/p&gt;</content><author><name>Amit Seal Ami</name></author><category term="বাংলা" /><category term="রিপোর্ট" /><category term="ভার্সিটি" /><category term="ছাত্র" /><category term="টিপস" /><category term="Bangla" /><category term="Varsity" /><category term="Tips" /><category term="বিশ্ববিদ্যালয়" /><summary type="html">খোলাসা করেই বলি। শিক্ষার্থীরা যখন রিপোর্ট দেয় - তখন কিছু রিপোর্ট আছে যেগুলো দেখে মনে হয় বাধাই করে রাখি, কিছু মনে হয় হাল্কের মতো করে কুচি কুচি করে ছিড়ি। নিদেন পক্ষে লাল কালির কলম দিয়ে রক্তাক্ত করি। ছবি ১: আমার কিছু প্রিয় ‘কাল্পনিক’ বাণী তার সাথে নিজের মাথার চুল ছেঁড়ার ইচ্ছা তো আছেই। সেটা না করতে, আমার সহকর্মী শিক্ষকদের মাথার চুলের স্বার্থে এবং তোমাদের নাম্বার যেন দিতে পারি - সেই জন্যেই এই লেখা।</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://c6.staticflickr.com/8/7342/27259721973_bf7ca44ab2_b.jpg" /></entry><entry><title type="html">বিশ্ববিদ্যালয়ের শিক্ষক - শেখানোই যার একমাত্র কাজ না!</title><link href="https://lordamit.github.io/blog/2016/06/14/varsity-teacher/" rel="alternate" type="text/html" title="বিশ্ববিদ্যালয়ের শিক্ষক - শেখানোই যার একমাত্র কাজ না!" /><published>2016-06-14T07:38:00+06:00</published><updated>2016-06-20T10:46:00+06:00</updated><id>https://lordamit.github.io/blog/2016/06/14/varsity-teacher</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/06/14/varsity-teacher/">&lt;p&gt;মাঝে মাঝেই শুনি, আমি নাকি ভার্সিটির টিচার। আমি সবসময়েই দ্বিমত পোষন করে বলি, না, আমি ভার্সিটির ফ্যাকাল্টি মেম্বার। যদিও আমার কাজের একটা অংশ টিচিং বা শিক্ষকতা, তার পরেও আমি সবসময়েই এই ছোট্ট দ্বিমতটা করি। কেন, সেটা একটু খোলাসা করা দরকার। সাথে দরকার এক চিমটি ইতিহাস।&lt;/p&gt;
+আর আমার সহকর্মীদের এমন আর কি কি দেখলে মাথার চুল ছিড়তে ইচ্ছা করে, বা শিক্ষার্থীদের রিপোর্ট দেখানো নিয়ে কি অভিজ্ঞতা হয়েছে, তা জানতে চাই। আশা করি কমেন্ট, সেটা সাইটে বা ফেসবুকে যেখানেই হোক, পাবো।  :)</content><author><name>Amit Seal Ami</name></author><category term="বাংলা" /><category term="রিপোর্ট" /><category term="ভার্সিটি" /><category term="ছাত্র" /><category term="টিপস" /><category term="Bangla" /><category term="Varsity" /><category term="Tips" /><category term="বিশ্ববিদ্যালয়" /><summary type="html">খোলাসা করেই বলি। শিক্ষার্থীরা যখন রিপোর্ট দেয় - তখন কিছু রিপোর্ট আছে যেগুলো দেখে মনে হয় বাধাই করে রাখি, কিছু মনে হয় হাল্কের মতো করে কুচি কুচি করে ছিড়ি। নিদেন পক্ষে লাল কালির কলম দিয়ে রক্তাক্ত করি। ছবি ১: আমার কিছু প্রিয় ‘কাল্পনিক’ বাণী তার সাথে নিজের মাথার চুল ছেঁড়ার ইচ্ছা তো আছেই। সেটা না করতে, আমার সহকর্মী শিক্ষকদের মাথার চুলের স্বার্থে এবং তোমাদের নাম্বার যেন দিতে পারি - সেই জন্যেই এই লেখা।</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://c6.staticflickr.com/8/7342/27259721973_bf7ca44ab2_b.jpg" /></entry><entry><title type="html">বিশ্ববিদ্যালয়ের শিক্ষক - শেখানোই যার একমাত্র কাজ না!</title><link href="https://lordamit.github.io/blog/2016/06/14/varsity-teacher/" rel="alternate" type="text/html" title="বিশ্ববিদ্যালয়ের শিক্ষক - শেখানোই যার একমাত্র কাজ না!" /><published>2016-06-14T07:38:00+06:00</published><updated>2016-06-20T10:46:00+06:00</updated><id>https://lordamit.github.io/blog/2016/06/14/varsity-teacher</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/06/14/varsity-teacher/">মাঝে মাঝেই শুনি, আমি নাকি ভার্সিটির টিচার। আমি সবসময়েই দ্বিমত পোষন করে বলি, না, আমি ভার্সিটির ফ্যাকাল্টি মেম্বার। যদিও আমার কাজের একটা অংশ টিচিং বা শিক্ষকতা, তার পরেও আমি সবসময়েই এই ছোট্ট দ্বিমতটা করি। কেন, সেটা একটু খোলাসা করা দরকার। সাথে দরকার এক চিমটি ইতিহাস।
 
-&lt;p&gt;যতদূর জানা যায়, আন্তর্জাতিক আবাসিক বিশ্ববিদ্যালয়ের ধারণা আসে প্রথম প্রাচীন ভারতবর্ষ (মানে বর্তমান বাংলাদেশ আর পাকিস্তানও এর আওতায় পরে) এর বৌদ্ধ বিহারগুলো থেকে। বাংলাদেশেও ছিলো সোমপুর মহাবিহার।&lt;/p&gt;
+যতদূর জানা যায়, আন্তর্জাতিক আবাসিক বিশ্ববিদ্যালয়ের ধারণা আসে প্রথম প্রাচীন ভারতবর্ষ (মানে বর্তমান বাংলাদেশ আর পাকিস্তানও এর আওতায় পরে) এর বৌদ্ধ বিহারগুলো থেকে। বাংলাদেশেও ছিলো সোমপুর মহাবিহার।
 
-&lt;figure&gt;
-&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/8/7320/27690892112_fd7364c86b.jpg&quot; alt=&quot;সোমপুর বিহার এর ছবি&quot; /&gt;&lt;/p&gt;
-  &lt;figcaption&gt;ছবি: সোমপুর বিহার&lt;/figcaption&gt;
-&lt;/figure&gt;
+{% figure caption:&quot;ছবি: সোমপুর বিহার&quot; %}
+![সোমপুর বিহার এর ছবি](https://c1.staticflickr.com/8/7320/27690892112_fd7364c86b.jpg)
+{% endfigure %}
 &lt;!-- more --&gt;
-&lt;p&gt;বৌদ্ধ বিহার হলেও সেখানে সংস্কৃত ব্যাকরণ, যুক্তিবিদ্যা, যো‌গব্যায়াম, বেদ, চিকিৎসা বিষয়ে পড়াশুনা হতো। চীন, পার্সিয়া, তিব্বত, জাপান থেকেও পড়াশুনা করতে আসতো পড়াশুনা করতে। জুয়ানজ্যাং নামের এক চিনা পর্যটক এর বর্ণনা অনুসারে, ১০০ শহরের আয়কর থেকে শুধু নালন্দা বিহারের খরচ সামলানো হতো।&lt;/p&gt;
+বৌদ্ধ বিহার হলেও সেখানে সংস্কৃত ব্যাকরণ, যুক্তিবিদ্যা, যো‌গব্যায়াম, বেদ, চিকিৎসা বিষয়ে পড়াশুনা হতো। চীন, পার্সিয়া, তিব্বত, জাপান থেকেও পড়াশুনা করতে আসতো পড়াশুনা করতে। জুয়ানজ্যাং নামের এক চিনা পর্যটক এর বর্ণনা অনুসারে, ১০০ শহরের আয়কর থেকে শুধু নালন্দা বিহারের খরচ সামলানো হতো।
 
-&lt;p&gt;বিহারে তারা সিদ্ধান্ত নিতো কিভাবে? Yijing নামের আরেক চিনা পর্যটকের ভাষায়, উইকিপিডিয়া অবলম্বনে:&lt;/p&gt;
+বিহারে তারা সিদ্ধান্ত নিতো কিভাবে? Yijing নামের আরেক চিনা পর্যটকের ভাষায়, উইকিপিডিয়া অবলম্বনে:
 
-&lt;blockquote&gt;
-  &lt;p&gt;If the monks had some business, they would assemble to discuss the matter. Then they ordered the officer, Vihārpāl, to circulate and report the matter to the resident monks one by one with folded hands. With the objection of a single monk, it would not pass. There was no use of beating or thumping to announce his case. In case a monk did something without consent of all the residents, he would be forced to leave the monastery. If there was a difference of opinion on a certain issue, they would give reason to convince (the other group). No force or coercion was used to convince.&lt;/p&gt;
-&lt;/blockquote&gt;
+&gt;If the monks had some business, they would assemble to discuss the matter. Then they ordered the officer, Vihārpāl, to circulate and report the matter to the resident monks one by one with folded hands. With the objection of a single monk, it would not pass. There was no use of beating or thumping to announce his case. In case a monk did something without consent of all the residents, he would be forced to leave the monastery. If there was a difference of opinion on a certain issue, they would give reason to convince (the other group). No force or coercion was used to convince.
 
-&lt;p&gt;তা যাই হোক, ইতিহাস পড়লে বুঝা যায় বিশ্ববিদ্যালয়ে আবাসিক ছাত্ররা শুধুমাত্র পড়াশুনা করতো না ক্লাসে বসে, তারা জীবন সম্পর্কেও শিখতো তাদের গুরুদের কাছ থেকে। এই ধারণাটাই ধীরে ধীরে ছড়িয়ে পড়ে বাকি যায়গায়। আগে বলা হতো গুরুরা বিশ্ববিদ্যালয়ের সদস্য, এখনো তাই বুঝা হয়, যখন ফ্যাকাল্টি মেম্বার বলি আমরা।&lt;/p&gt;
+তা যাই হোক, ইতিহাস পড়লে বুঝা যায় বিশ্ববিদ্যালয়ে আবাসিক ছাত্ররা শুধুমাত্র পড়াশুনা করতো না ক্লাসে বসে, তারা জীবন সম্পর্কেও শিখতো তাদের গুরুদের কাছ থেকে। এই ধারণাটাই ধীরে ধীরে ছড়িয়ে পড়ে বাকি যায়গায়। আগে বলা হতো গুরুরা বিশ্ববিদ্যালয়ের সদস্য, এখনো তাই বুঝা হয়, যখন ফ্যাকাল্টি মেম্বার বলি আমরা।
 
-&lt;p&gt;আমার মতে, বিশ্ববিদ্যালয়ের শিক্ষকের গুরুদায়িত্ব দুটো:&lt;/p&gt;
+আমার মতে, বিশ্ববিদ্যালয়ের শিক্ষকের গুরুদায়িত্ব দুটো:
 
-&lt;ul&gt;
-  &lt;li&gt;গাইড হিসাবে কাজ করা, সেটা খালি পড়াশুনা না - জীবনের ক্ষেত্রেও&lt;/li&gt;
-  &lt;li&gt;বর্তমান জ্ঞানের ভান্ডারে &lt;em&gt;মৌলিক জ্ঞান&lt;/em&gt; যোগ করা&lt;/li&gt;
-&lt;/ul&gt;
+- গাইড হিসাবে কাজ করা, সেটা খালি পড়াশুনা না - জীবনের ক্ষেত্রেও
+- বর্তমান জ্ঞানের ভান্ডারে *মৌলিক জ্ঞান* যোগ করা
 
-&lt;p&gt;এই জ্ঞানের ভান্ডারে কিছু যোগ করা, যেটাকে ইংরেজিতে আমরা বলি &lt;em&gt;Contributing to the Body of Knowledge&lt;/em&gt;, এটার কারণেই মানব সভ্যতা এগিয়ে যায়। এমন না যে অন্য কোন পেশার মানুষ এটা করতে পারবেন না। তবে বিশ্ববিদ্যালয়ে যারা আছেন, তাদের জন্য এটা মূল দায়িত্ব। সেটার স্বীকৃতি দেয়ার কথা PhD বা Doctor of Philosophy থেকে। একজন Doctor of Philosophy ডিগ্রী পেয়েছেন তার অর্থ হলো তিনি কোন কিছুর ব্যাপারে তার দর্শন বা যুক্তি সবাইকে জানানোর অধিকার অর্জন করেছেন। দুঃখজনক ভাবে এখন অনেকেই অনেক কম পরিশ্রমে বিভিন্ন যায়গা থেকে PhD পেয়ে যাচ্ছেন। কাজেই খালি কেউ  PhD করলেই হয় না, কোথায় করেছেন সেটাও দেখা হয়।&lt;/p&gt;
+এই জ্ঞানের ভান্ডারে কিছু যোগ করা, যেটাকে ইংরেজিতে আমরা বলি *Contributing to the Body of Knowledge*, এটার কারণেই মানব সভ্যতা এগিয়ে যায়। এমন না যে অন্য কোন পেশার মানুষ এটা করতে পারবেন না। তবে বিশ্ববিদ্যালয়ে যারা আছেন, তাদের জন্য এটা মূল দায়িত্ব। সেটার স্বীকৃতি দেয়ার কথা PhD বা Doctor of Philosophy থেকে। একজন Doctor of Philosophy ডিগ্রী পেয়েছেন তার অর্থ হলো তিনি কোন কিছুর ব্যাপারে তার দর্শন বা যুক্তি সবাইকে জানানোর অধিকার অর্জন করেছেন। দুঃখজনক ভাবে এখন অনেকেই অনেক কম পরিশ্রমে বিভিন্ন যায়গা থেকে PhD পেয়ে যাচ্ছেন। কাজেই খালি কেউ  PhD করলেই হয় না, কোথায় করেছেন সেটাও দেখা হয়।
 
-&lt;p&gt;যাই হোক, এ জন্য খুব হাসি পায় যখন দেখি বা শুনি, কেউ একজন অনেক ভালো রেজাল্ট করেছে বলে বিশ্ববিদ্যালয়ের শিক্ষক হতে পারবে বলে চিন্তা করে। বিশ্ববিদ্যালয়ের শিক্ষক হবার আশায় মুখস্ত করে ভালো রেজাল্ট করার চেষ্টা করে। ভালো রেজাল্ট একটা ছোট্ট অংশ মাত্র বিশ্ববিদ্যালয়ের সদস্য হবার। সেই ভালো রেজাল্টটা আসার কথা ঐ বিষয়টাকে ভালোবেসে পড়াশুনার কারণে। বিশ্বদ্যালয়ের সদস্য হতে হলে উপরের দায়িত্ব গুলো সম্পর্কে জানা লাগে। আফসোসটা এখানেই। আমাদের বিশ্ববিদ্যালয়গুলো যতটা না এসব দায়িত্ব পালনে আ্গ্রহী, তার চাইতে বেশি আগ্রহী ডিগ্রিধারী কর্মী বানাতে।&lt;/p&gt;
+যাই হোক, এ জন্য খুব হাসি পায় যখন দেখি বা শুনি, কেউ একজন অনেক ভালো রেজাল্ট করেছে বলে বিশ্ববিদ্যালয়ের শিক্ষক হতে পারবে বলে চিন্তা করে। বিশ্ববিদ্যালয়ের শিক্ষক হবার আশায় মুখস্ত করে ভালো রেজাল্ট করার চেষ্টা করে। ভালো রেজাল্ট একটা ছোট্ট অংশ মাত্র বিশ্ববিদ্যালয়ের সদস্য হবার। সেই ভালো রেজাল্টটা আসার কথা ঐ বিষয়টাকে ভালোবেসে পড়াশুনার কারণে। বিশ্বদ্যালয়ের সদস্য হতে হলে উপরের দায়িত্ব গুলো সম্পর্কে জানা লাগে। আফসোসটা এখানেই। আমাদের বিশ্ববিদ্যালয়গুলো যতটা না এসব দায়িত্ব পালনে আ্গ্রহী, তার চাইতে বেশি আগ্রহী ডিগ্রিধারী কর্মী বানাতে।
 
-&lt;p&gt;যাই হোক, আমি নিজে বিশ্ববিদ্যালয়ের শিক্ষক হলেও, এখনও নিজেকে সে পর্যায়ের মনে করি না। তবে সে পথের দিকেই এগিয়ে যাচ্ছি বলে বিশ্বাস করি। অন্ততঃ চেষ্টা তো করছি!&lt;/p&gt;
+যাই হোক, আমি নিজে বিশ্ববিদ্যালয়ের শিক্ষক হলেও, এখনও নিজেকে সে পর্যায়ের মনে করি না। তবে সে পথের দিকেই এগিয়ে যাচ্ছি বলে বিশ্বাস করি। অন্ততঃ চেষ্টা তো করছি!
 
-&lt;p&gt;ভালো বিশ্ববিদ্যালয় থেকে PhD করার আগে নিজেকে বর্তমান অবস্থানের যোগ্য বলে মনে করতে পারবো বলে মনেও হয় না …&lt;/p&gt;</content><author><name>Amit Seal Ami</name></author><category term="বাংলা" /><category term="বিশ্ববিদ্যালয়" /><category term="Bangla" /><category term="University" /><category term="Varsity" /><category term="Teacher" /><category term="Faculty" /><summary type="html">মাঝে মাঝেই শুনি, আমি নাকি ভার্সিটির টিচার। আমি সবসময়েই দ্বিমত পোষন করে বলি, না, আমি ভার্সিটির ফ্যাকাল্টি মেম্বার। যদিও আমার কাজের একটা অংশ টিচিং বা শিক্ষকতা, তার পরেও আমি সবসময়েই এই ছোট্ট দ্বিমতটা করি। কেন, সেটা একটু খোলাসা করা দরকার। সাথে দরকার এক চিমটি ইতিহাস। যতদূর জানা যায়, আন্তর্জাতিক আবাসিক বিশ্ববিদ্যালয়ের ধারণা আসে প্রথম প্রাচীন ভারতবর্ষ (মানে বর্তমান বাংলাদেশ আর পাকিস্তানও এর আওতায় পরে) এর বৌদ্ধ বিহারগুলো থেকে। বাংলাদেশেও ছিলো সোমপুর মহাবিহার। ছবি: সোমপুর বিহার</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://c1.staticflickr.com/8/7320/27690892112_fd7364c86b.jpg" /></entry></feed>
+ভালো বিশ্ববিদ্যালয় থেকে PhD করার আগে নিজেকে বর্তমান অবস্থানের যোগ্য বলে মনে করতে পারবো বলে মনেও হয় না ...</content><author><name>Amit Seal Ami</name></author><category term="বাংলা" /><category term="বিশ্ববিদ্যালয়" /><category term="Bangla" /><category term="University" /><category term="Varsity" /><category term="Teacher" /><category term="Faculty" /><summary type="html">মাঝে মাঝেই শুনি, আমি নাকি ভার্সিটির টিচার। আমি সবসময়েই দ্বিমত পোষন করে বলি, না, আমি ভার্সিটির ফ্যাকাল্টি মেম্বার। যদিও আমার কাজের একটা অংশ টিচিং বা শিক্ষকতা, তার পরেও আমি সবসময়েই এই ছোট্ট দ্বিমতটা করি। কেন, সেটা একটু খোলাসা করা দরকার। সাথে দরকার এক চিমটি ইতিহাস। যতদূর জানা যায়, আন্তর্জাতিক আবাসিক বিশ্ববিদ্যালয়ের ধারণা আসে প্রথম প্রাচীন ভারতবর্ষ (মানে বর্তমান বাংলাদেশ আর পাকিস্তানও এর আওতায় পরে) এর বৌদ্ধ বিহারগুলো থেকে। বাংলাদেশেও ছিলো সোমপুর মহাবিহার। ছবি: সোমপুর বিহার</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://c1.staticflickr.com/8/7320/27690892112_fd7364c86b.jpg" /></entry><entry><title type="html">বাস্তব কল্পকাহিনী - সুপার সোলজার</title><link href="https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/" rel="alternate" type="text/html" title="বাস্তব কল্পকাহিনী - সুপার সোলজার" /><published>2016-06-05T09:22:00+06:00</published><updated>2016-06-08T09:11:00+06:00</updated><id>https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/">বার বার তিনবার।
+
+এই নিয়ে ৩য়বারের মতো আক্রমণে আমরা ছত্রভঙ্গ হয়ে গেলাম। কি হচ্ছে, কিভাবে হচ্ছে কিচ্ছু বুঝছি না। সকাল বিকাল রাতে নিয়মিতভাবে নতুন সৈন্য কই থেকে যেন উদয় হচ্ছে। নতুন প্রযুক্তি, নতুন চেহারা - না এদের ব্যাপারে আমাদের নেটওয়ার্কে কোন ডাটা আছে, না আছে কোন সূত্র।
+
+অথচ ... অথচ ... শুরুটা স্বপ্নের মতো হয়েছিল।
+&lt;!-- more --&gt;
+
+আমরা যখন আক্রমন শুরু করেছিলাম, এখানের স্থানীয় সৈন্যরা প্রতিরোধ গড়েও তুলতে পারেনি। বিশ্বে আমরাই সেরা প্রতিপক্ষের ব্যাপারে শিখে নিয়ে তাদের আক্রমণ করতে। এখানেও তাই হয়েছে। আগে আমরা দিনের পর দিন তথ্য সংগ্রহ করেছি, ধীরে ধীরে সৈন্য ঢুকিয়েছি। ওদের সকল প্রযুক্তি, সকল অস্ত্রের কাউন্টার আমাদের হাতে তৈরী তো ছিলোই! তারপরে যখন আক্রমণ শেষ পর্যন্ত শুরু করলাম, প্রতিরোধ গড়ে তোলার আগেই ওরা নিকেশ হয়ে গেল।
+
+কিন্তু এখন?
+
+কিভাবে যেন, কই থেকে যেন নতুন নতুন অস্ত্র শস্ত্র নিয়ে আমাদের আক্রমণ করা হচ্ছে। না এসব কখনো দেখেছি, না কখনো শুনেছি আমাদের লাখ খানেক বছর বয়সী সভ্যতার কোন নেটওয়ার্কে। কোন মতে, কোন ভাবে যদি এই সৈন্য আসা থামে, যদি আমাদের থেকে এক পার্সেন্ট হলেও এখানে থেকে জ্যন্ত বার হতে পারে - তাহলেই এদের ব্যাপারে সব তথ্য আমাদের সবার মাঝে ছড়িয়ে পড়বে। এসব নতুন সৈন্য, নতুন অস্ত্রও আমাদের আর কিছু করতে পারবে না। প্রার্থনা করা ছাড়া আর কিচ্ছু করার নেই আমার আর। আক্রমণ কি আমাদের উপরে আদৌ থামবে?
+
+ওকি ... অস্পষ্ট কি যেন এক দামামার মতো শব্দ ভেসে আসছে। কি যেন শোনা যাচ্ছে আশেপাশের দেয়াল ভেদ করে। আবারো সৈন্য আসার সময় হলো নাকি? কি শোনা যায় এসব?
+
+&gt; রুহান বাবা, এন্টিবায়োটিকটা খেয়ে নে! সময় হয়ে গেছে। পুরো কোর্স শেষ না করলে তোর শরীরের ভাইরাসগুলো এই এন্টিবায়োটিকের প্রতিও প্রতিরোধ ক্ষমতা গড়ে তুলবে। তখন আর ওষুধে কাজ করবে না। ওষুধ খাওয়া লাগবেই!
+
+ওহ - এই তাহলে ব্যাপার। এন্টিবায়োটিক সৈন্য আসছে। তাদের আক্রমণেই আমাদের এই অবস্থা। কি করা যায় ... কি করা যায় ... আচ্ছা, যদি আমরা সবাই আক্রমণ থামিয়ে দেই? যদি রুহান ভাবে, আমরা সবাই শেষ হয়ে গেছি - তখন কি ওষুধ খাওয়া থামাবে?
+
+এই একটাই ভরসা আছে আমাদের। সব সৈন্যদের কমান্ড দিলাম - স্লিপারসেলে যেতে। আক্রমণ পুরোপুরি থামিয়ে আমাদের আবারো শিখতে হবে, জানতে হবে এই নতুন এন্টিবায়োটিক সৈন্যের ব্যাপারে। যদি কোনভাবে, কোনভাবে রুহান এন্টিবায়োটিক খাওয়া থামায় - তাহলেই আমরা বেঁচে যেতে পারি। আর কিচ্ছু করার নাই।
+
+আবারো শোনা যাচ্ছে কি যেন ... কি শোনা যায় এসব?
+
+&gt; থামেন তো মা। বলছি আমার জ্বর থেমে গেছে। আর শরীর খারাপ লাগছে না। ওষুধ খাওয়া লাগবে না। আমি আমাত্তে বেশি বোজেন?
+
+কর্কশ, শুকনো হাসি নিয়ে শুয়ে পড়লাম আমি স্লিপারে। মনে হচ্ছে এই নতুন সৈন্যদের থেকেও আমরা হয়তো বেঁচে যাবো। এদের সবকিছু আমরা জেনে নিবো যখন - তখন এই মানুষরা, এই সৈন্যরা আর কিচ্ছু করতে পারবে না আমাদের।
+
+থামানোর মতো কেউ থাকবে না। কেউ না।</content><author><name>Amit Seal Ami</name></author><category term="বাংলা" /><category term="কল্পকাহিনী" /><category term="ওষুধ" /><category term="বিজ্ঞান" /><summary type="html">বার বার তিনবার। এই নিয়ে ৩য়বারের মতো আক্রমণে আমরা ছত্রভঙ্গ হয়ে গেলাম। কি হচ্ছে, কিভাবে হচ্ছে কিচ্ছু বুঝছি না। সকাল বিকাল রাতে নিয়মিতভাবে নতুন সৈন্য কই থেকে যেন উদয় হচ্ছে। নতুন প্রযুক্তি, নতুন চেহারা - না এদের ব্যাপারে আমাদের নেটওয়ার্কে কোন ডাটা আছে, না আছে কোন সূত্র। অথচ … অথচ … শুরুটা স্বপ্নের মতো হয়েছিল।</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lordamit.github.io/images/sitelogo.png" /></entry></feed>
