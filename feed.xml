@@ -1,4 +1,181 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://lordamit.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lordamit.github.io/" rel="alternate" type="text/html" /><updated>2019-11-24T04:03:38+06:00</updated><id>https://lordamit.github.io/feed.xml</id><title type="html">Amit Seal Ami</title><subtitle>Random blogs from Amit</subtitle><author><name>Amit Seal Ami</name></author><entry xml:lang="bn"><title type="html">Higher Studies in USA</title><link href="https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa/" rel="alternate" type="text/html" title="Higher Studies in USA" /><published>2018-04-23T00:00:00+06:00</published><updated>2018-04-23T00:00:00+06:00</updated><id>https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa</id><content type="html" xml:base="https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa/">&lt;p&gt;USA তে পড়াশোনা করার ইচ্ছা অনেকের আছে। কিন্তু পড়াশোনার ইচ্ছা থাকলেই তো হয় না; তার সাথে অনেক প্রস্তুতির ব্যাপার আছে। কি করবো, কি ভাবে করবো এটা বার করা লাগে; আবার কিছু বিষয় ধরা যায় না সহজে।&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://lordamit.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lordamit.github.io/" rel="alternate" type="text/html" /><updated>2019-12-20T11:00:48+06:00</updated><id>https://lordamit.github.io/feed.xml</id><title type="html">Amit Seal Ami</title><subtitle>Random blogs from Amit</subtitle><author><name>Amit Seal Ami</name></author><entry><title type="html">Temporary Post</title><link href="https://lordamit.github.io/blog/2019/11/01/temp/" rel="alternate" type="text/html" title="Temporary Post" /><published>2019-11-01T00:00:00+06:00</published><updated>2019-12-01T00:00:00+06:00</updated><id>https://lordamit.github.io/blog/2019/11/01/temp</id><content type="html" xml:base="https://lordamit.github.io/blog/2019/11/01/temp/">&lt;!-- excerpt --&gt;
+
+&lt;p&gt;ইহা একটি টেস্ট মার্কা লেখা - যাহায় যথেষ্ঠ পরিমাণে যুক্তাক্ষর ব্যবহৃত হয়েছে।&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h1 id=&quot;shell&quot;&gt;shell&lt;/h1&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt-get &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;glade&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-shell&quot; data-lang=&quot;shell&quot;&gt;&lt;span class=&quot;nv&quot;&gt;DPI&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;160 &lt;span class=&quot;nv&quot;&gt;UVESA_MODE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;1366x768
+&lt;span class=&quot;nv&quot;&gt;DPI&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;265 &lt;span class=&quot;nv&quot;&gt;UVESA_MODE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;2880x1800&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h1 id=&quot;normal&quot;&gt;normal&lt;/h1&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-xpath&quot; data-lang=&quot;xpath&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;w&quot;&gt;    &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;@online&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;Thornburg01&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;Harry&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;Thornburg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2001&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;Introduction&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;ow&quot;&gt;to&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;Bayesian&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;Statistics&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;http&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;://&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;ccrma.stanford.edu&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;~&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;jos&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;bayes&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;bayes.html&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;month&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;mar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;lastaccessed&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;March&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2005&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;json&quot;&gt;json&lt;/h2&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;code-runner.executorMap&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;javascript&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;node&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;php&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;C:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;php&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;php.exe&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;python&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;python&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;perl&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;perl&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;ruby&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;C:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Ruby23-x64&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;bin&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;ruby.exe&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;go&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;go run&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;html&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;C:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Program Files (x86)&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Google&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Chrome&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Application&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\\&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;chrome.exe&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;java&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;cd $dir &amp;amp;&amp;amp; javac $fileName &amp;amp;&amp;amp; java $fileNameWithoutExt&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;c&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;cd $dir &amp;amp;&amp;amp; gcc $fileName -o $fileNameWithoutExt &amp;amp;&amp;amp; $dir$fileNameWithoutExt&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;json-1&quot;&gt;json&lt;/h2&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;alloy&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;java -jar &amp;lt;pathToAlloyHere&amp;gt; $fullfilename&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;c-code-example&quot;&gt;C code example&lt;/h2&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;cp&quot;&gt;# C Code that includes a testGlade.glade file
+# for designing UI
+&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#include&amp;lt;gtk/gtk.h&amp;gt;
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;argc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]){&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;GtkBuilder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;GtkWidget&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;gtk_init&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;argv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gtk_builder_new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;gtk_builder_add_from_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;testGlade.glade&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;NULL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;window&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;GTK_WIDGET&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtk_builder_get_object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;mywindow&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;g_object_unref&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;G_OBJECT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gtkBuilder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;gtk_widget_show&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;gtk_main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;ui.help&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Ui_Form&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Help_Ui_Form&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;util.executor&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Executor&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;util.check_displays&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CDisplay&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;util.write_config&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;WriteConfig&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;util.read_config&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ReadConfig&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;MyApplication&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;QtGui&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;QMainWindow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;__assign_displays&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;&quot;&quot;&quot;assigns display name &quot;&quot;&quot;&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;displays&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CDisplay&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;detect_display_devices&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;no_of_displays&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;displays&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;no_of_connected_dev&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;no_of_displays&lt;/span&gt;
+
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;no_of_displays&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+
+            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;display1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;displays&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;elif&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;no_of_displays&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+
+            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;display1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;displays&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;display2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;displays&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;__init__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;parent&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;&quot;&quot;&quot;Initializes&quot;&quot;&quot;&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;QtGui&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;QMainWindow&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;__init__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;parent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ui&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Ui_MainWindow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ui&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setupUi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;display1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;display2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;temperature&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'Default'&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;no_of_connected_dev&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;__assign_displays&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setup_default_directory&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;generate_dynamic_items&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;default_config&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'/home/{}/.config/'&lt;/span&gt; \
+            &lt;span class=&quot;s&quot;&gt;'brightness_controller/settings'&lt;/span&gt;      \
+            &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getpass&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getuser&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;values&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;array_value&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.01&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;xrange&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;values&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;append&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;array_value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;array_value&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.01&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;connect_handlers&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setup_widgets&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;exists&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;default_config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;load_settings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;default_config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setup_tray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;parent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;setup_default_directory&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;s&quot;&gt;&quot;&quot;&quot; Create default settings directory if it doesnt exist &quot;&quot;&quot;&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;directory&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'/home/{}/.config/'&lt;/span&gt; \
+            &lt;span class=&quot;s&quot;&gt;'brightness_controller/'&lt;/span&gt;    \
+            &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getpass&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;getuser&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;exists&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;directory&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+                &lt;span class=&quot;n&quot;&gt;makedirs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;directory&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;error&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+                &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;_show_error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>Amit Seal Ami</name></author><summary type="html">ইহা একটি টেস্ট মার্কা লেখা - যাহায় যথেষ্ঠ পরিমাণে যুক্তাক্ষর ব্যবহৃত হয়েছে। Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lordamit.github.io/images/amit.png" /></entry><entry xml:lang="bn"><title type="html">Higher Studies in USA</title><link href="https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa/" rel="alternate" type="text/html" title="Higher Studies in USA" /><published>2018-04-23T00:00:00+06:00</published><updated>2018-04-23T00:00:00+06:00</updated><id>https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa</id><content type="html" xml:base="https://lordamit.github.io/blog/2018/04/23/higher-studies-in-usa/">&lt;p&gt;USA তে পড়াশোনা করার ইচ্ছা অনেকের আছে। কিন্তু পড়াশোনার ইচ্ছা থাকলেই তো হয় না; তার সাথে অনেক প্রস্তুতির ব্যাপার আছে। কি করবো, কি ভাবে করবো এটা বার করা লাগে; আবার কিছু বিষয় ধরা যায় না সহজে।&lt;/p&gt;
 
 &lt;p&gt;যেমন IELTS না TOEFL, SOP কি, SOP তে কি থাকে, IELTS/TOEFL এর কোনটায় কি সুবিধা বা অসুবিধা ইত্যাদি!&lt;/p&gt;
 
@@ -323,35 +500,4 @@ inkscape filename.svg &lt;span class=&quot;nt&quot;&gt;-M&lt;/span&gt; filename.
 
 &lt;p&gt;যাই হোক, আমি নিজে বিশ্ববিদ্যালয়ের শিক্ষক হলেও, এখনও নিজেকে সে পর্যায়ের মনে করি না। তবে সে পথের দিকেই এগিয়ে যাচ্ছি বলে বিশ্বাস করি। অন্ততঃ চেষ্টা তো করছি!&lt;/p&gt;
 
-&lt;p&gt;ভালো বিশ্ববিদ্যালয় থেকে PhD করার আগে নিজেকে বর্তমান অবস্থানের যোগ্য বলে মনে করতে পারবো বলে মনেও হয় না …&lt;/p&gt;</content><author><name>Amit Seal Ami</name></author><category term="বাংলা" /><category term="বিশ্ববিদ্যালয়" /><category term="Bangla" /><category term="University" /><category term="Varsity" /><category term="Teacher" /><category term="Faculty" /><summary type="html">মাঝে মাঝেই শুনি, আমি নাকি ভার্সিটির টিচার। আমি সবসময়েই দ্বিমত পোষন করে বলি, না, আমি ভার্সিটির ফ্যাকাল্টি মেম্বার। যদিও আমার কাজের একটা অংশ টিচিং বা শিক্ষকতা, তার পরেও আমি সবসময়েই এই ছোট্ট দ্বিমতটা করি। কেন, সেটা একটু খোলাসা করা দরকার। সাথে দরকার এক চিমটি ইতিহাস। যতদূর জানা যায়, আন্তর্জাতিক আবাসিক বিশ্ববিদ্যালয়ের ধারণা আসে প্রথম প্রাচীন ভারতবর্ষ (মানে বর্তমান বাংলাদেশ আর পাকিস্তানও এর আওতায় পরে) এর বৌদ্ধ বিহারগুলো থেকে। বাংলাদেশেও ছিলো সোমপুর মহাবিহার। ছবি: সোমপুর বিহার</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://c1.staticflickr.com/8/7320/27690892112_fd7364c86b.jpg" /></entry><entry><title type="html">বাস্তব কল্পকাহিনী - সুপার সোলজার</title><link href="https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/" rel="alternate" type="text/html" title="বাস্তব কল্পকাহিনী - সুপার সোলজার" /><published>2016-06-05T09:22:00+06:00</published><updated>2016-06-08T09:11:00+06:00</updated><id>https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram</id><content type="html" xml:base="https://lordamit.github.io/blog/2016/06/05/aram-korlei-beram/">&lt;p&gt;বার বার তিনবার।&lt;/p&gt;
-
-&lt;p&gt;এই নিয়ে ৩য়বারের মতো আক্রমণে আমরা ছত্রভঙ্গ হয়ে গেলাম। কি হচ্ছে, কিভাবে হচ্ছে কিচ্ছু বুঝছি না। সকাল বিকাল রাতে নিয়মিতভাবে নতুন সৈন্য কই থেকে যেন উদয় হচ্ছে। নতুন প্রযুক্তি, নতুন চেহারা - না এদের ব্যাপারে আমাদের নেটওয়ার্কে কোন ডাটা আছে, না আছে কোন সূত্র।&lt;/p&gt;
-
-&lt;p&gt;অথচ … অথচ … শুরুটা স্বপ্নের মতো হয়েছিল।
-&lt;!-- more --&gt;&lt;/p&gt;
-
-&lt;p&gt;আমরা যখন আক্রমন শুরু করেছিলাম, এখানের স্থানীয় সৈন্যরা প্রতিরোধ গড়েও তুলতে পারেনি। বিশ্বে আমরাই সেরা প্রতিপক্ষের ব্যাপারে শিখে নিয়ে তাদের আক্রমণ করতে। এখানেও তাই হয়েছে। আগে আমরা দিনের পর দিন তথ্য সংগ্রহ করেছি, ধীরে ধীরে সৈন্য ঢুকিয়েছি। ওদের সকল প্রযুক্তি, সকল অস্ত্রের কাউন্টার আমাদের হাতে তৈরী তো ছিলোই! তারপরে যখন আক্রমণ শেষ পর্যন্ত শুরু করলাম, প্রতিরোধ গড়ে তোলার আগেই ওরা নিকেশ হয়ে গেল।&lt;/p&gt;
-
-&lt;p&gt;কিন্তু এখন?&lt;/p&gt;
-
-&lt;p&gt;কিভাবে যেন, কই থেকে যেন নতুন নতুন অস্ত্র শস্ত্র নিয়ে আমাদের আক্রমণ করা হচ্ছে। না এসব কখনো দেখেছি, না কখনো শুনেছি আমাদের লাখ খানেক বছর বয়সী সভ্যতার কোন নেটওয়ার্কে। কোন মতে, কোন ভাবে যদি এই সৈন্য আসা থামে, যদি আমাদের থেকে এক পার্সেন্ট হলেও এখানে থেকে জ্যন্ত বার হতে পারে - তাহলেই এদের ব্যাপারে সব তথ্য আমাদের সবার মাঝে ছড়িয়ে পড়বে। এসব নতুন সৈন্য, নতুন অস্ত্রও আমাদের আর কিছু করতে পারবে না। প্রার্থনা করা ছাড়া আর কিচ্ছু করার নেই আমার আর। আক্রমণ কি আমাদের উপরে আদৌ থামবে?&lt;/p&gt;
-
-&lt;p&gt;ওকি … অস্পষ্ট কি যেন এক দামামার মতো শব্দ ভেসে আসছে। কি যেন শোনা যাচ্ছে আশেপাশের দেয়াল ভেদ করে। আবারো সৈন্য আসার সময় হলো নাকি? কি শোনা যায় এসব?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;রুহান বাবা, এন্টিবায়োটিকটা খেয়ে নে! সময় হয়ে গেছে। পুরো কোর্স শেষ না করলে তোর শরীরের ভাইরাসগুলো এই এন্টিবায়োটিকের প্রতিও প্রতিরোধ ক্ষমতা গড়ে তুলবে। তখন আর ওষুধে কাজ করবে না। ওষুধ খাওয়া লাগবেই!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;ওহ - এই তাহলে ব্যাপার। এন্টিবায়োটিক সৈন্য আসছে। তাদের আক্রমণেই আমাদের এই অবস্থা। কি করা যায় … কি করা যায় … আচ্ছা, যদি আমরা সবাই আক্রমণ থামিয়ে দেই? যদি রুহান ভাবে, আমরা সবাই শেষ হয়ে গেছি - তখন কি ওষুধ খাওয়া থামাবে?&lt;/p&gt;
-
-&lt;p&gt;এই একটাই ভরসা আছে আমাদের। সব সৈন্যদের কমান্ড দিলাম - স্লিপারসেলে যেতে। আক্রমণ পুরোপুরি থামিয়ে আমাদের আবারো শিখতে হবে, জানতে হবে এই নতুন এন্টিবায়োটিক সৈন্যের ব্যাপারে। যদি কোনভাবে, কোনভাবে রুহান এন্টিবায়োটিক খাওয়া থামায় - তাহলেই আমরা বেঁচে যেতে পারি। আর কিচ্ছু করার নাই।&lt;/p&gt;
-
-&lt;p&gt;আবারো শোনা যাচ্ছে কি যেন … কি শোনা যায় এসব?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;থামেন তো মা। বলছি আমার জ্বর থেমে গেছে। আর শরীর খারাপ লাগছে না। ওষুধ খাওয়া লাগবে না। আমি আমাত্তে বেশি বোজেন?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;কর্কশ, শুকনো হাসি নিয়ে শুয়ে পড়লাম আমি স্লিপারে। মনে হচ্ছে এই নতুন সৈন্যদের থেকেও আমরা হয়তো বেঁচে যাবো। এদের সবকিছু আমরা জেনে নিবো যখন - তখন এই মানুষরা, এই সৈন্যরা আর কিচ্ছু করতে পারবে না আমাদের।&lt;/p&gt;
-
-&lt;p&gt;থামানোর মতো কেউ থাকবে না। কেউ না।&lt;/p&gt;</content><author><name>Amit Seal Ami</name></author><category term="বাংলা" /><category term="কল্পকাহিনী" /><category term="ওষুধ" /><category term="বিজ্ঞান" /><summary type="html">বার বার তিনবার। এই নিয়ে ৩য়বারের মতো আক্রমণে আমরা ছত্রভঙ্গ হয়ে গেলাম। কি হচ্ছে, কিভাবে হচ্ছে কিচ্ছু বুঝছি না। সকাল বিকাল রাতে নিয়মিতভাবে নতুন সৈন্য কই থেকে যেন উদয় হচ্ছে। নতুন প্রযুক্তি, নতুন চেহারা - না এদের ব্যাপারে আমাদের নেটওয়ার্কে কোন ডাটা আছে, না আছে কোন সূত্র। অথচ … অথচ … শুরুটা স্বপ্নের মতো হয়েছিল।</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lordamit.github.io/images/sitelogo.png" /></entry></feed>
+&lt;p&gt;ভালো বিশ্ববিদ্যালয় থেকে PhD করার আগে নিজেকে বর্তমান অবস্থানের যোগ্য বলে মনে করতে পারবো বলে মনেও হয় না …&lt;/p&gt;</content><author><name>Amit Seal Ami</name></author><category term="বাংলা" /><category term="বিশ্ববিদ্যালয়" /><category term="Bangla" /><category term="University" /><category term="Varsity" /><category term="Teacher" /><category term="Faculty" /><summary type="html">মাঝে মাঝেই শুনি, আমি নাকি ভার্সিটির টিচার। আমি সবসময়েই দ্বিমত পোষন করে বলি, না, আমি ভার্সিটির ফ্যাকাল্টি মেম্বার। যদিও আমার কাজের একটা অংশ টিচিং বা শিক্ষকতা, তার পরেও আমি সবসময়েই এই ছোট্ট দ্বিমতটা করি। কেন, সেটা একটু খোলাসা করা দরকার। সাথে দরকার এক চিমটি ইতিহাস। যতদূর জানা যায়, আন্তর্জাতিক আবাসিক বিশ্ববিদ্যালয়ের ধারণা আসে প্রথম প্রাচীন ভারতবর্ষ (মানে বর্তমান বাংলাদেশ আর পাকিস্তানও এর আওতায় পরে) এর বৌদ্ধ বিহারগুলো থেকে। বাংলাদেশেও ছিলো সোমপুর মহাবিহার। ছবি: সোমপুর বিহার</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://c1.staticflickr.com/8/7320/27690892112_fd7364c86b.jpg" /></entry></feed>
